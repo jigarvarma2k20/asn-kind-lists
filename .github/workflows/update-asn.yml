@@ -1,0 +1,53 @@
+
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Jigarvarma2k20
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+name: Update ASN Lists
+
+on:
+  schedule:
+    - cron: "0 3 */3 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-asn-lists
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.25.x"
+          cache: false
+
+      - name: Build ASN kind lists tool
+        run: go build -o main main.go
+
+      - name: Fetch and classify ASNs
+        run: ./main
+
+      - name: Commit updated lists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (
+            git commit -m "Update ASN lists" &&
+            git push
+          )
