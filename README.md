@@ -1,60 +1,50 @@
 # ASN Kind Lists
 
-Downloads the full list of Autonomous System Numbers (ASNs), classifies each one
-as **hosting**, **residential**, or **unknown**, and commits the results as plain
-text lists under [`data/`](data).
+Downloads the full list of Autonomous System Numbers (ASNs), groups each one by
+its `category`, and commits the results as plain text lists under
+[`data/`](data).
 
 ## How it works
 
-1. Downloads the ASN list from
-   [`ipverse/as-metadata`](https://github.com/ipverse/as-metadata) (`as.csv`).
-2. For every ASN, queries the ipinfo ASN details API:
-   `https://asn.ipinfo.app/api/json/details/AS<ASN>`
-   and reads the `kind` and `name` fields.
-3. Writes one file per `kind` into `data/`, sorted by ASN.
-
-Requests run concurrently across 500 workers with automatic retries for
-transient HTTP errors (429/5xx) before the classification pass.
+1. Downloads the ASN metadata from
+   [`ipverse/as-metadata`](https://github.com/ipverse/as-metadata) (`as.json`).
+2. For every ASN, reads the `metadata.category` and `metadata.handle` fields.
+3. Writes one file per `category` into `data/`, sorted by ASN.
 
 ## Data files
 
+One file is written per `category`, named after the lowercased category. The
+current categories are:
+
 | File | Description |
 | --- | --- |
-| [`data/hosting.txt`](data/hosting.txt) | Datacenter / cloud provider ASNs (`kind` = `hosting`). |
-| [`data/residential.txt`](data/residential.txt) | ISP ASNs (`kind` = `residential`). |
-| [`data/unknown.txt`](data/unknown.txt) | ASNs whose `kind` is `null`/missing (mapped to `unknown`). |
-| [`data/failed.txt`](data/failed.txt) | ASNs that could not be classified (see below). |
+| [`data/hosting.txt`](data/hosting.txt) | Datacenter / cloud providers. |
+| [`data/isp.txt`](data/isp.txt) | Internet service providers. |
+| [`data/business.txt`](data/business.txt) | Business / enterprise networks. |
+| [`data/education_research.txt`](data/education_research.txt) | Education and research networks. |
+| [`data/government_admin.txt`](data/government_admin.txt) | Government and administrative networks. |
+| [`data/unknown.txt`](data/unknown.txt) | ASNs with no `category`. |
 
 ### Line format
 
 Each entry is:
 
 ```
-<ASN> # <name>
+<ASN> # <handle>
 ```
 
 Example:
 
 ```
-249 # PACKETSTAR European Network
+1 # LVLT-1
 ```
 
-### Classification rules
+If `handle` is empty, the `description` is used instead.
 
-- `kind` = `hosting` → `hosting.txt` (datacenter / cloud providers)
-- `kind` = `residential` → `residential.txt` (ISPs)
-- `kind` = `null` → `unknown.txt`
-- any other value → failed
+### Category mapping
 
-## Failures and retries
-
-- **HTTP 404** — the ASN does not exist in the API. Not retried; written to
-  `failed.txt`.
-- **Non-JSON / unparsable response** — queued for a retry. After the first pass,
-  all queued ASNs are retried once.
-- **Still unparsable after the retry** — written to `failed.txt`.
-
-`data/failed.txt` contains a single ASN per line.
+- `category` present → `data/<category>.txt`
+- `category` empty → `data/unknown.txt`
 
 ## Running locally
 
@@ -78,7 +68,6 @@ and commits the lists:
 ## Credits
 
 - ASN source list: [`ipverse/as-metadata`](https://github.com/ipverse/as-metadata).
-- Classification data: [ipinfo](https://asn.ipinfo.app) ASN details API.
 
 ## License
 

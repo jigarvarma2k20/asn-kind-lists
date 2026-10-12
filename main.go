@@ -10,127 +10,46 @@ package main
 
 import (
 	"bufio"
-	"bytes"
-	"encoding/csv"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"net"
 	"net/http"
 	"os"
-	"regexp"
 	"sort"
 	"strconv"
 	"strings"
-	"sync"
 	"time"
 )
 
 const (
-	source  = "https://raw.githubusercontent.com/ipverse/as-metadata/master/as.csv"
-	api     = "https://asn.ipinfo.app/api/json/details/AS%d"
-	workers = 3000
+	source = "https://raw.githubusercontent.com/ipverse/as-metadata/master/as.json"
+	dir    = "data"
 )
 
-var (
-	kindRE = regexp.MustCompile(`"kind"\s*:\s*(?:"([^"]*)"|(null))`)
-	nameRE = regexp.MustCompile(`"name"\s*:\s*("(?:\\.|[^"\\])*")`)
-	client *http.Client
-)
+var client *http.Client
 
-type result struct {
-	asn    int
-	kind   string
-	line   string
-	retry  bool
-	failed bool
+type metadata struct {
+	Handle      string `json:"handle"`
+	Description string `json:"description"`
+	Category    string `json:"category"`
 }
 
-func classify(asn int) result {
-	body, err := fetch(fmt.Sprintf(api, asn))
-	if err != nil {
-		if errors.Is(err, errNotFound) {
-			return result{asn: asn, failed: true}
-		}
-		return result{asn: asn, retry: true}
-	}
-
-	km := kindRE.FindSubmatch(body)
-	nm := nameRE.FindSubmatch(body)
-	if len(km) == 0 || len(nm) == 0 {
-		return result{asn: asn, retry: true}
-	}
-
-	var name string
-	if err := json.Unmarshal(nm[1], &name); err != nil {
-		return result{asn: asn, retry: true}
-	}
-
-	var kind string
-	if string(km[1]) != "" {
-		kind = string(km[1])
-	} else if string(km[2]) == "null" {
-		kind = "unknown"
-	} else {
-		return result{asn: asn, retry: true}
-	}
-
-	switch kind {
-	case "hosting", "residential", "unknown":
-		return result{
-			asn:  asn,
-			kind: kind,
-			line: fmt.Sprintf("%d # %s", asn, name),
-		}
-	default:
-		return result{asn: asn, retry: true}
-	}
-}
-
-func run(asns []int) []result {
-	jobs := make(chan int, workers*2)
-	results := make(chan result, workers*2)
-
-	var wg sync.WaitGroup
-
-	for i := 0; i < workers; i++ {
-		wg.Add(1)
-		go func() {
-			defer wg.Done()
-			for asn := range jobs {
-				results <- classify(asn)
-			}
-		}()
-	}
-
-	go func() {
-		for _, asn := range asns {
-			jobs <- asn
-		}
-		close(jobs)
-		wg.Wait()
-		close(results)
-	}()
-
-	out := make([]result, 0, len(asns))
-	for r := range results {
-		out = append(out, r)
-	}
-	return out
+type entry struct {
+	ASN      int      `json:"asn"`
+	Metadata metadata `json:"metadata"`
 }
 
 func init() {
 	client = &http.Client{
-		Timeout: 20 * time.Second,
+		Timeout: 120 * time.Second,
 		Transport: &http.Transport{
 			Proxy:                 http.ProxyFromEnvironment,
-			MaxIdleConns:          1000,
-			MaxIdleConnsPerHost:   500,
-			MaxConnsPerHost:       500,
+			MaxIdleConns:          100,
+			MaxIdleConnsPerHost:   100,
 			IdleConnTimeout:       90 * time.Second,
 			TLSHandshakeTimeout:   10 * time.Second,
-			ResponseHeaderTimeout: 15 * time.Second,
+			ResponseHeaderTimeout: 60 * time.Second,
 			DialContext: (&net.Dialer{
 				Timeout:   10 * time.Second,
 				KeepAlive: 30 * time.Second,
@@ -138,8 +57,6 @@ func init() {
 		},
 	}
 }
-
-var errNotFound = fmt.Errorf("not found")
 
 func fetch(url string) ([]byte, error) {
 	var lastErr error
@@ -159,10 +76,6 @@ func fetch(url string) ([]byte, error) {
 			body, readErr := io.ReadAll(resp.Body)
 			resp.Body.Close()
 
-			if resp.StatusCode == http.StatusNotFound {
-				return nil, errNotFound
-			}
-
 			if readErr == nil && resp.StatusCode >= 200 &&
 				resp.StatusCode < 300 {
 				return body, nil
@@ -181,16 +94,6 @@ func fetch(url string) ([]byte, error) {
 				resp.StatusCode != 504 {
 				return nil, lastErr
 			}
-
-			if resp.StatusCode == 429 {
-				if retryAfter := resp.Header.Get("Retry-After"); retryAfter != "" {
-					if seconds, err := strconv.Atoi(retryAfter); err == nil &&
-						seconds > 0 && seconds <= 60 {
-						time.Sleep(time.Duration(seconds) * time.Second)
-						continue
-					}
-				}
-			}
 		}
 
 		if attempt < 4 {
@@ -201,62 +104,36 @@ func fetch(url string) ([]byte, error) {
 	return nil, lastErr
 }
 
-func getASNs() ([]int, error) {
+func getEntries() ([]entry, error) {
 	body, err := fetch(source)
 	if err != nil {
-		return nil, fmt.Errorf("download ASN list: %w", err)
+		return nil, fmt.Errorf("download ASN metadata: %w", err)
 	}
 
-	reader := csv.NewReader(bytes.NewReader(body))
-	reader.FieldsPerRecord = -1
-
-	header, err := reader.Read()
-	if err != nil {
-		return nil, err
+	var entries []entry
+	if err := json.Unmarshal(body, &entries); err != nil {
+		return nil, fmt.Errorf("parse ASN metadata: %w", err)
 	}
+	if len(entries) == 0 {
+		return nil, fmt.Errorf("ASN metadata is empty")
+	}
+	return entries, nil
+}
 
-	asnCol := -1
-	for i, col := range header {
-		if strings.EqualFold(strings.TrimSpace(col), "asn") {
-			asnCol = i
-			break
+func fileName(category string) string {
+	var b strings.Builder
+	for _, r := range strings.ToLower(strings.TrimSpace(category)) {
+		switch {
+		case r >= 'a' && r <= 'z', r >= '0' && r <= '9':
+			b.WriteRune(r)
+		case r == ' ' || r == '-' || r == '_':
+			b.WriteRune('_')
 		}
 	}
-	if asnCol < 0 {
-		return nil, fmt.Errorf("ASN column not found; headers: %v", header)
+	if b.Len() == 0 {
+		return "unknown"
 	}
-
-	seen := make(map[int]struct{})
-
-	for {
-		record, err := reader.Read()
-		if err == io.EOF {
-			break
-		}
-		if err != nil {
-			continue
-		}
-		if asnCol >= len(record) {
-			continue
-		}
-
-		value := strings.TrimSpace(record[asnCol])
-		value = strings.TrimPrefix(strings.ToUpper(value), "AS")
-
-		asn, err := strconv.Atoi(value)
-		if err != nil || asn <= 0 {
-			continue
-		}
-		seen[asn] = struct{}{}
-	}
-
-	asns := make([]int, 0, len(seen))
-	for asn := range seen {
-		asns = append(asns, asn)
-	}
-	sort.Ints(asns)
-
-	return asns, nil
+	return b.String()
 }
 
 func writeLines(path string, lines []string) error {
@@ -286,78 +163,52 @@ func writeLines(path string, lines []string) error {
 func main() {
 	start := time.Now()
 
-	asns, err := getASNs()
+	entries, err := getEntries()
 	if err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Found %d ASNs; workers=%d\n", len(asns), workers)
+	fmt.Printf("Found %d ASNs\n", len(entries))
 
-	if err := os.MkdirAll("data", 0755); err != nil {
+	if err := os.MkdirAll(dir, 0755); err != nil {
 		panic(err)
 	}
 
-	output := map[string][]string{
-		"hosting":     {},
-		"residential": {},
-		"unknown":     {},
-	}
-	var failed []int
+	output := make(map[string][]string)
 
-	collect := func(rs []result) {
-		for _, r := range rs {
-			switch {
-			case r.kind != "":
-				output[r.kind] = append(output[r.kind], r.line)
-			case r.failed:
-				failed = append(failed, r.asn)
-			}
+	for _, e := range entries {
+		category := strings.TrimSpace(e.Metadata.Category)
+		if category == "" {
+			category = "unknown"
 		}
-	}
 
-	first := run(asns)
-	collect(first)
-	fmt.Printf("Processed %d/%d (first pass)\n", len(first), len(asns))
-
-	var retry []int
-	for _, r := range first {
-		if r.retry {
-			retry = append(retry, r.asn)
+		name := strings.TrimSpace(e.Metadata.Handle)
+		if name == "" {
+			name = e.Metadata.Description
 		}
-	}
 
-	if len(retry) > 0 {
-		fmt.Printf("Retrying %d ASNs...\n", len(retry))
-		second := run(retry)
-		collect(second)
-		for _, r := range second {
-			if r.retry {
-				failed = append(failed, r.asn)
-			}
+		line := strconv.Itoa(e.ASN)
+		if name != "" {
+			line += " # " + name
 		}
+		output[fileName(category)] = append(output[fileName(category)], line)
 	}
 
 	fmt.Printf("Elapsed: %s\n", time.Since(start).Round(time.Second))
 
-	for kind, lines := range output {
-		path := "data/" + kind + ".txt"
-		if err := writeLines(path, lines); err != nil {
+	kinds := make([]string, 0, len(output))
+	for kind := range output {
+		kinds = append(kinds, kind)
+	}
+	sort.Strings(kinds)
+
+	for _, kind := range kinds {
+		path := dir + "/" + kind + ".txt"
+		if err := writeLines(path, output[kind]); err != nil {
 			fmt.Fprintln(os.Stderr, err)
 			os.Exit(1)
 		}
-		fmt.Printf("%s: %d entries\n", path, len(lines))
+		fmt.Printf("%s: %d entries\n", path, len(output[kind]))
 	}
-
-	sort.Ints(failed)
-	file, err := os.Create("data/failed.txt")
-	if err != nil {
-		panic(err)
-	}
-	for _, asn := range failed {
-		fmt.Fprintln(file, asn)
-	}
-	file.Close()
-
-	fmt.Printf("Failed/unclassified: %d\n", len(failed))
 }
