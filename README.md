@@ -10,6 +10,8 @@ its `category`, and commits the results as plain text lists under
    [`ipverse/as-metadata`](https://github.com/ipverse/as-metadata) (`as.json`).
 2. For every ASN, reads the `metadata.category` and `metadata.handle` fields.
 3. Writes one file per `category` into `data/`, sorted by ASN.
+4. Downloads the [InternetData](https://internetdata.io) `asn_v1` database and
+   keeps only the ASNs whose network `type` is `hosting` in `data/hosting.txt`.
 
 ## Data files
 
@@ -18,7 +20,7 @@ current categories are:
 
 | File | Description |
 | --- | --- |
-| [`data/hosting.txt`](data/hosting.txt) | Datacenter / cloud providers. |
+| [`data/hosting.txt`](data/hosting.txt) | Datacenter / cloud providers, confirmed as `hosting` by InternetData. |
 | [`data/isp.txt`](data/isp.txt) | Internet service providers. |
 | [`data/business.txt`](data/business.txt) | Business / enterprise networks. |
 | [`data/education_research.txt`](data/education_research.txt) | Education and research networks. |
@@ -46,12 +48,22 @@ If `handle` is empty, the `description` is used instead.
 - `category` present → `data/<category>.txt`
 - `category` empty → `data/unknown.txt`
 
+### Hosting filter
+
+`data/hosting.txt` is verified against the
+[InternetData `asn_v1` database](https://internetdata.io/databases/asn), which
+classifies every allocated ASN as `isp`, `hosting`, `education`, `government` or
+`business`. Only ASNs the database reports as `hosting` are kept.
+
+This requires an API key in the `INTERNETDATA_APIKEY` environment variable
+(free with an InternetData account).
+
 ## Running locally
 
 Requires Go 1.25+.
 
 ```sh
-go run .
+INTERNETDATA_APIKEY=your_key go run .
 ```
 
 The lists are written to `data/`.

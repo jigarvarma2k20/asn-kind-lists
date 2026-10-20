@@ -40,6 +40,8 @@ jobs:
         run: go build -o main main.go
 
       - name: Fetch and classify ASNs
+        env:
+          INTERNETDATA_APIKEY: ${{ secrets.INTERNETDATA_APIKEY }}
         run: ./main
 
       - name: Commit updated lists

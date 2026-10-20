@@ -10,7 +10,9 @@ package main
 
 import (
 	"bufio"
-	"encoding/json"
+	"bytes"
+	"compress/gzip"
+	"encoding/csv"
 	"fmt"
 	"io"
 	"net"
@@ -23,21 +25,31 @@ import (
 )
 
 const (
-	source = "https://raw.githubusercontent.com/ipverse/as-metadata/master/as.json"
-	dir    = "data"
+	dir = "data"
+
+	// Source: InternetData ASN database.
+	asnDatabaseURL = "https://internetdata.io/api/v2/database/download?id=asn_v1&format=csvgz"
+	apiKeyEnv      = "INTERNETDATA_APIKEY"
+
+	// Whitelist of ASNs to exclude from hosting.txt, one ASN per line.
+	hostingWhitelist = "whitelist_hosting.asn"
 )
+
+// categoryFiles maps the InternetData `type` to the file each ASN is written to.
+var categoryFiles = map[string]string{
+	"hosting":    "hosting",
+	"isp":        "isp",
+	"business":   "business",
+	"education":  "education_research",
+	"government": "government_admin",
+}
 
 var client *http.Client
 
-type metadata struct {
-	Handle      string `json:"handle"`
-	Description string `json:"description"`
-	Category    string `json:"category"`
-}
-
-type entry struct {
-	ASN      int      `json:"asn"`
-	Metadata metadata `json:"metadata"`
+type asnRecord struct {
+	asn  int
+	name string
+	kind string
 }
 
 func init() {
@@ -58,7 +70,7 @@ func init() {
 	}
 }
 
-func fetch(url string) ([]byte, error) {
+func fetch(url, accept string) ([]byte, error) {
 	var lastErr error
 
 	for attempt := 0; attempt < 5; attempt++ {
@@ -66,7 +78,9 @@ func fetch(url string) ([]byte, error) {
 		if err != nil {
 			return nil, err
 		}
-		req.Header.Set("Accept", "application/json")
+		if accept != "" {
+			req.Header.Set("Accept", accept)
+		}
 		req.Header.Set("User-Agent", "ASN-Database-Updater/1.0")
 
 		resp, err := client.Do(req)
@@ -87,7 +101,8 @@ func fetch(url string) ([]byte, error) {
 				lastErr = fmt.Errorf("HTTP %d", resp.StatusCode)
 			}
 
-			if resp.StatusCode != 429 &&
+			if resp.StatusCode != 404 &&
+				resp.StatusCode != 429 &&
 				resp.StatusCode != 500 &&
 				resp.StatusCode != 502 &&
 				resp.StatusCode != 503 &&
@@ -104,25 +119,102 @@ func fetch(url string) ([]byte, error) {
 	return nil, lastErr
 }
 
-func getEntries() ([]entry, error) {
-	body, err := fetch(source)
-	if err != nil {
-		return nil, fmt.Errorf("download ASN metadata: %w", err)
+// getInternetDataRecords downloads the InternetData ASN database and returns
+// one record per ASN.
+func getInternetDataRecords() ([]asnRecord, error) {
+	key := strings.TrimSpace(os.Getenv(apiKeyEnv))
+	if key == "" {
+		return nil, fmt.Errorf("%s is not set", apiKeyEnv)
 	}
 
-	var entries []entry
-	if err := json.Unmarshal(body, &entries); err != nil {
-		return nil, fmt.Errorf("parse ASN metadata: %w", err)
+	body, err := fetch(asnDatabaseURL+"&apikey="+key, "application/octet-stream")
+	if err != nil {
+		return nil, fmt.Errorf("download ASN database: %w", err)
 	}
-	if len(entries) == 0 {
-		return nil, fmt.Errorf("ASN metadata is empty")
+
+	gz, err := gzip.NewReader(bytes.NewReader(body))
+	if err != nil {
+		return nil, fmt.Errorf("open ASN database archive: %w", err)
 	}
-	return entries, nil
+	defer gz.Close()
+
+	reader := csv.NewReader(gz)
+	reader.ReuseRecord = true
+	reader.FieldsPerRecord = -1
+
+	header, err := reader.Read()
+	if err != nil {
+		return nil, fmt.Errorf("read ASN database header: %w", err)
+	}
+
+	asnIdx, nameIdx, typeIdx := -1, -1, -1
+	for i, col := range header {
+		switch strings.TrimSpace(col) {
+		case "asn":
+			asnIdx = i
+		case "name":
+			nameIdx = i
+		case "type":
+			typeIdx = i
+		}
+	}
+	if asnIdx < 0 || typeIdx < 0 {
+		return nil, fmt.Errorf("ASN database missing asn/type columns: %v", header)
+	}
+
+	var records []asnRecord
+	for {
+		record, err := reader.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			return nil, fmt.Errorf("read ASN database row: %w", err)
+		}
+		if typeIdx >= len(record) || asnIdx >= len(record) {
+			continue
+		}
+
+		asn, err := strconv.Atoi(strings.TrimSpace(record[asnIdx]))
+		if err != nil || asn <= 0 {
+			continue
+		}
+
+		var name string
+		if nameIdx >= 0 && nameIdx < len(record) {
+			name = strings.TrimSpace(record[nameIdx])
+		}
+
+		records = append(records, asnRecord{
+			asn:  asn,
+			name: name,
+			kind: strings.TrimSpace(record[typeIdx]),
+		})
+	}
+
+	if len(records) == 0 {
+		return nil, fmt.Errorf("ASN database is empty")
+	}
+	return records, nil
 }
 
-func fileName(category string) string {
+func getRecords() ([]asnRecord, error) {
+	records, err := getInternetDataRecords()
+	if err != nil {
+		return nil, err
+	}
+
+	fmt.Printf("Source: InternetData (%d ASNs)\n", len(records))
+	return records, nil
+}
+
+func fileName(kind string) string {
+	if mapped, ok := categoryFiles[strings.ToLower(strings.TrimSpace(kind))]; ok {
+		return mapped
+	}
+
 	var b strings.Builder
-	for _, r := range strings.ToLower(strings.TrimSpace(category)) {
+	for _, r := range strings.ToLower(strings.TrimSpace(kind)) {
 		switch {
 		case r >= 'a' && r <= 'z', r >= '0' && r <= '9':
 			b.WriteRune(r)
@@ -134,6 +226,61 @@ func fileName(category string) string {
 		return "unknown"
 	}
 	return b.String()
+}
+
+// loadHostingWhitelist reads hostingWhitelist and returns the set of ASNs to be
+// excluded from hosting.txt. A missing file is not an error.
+func loadHostingWhitelist() (map[int]struct{}, error) {
+	file, err := os.Open(hostingWhitelist)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return nil, nil
+		}
+		return nil, err
+	}
+	defer file.Close()
+
+	whitelist := make(map[int]struct{})
+	scanner := bufio.NewScanner(file)
+	for scanner.Scan() {
+		line := strings.TrimSpace(scanner.Text())
+		if line == "" || strings.HasPrefix(line, "#") {
+			continue
+		}
+		asn, err := strconv.Atoi(line)
+		if err != nil || asn <= 0 {
+			fmt.Fprintf(os.Stderr, "whitelist: skipping invalid line %q\n", line)
+			continue
+		}
+		whitelist[asn] = struct{}{}
+	}
+	if err := scanner.Err(); err != nil {
+		return nil, err
+	}
+	return whitelist, nil
+}
+
+func filterLines(lines []string, exclude map[int]struct{}) []string {
+	if len(exclude) == 0 {
+		return lines
+	}
+
+	kept := make([]string, 0, len(lines))
+	removed := 0
+
+	for _, line := range lines {
+		num, _, _ := strings.Cut(line, " #")
+		if asn, err := strconv.Atoi(strings.TrimSpace(num)); err == nil {
+			if _, skip := exclude[asn]; skip {
+				removed++
+				continue
+			}
+		}
+		kept = append(kept, line)
+	}
+
+	fmt.Printf("hosting whitelist: excluded %d (of %d)\n", removed, len(lines))
+	return kept
 }
 
 func writeLines(path string, lines []string) error {
@@ -163,36 +310,39 @@ func writeLines(path string, lines []string) error {
 func main() {
 	start := time.Now()
 
-	entries, err := getEntries()
+	records, err := getRecords()
 	if err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Found %d ASNs\n", len(entries))
-
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		panic(err)
 	}
 
+	whitelist, err := loadHostingWhitelist()
+	if err != nil {
+		fmt.Fprintln(os.Stderr, err)
+		os.Exit(1)
+	}
+	if len(whitelist) > 0 {
+		fmt.Printf("Loaded %d ASNs from %s\n", len(whitelist), hostingWhitelist)
+	}
+
 	output := make(map[string][]string)
-
-	for _, e := range entries {
-		category := strings.TrimSpace(e.Metadata.Category)
-		if category == "" {
-			category = "unknown"
+	for _, r := range records {
+		line := strconv.Itoa(r.asn)
+		if r.name != "" {
+			line += " # " + r.name
 		}
+		name := fileName(r.kind)
+		output[name] = append(output[name], line)
+	}
 
-		name := strings.TrimSpace(e.Metadata.Handle)
-		if name == "" {
-			name = e.Metadata.Description
+	for name, lines := range output {
+		if name == "hosting" {
+			output[name] = filterLines(lines, whitelist)
 		}
-
-		line := strconv.Itoa(e.ASN)
-		if name != "" {
-			line += " # " + name
-		}
-		output[fileName(category)] = append(output[fileName(category)], line)
 	}
 
 	fmt.Printf("Elapsed: %s\n", time.Since(start).Round(time.Second))
