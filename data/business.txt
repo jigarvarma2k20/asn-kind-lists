@@ -86,8 +86,6 @@
 610 # HERE North America LLC
 613 # BP America, Inc.
 700 # The Boeing Company
-704 # Verizon Business
-705 # Verizon Business
 706 # Advanced Workstations Division, IBM Corporation
 708 # Sentinel Byte Community
 714 # Apple Inc.
@@ -98,7 +96,6 @@
 792 # Oracle Corporation
 793 # Oracle Corporation
 794 # Oracle Corporation
-796 # AT&T Services, Inc.
 801 # Amazon Technologies Inc.
 805 # Globe Life Inc.
 821 # Designed Information Systems Corporation
@@ -110,10 +107,6 @@
 833 # GoCodeIT Inc
 835 # GoCodeIT Inc
 836 # White Plains Hospital
-839 # Canadian Research Network
-840 # Canadian Research Network
-841 # Canadian Research Network
-842 # Canadian Research Network
 846 # SOLV Energy, LLC
 858 # GONET
 859 # GONET
@@ -241,21 +234,6 @@
 1311 # Barra International, LLC
 1313 # Adobe Systems Inc.
 1315 # Imperial PFS
-1322 # Verizon Business
-1324 # Verizon Business
-1327 # Verizon Business
-1328 # Verizon Business
-1329 # Verizon Business
-1330 # Verizon Business
-1331 # Verizon Business
-1332 # Verizon Business
-1333 # Verizon Business
-1334 # Verizon Business
-1335 # Verizon Business
-1336 # Verizon Business
-1337 # Verizon Business
-1338 # Verizon Business
-1340 # Verizon Business
 1341 # Rockwell Collins, Inc.
 1342 # Fujitsu Invia Finland IP-network
 1350 # Sears Technology Services Incorporated
@@ -265,18 +243,6 @@
 1357 # Oryx Energy Company
 1359 # Institute of Nuclear Power Operations, Inc.
 1380 # McVEAN Trading & Investments, LLC
-1382 # Verizon Business
-1384 # Verizon Business
-1385 # Verizon Business
-1386 # Verizon Business
-1388 # Verizon Business
-1389 # Verizon Business
-1390 # Verizon Business
-1391 # Verizon Business
-1392 # Verizon Business
-1393 # Verizon Business
-1394 # Verizon Business
-1395 # Verizon Business
 1396 # Charles Schwab & Co., Inc.
 1397 # Charles Schwab & Co., Inc.
 1398 # Charles Schwab & Co., Inc.
@@ -310,60 +276,13 @@
 1446 # Tutor Perini Corporation
 1447 # Chipotle Mexican Grill, INC
 1449 # PayPal, Inc.
-1452 # Headquarters, USAISC
-1453 # Headquarters, USAISC
-1454 # Headquarters, USAISC
-1455 # Headquarters, USAISC
-1456 # Headquarters, USAISC
 1458 # Headquarters, USAISC
-1459 # Headquarters, USAISC
-1460 # Headquarters, USAISC
 1462 # Headquarters, USAISC
-1463 # Headquarters, USAISC
 1464 # Headquarters, USAISC
-1465 # Headquarters, USAISC
 1467 # Headquarters, USAISC
-1468 # Headquarters, USAISC
 1469 # Headquarters, USAISC
-1470 # Headquarters, USAISC
 1471 # Headquarters, USAISC
-1472 # Headquarters, USAISC
 1474 # Headquarters, USAISC
-1475 # Headquarters, USAISC
-1476 # Headquarters, USAISC
-1477 # Headquarters, USAISC
-1479 # Headquarters, USAISC
-1487 # Headquarters, USAISC
-1489 # Headquarters, USAISC
-1493 # Headquarters, USAISC
-1495 # Headquarters, USAISC
-1497 # Headquarters, USAISC
-1499 # Headquarters, USAISC
-1501 # Headquarters, USAISC
-1502 # Headquarters, USAISC
-1510 # Headquarters, USAISC
-1514 # Headquarters, USAISC
-1515 # Headquarters, USAISC
-1516 # Headquarters, USAISC
-1517 # Headquarters, USAISC
-1518 # Headquarters, USAISC
-1523 # Headquarters, USAISC
-1524 # Headquarters, USAISC
-1525 # Headquarters, USAISC
-1526 # Headquarters, USAISC
-1530 # Headquarters, USAISC
-1535 # Headquarters, USAISC
-1536 # Headquarters, USAISC
-1537 # Headquarters, USAISC
-1538 # Headquarters, USAISC
-1539 # Headquarters, USAISC
-1540 # Headquarters, USAISC
-1541 # Headquarters, USAISC
-1542 # Headquarters, USAISC
-1543 # Headquarters, USAISC
-1545 # Headquarters, USAISC
-1546 # Headquarters, USAISC
-1549 # Headquarters, USAISC
 1605 # Allegiant Travel Company
 1608 # ITG INC
 1609 # Global Imaging Systems Inc
@@ -434,10 +353,6 @@
 1823 # Hannah Motor Company
 1825 # SetClear Pte. Ltd.
 1841 # Openwave Messaging GmbH
-1844 # National Aeronautics and Space Administration
-1845 # National Aeronautics and Space Administration
-1846 # National Aeronautics and Space Administration
-1847 # National Aeronautics and Space Administration
 1850 # Internet a Islandi hf
 1854 # CGI Suomi Oy
 1855 # RTX BBN Technologies, Inc.
@@ -587,41 +502,6 @@
 2644 # System Management ARTS, Inc.
 2645 # The Commnet Project
 2646 # Synaptics Incorporated
-2652 # Shared Services Canada
-2653 # Shared Services Canada
-2654 # Shared Services Canada
-2655 # Shared Services Canada
-2656 # Shared Services Canada
-2657 # Shared Services Canada
-2658 # Shared Services Canada
-2659 # Shared Services Canada
-2660 # Shared Services Canada
-2661 # Shared Services Canada
-2662 # Shared Services Canada
-2663 # Shared Services Canada
-2664 # Shared Services Canada
-2665 # Shared Services Canada
-2666 # Shared Services Canada
-2667 # Shared Services Canada
-2668 # Shared Services Canada
-2669 # Shared Services Canada
-2670 # Shared Services Canada
-2671 # Shared Services Canada
-2672 # Shared Services Canada
-2673 # Shared Services Canada
-2674 # Shared Services Canada
-2676 # Shared Services Canada
-2677 # Shared Services Canada
-2678 # Shared Services Canada
-2679 # Shared Services Canada
-2680 # Shared Services Canada
-2681 # Shared Services Canada
-2689 # AT&T Enterprises, LLC
-2690 # AT&T Enterprises, LLC
-2691 # AT&T Enterprises, LLC
-2692 # AT&T Enterprises, LLC
-2693 # AT&T Enterprises, LLC
-2694 # AT&T Enterprises, LLC
 2695 # RJ Reynolds Tobacco Company
 2700 # Claris International Inc.
 2702 # Novx Systems, Inc
@@ -686,105 +566,6 @@
 2931 # Baird Information Systems
 2932 # News Electronic Data, Inc.
 2941 # OnePartner, LLC
-2943 # U.S. Sprint
-2944 # U.S. Sprint
-2945 # U.S. Sprint
-2946 # U.S. Sprint
-2947 # U.S. Sprint
-2948 # U.S. Sprint
-2949 # U.S. Sprint
-2950 # U.S. Sprint
-2951 # U.S. Sprint
-2952 # U.S. Sprint
-2953 # U.S. Sprint
-2954 # U.S. Sprint
-2955 # U.S. Sprint
-2956 # U.S. Sprint
-2957 # U.S. Sprint
-2958 # U.S. Sprint
-2959 # U.S. Sprint
-2960 # U.S. Sprint
-2961 # U.S. Sprint
-2962 # U.S. Sprint
-2963 # U.S. Sprint
-2964 # U.S. Sprint
-2965 # U.S. Sprint
-2966 # U.S. Sprint
-2967 # U.S. Sprint
-2968 # U.S. Sprint
-2969 # U.S. Sprint
-2970 # U.S. Sprint
-2971 # U.S. Sprint
-2972 # U.S. Sprint
-2973 # U.S. Sprint
-2974 # U.S. Sprint
-2975 # U.S. Sprint
-2976 # U.S. Sprint
-2977 # U.S. Sprint
-2978 # U.S. Sprint
-2979 # U.S. Sprint
-2980 # U.S. Sprint
-2981 # U.S. Sprint
-2982 # U.S. Sprint
-2983 # U.S. Sprint
-2984 # U.S. Sprint
-2985 # U.S. Sprint
-2986 # U.S. Sprint
-2987 # U.S. Sprint
-2988 # U.S. Sprint
-2989 # U.S. Sprint
-2990 # U.S. Sprint
-2991 # U.S. Sprint
-2992 # U.S. Sprint
-2993 # U.S. Sprint
-2994 # U.S. Sprint
-2995 # U.S. Sprint
-2996 # U.S. Sprint
-2997 # U.S. Sprint
-2998 # U.S. Sprint
-2999 # U.S. Sprint
-3000 # U.S. Sprint
-3001 # U.S. Sprint
-3002 # U.S. Sprint
-3003 # U.S. Sprint
-3004 # U.S. Sprint
-3005 # U.S. Sprint
-3006 # U.S. Sprint
-3007 # U.S. Sprint
-3008 # U.S. Sprint
-3009 # U.S. Sprint
-3010 # U.S. Sprint
-3011 # U.S. Sprint
-3012 # U.S. Sprint
-3013 # U.S. Sprint
-3014 # U.S. Sprint
-3015 # U.S. Sprint
-3016 # U.S. Sprint
-3017 # U.S. Sprint
-3018 # U.S. Sprint
-3019 # U.S. Sprint
-3020 # U.S. Sprint
-3021 # U.S. Sprint
-3022 # U.S. Sprint
-3023 # U.S. Sprint
-3024 # U.S. Sprint
-3025 # U.S. Sprint
-3026 # U.S. Sprint
-3027 # U.S. Sprint
-3028 # U.S. Sprint
-3029 # U.S. Sprint
-3030 # U.S. Sprint
-3031 # U.S. Sprint
-3032 # U.S. Sprint
-3033 # U.S. Sprint
-3034 # U.S. Sprint
-3035 # U.S. Sprint
-3036 # U.S. Sprint
-3037 # U.S. Sprint
-3038 # U.S. Sprint
-3039 # U.S. Sprint
-3040 # U.S. Sprint
-3041 # U.S. Sprint
 3042 # Lachman Technology, Inc.
 3054 # First Floor, Inc.
 3055 # SHL Systemhouse, Inc.
@@ -878,7 +659,6 @@
 3360 # DXC US Latin America Corporation
 3362 # Data Transfer Group
 3365 # Seesip Inc.
-3370 # Verizon Business
 3379 # Kaiser Foundation Health Plan, Inc.
 3383 # IBM
 3389 # Ford Motor Company
@@ -897,25 +677,6 @@
 3413 # Credit Suisse Group
 3414 # Credit Suisse Group
 3415 # Credit Suisse Group
-3426 # ESnet
-3427 # ESnet
-3428 # ESnet
-3429 # ESnet
-3430 # ESnet
-3431 # ESnet
-3432 # ESnet
-3433 # ESnet
-3434 # ESnet
-3435 # ESnet
-3436 # ESnet
-3437 # ESnet
-3438 # ESnet
-3439 # ESnet
-3440 # ESnet
-3441 # ESnet
-3442 # ESnet
-3443 # ESnet
-3444 # ESnet
 3451 # Downtown Digital
 3455 # Liberty Mutual Group
 3457 # Oracle Corporation
@@ -966,13 +727,6 @@
 3613 # Dell, Inc.
 3614 # Dell, Inc.
 3615 # Dell, Inc.
-3618 # Verizon Business
-3619 # Verizon Business
-3621 # Verizon Business
-3622 # Verizon Business
-3623 # Verizon Business
-3626 # Verizon Business
-3629 # NYSERNet
 3636 # Corpoven S.A.
 3654 # American Standard
 3655 # GE Vernova
@@ -999,8 +753,6 @@
 3745 # NTT DATA Services Holdings Corporation
 3747 # Wang NZ Ltd
 3751 # Phonak, LLC
-3755 # NYSERNet
-3756 # NYSERNet
 3759 # Caltex
 3762 # Instinet
 3768 # PROQUEST LLC
@@ -1033,44 +785,6 @@
 3850 # OpenTV Inc
 3852 # Magic Monad LLC
 3858 # Nebraska Public Power District
-3860 # Headquarters, USAISC
-3861 # Headquarters, USAISC
-3862 # Headquarters, USAISC
-3863 # Headquarters, USAISC
-3864 # Headquarters, USAISC
-3865 # Headquarters, USAISC
-3866 # Headquarters, USAISC
-3867 # Headquarters, USAISC
-3868 # Headquarters, USAISC
-3869 # Headquarters, USAISC
-3870 # Headquarters, USAISC
-3871 # Headquarters, USAISC
-3872 # Headquarters, USAISC
-3873 # Headquarters, USAISC
-3874 # Headquarters, USAISC
-3875 # Headquarters, USAISC
-3876 # Headquarters, USAISC
-3877 # Headquarters, USAISC
-3878 # Headquarters, USAISC
-3879 # Headquarters, USAISC
-3880 # Headquarters, USAISC
-3881 # Headquarters, USAISC
-3882 # Headquarters, USAISC
-3883 # Headquarters, USAISC
-3884 # Headquarters, USAISC
-3885 # Headquarters, USAISC
-3886 # Headquarters, USAISC
-3887 # Headquarters, USAISC
-3888 # Headquarters, USAISC
-3889 # Headquarters, USAISC
-3890 # Headquarters, USAISC
-3891 # Headquarters, USAISC
-3892 # Headquarters, USAISC
-3893 # Headquarters, USAISC
-3894 # Headquarters, USAISC
-3895 # Headquarters, USAISC
-3896 # Headquarters, USAISC
-3897 # Headquarters, USAISC
 3901 # M & A Properties, LLC
 3902 # GlaxoSmithKline
 3911 # Micron Technology, Inc.
@@ -1082,16 +796,8 @@
 3928 # Valley Tech Corporation
 3929 # Financial Systems Limited
 3932 # Information Logistics, Inc
-3938 # NTT America, Inc.
-3939 # NTT America, Inc.
-3940 # NTT America, Inc.
-3941 # NTT America, Inc.
-3942 # NTT America, Inc.
 3943 # CISCO SYSTEMS, INC.
 3944 # Partan & Partan
-3947 # NTT America, Inc.
-3948 # NTT America, Inc.
-3949 # NTT America, Inc.
 3952 # Nokia of America Corporation
 3955 # Compucom Systems
 3957 # American Institute of Physics Incorporated
@@ -1102,26 +808,7 @@
 3970 # RGnet OU
 3971 # Biomedical Research Institute of New Mexico
 3975 # Automated Medical Systems Consultants Inc.
-3978 # Sprint/United Telephone-Florida
-3979 # Sprint/United Telephone-Florida
-3980 # Sprint/United Telephone-Florida
-3981 # Sprint/United Telephone-Florida
-3982 # Sprint/United Telephone-Florida
-3983 # Sprint/United Telephone-Florida
-3984 # Sprint/United Telephone-Florida
-3985 # Sprint/United Telephone-Florida
-3986 # Sprint/United Telephone-Florida
-3987 # Sprint/United Telephone-Florida
-3988 # Sprint/United Telephone-Florida
-3989 # Sprint/United Telephone-Florida
-3990 # Sprint/United Telephone-Florida
-3991 # Sprint/United Telephone-Florida
-3992 # Sprint/United Telephone-Florida
 3997 # Association of Computing Machines
-4001 # Cogent Communications, LLC
-4002 # Cogent Communications, LLC
-4003 # Cogent Communications, LLC
-4005 # Cogent Communications, LLC
 4019 # Institute of International Education
 4052 # Rovi Corporation
 4053 # U.S.Robotics
@@ -1129,66 +816,6 @@
 4057 # Paysafe Merchant Services Inc
 4059 # Wagner Engineering
 4063 # Electro Scientific Industries
-4066 # Headquarters, USAISC
-4067 # Headquarters, USAISC
-4068 # Headquarters, USAISC
-4069 # Headquarters, USAISC
-4070 # Headquarters, USAISC
-4071 # Headquarters, USAISC
-4072 # Headquarters, USAISC
-4073 # Headquarters, USAISC
-4074 # Headquarters, USAISC
-4075 # Headquarters, USAISC
-4076 # Headquarters, USAISC
-4077 # Headquarters, USAISC
-4078 # Headquarters, USAISC
-4079 # Headquarters, USAISC
-4080 # Headquarters, USAISC
-4081 # Headquarters, USAISC
-4082 # Headquarters, USAISC
-4083 # Headquarters, USAISC
-4084 # Headquarters, USAISC
-4085 # Headquarters, USAISC
-4086 # Headquarters, USAISC
-4087 # Headquarters, USAISC
-4088 # Headquarters, USAISC
-4089 # Headquarters, USAISC
-4090 # Headquarters, USAISC
-4091 # Headquarters, USAISC
-4092 # Headquarters, USAISC
-4093 # Headquarters, USAISC
-4094 # Headquarters, USAISC
-4095 # Headquarters, USAISC
-4096 # Headquarters, USAISC
-4097 # Headquarters, USAISC
-4098 # Headquarters, USAISC
-4099 # Headquarters, USAISC
-4100 # Headquarters, USAISC
-4101 # Headquarters, USAISC
-4102 # Headquarters, USAISC
-4103 # Headquarters, USAISC
-4104 # Headquarters, USAISC
-4105 # Headquarters, USAISC
-4106 # Headquarters, USAISC
-4107 # Headquarters, USAISC
-4108 # Headquarters, USAISC
-4109 # Headquarters, USAISC
-4110 # Headquarters, USAISC
-4111 # Headquarters, USAISC
-4112 # Headquarters, USAISC
-4113 # Headquarters, USAISC
-4114 # Headquarters, USAISC
-4115 # Headquarters, USAISC
-4116 # Headquarters, USAISC
-4117 # Headquarters, USAISC
-4118 # Headquarters, USAISC
-4119 # Headquarters, USAISC
-4120 # Headquarters, USAISC
-4121 # Headquarters, USAISC
-4122 # Headquarters, USAISC
-4123 # Headquarters, USAISC
-4124 # Headquarters, USAISC
-4125 # Headquarters, USAISC
 4127 # DuPont Scientific Computing
 4129 # Lycos, Inc.
 4141 # GRUPO ICA, S.A. DE C.V.
@@ -1219,44 +846,12 @@
 4249 # Eli Lilly and Company
 4255 # Bain And Company
 4257 # CyberCash, Inc.
-4263 # California Education and Research Federation Network
-4264 # California Education and Research Federation Network
-4265 # California Education and Research Federation Network
-4266 # California Education and Research Federation Network
-4267 # California Education and Research Federation Network
-4268 # California Education and Research Federation Network
-4269 # California Education and Research Federation Network
 4277 # The Sembler Company
-4300 # Dod Joint Spectrum Center
-4301 # Dod Joint Spectrum Center
 4304 # YPN, Inc.
 4308 # Tezcatlipoca Inc.
 4309 # FMR LLC
 4316 # Houston Associates, Inc.
 4318 # Freeport-McMoRan Inc.
-4329 # Headquarters, USAISC
-4330 # Headquarters, USAISC
-4331 # Headquarters, USAISC
-4332 # Headquarters, USAISC
-4333 # Headquarters, USAISC
-4334 # Headquarters, USAISC
-4335 # Headquarters, USAISC
-4336 # Headquarters, USAISC
-4337 # Headquarters, USAISC
-4338 # Headquarters, USAISC
-4339 # Headquarters, USAISC
-4340 # Headquarters, USAISC
-4341 # Headquarters, USAISC
-4342 # Headquarters, USAISC
-4343 # Headquarters, USAISC
-4344 # Headquarters, USAISC
-4345 # Headquarters, USAISC
-4346 # Headquarters, USAISC
-4347 # Headquarters, USAISC
-4348 # Headquarters, USAISC
-4349 # Headquarters, USAISC
-4350 # Headquarters, USAISC
-4351 # Headquarters, USAISC
 4352 # EMERSON ASIA PACIFIC PRIVATE LIMITED
 4354 # UNIVERSAL HEALTH SERVICES
 4356 # Epic Games Inc.
@@ -1325,7 +920,6 @@
 4505 # WHDH-TV
 4506 # SEW, Inc.
 4508 # NeuStyle
-4510 # Magma Communications Ltd.
 4516 # Trendline
 4518 # Comptrodex, Inc.
 4523 # GXS
@@ -1467,9 +1061,6 @@
 4983 # Intel Corporation
 4985 # PHILADELPHIA GAS WORKS
 4989 # RhythmOne, LLC
-4992 # Cogent Communications, LLC
-4993 # Cogent Communications, LLC
-4994 # Cogent Communications, LLC
 4996 # Citigroup Inc.
 4998 # The Lande Group
 5019 # InterSec, Inc.
@@ -1480,7 +1071,6 @@
 5033 # Converge Technology Solutions US, LLC
 5036 # Whalley Computer Associates
 5038 # Success Institutes, Inc.
-5045 # Databank, Inc.
 5049 # Morgan Stanley Group Inc.
 5054 # REALNETWORKS LLC
 5055 # Software Design Associates
@@ -1543,15 +1133,6 @@
 5662 # Turner Broadcasting System, Inc.
 5665 # Delmarva Power & Light Company
 5671 # AT&T Enterprises, LLC
-5673 # AT&T Enterprises, LLC
-5674 # AT&T Enterprises, LLC
-5675 # AT&T Enterprises, LLC
-5676 # AT&T Enterprises, LLC
-5677 # AT&T Enterprises, LLC
-5678 # AT&T Enterprises, LLC
-5679 # AT&T Enterprises, LLC
-5680 # AT&T Enterprises, LLC
-5681 # AT&T Enterprises, LLC
 5684 # Gannett Company, Inc.
 5685 # SirsiDynix
 5691 # The MITRE Corporation
@@ -1681,14 +1262,6 @@
 6363 # Extreme Networks, Inc.
 6370 # Nokia of America Corporation
 6376 # Broderbund Software
-6381 # AT&T Enterprises, LLC
-6382 # AT&T Enterprises, LLC
-6383 # AT&T Enterprises, LLC
-6384 # AT&T Enterprises, LLC
-6385 # AT&T Enterprises, LLC
-6386 # AT&T Enterprises, LLC
-6387 # AT&T Enterprises, LLC
-6388 # AT&T Enterprises, LLC
 6390 # The Kansas City Star
 6393 # Prysm Technologies
 6394 # Intercontinental Exchange, Inc.
@@ -1804,9 +1377,6 @@
 6895 # ASOCIACION ESPANIX
 6900 # EntServ Deutschland GmbH
 6907 # eBay Marketplaces GmbH
-6913 # Hayes Computer Systems
-6914 # Hayes Computer Systems
-6915 # Hayes Computer Systems
 6916 # Exco RMJ Securities Corp
 6917 # Multex Systems, Inc.
 6920 # Trade Media
@@ -1856,15 +1426,6 @@
 7067 # Technology Interface, Inc.
 7068 # Pfizer Inc.
 7070 # iHeartCommunications, Inc.
-7073 # NAP.NET, LLC
-7074 # NAP.NET, LLC
-7075 # NAP.NET, LLC
-7076 # NAP.NET, LLC
-7077 # NAP.NET, LLC
-7082 # ISI
-7083 # ISI
-7084 # ISI
-7085 # ISI
 7088 # Sybase, Inc.
 7092 # INTERACTIVE CREATIONS INC.
 7093 # Henry Kilmer, Sole Proprietor
@@ -1949,11 +1510,7 @@
 7279 # Amos Press, Inc.
 7280 # Yahoo Holdings Inc.
 7281 # Booz Allen Hamilton Inc.
-7288 # AT&T Enterprises, LLC
 7289 # QuantaRa Tech LLC
-7292 # AT&T Enterprises, LLC
-7293 # AT&T Enterprises, LLC
-7294 # AT&T Enterprises, LLC
 7297 # The Associated Press
 7298 # ENTERPRISE SERVICES BRASIL SERVICOS DE TECNOLOGIA
 7300 # InfoTrax Systems, L.C.
@@ -2141,9 +1698,6 @@
 7886 # Empirical Media Corporation
 7888 # Component Software International, Inc.
 7889 # Full Eclipse, Inc.
-7892 # AT&T Enterprises, LLC
-7893 # AT&T Enterprises, LLC
-7894 # AT&T Enterprises, LLC
 7895 # Fabrik Communications Inc.
 7898 # Digital Network Associates
 7899 # Examco, Inc.
@@ -2182,11 +1736,6 @@
 8009 # Money Services, Inc.
 8012 # The Bank of New York Mellon Corporation
 8026 # EMPRESA COLOMBIANA DE PETROLEOS, ECOPETROL
-8031 # AT&T WorldNet
-8032 # AT&T WorldNet
-8033 # AT&T WorldNet
-8034 # AT&T WorldNet
-8035 # AT&T WorldNet
 8037 # Manufacturers and Traders Trust Company
 8038 # 6connect, Inc.
 8040 # MMD Entertainment, LLC
@@ -2194,9 +1743,6 @@
 8044 # Select Ticketing Systems Inc.
 8045 # EMI Music Publishing
 8051 # Lankler Siffert & Wohl LLP
-8061 # AT&T Enterprises, LLC
-8062 # AT&T Enterprises, LLC
-8063 # AT&T Enterprises, LLC
 8069 # Microsoft Corporation
 8071 # Microsoft Corporation
 8072 # Microsoft Corporation
@@ -2215,13 +1761,6 @@
 8101 # Research Triangle Consultants, Inc.
 8102 # Fallon McElligott
 8104 # Pentagon Federal Credit Union
-8107 # Cogent Communications, LLC
-8108 # Cogent Communications, LLC
-8109 # Cogent Communications, LLC
-8110 # Cogent Communications, LLC
-8113 # Verizon Business
-8114 # Verizon Business
-8115 # Verizon Business
 8116 # Guidant Corporation
 8117 # Daily Racing Form
 8118 # Maaznet Directory Services
@@ -2881,7 +2420,6 @@
 10716 # OPTIMAL INTEGRATED SOLUTIONS
 10717 # Scholastic Inc.
 10718 # CNO Financial Group, Inc.
-10720 # Verizon Business
 10721 # The Andersons Inc
 10722 # C1CX
 10723 # Meritage Group LP
@@ -2899,10 +2437,6 @@
 10748 # Quantum Research Corporation
 10763 # Web Side Story, Inc.
 10766 # Toshiba America Information Systems, CSE
-10771 # AT&T Enterprises, LLC
-10772 # AT&T Enterprises, LLC
-10773 # AT&T Enterprises, LLC
-10774 # AT&T Enterprises, LLC
 10775 # Bernard Hodes Advertising, Inc.
 10780 # Pure Storage, INC.
 10782 # HP Inc.
@@ -2964,9 +2498,6 @@
 10904 # EQUISTAR Petrochecmical Company
 10906 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 10907 # Security Coverage, Inc.
-10911 # Unitas Global
-10912 # Unitas Global
-10913 # Unitas Global
 10916 # First Volunteer Bank
 10917 # Thomson Corporation
 10919 # Troy Corporation
@@ -3040,7 +2571,6 @@
 11089 # ERGON
 11091
 11093 # SAFE
-11099 # SBC Communications, Inc.
 11101 # Prisma Health
 11106 # Wolfram Research, Inc.
 11108 # Welocalize, Inc.
@@ -3057,10 +2587,6 @@
 11141 # Morgan Stanley
 11143 # OEConnection, LLC
 11144 # Advent Software
-11146 # Verizon Business
-11147 # Verizon Business
-11148 # Verizon Business
-11149 # Verizon Business
 11154 # Hilltop Securities Inc.
 11156 # SIGMA CORPORATION
 11157 # Electronic laboratory Services Pty Ltd
@@ -3181,7 +2707,6 @@
 11414 # Nvidia Corporation
 11416 # Great Lakes Wine & Spirits
 11420 # Tribune Publishing Company, LLC
-11423 # CENIC
 11428 # Jim Beam Brands Co.
 11431 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11433 # Apeiron
@@ -3343,8 +2868,6 @@
 11842 # Regal Entertainment Group
 11849 # Camplink
 11852 # White House Custom Colour, Inc
-11854 # Unitas Global
-11855 # Unitas Global
 11857 # Money Services, Inc.
 11858 # Open Text Corporation
 11860 # AEGIS Insurance Services, Inc.
@@ -3486,10 +3009,6 @@
 12171 # Fast Enterprises, LLC
 12172 # Fiserv Solutions, LLC
 12174 # Ad.com Interactive Media, Inc.
-12179 # Unitas Global
-12180 # Unitas Global
-12181 # Unitas Global
-12182 # Unitas Global
 12184 # Forrester Research
 12185 # Thompson, Siegel & Walmsley LLC
 12186 # GVVME
@@ -3860,17 +3379,6 @@
 13653 # California Insurance Guarantee Association
 13656 # THE WORTHINGTON STEEL COMPANY
 13660 # Blue Cross Blue Shield of North Dakota
-13662 # Verizon Business
-13663 # Verizon Business
-13664 # Verizon Business
-13665 # Verizon Business
-13667 # Verizon Business
-13668 # Verizon Business
-13669 # Verizon Business
-13670 # Verizon Business
-13673 # Fidium
-13674 # Fidium
-13675 # Fidium
 13683 # Auto-Wares Inc
 13684 # Medtronic, Incorporated
 13686 # AEG
@@ -3917,9 +3425,6 @@
 13779 # Basis Technology
 13782 # The First American Financial Corporation
 13785 # SHORE MEMORIAL HOSPITAL
-13790 # Unitas Global
-13791 # Unitas Global
-13792 # Unitas Global
 13797 # International Data Group, Inc.
 13798 # L'Oreal USA
 13799 # Conrad Los Angeles
@@ -3979,7 +3484,6 @@
 13913 # Affiliated Monitoring, Inc.
 13914 # CAMARA DE DIRIGENTES LOJISTAS DE BELO HORIZONTE
 13915 # Radiology Imaging Associates P.C.
-13916 # Proofpoint, Inc.
 13919 # ADS Alliance Data Systems, Inc.
 13921 # Hecla Mining Company
 13923 # Ontario Pension Board
@@ -4350,9 +3854,6 @@
 14738 # Digi-Key Corporation
 14739 # Showingtime.com, Inc.
 14740 # Magna5 MS LLC
-14743 # Unitas Global
-14744 # Unitas Global
-14745 # Unitas Global
 14748 # Big 5 Corp.
 14753 # Universal Consulting
 14759 # Informatica El Corte Ingles
@@ -4644,7 +4145,6 @@
 15310 # CITGO PETROLEUM CORPORATION
 15314 # jenzabar  inc
 15319 # COSCO Shipping Lines (North America) Inc.
-15324 # Barracuda Networks, Inc.
 15327 # EPS US, LLC
 15328 # Dataprise, Inc.
 15334 # Responsys Inc.
@@ -4890,7 +4390,6 @@
 16410 # The Reynolds and Reynolds Company
 16412 # Mountain States Health Alliance
 16415 # ALORICA INC
-16417 # Cisco Systems Ironport Division
 16419 # Capital One Financial Corporation
 16421 # Realogy Group LLC
 16427 # Mirae Asset Securities (USA) Inc.
@@ -5290,14 +4789,6 @@
 17215 # Ameren Corp.
 17219 # Wings Financial Credit Union
 17221 # Graubard, Mollen & Miller, LLP.
-17225 # AT&T Enterprises, LLC
-17226 # AT&T Enterprises, LLC
-17227 # AT&T Enterprises, LLC
-17228 # AT&T Enterprises, LLC
-17230 # AT&T Enterprises, LLC
-17231 # AT&T Enterprises, LLC
-17232 # AT&T Enterprises, LLC
-17233 # AT&T Enterprises, LLC
 17237 # Walsh Patel Group Consulting, LLC
 17240 # PeopleConnect, Inc.
 17241 # Quantalgo Ventures, Inc.
@@ -5798,8 +5289,6 @@
 18648 # Heat Transfer Research, Inc.
 18649 # Mitel Networks, Inc.
 18651 # EMANUEL MEDICAL CENTER, INC
-18653 # Verizon Business
-18654 # Verizon Business
 18656 # Telesign Corp.
 18657 # Meetup, Inc.
 18658 # ECTOR COUNTY HOSPITAL DISTRICT
@@ -6302,7 +5791,6 @@
 19666 # Henderson Brothers, Inc.
 19667 # MNJ Technology Services LLC
 19668 # PriceWaterhouseCoopers, LLP
-19672 # Everest BBN, Inc.
 19679 # Dropbox, Inc.
 19680 # UNLIMITED IS LIMITED, LLC
 19687 # Planet Payment Processing Services
@@ -6312,7 +5800,6 @@
 19692 # Ephraim McDowell Health, Inc.
 19694 # Vantage Health Plan, Inc.
 19697 # Dupre Energy Services LLC
-19699 # Verizon Business
 19700 # Tony The Developer
 19701 # Yodlee Inc.
 19703 # Value Line Publishing Inc.
@@ -6364,7 +5851,6 @@
 19796 # Shubert Organization, Inc.
 19801 # Sanofi
 19802 # The Lane Press, Inc.
-19805 # NTT Global Networks Incorporated
 19811 # ELEMICA, Inc.
 19815 # Digitech Systems, LLC.
 19820 # Ball Corporation
@@ -6428,6 +5914,7 @@
 19943 # Chestnut Ridge Counseling Services, Inc.
 19946 # Scarlet Pearl Casino
 19950 # CB Neptune Holdings, LLC
+19952 # Nortel Networks, Inc
 19953 # Nortel Networks, Inc
 19954 # Citigroup Inc.
 19961 # Star Gas Partners, LP
@@ -6456,10 +5943,6 @@
 20017 # DAT Solutions, LLC
 20019 # Parwan Electronics Corporation
 20020 # Power Systems Computers
-20023 # Everest BBN, Inc.
-20024 # Everest BBN, Inc.
-20025 # Everest BBN, Inc.
-20026 # Everest BBN, Inc.
 20027 # MARTIGNETTI COMPANIES
 20032 # Grupo VITRO, S.A. de C.V.
 20034 # First National Technology Solutions, Inc.
@@ -7493,7 +6976,6 @@
 22696 # CB&I
 22697 # Roblox
 22699 # First Data Conosur S.A.
-22701 # Vercara, LLC
 22702 # RingSquared
 22703 # Elevance Health, Inc.
 22705 # Placements Montrusco Bolton Investments
@@ -7566,7 +7048,6 @@
 22837 # Mighty Oak Technology
 22838 # CONOPCO, INC.
 22840 # ATC IP LLC
-22843 # Proofpoint, Inc.
 22844 # TRADER JOE'S COMPANY
 22848 # XLIT Ltd.
 22850 # PIT US
@@ -7854,7 +7335,6 @@
 23412 # Abacus Solutions, LLC
 23413 # Omnissa, LLC
 23421 # Core Technology Services, Inc.
-23425
 23426 # BKD LLP
 23429 # Pfizer Inc.
 23431 # Adventist Health
@@ -8724,7 +8204,6 @@
 26200 # P. Schoenfeld Asset Management, LLC
 26201 # ABOUT, INC.
 26207 # WHDOT LLC
-26211 # Proofpoint, Inc.
 26213 # Dealer Marketing Services
 26214 # A. Duda & Sons, Inc.
 26217 # V P Holdings, Inc.
@@ -8810,7 +8289,6 @@
 26380 # MasterCard Technologies LLC
 26381 # HSBC Technology & Services (USA) Inc
 26382 # Allied Pilots Association
-26383 # Baxet Group Inc.
 26386 # Deep Systems LLC
 26387 # Weidenhammer Systems Corp.
 26392 # TE Connectivity Corporation
@@ -9217,6 +8695,7 @@
 27311 # Biogen MA Inc
 27312 # Thomson Reuters Canada Limited
 27313 # Spencer Stuart
+27321 # Internet Systems Consortium, Inc.
 27324 # Canadian Broadcasting Corporation
 27326 # VCU HEALTH SYSTEM AUTHORITY
 27327 # Dowco Computer Systems Ltd.
@@ -9994,7 +9473,6 @@
 30020 # BENFIELD HOLDINGS INC
 30026 # Woodward, Inc.
 30030 # Walmart Inc.
-30031 # Mimecast North America Inc
 30033 # Big Ten Network, LLC
 30034 # The Vermont Country Store, Inc.
 30037 # Fiserv Solutions, LLC
@@ -10040,17 +9518,8 @@
 30118 # Mizuho Americas Services LLC
 30120 # Sempra Global
 30122 # Internet Systems Consortium, Inc.
-30123 # Internet Systems Consortium, Inc.
-30124 # Internet Systems Consortium, Inc.
-30125 # Internet Systems Consortium, Inc.
-30126 # Internet Systems Consortium, Inc.
-30127 # Internet Systems Consortium, Inc.
-30128 # Internet Systems Consortium, Inc.
-30129 # Internet Systems Consortium, Inc.
-30130 # Internet Systems Consortium, Inc.
-30131 # Internet Systems Consortium, Inc.
 30132 # Internet Systems Consortium, Inc.
-30134 # Internet Systems Consortium, Inc.
+30133 # Internet Systems Consortium, Inc.
 30137 # SPIDERROCK HOLDINGS, LLC
 30138 # Artech Information Systems LLC
 30140 # BOSTON PROPERTIES LIMITED PARTNERSHIP
@@ -10086,13 +9555,11 @@
 30206 # SURVICE Engineering
 30210 # Goldsmith Solutions
 30214 # Cisco Systems Ironport Division
-30215 # Cisco Systems Ironport Division
 30219 # Major League Baseball Advanced Media, LP
 30224 # Disney Worldwide Services, Inc.
 30228 # Teva Pharmaceuticals USA, INC
 30232 # M3 Consulting LLC
 30233 # Paychex Inc.
-30238 # Cisco Systems Ironport Division
 30239 # Travelport Operations, Inc.
 30242 # SAMSA
 30244 # Amherst Pierpont Securities
@@ -10206,8 +9673,6 @@
 30463 # VITIX LLC
 30464 # Black Knight IP Holding Company, LLC
 30465 # STATE-WIDE MULTIPLE LISTING SERVICE,INC.
-30468 # Vonage Holdings, Inc.
-30469 # Vonage Holdings, Inc.
 30470 # TELEPERFORMANCE USA
 30471 # Raleigh Film & Television Studios, Inc.
 30473 # Ethan Allen Global, Inc.
@@ -10651,8 +10116,6 @@
 31897 # Summa Health
 31899 # Z57, LLC
 31906 # Charge Anywhere LLC
-31908 # Vonage Holdings, Inc.
-31909 # Vonage Holdings, Inc.
 31911 # Vitalant
 31912 # Medrisk, LLC
 31913 # Chevron Phillips Chemical Company LP
@@ -11477,7 +10940,6 @@
 33533 # Fairplex
 33534 # OTICON, INC.
 33536 # Kount, Inc.
-33538 # Mimecast North America Inc
 33540 # Alzheimers Assoc.
 33543 # NobelBiz, Inc.
 33547 # Polish & Slavic FCU
@@ -12648,7 +12110,6 @@
 37207 # Nigeria National Petroleum Corporation
 37210 # National Bank of Kenya
 37212 # Zenith Bank Ghana Ltd
-37235 # Mimecast South Africa
 37249 # Computer Warehouse group
 37250 # Egyptair
 37252 # GB Auto
@@ -13226,7 +12687,6 @@
 39581 # Printec Group Romania SRL
 39584 # Legal & General Investment Management Holdings Ltd
 39585 # Radio-Continental Ltd.
-39588 # Mimecast Services Limited
 39589 # Joint-Stock Company Moskabelmet
 39594 # Anex Tourism LLC
 39604 # Non-public corporation MASARMAT
@@ -13511,15 +12971,6 @@
 40299 # Atos
 40301 # Southeast Financial Credit Union
 40303 # AKSIA LLC
-40307 # ViaSat,Inc.
-40308 # ViaSat,Inc.
-40309 # ViaSat,Inc.
-40310 # ViaSat,Inc.
-40312 # ViaSat,Inc.
-40313 # ViaSat,Inc.
-40314 # ViaSat,Inc.
-40315 # ViaSat,Inc.
-40316 # ViaSat,Inc.
 40318 # Lumenpulse Group
 40319 # Thomson Reuters U.S. LLC
 40320 # KROHNE, INC.
@@ -13580,7 +13031,6 @@
 40424 # Rona Inc.
 40425 # GREAT LAKES DATA SYSTEMS, INC.
 40426 # Performive LLC
-40427 # Cisco Systems Ironport Division
 40428 # Pandora Media, LLC
 40432 # Cambridge Integrated Services Group, Inc.
 40433 # AE Business Solutions
@@ -14283,7 +13733,6 @@
 42421 # Turkiye Finans Katilim Bankasi A.S
 42424 # ICS Endava SRL
 42426 # EURIAL INVEST SRL
-42427 # Mimecast Services Limited
 42435 # Tecnicas Reunidas S.A.
 42439 # AUTOLOGO LLC
 42444 # Insurance company SOGAZ-Med JSC
@@ -16148,7 +15597,6 @@
 48080 # Dmitriy Panchenko
 48083 # GTN Services B.V.
 48086 # Nikita Sergienko
-48095 # XT GLOBAL NETWORKS LTD.
 48097 # nobilia-Werke J. Stickling GmbH & Co. KG
 48098 # Aleksandr Bezzubov
 48104 # JSB Surgutneftegabank
@@ -16773,7 +16221,7 @@
 50279 # DERZHAVA JSCB
 50283 # Buisiness Kvartal Nov Ltd.
 50287 # Audatex (UK) Ltd
-50295 # Triple IT BV
+50295 # Hypersolid Alkmaar B.V.
 50298 # Public Joint-Stock Company "BANK CREDIT DNEPR"
 50307 # audio media service Produktionsgesellschaft mbH & Co. KG
 50308 # Address Limited
@@ -17321,7 +16769,6 @@
 52121 # Kavalanit Oy
 52123 # Synevo Sp. z o.o.
 52127 # 74Software SA
-52129 # Proofpoint, Inc.
 52130 # Livesport s.r.o.
 52132 # Darkness Reigns (Holding) B.V.
 52138 # Darkness Reigns (Holding) B.V.
@@ -18967,7 +18414,7 @@
 56408 # Gdansk Airport Sp. z o.o.
 56411 # Fielmann Group AG
 56417 # Help Net Farma SA
-56424 # Tyrolit - Schleifmittelwerke Swarovski K.G.
+56424 # Tyrolit - Schleifmittelwerke Swarovski GmbH & Co K.G.
 56425 # LLC HandySolutions
 56427 # Michal Hradil
 56438 # Loop Scorpio Ltd
@@ -20132,7 +19579,6 @@
 60476 # Digital Transformation Plus LLC
 60482 # PJSC KOKS
 60485 # Angelnet Limited
-60492 # Mimecast Services Limited
 60493 # Ficosa International, S.A.
 60500 # Association NPHK Sibir
 60507 # Hillside (Technology) Ltd
@@ -21478,6 +20924,7 @@
 64613
 65000
 65102
+65115
 65208
 65500
 65502
@@ -23360,7 +22807,6 @@
 136777 # 247 Customer Philippiness inc
 136778 # HONGKONG AI JIA SU NETWORK CO.,LIMITED
 136779 # Schneider Electric Japan Ltd
-136792 # Mimecast Australia Pty Ltd
 136795 # Nova Energy LTD
 136797 # Turbo I.T Limited
 136798 # WUZHOUHULIAN INTERNATIONAL CO., LIMITED
@@ -29423,6 +28869,7 @@
 150105 # NATIONAL SECURITIES DEPOSITORY LTD
 150109 # Zerodha Technology Private Limited
 150115 # Team Global Express Pty Ltd
+150117 # PT Art Solusi Nusantara
 150119 # G-ABLE CO., LTD
 150120 # BEST EDGE GLOBAL PTE.LTD.
 150127 # Lactalis Australia Pty Ltd
@@ -30157,7 +29604,7 @@
 152475 # IENS TECHNOLOGY PTE. LTD
 152476 # Beximco Holdings Limited
 152477 # LOTIC Bige Limited
-152482
+152482 # Jasam Traders
 152487 # Classic Marble Company Private Limited
 152493 # TAMILNADU TRANSMISSION CORPORATION LIMITED
 152497 # MANIPAL TECHNOLOGIES LIMITED
@@ -30787,9 +30234,16 @@
 155001 # John Whitfeld
 155003 # CV ADNAN DATA
 155016 # PT Gifta Media Samawa
-155017 # PT Saviel Network Indonesia
 155018 # Skope IT
 155023 # TMX AUSTRALIA EXCHANGE PTY LIMITED
+155029 # HostHatch Korea
+155030 # SIEMENS-HEALTHINEERS
+155031 # PT Digital Bisnis Teknologi
+155032 # PT Akses Solusindo Indonesia
+155033 # BLESSINGS REAL ESTATE LTD
+155034 # Reverential Consultant Llp
+155035 # Ok Tedi Mining Limited
+155036 # Ok Tedi Mining Limited
 196615
 196618 # Claudio Jeker
 196622 # Hrvatska posta d.d.
@@ -31405,7 +30859,6 @@
 198453 # Joerg Jungermann
 198456 # Innostage LLC
 198457 # ECOM SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA
-198459 # Limited liability company "BAIDAK"
 198467 # CENTRUM WSPARCIA BIZNESU NOT Sp. z o.o.
 198469 # Marek Wajdzik
 198470 # RLS merilna tehnika d.o.o.
@@ -31710,7 +31163,6 @@
 199145 # LLC Farmstandart
 199146 # AT scriptum Ltd.
 199147 # Spoldzielnia Obrotu Towarowego Przemyslu Mleczarskiego
-199149 # Solintex Insular SLU
 199153 # PSF Maximum LLC
 199156 # Peter Roubicek
 199157 # THALES SIX GTS FRANCE SAS
@@ -32076,7 +31528,6 @@
 200098 # Harald Heinzel
 200099 # Extlikes UK Marketing Limited
 200103 # XUAN ZHU
-200104 # PETALDATA LTD
 200107 # Kaspersky Lab Switzerland GmbH
 200110 # DINTEG LLC
 200111 # OPERATEUR DE RESEAUX D'ENERGIES SCRL
@@ -32759,7 +32210,6 @@
 201870 # Bank-now AG
 201876 # Madeo Consultant SAS
 201879 # VISUALFORMA - Tecnologias de Informacao S.A.
-201880 # FIPEK BILISIM ANONIM SIRKETI
 201881 # JSC Telasi
 201883 # G-Star Raw C.V.
 201886 # LBBW Asset Management Investmentgesellschaft mbH
@@ -32921,7 +32371,6 @@
 202345 # JSC Modern Payment Solutions
 202346 # Executive Service S.R.L., Societa Benefit
 202348 # Young Min Kim
-202355 # Ciallo Networks LTD
 202357 # Sopharma Trading Jsc
 202360 # The Global Fund to fight AIDS, Tuberculosis and Malaria
 202363 # R.J. OBrien Limited
@@ -34368,7 +33817,6 @@
 206277 # SAP SE
 206279 # Jan Studzinski trading as Biruang IT KB
 206284 # BV THINK AGAIN
-206285 # GERRY WEBER International AG
 206289 # TSB BANKING GROUP LIMITED
 206294 # Albert Schweitzer Ziekenhuis
 206295 # Joint Stock Company "Medsi group"
@@ -36915,7 +36363,6 @@
 213304 # Joint Stock Company "YUZHMORRYBFLOT"
 213306 # Comtrade System Integration doo Belgrade Serbia
 213307 # Idorsia Pharmaceuticals Ltd
-213308 # CRISIL Irevna UK Limited
 213310 # SELENA-FM SA
 213312 # Batobajo Holding GmbH
 213313 # Cyber Test Systems SAS
@@ -37166,7 +36613,6 @@
 214017 # Generic ISP
 214022 # Joseph Rawlings trading as Virtnet.bond
 214030 # Kai-Wen Zheng
-214034 # KirieLABS CommV
 214035 # Health Info Net AG
 214037 # Brylenko Oleksandra
 214039 # Majid Soltanifard Razlighi
@@ -38001,6 +37447,19 @@
 216464 # SIA Callgear
 216469 # Ismail Fayaz trading as OAKLABS
 216471 # Devout BV
+218356 # Mehran Abbasi
+218357 # Streethosting LTDA
+218358 # HAITECH AS
+218359 # FUDLJU Technology Limited
+218360 # NovaMX B.V.
+218361 # SPECTR LIMITED LIABILITY COMPANY
+218362 # oktaviano Krist krisna
+218363 # SPRINTHOST.RU LLC
+218364 # VIBEHOST LLC
+218366 # Theo Michel Grandmontagne Pavlovic trading as Qoriz Hosting
+218367 # Grafana Labs Ireland Limited
+218368 # Orbitrax GmbH
+218369 # Kevin Tieman
 218374 # Kirill Sevastianov
 218375 # Calgan Muharrem Aygun
 218376 # JUNHYEOK SEO
@@ -38016,9 +37475,7 @@
 218390 # Mastac Nicolae
 218392 # Aleksey Gritsenko
 218393 # FSL Software Ltd
-218398 # Balazs Adam Toldi
 218399 # Arthur Fabre
-218400 # Marius Becker
 218402 # Axel Moutillon
 218404 # Fabio Alessandro Locati
 218406 # Open Analytics NV
@@ -38028,6 +37485,7 @@
 218412 # European Depositary Bank SA
 218413 # MC2IT SAS
 218414 # Matteo Poltronieri
+218416 # Muhammad Syifan Maulana
 218417 # Profitator LLC
 218425 # Standuply, Inc.
 218427 # BROCK TRADING LTD
@@ -38043,6 +37501,7 @@
 218443 # Alexis Steppat trading as asteco e.K.
 218444 # Muhammet Eren Karaman
 218445 # ELECTRA DEL CARDENER ENERGIA, SA
+218449 # Just Developer Ltd.
 218450 # Salimgareyev Vladislav Pavlovich
 218451 # Chameleon Interactive Technology Limited
 218455 # Jean Pasqualini
@@ -38111,6 +37570,7 @@
 218601 # SDS DIGITAL LTD
 218602 # Martyn Axon
 218604 # CJSC Freedom Bank Tajikistan
+218605 # Hamza Deniz Yilmaz
 218606 # Samuel Oechsler
 218607 # Antonio De Luca
 218609 # Mukhammed Mamedov
@@ -38290,7 +37750,6 @@
 218982 # EMIN ALI KAYA
 218983 # Taha Yasin Arkadas
 218989 # DSM Turkey Elektronik Ticaret Hizmetleri ve Yatirimlari A.S.
-218991 # MayaCraft LLC
 218993 # Dongyang Huang
 218997 # Kober SRL
 218999 # Pawel Rak
@@ -38325,13 +37784,11 @@
 219067 # Chiara Conti
 219074 # Fenecon GmbH
 219075 # VSEEK LIMITED
-219076 # DWERGH UNHFGSD INC
 219079 # Eko Andri Prasetyo
 219080 # MANK TEKNOLOJI HIZMETLERI TIC. A.S.
 219081 # Klinika Bud Zdorov LLC
 219082 # Bough Limited
 219083 # YAPI KREDI BANK AZERBAIJAN CJSC
-219085 # GOLDWY LEAF GLOBAL INC
 219086 # Wunderkopf Technologies GmbH
 219088 # JSC F6 Innovations
 219091 # LUPA LLP
@@ -38401,7 +37858,6 @@
 219225 # Idris Alaudievich Umaev
 219230 # Gritmo Prosta S.A.
 219232 # Casper Bilgisayar Sistemleri A.S.
-219233 # PinnacleWave Corp LLC
 219234 # OpenEmail SA
 219238 # Independent Arbitrage and Objective Justice LLC
 219241 # Aaro Benjami Luolajan-Mikkola
@@ -38445,7 +37901,7 @@
 219324 # LI GUOLIN
 219326 # SULAVI LTD
 219327 # Disaster Limited
-219328 # Versori LLC
+219328
 219330 # ADTELLIGENT INC.
 219331 # Thomas BOUZIN
 219332 # Xiang Zhou
@@ -39051,7 +38507,6 @@
 267927 # KNOAH SOLUTIONS GUATEMALA, S.A.
 267930 # BANCO DE LA PROVINCIA DE CORDOBA SA
 267931 # BANCO DEL PACIFICO S.A.
-267937
 267954 # CARNEIRO E PASSOS LTDA
 267959 # A. de Souza Freitas - Comércio
 267966 # GTGROUP INTERNATIONAL DO BRASIL
@@ -39586,6 +39041,7 @@
 274445 # RAFAEL MUÑOZ MENDEZ
 274449 # GERARDO MARTINEZ AGUSTIN
 274451 # AMEALCOM TECNOLOGIAS Y ESTRATEGIA EMPRESARIAL
+274456 # ALFREDO NARANJO HERNANDEZ
 274461 # Dazsoft Desenvolvimento de Softwares Ltda ME
 274488 # Joedson Fabio Araujo Soares
 274495 # JOSE SILVA DOS SANTOS
@@ -39652,6 +39108,7 @@
 275084
 275299 # Qest Tecnologia LTDA
 275302
+275303
 275549
 275554
 275557
@@ -40168,7 +39625,6 @@
 329727 # DASAMONIE DIGITAL SERVICE LTD
 329728 # FG&B TECHNOLOGY LIMITED
 329733 # GALACTIC ENERGY HOLDINGS (PTY) LTD
-329735 # Enryoc (Pty) Ltd
 329736 # Zigama CSS
 329742 # Taprap Nigeria Limited
 329744 # IKA SOLUTION LIMTED
@@ -41684,7 +41140,6 @@
 395873 # Interactions Corporation
 395874 # Turner Acceptance Corp
 395875 # Everlight Radiology
-395878
 395879 # Identity Group Holdings LLC
 395882 # Power Integrations, INC.
 395883 # AEG
@@ -42518,37 +41973,6 @@
 397210 # VeriSign Global Registry Services
 397211 # VeriSign Global Registry Services
 397212 # VeriSign Global Registry Services
-397213 # Vercara, LLC
-397214 # Vercara, LLC
-397215 # Vercara, LLC
-397216 # Vercara, LLC
-397217 # Vercara, LLC
-397218 # Vercara, LLC
-397219 # Vercara, LLC
-397220 # Vercara, LLC
-397221 # Vercara, LLC
-397222 # Vercara, LLC
-397223 # Vercara, LLC
-397224 # Vercara, LLC
-397225 # Vercara, LLC
-397226 # Vercara, LLC
-397227 # Vercara, LLC
-397228 # Vercara, LLC
-397229 # Vercara, LLC
-397230 # Vercara, LLC
-397231 # Vercara, LLC
-397232 # Vercara, LLC
-397233 # Vercara, LLC
-397234 # Vercara, LLC
-397235 # Vercara, LLC
-397236 # Vercara, LLC
-397237 # Vercara, LLC
-397238 # Vercara, LLC
-397239 # Vercara, LLC
-397240 # Vercara, LLC
-397241 # Vercara, LLC
-397242 # Vercara, LLC
-397243 # Vercara, LLC
 397245 # BluSky Technologies, LLC
 397247 # Briar Solutions
 397248 # FractalVision
@@ -42671,12 +42095,6 @@
 397502 # TEGNA Inc.
 397509 # Floor and Decor Outlets of America, Inc.
 397510 # Consumers Power, Inc.
-397514 # GoDaddy.com, LLC
-397517 # GoDaddy.com, LLC
-397518 # GoDaddy.com, LLC
-397519 # GoDaddy.com, LLC
-397520 # GoDaddy.com, LLC
-397521 # GoDaddy.com, LLC
 397524 # Northriver Midstream Inc.
 397526 # Liberty Healthcare Management Inc.
 397527 # Plimpton & Hills Corporation
@@ -42707,11 +42125,6 @@
 397572 # Delta Community Credit Union
 397574 # Twentyone International Inc
 397575 # Ascension Technologies
-397577 # MIC GLOBAL SERVICES, LLC
-397578 # MIC GLOBAL SERVICES, LLC
-397579 # MIC GLOBAL SERVICES, LLC
-397580 # MIC GLOBAL SERVICES, LLC
-397581 # MIC GLOBAL SERVICES, LLC
 397584 # HaystackID, LLC
 397588 # BOX Technology LLC
 397589 # AMEREAM NJP, LLC
@@ -42977,14 +42390,6 @@
 398098 # City National Bank
 398099 # Bay View Funding
 398100 # City National Bank
-398102 # GoDaddy.com, LLC
-398103 # GoDaddy.com, LLC
-398104 # GoDaddy.com, LLC
-398105 # GoDaddy.com, LLC
-398106 # GoDaddy.com, LLC
-398107 # GoDaddy.com, LLC
-398108 # GoDaddy.com, LLC
-398110 # GoDaddy.com, LLC
 398111 # Maverick Transportation, LLC
 398112 # POET, LLC
 398114 # MOSS ADAMS, LLP
@@ -43172,58 +42577,6 @@
 398577 # SKANSKA USA INC
 398579 # Froedtert South, Inc.
 398581 # CyberMaxx LLC
-398583 # Charter Communications LLC
-398584 # Charter Communications LLC
-398585 # Charter Communications LLC
-398586 # Charter Communications LLC
-398587 # Charter Communications LLC
-398588 # Charter Communications LLC
-398589 # Charter Communications LLC
-398590 # Charter Communications LLC
-398591 # Charter Communications LLC
-398592 # Charter Communications LLC
-398593 # Charter Communications LLC
-398594 # Charter Communications LLC
-398595 # Charter Communications LLC
-398596 # Charter Communications LLC
-398597 # Charter Communications LLC
-398598 # Charter Communications LLC
-398599 # Charter Communications LLC
-398600 # Charter Communications LLC
-398601 # Charter Communications LLC
-398602 # Charter Communications LLC
-398603 # Charter Communications LLC
-398604 # Charter Communications LLC
-398605 # Charter Communications LLC
-398606 # Charter Communications LLC
-398607 # Charter Communications LLC
-398608 # Charter Communications LLC
-398609 # Charter Communications LLC
-398610 # Charter Communications LLC
-398611 # Charter Communications LLC
-398612 # Charter Communications LLC
-398613 # Charter Communications LLC
-398614 # Charter Communications LLC
-398615 # Charter Communications LLC
-398616 # Charter Communications LLC
-398617 # Charter Communications LLC
-398618 # Charter Communications LLC
-398619 # Charter Communications LLC
-398620 # Charter Communications LLC
-398621 # Charter Communications LLC
-398622 # Charter Communications LLC
-398623 # Charter Communications LLC
-398624 # Charter Communications LLC
-398625 # Charter Communications LLC
-398626 # Charter Communications LLC
-398627 # Charter Communications LLC
-398628 # Charter Communications LLC
-398629 # Charter Communications LLC
-398630 # Charter Communications LLC
-398631 # Charter Communications LLC
-398632 # Charter Communications LLC
-398633 # Charter Communications LLC
-398634 # Charter Communications LLC
 398639 # Warm Hearth Inc
 398641 # Community Health Centers, Inc.
 398642 # SKANSKA USA INC
@@ -43232,11 +42585,6 @@
 398650 # American Express Company
 398652 # J K MOVING & STORAGE, INC.
 398653 # XLRYNT
-398657 # Microsoft Corporation
-398658 # Microsoft Corporation
-398659 # Microsoft Corporation
-398660 # Microsoft Corporation
-398661 # Microsoft Corporation
 398664 # American Express Company
 398666 # Tellier Electronics Ltd.
 398667 # Malwarebytes, Inc
@@ -43302,13 +42650,6 @@
 398780 # Bluebonnet Electric Cooperative, Inc.
 398781 # OCULUS NETWORKS INC
 398784 # Kubota Manufacturing of America Corporation
-398786 # GoDaddy.com, LLC
-398788 # GoDaddy.com, LLC
-398789 # GoDaddy.com, LLC
-398791 # GoDaddy.com, LLC
-398792 # GoDaddy.com, LLC
-398793 # GoDaddy.com, LLC
-398794 # GoDaddy.com, LLC
 398796 # ABTEX LLC
 398797 # Nubesec LLC
 398799 # Green Olive Tree Inc
@@ -43475,19 +42816,6 @@
 399145 # Sumo Capital LLC
 399146 # Sempra Global
 399149 # Good Shepherd Medical Center
-399151 # Vercara, LLC
-399152 # Vercara, LLC
-399153 # Vercara, LLC
-399154 # Vercara, LLC
-399155 # Vercara, LLC
-399156 # Vercara, LLC
-399157 # Vercara, LLC
-399158 # Vercara, LLC
-399159 # Vercara, LLC
-399160 # Vercara, LLC
-399161 # Vercara, LLC
-399162 # Vercara, LLC
-399163 # Vercara, LLC
 399164 # Vercara, LLC
 399165 # Vercara, LLC
 399166 # Vercara, LLC
@@ -43565,7 +42893,6 @@
 399305 # Westinghouse Air Brake Technologies Corporation
 399308 # UFP Industries, Inc.
 399309 # Insurance Bureau Of Canada
-399312 # Frontier Networks Corp
 399313 # TUFTS ASSOCIATED HEALTH PLANS, INC.
 399314 # TUFTS ASSOCIATED HEALTH PLANS, INC.
 399317 # Columbia Basin Hospital
@@ -44128,16 +43455,6 @@
 400566 # PowerSerg Data Systems Inc
 400567 # Christian Care Ministries, Inc.
 400571 # CDNS
-400573 # Microsoft Corporation
-400574 # Microsoft Corporation
-400575 # Microsoft Corporation
-400576 # Microsoft Corporation
-400577 # Microsoft Corporation
-400578 # Microsoft Corporation
-400579 # Microsoft Corporation
-400580 # Microsoft Corporation
-400581 # Microsoft Corporation
-400582 # Microsoft Corporation
 400585 # Michael Baker International, Inc.
 400586 # rdm.tech
 400590 # American Chemistry Council, Inc
@@ -44205,13 +43522,6 @@
 400743 # Spaceship Landings LLC
 400744 # Crane & Co., Inc.
 400745 # Vista Computing, LLC
-400747 # GoDaddy.com, LLC
-400748 # GoDaddy.com, LLC
-400750 # GoDaddy.com, LLC
-400751 # GoDaddy.com, LLC
-400752 # GoDaddy.com, LLC
-400753 # GoDaddy.com, LLC
-400755 # GoDaddy.com, LLC
 400756 # LodgeWorks
 400758 # CORTAVIS
 400761 # PIMCO
@@ -45206,35 +44516,6 @@
 402863 # SlyTek Managed IT Solutions
 402865 # Pioneer Crest Adventure Camping Gear LLC
 402866 # Pioneer Travel Gear Group LLC
-402868 # Genesys Cloud
-402869 # Genesys Cloud
-402870 # Genesys Cloud
-402871 # Genesys Cloud
-402872 # Genesys Cloud
-402873 # Genesys Cloud
-402874 # Genesys Cloud
-402875 # Genesys Cloud
-402876 # Genesys Cloud
-402877 # Genesys Cloud
-402878 # Genesys Cloud
-402879 # Genesys Cloud
-402880 # Genesys Cloud
-402881 # Genesys Cloud
-402882 # Genesys Cloud
-402883 # Genesys Cloud
-402884 # Genesys Cloud
-402885 # Genesys Cloud
-402886 # Genesys Cloud
-402887 # Genesys Cloud
-402888 # Genesys Cloud
-402889 # Genesys Cloud
-402890 # Genesys Cloud
-402891 # Genesys Cloud
-402892 # Genesys Cloud
-402893 # Genesys Cloud
-402894 # Genesys Cloud
-402895 # Genesys Cloud
-402896 # Genesys Cloud
 402897 # CK Consulting
 402898 # ppflight digital LLC
 402899 # Prestige Travel Luggage House LLC
@@ -45309,7 +44590,6 @@
 403059 # CALGARY FLAMES LIMITED PARTNERSHIP
 403061 # Ramaswamy Aditya, Sole Proprietorship
 403062 # Zyno Consulting
-403065 # PARKERCS
 403066 # Invisible-Internet, LLC
 403069 # AutoSweet
 403071 # OrthoArkansas
@@ -45334,6 +44614,8 @@
 403099 # CertusQuartz.Com Services LLC
 403100 # ARROWBLACK LLC
 403102 # Dreamstation Systems
+403106
+403107
 453620
 520022
 371064834

@@ -159,6 +159,10 @@
 819 # LARG*net London and Region Global Computer Network
 823 # University of Western Ontario
 838 # Canadian Research Network
+839 # Canadian Research Network
+840 # Canadian Research Network
+841 # Canadian Research Network
+842 # Canadian Research Network
 851 # Reseau d'Informations Scientifiques du Quebec (RISQ Inc.)
 856 # University of New Brunswick
 890 # Hermiston School District 8R
@@ -805,6 +809,25 @@
 3390 # University of Missouri - Kansas City
 3410 # Cornell College
 3425 # ESnet
+3426 # ESnet
+3427 # ESnet
+3428 # ESnet
+3429 # ESnet
+3430 # ESnet
+3431 # ESnet
+3432 # ESnet
+3433 # ESnet
+3434 # ESnet
+3435 # ESnet
+3436 # ESnet
+3437 # ESnet
+3438 # ESnet
+3439 # ESnet
+3440 # ESnet
+3441 # ESnet
+3442 # ESnet
+3443 # ESnet
+3444 # ESnet
 3445 # ESnet
 3449 # Universidad Nacional de Buenos Aires
 3450 # University of Tennessee
@@ -834,6 +857,7 @@
 3606 # Connecticut College
 3627 # National Radio Astronomy Observatory
 3628 # NYSERNet
+3629 # NYSERNet
 3630 # NYSERNet
 3634 # Stephen F. Austin State University
 3640 # C I C E S E
@@ -857,6 +881,8 @@
 3749 # Tennessee Board Of Regents
 3753 # National Supercomputing Center for Energy and the Environment
 3754 # NYSERNet
+3755 # NYSERNet
+3756 # NYSERNet
 3772 # CETYS - Centro de Ensenanza Tecnica Y Superior
 3777 # Haverford College
 3778 # Temple University
@@ -893,6 +919,13 @@
 4246 # New Jersey Institute of Technology
 4253 # Robert Wood Johnson University Hospital
 4262 # California Education and Research Federation Network
+4263 # California Education and Research Federation Network
+4264 # California Education and Research Federation Network
+4265 # California Education and Research Federation Network
+4266 # California Education and Research Federation Network
+4267 # California Education and Research Federation Network
+4268 # California Education and Research Federation Network
+4269 # California Education and Research Federation Network
 4270 # Red de Interconexion Universitaria
 4274 # Assumption University
 4310 # Seminole State College of Florida
@@ -1051,6 +1084,10 @@
 7050 # University of Wisconsin - Milwaukee
 7066 # Virginia Polytechnic Institute and State Univ.
 7081 # ISI
+7082 # ISI
+7083 # ISI
+7084 # ISI
+7085 # ISI
 7125 # Universidad de Monterrey
 7150 # Commonwealth University of Pennsylvania
 7159 # New Trier Technology Cooperative
@@ -1214,7 +1251,8 @@
 9321 # Hanyang University
 9322 # Institute of Information and Computing, EWHA WOMANS UNIV.
 9323 # DONGGUK University
-9327 # Hopcount Limited
+9327 # Joseph Abley
+9327 # Joseph Abley
 9355 # National Institute of Information and Communications Technology
 9363 # FUJITSU NETWORK SOLUTIONS LIMITED
 9367 # Institute of Science Tokyo
@@ -1421,6 +1459,7 @@
 11407 # Central Point School District 6
 11417 # Northern Illinois University
 11422 # CENIC
+11423 # CENIC
 11424 # Temple University Health System, Inc.
 11442 # North Carolina State University
 11446 # Lakeland Community College
@@ -7006,6 +7045,7 @@
 214486 # Jo Christian Skrede Buvarp
 214488 # Jajuli
 214501 # Yefta Sutanto
+214507 # SIA "Puces datorsistemas"
 214508 # Manu Braibant
 214510 # Rhajune Park
 214514 # Henry Clarke
@@ -7146,6 +7186,8 @@
 218373 # Sandro Pischinger
 218385 # Vsevolod Shasharin
 218397 # Gebze Technical University
+218398 # Balazs Adam Toldi
+218400 # Marius Becker
 218405 # Albin Labranche
 218424 # Matteo Mohr
 218458 # Jonas Lindahl
@@ -8151,4 +8193,5 @@
 403049 # Aurora College
 403051 # Midwestern State University
 403057 # Anderson School District Five
+403065 # PARKERCS
 403067 # Flake Networks LLC

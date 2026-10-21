@@ -48,12 +48,15 @@
 701 # Verizon Business
 702 # Verizon Business
 703 # Verizon Business
+704 # Verizon Business
+705 # Verizon Business
 715 # WoodyNet, Inc.
 719 # Elisa Oyj
 761 # Seinajoen Tietoraitti Oy P.O. Box 147 SF-60101 Seinajoki FI
 790 # Elisa Oyj
 791 # American Information Network
 795 # AT&T Services, Inc.
+796 # AT&T Services, Inc.
 797 # AT&T Services, Inc.
 800 # OneWeb
 803 # Saskatchewan Telecommunications
@@ -169,10 +172,25 @@
 1290 # Telstra Europe Ltd
 1299 # Arelion Sweden AB
 1321 # Verizon Business
+1322 # Verizon Business
 1323 # Verizon Business
+1324 # Verizon Business
 1325 # Verizon Business
 1326 # Verizon Business
+1327 # Verizon Business
+1328 # Verizon Business
+1329 # Verizon Business
+1330 # Verizon Business
+1331 # Verizon Business
+1332 # Verizon Business
+1333 # Verizon Business
+1334 # Verizon Business
+1335 # Verizon Business
+1336 # Verizon Business
+1337 # Verizon Business
+1338 # Verizon Business
 1339 # Verizon Business
+1340 # Verizon Business
 1347 # Inteliquent, inc.
 1349 # Transaction Network Services, Inc.
 1358 # Hughes Network Systems, LLC
@@ -180,8 +198,20 @@
 1378 # Interbel Telephone Cooperative, Inc.
 1379 # SINCH INTERCONNECT LLC
 1381 # Verizon Business
+1382 # Verizon Business
 1383 # Verizon Business
+1384 # Verizon Business
+1385 # Verizon Business
+1386 # Verizon Business
 1387 # Verizon Business
+1388 # Verizon Business
+1389 # Verizon Business
+1390 # Verizon Business
+1391 # Verizon Business
+1392 # Verizon Business
+1393 # Verizon Business
+1394 # Verizon Business
+1395 # Verizon Business
 1403 # EBOX
 1405 # Caelus Technology LLC
 1410 # SMITH BAGLEY INC
@@ -393,6 +423,12 @@
 2686 # AT&T Enterprises, LLC
 2687 # AT&T Enterprises, LLC
 2688 # AT&T Enterprises, LLC
+2689 # AT&T Enterprises, LLC
+2690 # AT&T Enterprises, LLC
+2691 # AT&T Enterprises, LLC
+2692 # AT&T Enterprises, LLC
+2693 # AT&T Enterprises, LLC
+2694 # AT&T Enterprises, LLC
 2699 # American Information Network
 2704 # HookUp Communication Corporation
 2706 # HKBN Enterprise Solutions HK Limited
@@ -451,6 +487,105 @@
 2933 # Real/Time Communications
 2938 # U.S. Sprint
 2942 # U.S. Sprint
+2943 # U.S. Sprint
+2944 # U.S. Sprint
+2945 # U.S. Sprint
+2946 # U.S. Sprint
+2947 # U.S. Sprint
+2948 # U.S. Sprint
+2949 # U.S. Sprint
+2950 # U.S. Sprint
+2951 # U.S. Sprint
+2952 # U.S. Sprint
+2953 # U.S. Sprint
+2954 # U.S. Sprint
+2955 # U.S. Sprint
+2956 # U.S. Sprint
+2957 # U.S. Sprint
+2958 # U.S. Sprint
+2959 # U.S. Sprint
+2960 # U.S. Sprint
+2961 # U.S. Sprint
+2962 # U.S. Sprint
+2963 # U.S. Sprint
+2964 # U.S. Sprint
+2965 # U.S. Sprint
+2966 # U.S. Sprint
+2967 # U.S. Sprint
+2968 # U.S. Sprint
+2969 # U.S. Sprint
+2970 # U.S. Sprint
+2971 # U.S. Sprint
+2972 # U.S. Sprint
+2973 # U.S. Sprint
+2974 # U.S. Sprint
+2975 # U.S. Sprint
+2976 # U.S. Sprint
+2977 # U.S. Sprint
+2978 # U.S. Sprint
+2979 # U.S. Sprint
+2980 # U.S. Sprint
+2981 # U.S. Sprint
+2982 # U.S. Sprint
+2983 # U.S. Sprint
+2984 # U.S. Sprint
+2985 # U.S. Sprint
+2986 # U.S. Sprint
+2987 # U.S. Sprint
+2988 # U.S. Sprint
+2989 # U.S. Sprint
+2990 # U.S. Sprint
+2991 # U.S. Sprint
+2992 # U.S. Sprint
+2993 # U.S. Sprint
+2994 # U.S. Sprint
+2995 # U.S. Sprint
+2996 # U.S. Sprint
+2997 # U.S. Sprint
+2998 # U.S. Sprint
+2999 # U.S. Sprint
+3000 # U.S. Sprint
+3001 # U.S. Sprint
+3002 # U.S. Sprint
+3003 # U.S. Sprint
+3004 # U.S. Sprint
+3005 # U.S. Sprint
+3006 # U.S. Sprint
+3007 # U.S. Sprint
+3008 # U.S. Sprint
+3009 # U.S. Sprint
+3010 # U.S. Sprint
+3011 # U.S. Sprint
+3012 # U.S. Sprint
+3013 # U.S. Sprint
+3014 # U.S. Sprint
+3015 # U.S. Sprint
+3016 # U.S. Sprint
+3017 # U.S. Sprint
+3018 # U.S. Sprint
+3019 # U.S. Sprint
+3020 # U.S. Sprint
+3021 # U.S. Sprint
+3022 # U.S. Sprint
+3023 # U.S. Sprint
+3024 # U.S. Sprint
+3025 # U.S. Sprint
+3026 # U.S. Sprint
+3027 # U.S. Sprint
+3028 # U.S. Sprint
+3029 # U.S. Sprint
+3030 # U.S. Sprint
+3031 # U.S. Sprint
+3032 # U.S. Sprint
+3033 # U.S. Sprint
+3034 # U.S. Sprint
+3035 # U.S. Sprint
+3036 # U.S. Sprint
+3037 # U.S. Sprint
+3038 # U.S. Sprint
+3039 # U.S. Sprint
+3040 # U.S. Sprint
+3041 # U.S. Sprint
 3043 # Amphibian Media Corporation
 3059 # IBM Canada Network Services Company
 3061 # ProvDotNet LLC
@@ -552,6 +687,7 @@
 3366 # a2i communications
 3367 # Xplore Inc.
 3369 # Verizon Business
+3370 # Verizon Business
 3371 # Verizon Business
 3372 # Verizon Business
 3373 # Verizon Business
@@ -616,9 +752,15 @@
 3611 # NETCOM Interactive
 3616 # Internet Presence & Publishing
 3617 # Verizon Business
+3618 # Verizon Business
+3619 # Verizon Business
 3620 # Verizon Business
+3621 # Verizon Business
+3622 # Verizon Business
+3623 # Verizon Business
 3624 # Digineo GmbH
 3625 # Verizon Business
+3626 # Verizon Business
 3637 # Northwest Nexus Inc.
 3638 # Shaman Exchange, Inc.
 3639 # Mystic Valley Communications
@@ -728,8 +870,16 @@
 3934 # NTT America, Inc.
 3936 # NTT America, Inc.
 3937 # NTT America, Inc.
+3938 # NTT America, Inc.
+3939 # NTT America, Inc.
+3940 # NTT America, Inc.
+3941 # NTT America, Inc.
+3942 # NTT America, Inc.
 3945 # NTT America, Inc.
 3946 # NTT America, Inc.
+3947 # NTT America, Inc.
+3948 # NTT America, Inc.
+3949 # NTT America, Inc.
 3950 # Internet Exchange, Ltd.
 3951 # CenturyLink Communications, LLC
 3953 # Profile International
@@ -744,11 +894,30 @@
 3974 # Rezonet
 3976 # I.Net Technologies Inc.
 3977 # Sprint/United Telephone-Florida
+3978 # Sprint/United Telephone-Florida
+3979 # Sprint/United Telephone-Florida
+3980 # Sprint/United Telephone-Florida
+3981 # Sprint/United Telephone-Florida
+3982 # Sprint/United Telephone-Florida
+3983 # Sprint/United Telephone-Florida
+3984 # Sprint/United Telephone-Florida
+3985 # Sprint/United Telephone-Florida
+3986 # Sprint/United Telephone-Florida
+3987 # Sprint/United Telephone-Florida
+3988 # Sprint/United Telephone-Florida
+3989 # Sprint/United Telephone-Florida
+3990 # Sprint/United Telephone-Florida
+3991 # Sprint/United Telephone-Florida
+3992 # Sprint/United Telephone-Florida
 3994 # Internetworsks, Inc.
 3995 # Interweb Corporation
 3998 # CityNet, Inc.
 4000 # Cogent Communications, LLC
+4001 # Cogent Communications, LLC
+4002 # Cogent Communications, LLC
+4003 # Cogent Communications, LLC
 4004 # Cogent Communications, LLC
+4005 # Cogent Communications, LLC
 4006 # Cogent Communications, LLC
 4007 # Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal
 4008 # Universal Internet, Inc
@@ -911,6 +1080,7 @@
 4499 # Web Net Communications, Inc.
 4501 # 123.Net, Inc.
 4509 # Magma Communications Ltd.
+4510 # Magma Communications Ltd.
 4512 # PCW Microsystem, Inc.
 4513 # Unitas Global
 4515 # PCCW IMS Ltd (PCCW Business Internet Access)
@@ -1154,6 +1324,9 @@
 4988 # Hawaiian Telcom Services Company, Inc.
 4990 # AT&T Enterprises, LLC
 4991 # Cogent Communications, LLC
+4992 # Cogent Communications, LLC
+4993 # Cogent Communications, LLC
+4994 # Cogent Communications, LLC
 4995 # Netup S.A.
 4997 # Zayo Bandwidth
 4999 # Cogent Communications, LLC
@@ -1340,6 +1513,15 @@
 5668 # CenturyLink Communications, LLC
 5669 # GTT Americas, LLC
 5672 # AT&T Enterprises, LLC
+5673 # AT&T Enterprises, LLC
+5674 # AT&T Enterprises, LLC
+5675 # AT&T Enterprises, LLC
+5676 # AT&T Enterprises, LLC
+5677 # AT&T Enterprises, LLC
+5678 # AT&T Enterprises, LLC
+5679 # AT&T Enterprises, LLC
+5680 # AT&T Enterprises, LLC
+5681 # AT&T Enterprises, LLC
 5682 # Online Network Enterprises
 5683 # Mad City Broadband, Inc.
 5686 # CompuServe Interactive Services, Inc
@@ -1574,6 +1756,14 @@
 6378 # Northwest Networks
 6379 # A-Link Network Services, Inc.
 6380 # AT&T Enterprises, LLC
+6381 # AT&T Enterprises, LLC
+6382 # AT&T Enterprises, LLC
+6383 # AT&T Enterprises, LLC
+6384 # AT&T Enterprises, LLC
+6385 # AT&T Enterprises, LLC
+6386 # AT&T Enterprises, LLC
+6387 # AT&T Enterprises, LLC
+6388 # AT&T Enterprises, LLC
 6389 # AT&T Enterprises, LLC
 6391 # Beanfield Technologies Inc.
 6392 # MidWest Communications, Inc.
@@ -1833,6 +2023,9 @@
 6910 # DIGI ROMANIA S.A.
 6911 # Associated Networks (UK) Limited
 6912 # Hayes Computer Systems
+6913 # Hayes Computer Systems
+6914 # Hayes Computer Systems
+6915 # Hayes Computer Systems
 6918 # Penncom Internet Co.
 6919 # Impact Telecom, LLC.
 6921 # Arachnitec, INC.
@@ -2001,8 +2194,12 @@
 7285 # SageNet LLC
 7286 # AT&T Enterprises, LLC
 7287 # AT&T Enterprises, LLC
+7288 # AT&T Enterprises, LLC
 7290 # AT&T Enterprises, LLC
 7291 # AT&T Enterprises, LLC
+7292 # AT&T Enterprises, LLC
+7293 # AT&T Enterprises, LLC
+7294 # AT&T Enterprises, LLC
 7295 # Network America Systems, Inc.
 7299 # ProNET Communications Inc.
 7302 # Advanced Internet Communications, Inc.
@@ -2306,6 +2503,9 @@
 7883 # Fleettel INC.
 7890 # Unilink Redes de Informacoes Ltda
 7891 # AT&T Enterprises, LLC
+7892 # AT&T Enterprises, LLC
+7893 # AT&T Enterprises, LLC
+7894 # AT&T Enterprises, LLC
 7900 # Hoosier Online Systems Corp.
 7903 # Breezeline
 7904 # National Internet Source, Inc.
@@ -2378,6 +2578,11 @@
 8027 # Global NAPs Inc.
 8029 # Microserve, Inc.
 8030 # AT&T WorldNet
+8031 # AT&T WorldNet
+8032 # AT&T WorldNet
+8033 # AT&T WorldNet
+8034 # AT&T WorldNet
+8035 # AT&T WorldNet
 8039 # Windstream Communications LLC
 8041 # EarthReach Communications, LLC
 8043 # Level 3 Parent, LLC
@@ -2395,6 +2600,9 @@
 8058 # JAB Wireless, INC.
 8059 # Outernet, Inc.
 8060 # AT&T Enterprises, LLC
+8061 # AT&T Enterprises, LLC
+8062 # AT&T Enterprises, LLC
+8063 # AT&T Enterprises, LLC
 8065 # UNE EPM TELECOMUNICACIONES S.A.
 8066 # Inea Internet S.A.
 8078 # Information Interclear
@@ -2410,7 +2618,14 @@
 8100 # Splice Internet
 8105 # DakotaPro.biz
 8106 # Cogent Communications, LLC
+8107 # Cogent Communications, LLC
+8108 # Cogent Communications, LLC
+8109 # Cogent Communications, LLC
+8110 # Cogent Communications, LLC
 8112 # Verizon Business
+8113 # Verizon Business
+8114 # Verizon Business
+8115 # Verizon Business
 8120 # FirstLight Networks, LLC
 8124 # Tumbleweed Internet Hub
 8125 # Cyberport, LLC
@@ -3544,6 +3759,7 @@
 10713 # Insync Internet Services, Inc.
 10714 # The Rock Island Group
 10719 # Verizon Business
+10720 # Verizon Business
 10726 # Internet Navigator, Inc.
 10727 # Netaccess, Inc.
 10728 # T-Mobile USA, Inc.
@@ -3568,6 +3784,10 @@
 10768 # Cogent Communications, LLC
 10769 # Tidal Wave Internet
 10770 # AT&T Enterprises, LLC
+10771 # AT&T Enterprises, LLC
+10772 # AT&T Enterprises, LLC
+10773 # AT&T Enterprises, LLC
+10774 # AT&T Enterprises, LLC
 10776 # NETSCAN Technology Corporation
 10777 # Buzzeo, Inc
 10778 # MCL Internet
@@ -3628,6 +3848,9 @@
 10905 # Mobile Technology Ventures Inc
 10909 # SkeeWave
 10910 # Unitas Global
+10911 # Unitas Global
+10912 # Unitas Global
+10913 # Unitas Global
 10926 # Mage Networks Inc.
 10927 # Packet Clearing House, Inc.
 10930 # Nova Internet Services, Inc.
@@ -3688,6 +3911,7 @@
 11090 # Matanuska Telecom Association, Incorporated
 11092 # Hevanet
 11098 # SBC Communications, Inc.
+11099 # SBC Communications, Inc.
 11102 # VYANET
 11103 # Execulink Telecom Inc.
 11104 # CenturyLink Communications, LLC
@@ -3706,6 +3930,10 @@
 11139 # Cable & Wireless Dominica
 11142 # Precision Data Solutions, LLC
 11145 # Verizon Business
+11146 # Verizon Business
+11147 # Verizon Business
+11148 # Verizon Business
+11149 # Verizon Business
 11152 # Highline Services, LLC
 11155 # DE LightSpeed
 11158 # NTT America, Inc.
@@ -3935,6 +4163,8 @@
 11848 # SecureVision
 11850 # Mags.Net, LLC
 11853 # Unitas Global
+11854 # Unitas Global
+11855 # Unitas Global
 11856 # XC Technology Holdings LTD
 11859 # NELLICUS, LLC
 11868 # SITA Switzerland Sarl
@@ -4046,6 +4276,10 @@
 12176 # Neteo
 12177 # Grande Communications Networks, LLC
 12178 # Unitas Global
+12179 # Unitas Global
+12180 # Unitas Global
+12181 # Unitas Global
+12182 # Unitas Global
 12183 # Talkie Communications, Inc
 12198 # JSMSR Network
 12199 # Verizon Business
@@ -4555,9 +4789,20 @@
 13657 # EGATE NETWORKS INC.
 13659 # INTERTECH CORPORATION
 13661 # Verizon Business
+13662 # Verizon Business
+13663 # Verizon Business
+13664 # Verizon Business
+13665 # Verizon Business
 13666 # Verizon Business
+13667 # Verizon Business
+13668 # Verizon Business
+13669 # Verizon Business
+13670 # Verizon Business
 13671 # Verizon Business
 13672 # Fidium
+13673 # Fidium
+13674 # Fidium
+13675 # Fidium
 13676 # GoNetSpeed
 13678 # Windstream Communications LLC
 13680 # City-Guide Internet Services Inc.
@@ -4591,6 +4836,9 @@
 13786 # Seabras 1 USA, LLC
 13787 # CenturyLink Communications, LLC
 13789 # Unitas Global
+13790 # Unitas Global
+13791 # Unitas Global
+13792 # Unitas Global
 13793 # T3 VoiceNet, LLC.
 13794 # Odynet inc
 13795 # Smart Way Communications, LLC
@@ -4849,6 +5097,9 @@
 14731 # Beauce Telecom
 14735 # ECN
 14742 # Unitas Global
+14743 # Unitas Global
+14744 # Unitas Global
+14745 # Unitas Global
 14746 # NocTel Communications, Inc.
 14749 # Russellville Electric Plant Board
 14750 # Sierra Tel Internet
@@ -5570,7 +5821,15 @@
 17217 # Indianapolis Internet Exchange, Inc.
 17222 # MUNDIVOX DO BRASIL LTDA
 17224 # AT&T Enterprises, LLC
+17225 # AT&T Enterprises, LLC
+17226 # AT&T Enterprises, LLC
+17227 # AT&T Enterprises, LLC
+17228 # AT&T Enterprises, LLC
 17229 # AT&T Enterprises, LLC
+17230 # AT&T Enterprises, LLC
+17231 # AT&T Enterprises, LLC
+17232 # AT&T Enterprises, LLC
+17233 # AT&T Enterprises, LLC
 17235 # Commercial Time Sharing, Inc.
 17239 # High Speed Web/Genesis 2 Networks
 17246 # RCI Broadband
@@ -6128,6 +6387,8 @@
 18646 # Bitmax, Inc.
 18647 # Accel Net, Inc.
 18652 # Verizon Business
+18653 # Verizon Business
+18654 # Verizon Business
 18671 # PRTC
 18677 # Columbus Networks USA, Inc.
 18678 # INTERNEXA S.A. E.S.P
@@ -6408,6 +6669,7 @@
 19669 # Steel City Signal
 19670 # Custom Computer Specialists, Inc.
 19671 # Everest BBN, Inc.
+19672 # Everest BBN, Inc.
 19675 # M3COM of Virginia, Inc
 19676 # Liquid Telecommunications Operations Limited
 19678 # Intus Smart Network Solutions Inc.
@@ -6419,6 +6681,7 @@
 19689 # Nuvisions
 19696 # Vodalink Telecom Inc.
 19698 # Verizon Business
+19699 # Verizon Business
 19709 # Helix Computer Systems, Inc.
 19711 # SWAZILAND PTC
 19719 # Southland Technology, Inc.
@@ -6443,6 +6706,7 @@
 19797 # DEXAGON Inc.
 19803 # NTT Global Networks Incorporated
 19804 # NTT Global Networks Incorporated
+19805 # NTT Global Networks Incorporated
 19806 # NTT Global Networks Incorporated
 19807 # NTT Global Networks Incorporated
 19808 # NTT Global Networks Incorporated
@@ -6486,7 +6750,6 @@
 19939 # Beaver Creek Telephone Company
 19940 # Ace Innovative Networks, Inc.
 19944 # GraniteIX LLC
-19952 # Nortel Networks, Inc
 19955 # Pineland Telephone Cooperative, Inc.
 19956 # AT&T Enterprises, LLC
 19957 # AT&T Enterprises, LLC
@@ -6513,6 +6776,10 @@
 20015 # FullCom S.A.
 20018 # Moapa Valley Telephone Company
 20022 # Everest BBN, Inc.
+20023 # Everest BBN, Inc.
+20024 # Everest BBN, Inc.
+20025 # Everest BBN, Inc.
+20026 # Everest BBN, Inc.
 20028 # OneTone Telecom, Inc
 20030 # Artelco
 20042 # Cutter Communications, Inc.
@@ -9362,6 +9629,7 @@
 29107 # Synapse Network LTD
 29108 # Leitwert GmbH
 29113 # Vodafone Czech Republic a.s.
+29119 # AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL
 29124 # Iskratelecom JSC
 29125 # PJSC "Vimpelcom"
 29128 # Digital Service Ltd.
@@ -9718,6 +9986,8 @@
 30462 # NexGen Integrated Communications LLC
 30466 # Cogeco Connexion inc
 30467 # Vonage Holdings, Inc.
+30468 # Vonage Holdings, Inc.
+30469 # Vonage Holdings, Inc.
 30478 # Affinity VoIP Telecom, Inc.
 30480 # OneNet
 30481 # Citizens Telecommunication Technologies, Inc
@@ -10129,6 +10399,8 @@
 31896 # X2nSat, Inc
 31903 # Telna Inc.
 31907 # Vonage Holdings, Inc.
+31908 # Vonage Holdings, Inc.
+31909 # Vonage Holdings, Inc.
 31914 # Hutterian Broadband Network Inc
 31915 # Mojo Broadband
 31919 # Blue Ridge Mountain Electric Membership Corporation - BRM EMC
@@ -12863,7 +13135,16 @@
 40304 # Bell Canada
 40305 # ViaSat,Inc.
 40306 # ViaSat,Inc.
+40307 # ViaSat,Inc.
+40308 # ViaSat,Inc.
+40309 # ViaSat,Inc.
+40310 # ViaSat,Inc.
 40311 # ViaSat,Inc.
+40312 # ViaSat,Inc.
+40313 # ViaSat,Inc.
+40314 # ViaSat,Inc.
+40315 # ViaSat,Inc.
+40316 # ViaSat,Inc.
 40317 # Peoples Communications Inc.
 40328 # AcenTek
 40336 # Jacobi International Inc.
@@ -20128,7 +20409,6 @@
 59784 # NETWORKING CONSULTING SRL
 59790 # Marco Bungalski GmbH
 59793 # Corporate Internet Service Provider LLC
-59803 # DATAQUEST (HEATHROW) LIMITED
 59809 # Numeric Futures Limited
 59811 # Voneus Ltd
 59813 # Konstantin Verba
@@ -24956,7 +25236,6 @@
 137943 # LIVENET. INTERNET SERVICE PROVIDER
 137946 # PT SINERGI BERKAH TEKNOLOGI BERSAUDARA
 137950 # Better Broadband
-137951 # ASLINE LIMITED
 137953 # Bismillah IT Solution
 137955 # Myanmar Internet Exchange
 137958 # Capti Technology Pty Ltd
@@ -27301,7 +27580,6 @@
 142268 # Prizma Digital Private Limited
 142270 # ohae/posinet
 142271 # EWS DS Networks Inc
-142272 # Mega Cable
 142276 # NetBlue Services Pty Ltd
 142278 # Modhumoti Internet Service
 142280 # PT Qalby Cahaya Network
@@ -27835,6 +28113,7 @@
 147277 # C FIBER COMMUNICATIONS PVT LTD
 147278 # MERV ENTERPRISES PVT LTD
 147279 # OPTO COMMUNICATIONS PRIVATE LIMITED
+147281 # Luckynet9 Private Limited
 147282 # PATHCOM COMMUNICATIONS PRIVATE LIMITED
 147283 # MAHARAJ MULTI SYSTEMS PVT LTD
 147284 # MANA BROADBAND PRIVATE LIMITED
@@ -31072,6 +31351,7 @@
 155012 # Uplink Myanmar Company Limited
 155013 # PT Jaringan Lintas Data Nusantara
 155015 # PASSCOM SYSTEM AND SERVICES PRIVATE LIMITED
+155017 # PT Saviel Network Indonesia
 155020 # APIDT Infrastructure Pty Ltd
 155021 # PT Access Jaringan Nusantara
 155022 # INSERV NETWORK
@@ -31641,7 +31921,6 @@
 198174 # Vean Networks Ltd
 198180 # Gabriele Sabatino
 198181 # Ltd "Open Technologies"
-198182 # SP Sbezhnev
 198183 # Rivna For Information Technology Ltd.
 198185 # LigaLink LLC
 198186 # Sondre Hoslemo
@@ -31697,6 +31976,7 @@
 198295 # JSC "ER-Telecom Holding"
 198297 # JSC "Ul-com Media"
 198304 # MoeDove
+198308 # TipTopNet Limited
 198309 # Telia Norge AS
 198310 # OOO Molniya
 198317 # Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX Gabriel Sulka
@@ -31761,6 +32041,7 @@
 198446 # Abavia S.r.l.
 198454 # SISTEC TELECOM S.L.
 198458 # Electro Orizont SRL
+198459 # Limited liability company "BAIDAK"
 198461 # BRILLIANT TELECOM LIMITED
 198462 # NEW SRL
 198463 # On 1 Call Support AB
@@ -31981,6 +32262,7 @@
 199139 # Weritech B.V.
 199140 # Orange S.A.
 199143 # Indaleccius Broadcasting SL
+199149 # Solintex Insular SLU
 199151 # MAGIS-MEDIANET Jacek Krzciuk
 199162 # Wifinetcom srl
 199164 # TalkTalk Communications Limited
@@ -32883,6 +33165,7 @@
 201874 # AmurCity ltd.
 201877 # NETandWORK s.r.l.
 201878 # Stadtwerke Muehlheim am Main GmbH
+201880 # FIPEK BILISIM ANONIM SIRKETI
 201884 # ISP SUPPORT LLC
 201887 # SAVACO NV
 201889 # e-nettet A/S
@@ -33054,6 +33337,7 @@
 202352 # CONECTA 3 TELECOM S.L.
 202353 # PE TRK Todor
 202354 # Blue Sky Internet Services LTD
+202355 # Ciallo Networks LTD
 202359 # AS207960 Cyfyngedig
 202362 # Vasylchenko Oleksandr
 202365 # Omer GOLGELI
@@ -35298,7 +35582,7 @@
 208735 # BIWIFI TELECOMUNICACIONES S.L.
 208736 # Homenet Limited
 208738 # Carcon Networks S.L.
-208743 # Ali Rayan
+208743 # Nordpeer
 208752 # "BaykonurSvyazInform" SUE
 208756 # ALCON TELECOM LTD
 208764 # FRANZ NET d.o.o.
@@ -36510,7 +36794,6 @@
 212442 # Mechmet CHATIP MEMET trading as SpeedNet
 212443 # Leonet GmbH
 212444 # LLC BROSS-TELECOM
-212445 # TELE SAPIENS SRLS
 212449 # Erate AS
 212456 # TELECOM-OREL LLC
 212460 # SAWAD LAND for Information Technology Ltd
@@ -37086,7 +37369,6 @@
 214490 # ASII TELECOM SARL
 214497 # Whitelabel Solutions, Ltd.
 214499 # BASS d.o.o., Celje
-214507 # SIA "Puces datorsistemas"
 214511 # "YTSS" LLC
 214522 # Arnau Barbero
 214525 # Kurochkin Evgeniy Anatolievich
@@ -37180,7 +37462,7 @@
 214963 # Puhe You
 214972 # Lobi Bilgi Teknolojileri A.S.
 214975 # Girey-net OOO
-214976 # API VERSA OU
+214976 # AVSISP OU
 214981 # IE Didyk Dmitriy Sergeyevich
 214982 # Awaser Oman LLC
 214990 # GO LINE LLC
@@ -37250,7 +37532,6 @@
 215237 # Namangan Kelazhak Kabel Servis MCHJ
 215239 # Show Corporation
 215247 # RYADKOM LLC.
-215251 # William Perry
 215252 # Lantec Services Ltd
 215253 # FAMKO Paulina Zwiazek
 215254 # Swisscom Broadcast Ltd
@@ -37321,7 +37602,6 @@
 215533 # LLC Zaitoon technology
 215534 # PLAZMATELEKOM LLC
 215539 # Superlink LLC
-215540 # GLOBAL CONNECTIVITY SOLUTIONS LLP
 215542 # NOVA SPEKTRUM AS
 215546 # Telecom 1 LLC
 215551 # KeFF Networks Ltd
@@ -37553,6 +37833,7 @@
 216468 # Lemon IP group d.o.o.
 216472 # High Speed For Internet Services L.L.C
 216475 # NKtelecom INC
+218365 # AYA Internet Service Provider
 218370 # TWS technologies GmbH
 218371 # Satcube AB
 218372 # Altaleb and Bahlaq for Communications Ltd
@@ -46646,7 +46927,6 @@
 274453 # PLIM, PLATAFORMA DE LANZAMIENTO INTERNET DE MICHOACAN SA DE CV
 274454 # SERVICIOS DE TELECOMUNICACIONES METRO RED MEXICO
 274455 # GPON TELECOM
-274456 # ALFREDO NARANJO HERNANDEZ
 274457 # SERVICIOS E INFRAESTRUCTURA MEGAFIBRA
 274458 # COMERCIALIZADORA, SUMINISTROS Y SERVICIOS ALIGER
 274462 # WEB FIBER TELECOMUNICAÇÕES
@@ -48414,6 +48694,7 @@
 329731 # BOTSWANA FIBRE NETWORKS (Proprietary) Limited
 329732 # BOTSWANA FIBRE NETWORKS (Proprietary) Limited
 329734 # Zoom Fibre
+329735 # Enryoc (Pty) Ltd
 329737 # Azanet Solutions Limited
 329738 # AFRITEL NETWORK  AND ISP SERVICES
 329739 # 3 Way Protocol Limited
@@ -48477,6 +48758,7 @@
 329831 # DATATECH SARL
 329832 # Complete Enterprise Solutions Mozambique, LIMITADA
 329833 # ICTNETWORKS (PTY) LTD
+329834 # GOLDLINK FIBER SOLUTIONS LTD
 393217 # TELUS Communications Inc.
 393223 # CWI Caribbean Limited
 393227 # RTC Communications Corp.
@@ -49266,6 +49548,11 @@
 397570 # Right Tech Internet Inc
 397573 # Telecommunication Carl Verreault inc
 397576 # MIC GLOBAL SERVICES, LLC
+397577 # MIC GLOBAL SERVICES, LLC
+397578 # MIC GLOBAL SERVICES, LLC
+397579 # MIC GLOBAL SERVICES, LLC
+397580 # MIC GLOBAL SERVICES, LLC
+397581 # MIC GLOBAL SERVICES, LLC
 397582 # WOW-World of Wireless
 397585 # Tech and Networks Solutions, LLC
 397586 # Rural Comm
@@ -49511,6 +49798,58 @@
 398571 # CLEVELAND COUNTY TELEPHONE CO. INC.
 398576 # Premium Choice Broadband
 398582 # Charter Communications LLC
+398583 # Charter Communications LLC
+398584 # Charter Communications LLC
+398585 # Charter Communications LLC
+398586 # Charter Communications LLC
+398587 # Charter Communications LLC
+398588 # Charter Communications LLC
+398589 # Charter Communications LLC
+398590 # Charter Communications LLC
+398591 # Charter Communications LLC
+398592 # Charter Communications LLC
+398593 # Charter Communications LLC
+398594 # Charter Communications LLC
+398595 # Charter Communications LLC
+398596 # Charter Communications LLC
+398597 # Charter Communications LLC
+398598 # Charter Communications LLC
+398599 # Charter Communications LLC
+398600 # Charter Communications LLC
+398601 # Charter Communications LLC
+398602 # Charter Communications LLC
+398603 # Charter Communications LLC
+398604 # Charter Communications LLC
+398605 # Charter Communications LLC
+398606 # Charter Communications LLC
+398607 # Charter Communications LLC
+398608 # Charter Communications LLC
+398609 # Charter Communications LLC
+398610 # Charter Communications LLC
+398611 # Charter Communications LLC
+398612 # Charter Communications LLC
+398613 # Charter Communications LLC
+398614 # Charter Communications LLC
+398615 # Charter Communications LLC
+398616 # Charter Communications LLC
+398617 # Charter Communications LLC
+398618 # Charter Communications LLC
+398619 # Charter Communications LLC
+398620 # Charter Communications LLC
+398621 # Charter Communications LLC
+398622 # Charter Communications LLC
+398623 # Charter Communications LLC
+398624 # Charter Communications LLC
+398625 # Charter Communications LLC
+398626 # Charter Communications LLC
+398627 # Charter Communications LLC
+398628 # Charter Communications LLC
+398629 # Charter Communications LLC
+398630 # Charter Communications LLC
+398631 # Charter Communications LLC
+398632 # Charter Communications LLC
+398633 # Charter Communications LLC
+398634 # Charter Communications LLC
 398635 # Access Master
 398636 # 832 Communications, LLC
 398640 # All Village Communications, LLC
@@ -49685,6 +50024,7 @@
 399302 # GREENFROG NETWORKS, LLC
 399303 # Volli Communications, Inc
 399311 # Frontier Networks Corp
+399312 # Frontier Networks Corp
 399324 # Apogee Telecom Inc.
 399325 # Apogee Telecom Inc.
 399327 # Connect
