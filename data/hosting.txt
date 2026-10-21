@@ -5900,7 +5900,6 @@
 136253 # Cloud Discovery HK LTD
 136258 # BrainStorm Network, Inc
 136274 # Cloud Servers Pvt Ltd
-136334 # Vortex Netsol Private Limited
 136382 # ColoCloud
 136387 # Deepidc technology international co.,limted
 136396 # HOSTOMEGA
