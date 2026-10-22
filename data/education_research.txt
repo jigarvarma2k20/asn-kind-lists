@@ -1252,7 +1252,6 @@
 9322 # Institute of Information and Computing, EWHA WOMANS UNIV.
 9323 # DONGGUK University
 9327 # Joseph Abley
-9327 # Joseph Abley
 9355 # National Institute of Information and Communications Technology
 9363 # FUJITSU NETWORK SOLUTIONS LIMITED
 9367 # Institute of Science Tokyo
@@ -3174,7 +3173,6 @@
 39857 # Aalto University Student Union
 39873 # Rzeszow University of Technology
 39909 # Institute of Soil Science and Plant Cultivation - State Research Institute
-39941 # Pacific Wave
 39942 # Lincoln Intermediate Unit 12
 39943 # St. Francis College
 39954 # Gateway Technical College
@@ -7183,6 +7181,7 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218349 # Benjamin Turquet de Beauregard
 218373 # Sandro Pischinger
 218385 # Vsevolod Shasharin
 218397 # Gebze Technical University
