@@ -1961,6 +1961,7 @@
 18555 # The Art Institute of Chicago
 18560 # Lamar State College - Orange
 18564 # St. John's University, New York
+18572 # Beaver Valley Intermediate Unit #27
 18592 # Corporacion Universitaria para el Desarrollo de Internet, A.C.
 18607 # Gustav Caplan
 18621 # The Conestoga College Institute of Technology and Advanced Learning
@@ -2726,7 +2727,6 @@
 30713 # York Region District School Board
 30746 # Nat Morris
 30778 # Kielce University of Technology
-30812 # Federal State Budgetary Educational Institution of Higher Education "Mari State University"
 30847 # Lancaster University Network Services Limited
 30869 # FEDERAL STATE AUTONOMOUS EDUCATIONAL INSTITUTE OF HIGHER EDUCATION "RUSSIAN UNIVERSITY OF TRANSPORT"
 30911 # State Educational Institution of higher professional Education 'Altai state technical university after I.I.Polzunov'
@@ -4082,7 +4082,6 @@
 63398 # Twin Rivers Unified School District
 63400 # Lubbock Independent School District
 63419 # Dufferin-Peel Catholic District School Board
-63477 # Coniferous Systems, LLC
 63491 # Universitas Katolik Widya Mandala
 63496 # Universitas Negeri Papua
 63499 # Universitas Negeri Padang
@@ -6717,6 +6716,7 @@
 208301 # Jamie Helmke
 208325 # European University at Saint Petersburg
 208391 # Christoffer Hansen
+208394 # ETERNAL GROUP DENIZCILIK EGITIM MAKINE DANISMANLIK DIS TICARET LIMITED SIRKETI
 208434 # Martin Jahn
 208460 # Alexander Beck
 208471 # VKNets
@@ -6843,7 +6843,6 @@
 211024 # Jack O'Sullivan
 211072 # MFI INVESTMENTS LIMITED
 211088 # Xynonet
-211105 # Groupe I.S.E.G
 211116 # Puntozero S.c.a.r.l.
 211153 # Emil Petersen
 211155 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
@@ -7181,9 +7180,13 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218338 # Dominic Grimm
+218347 # Jan Bellon
 218349 # Benjamin Turquet de Beauregard
+218353 # Politechnika Lubelska
 218373 # Sandro Pischinger
 218385 # Vsevolod Shasharin
+218387 # Rene Investments Ab
 218397 # Gebze Technical University
 218398 # Balazs Adam Toldi
 218400 # Marius Becker
@@ -8194,3 +8197,4 @@
 403057 # Anderson School District Five
 403065 # PARKERCS
 403067 # Flake Networks LLC
+403121 # University of Dayton Research Institute

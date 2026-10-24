@@ -679,7 +679,6 @@
 3339 # FIBRAWORLD TELECOM S.A.U.
 3340 # Magyar Telekom Plc.
 3342 # Cibicom A/S
-3344 # Burstfire Networks Ltd
 3348 # AVATEL TELECOM, SA
 3352 # TELEFONICA DE ESPANA S.A.U.
 3356 # Level 3 Parent, LLC
@@ -1454,7 +1453,7 @@
 5532 # GO p.l.c.
 5533 # Claranet Portugal S.A
 5536 # Xyberdata
-5539 # SpaceNet AG
+5539 # SpaceNet GmbH
 5541 # INVITE Systems SRL
 5543 # Joint Stock Company TransTeleCom
 5547 # JSC Orient-Telecom
@@ -2477,7 +2476,6 @@
 7833 # Extra.Net
 7836 # Verizon Business
 7837 # Taihe Networks LLC
-7842 # WebWorld Inc
 7843 # Charter Communications Inc
 7844 # OASIS TECHNOLOGIES
 7845 # Allstream Business US, LLC
@@ -2796,7 +2794,7 @@
 8474 # Riscom S.A.
 8477 # Multimedia Polska Sp. z o.o.
 8478 # GIG Networks AS
-8481 # SpaceNet AG
+8481 # SpaceNet GmbH
 8483 # Claranet Benelux B.V.
 8485 # Joint Stock Company TransTeleCom
 8487 # Phibee Telecom SAS
@@ -4748,7 +4746,7 @@
 13493 # Cox Communications Inc.
 13495 # NTT DO BRASIL TELECOMUNICACOES LTDA.
 13497 # American Broadband & Telecommunications Company
-13512 # Monroe Telephone Co.
+13512 # Pioneer Connect
 13514 # ISP Canopus S.A.
 13518 # GoNetSpeed
 13520 # CAMBRIDGE BANDWIDTH CONSORTIUM, INC.
@@ -7103,7 +7101,7 @@
 21104 # Netsys JV LLC
 21105 # RTK-Tranzit
 21107 # Blicnet d.o.o. Banja Luka
-21119 # iteam Braathe AS
+21119 # KLERI 1 AS
 21127 # Joint Stock Company TransTeleCom
 21132 # Korbank S. A.
 21135 # JSC Multiregional Transittelecom
@@ -7309,7 +7307,6 @@
 21738 # Rozint
 21739 # MAJUBA TECHNOLOGIES(PTY) Limited t/a T-SOL
 21740 # Ting Fiber Inc.
-21741 # Visualcorp Holding Ltda
 21743 # Atlas Networks Corporation
 21744 # WestTel Ltd.
 21747 # Windstream Communications LLC
@@ -8766,6 +8763,7 @@
 26593 # Telespazio Argentina
 26595 # Enlaces y Comunicaciones del Sureste SA de CV
 26599 # TELEFÔNICA BRASIL S.A
+26600 # M.I. WEBWORKS S.A.
 26603 # Telmex Colombia S.A.
 26608 # Telecom Argentina S.A.
 26609 # Universal Telecom S.A.
@@ -8978,6 +8976,7 @@
 27653 # Alpha Communications Network
 27659 # Ingeniería e Informática Asociada Ltda (IIA Ltda)
 27660 # Curacao Telecom
+27661 # Network Information Center México
 27665 # Columbus Communications Trinidad Limited.
 27668 # ETAPA EP
 27669 # E-life Paraguay S.A.
@@ -9919,6 +9918,7 @@
 30164 # Rightfiber
 30165 # Dalton Utilities
 30167 # XC Networks, Ltd.
+30169 # Western Light and Tower Company Inc
 30170 # Isomedia, Inc.
 30174 # United Telephone Association, Inc.
 30177 # Point Broadband Fiber Holding, LLC
@@ -11010,7 +11010,7 @@
 34297 # PJSC Rostelecom
 34300 # Internet-Cosmos LLC
 34301 # KFNET COM SRL
-34303 # Regional TeleSystem Ltd
+34303 # BELRTS Ltd
 34304 # Teen Telecom SRL
 34306 # SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS
 34308 # Riedel Networks GmbH & Co. KG.
@@ -12956,6 +12956,7 @@
 39683 # Netpoint Services Ltd.
 39684 # OOO Mango Telecom
 39686 # Eurofiber Nederland BV
+39690 # DIGITAL NETWORK S.R.L.
 39699 # Lounea Palvelut Oy
 39700 # Signet B.V.
 39705 # OnNet-Communications GmbH
@@ -13658,7 +13659,6 @@
 41974 # Neten S.p.A.
 41975 # OOO RIVC "Simplex"
 41976 # PJSC MegaFon
-41984 # Confort L&CC SRL
 41985 # Stargroup LLC
 41987 # Nalbandian Marko
 41990 # NETFINITY JSC
@@ -14271,7 +14271,7 @@
 43533 # OOO "Gals Telecom"
 43536 # NTT Germany Holdings GmbH
 43542 # OptoNet Communication, spol. s.r.o.
-43545 # Teledata UK Limited
+43545 # Datum Datacentres Limited
 43548 # NETBOX LTD
 43550 # JSC "ER-Telecom Holding"
 43551 # AMT DataTechnologies Limited
@@ -15379,7 +15379,6 @@
 46534 # Vision Wifi Inc
 46536 # ViaSat, Inc.
 46539 # Shadow Internet Ltd
-46553 # AS46553 s.r.o.
 46559 # ZGX US LLC
 46574 # VINEO LLC
 46583 # Visionary Technologies Inc.
@@ -15520,7 +15519,7 @@
 47161 # Stadtwerke Feldkirch
 47164 # Manuel Lozano Ruiz
 47165 # Omskie kabelnye seti Ltd.
-47166 # Regional TeleSystem Ltd
+47166 # BELRTS Ltd
 47167 # Eurofiber Nederland BV
 47169 # Pro-M Zrt.
 47176 # GAS&COM AG
@@ -15650,7 +15649,6 @@
 47459 # EXCELLENT SIGNALMAN LLC
 47460 # PJSC Rostelecom
 47462 # Julius Kaiser
-47465 # Limited liability company Sovtest IP
 47470 # CJSC Orlikov-5
 47473 # Ruzzo Reti S.p.a.
 47474 # Virtual1 Limited
@@ -15827,6 +15825,7 @@
 47911 # JSC "ER-Telecom Holding"
 47914 # OOO Creative Direct Marketing Solutions
 47915 # NIXWAY SRL
+47923 # LanCraft Ltd.
 47925 # OOO WestCall Ltd.
 47927 # WIFIWEB s.r.l.
 47929 # UAB "Baltnetos komunikacijos"
@@ -16538,7 +16537,7 @@
 49578 # Fregat Ltd.
 49583 # Kom lan Ltd
 49584 # EasyTeam SAS
-49585 # CoreRoute UG
+49585 # CoreRoute UG (haftungsbeschraenkt)
 49586 # Intility AS
 49587 # JSA Group LLC
 49588 # SDS-Vostok Ltd.
@@ -16701,7 +16700,7 @@
 49954 # Progress Technology LLC
 49956 # In(n) Energie GmbH
 49962 # ALUE LTD
-49963 # Regional TeleSystem Ltd
+49963 # BELRTS Ltd
 49964 # TORNADO TELECOM S.R.L.
 49968 # FASTPATH IKE
 49971 # PrJSC Valex
@@ -18467,6 +18466,7 @@
 54444 # AS54444 s.r.o.
 54448 # Greenfield Communications, Inc.
 54450 # MBLOX INC.
+54454 # VOI NET INC.
 54458 # American Fiber INC.
 54473 # Charter Communications Inc
 54476 # VOX CONNECT INC
@@ -19696,6 +19696,7 @@
 58041 # OOO AriaTV
 58044 # free-zona s.r.o.
 58048 # Bezheckaya Internet Company ltd.
+58049 # Erinix Sarl
 58050 # Azimut-Telecom LLC
 58051 # Alpha Internet Limited
 58052 # Volteric Limited
@@ -20042,6 +20043,7 @@
 58898 # Rainbow communications India Pvt Ltd
 58900 # UTTAM INFRANET PRIVATE LIMITED
 58906 # Shivansh Infotech pvt Ltd
+58909 # IBEE Software Solutions Pvt. Ltd.
 58910 # ACODA Networks Sdn Bhd
 58912 # Chittagong Telecom Services Ltd
 58914 # Puddlenet Pty Ltd
@@ -20237,6 +20239,7 @@
 59391 # CHINANET Liaoning province network
 59392 # IE Valevskaya Elena Evgenevna
 59395 # Southern Communications Ltd
+59396 # Tolvu- og Rafeindapjonusta Sudurlands ehf
 59402 # Virocom Limited
 59403 # ZONAMBER SL
 59404 # Korkino-Cable Television Networks Ltd
@@ -20402,6 +20405,7 @@
 59767 # Netnordic Group AS
 59770 # "KT MAZ"LLC
 59773 # Al Ard Al Thahabia Phone & Internet Devices Trading L.L.C
+59776 # Liberty Global Europe Holding B.V.
 59778 # Synextra Limited
 59780 # Surfboxx IT-Solutions GmbH
 59782 # ITB Sp. z o.o.
@@ -21004,7 +21008,6 @@
 61341 # GCI Network Solutions Limited
 61345 # FLYTOM NETWORKS LTD
 61349 # MaxiTEL Telecom B.V.
-61350 # SnapStack Limited
 61356 # LLC EKSINTECH
 61359 # OOO "KT-IX"
 61360 # Special Engineering and Design Bureau "Orbita" JSC
@@ -21100,7 +21103,6 @@
 61597 # GalizaNET - Internet Services
 61599 # EAI TELECOMUNICACOES LTDA
 61601 # Friends Provedor de Internet LTDA
-61603 # Goias Telecomunicações SA. - GOIAS TELECOM
 61604 # Benerofonte Networks
 61605 # SELIGA TELECOMUNICAÇÕES DO BRASIL EIRELI
 61606 # NETSET LTDA
@@ -21239,6 +21241,7 @@
 61810 # Webfibra Telecomunicações Eireli ME
 61812 # PALMA COMERCIO DE MATERIAIS DE INFORMATICA EIRELI
 61817 # Halley Telecom Comercio & Serviço Ltda
+61818 # Miriam dos Santos Oliveira ME
 61819 # K L M SERVICOS DE TELECOMUNICACOES LTDA
 61820 # Ipunet Telecomunicações Ltda
 61821 # Sincroniza Digital LTDA
@@ -21770,6 +21773,7 @@
 63458 # KGP Telecommunications, Inc.
 63460 # Digital Simplistics, Inc.
 63470 # Datavalet Technologies Inc.
+63477 # Coniferous Systems, LLC
 63479 # HamWAN
 63482 # FreedomNet
 63483 # Skynet
@@ -22029,7 +22033,6 @@
 64228 # OneIT, Inc.
 64229 # Byte Networking LLC
 64234 # VANIX
-64249 # Charles River Operation
 64250 # DialPath
 64252 # Lite Pipes Communications LLC
 64254 # Altima Telecom
@@ -22046,7 +22049,6 @@
 64311 # PT. BINTANG KOMUNIKASI INDONESIA
 64313 # PT. NAP Info Lintas Nusa
 64314 # PT. INTEGRASI NETWORK PERKASA
-64396 # Breitband in Bayern GmbH
 64401 # Rignet AS
 64403 # Wireline AB
 64405 # PRIZZ TELECOM SAS
@@ -22534,6 +22536,7 @@
 132298 # Antaranga Dot Com Ltd
 132299 # Applied Satellite Technology Australia Pty Ltd
 132303 # Tata Play Limited
+132305 # PTT NZ Limited
 132306 # MOS 5 TEL LIMITED
 132309 # Redd digital services pty ltd
 132313 # Calauag Cat V System
@@ -23230,6 +23233,7 @@
 133864 # Oper8 Global Pty Ltd
 133866 # U-Turn Technologies
 133867 # Tomato Web (Pvt) Limited
+133876 # Orro Pty Ltd
 133878 # UNICOM NEW ZEALAND LIMITED
 133881 # Retrac Business Solutions Pty Ltd
 133887 # CyberHub Ltd
@@ -24047,7 +24051,6 @@
 135490 # Business Automation Ltd.
 135491 # Datelcom Corporation
 135494 # Md. Shuzanur Rahman t/a Karsan Net
-135495 # Independent Telephone Company Inc.
 135501 # CERNET New Technology Co., Ltd
 135502 # CERNET New Technology Co., Ltd
 135503 # CERNET New Technology Co., Ltd
@@ -24093,10 +24096,12 @@
 135595 # SHOVO ENTERPRISE
 135596 # Hans Online Services
 135597 # Gaibandha Broadband Network
+135598 # SIBERFY (PRIVATE) LIMITED
 135599 # Telstra Limited
 135600 # Whiz Communications Pte Ltd
 135604 # Sharmin Akter Shilpi t/a M/S. Saiba International
 135607 # Infinivan Incorporated
+135610 # PT. Tower BErsama
 135611 # The Summit Group (Australia) Pty Ltd
 135613 # Streaming Internet Trade
 135614 # RATE ONE FIBER BROADBAND
@@ -24661,6 +24666,7 @@
 136749 # KS IT SOLUTIONS SDN BHD
 136752 # Golden TMH Telecom Co. Ltd
 136755 # Qinghai Mobile Communication Company Limited
+136756 # GENNET
 136758 # HONGKONG CENTURY-ONE LIMITED
 136759 # Cosmopolitan Communications Limited
 136760 # Creative Networks
@@ -26251,7 +26257,6 @@
 140026 # PT. KUPANG INTERMEDIA
 140031 # PT Mandala Lintas Nusa
 140035 # TST Network
-140036 # NUFLAYER
 140037 # A R ENTERPRISE
 140039 # Master Communication Pvt. Ltd.
 140040 # SHILMANDI ONLINE
@@ -28689,6 +28694,7 @@
 149894 # PT Gerbang Akses Internet
 149896 # PT Azkyal Network Madina
 149897 # PT Amanusa Telemedia Mahardika
+149898 # PT Retbizz Exabit Indonesia
 149899 # PT Mainaka Internusa Persada
 149900 # PT Kreasi Network Gorontalo
 149901 # PT Garuda Super Link
@@ -31359,6 +31365,9 @@
 155028 # ICUBE INTERNET SERVICES PRIVATE LIMITED
 155031 # PT Digital Bisnis Teknologi
 155032 # PT Akses Solusindo Indonesia
+155039 # PT Solusi Manik Sari
+155042 # FASTEDGE BROADBAND SERVICES PRIVATE LIMITED
+155045 # SPEEDPLUS BROADBAND PRIVATE LIMITED
 196608 # INTERNET AG Global Network
 196609 # PCS Professional Communication Systems GmbH
 196612 # GHOSTnet GmbH
@@ -32008,7 +32017,7 @@
 198378 # Michel Stam
 198380 # BLUNOVA S.R.L.
 198381 # Star Satellite Communications Company - PJSC
-198382 # Teledata UK Limited
+198382 # Datum Datacentres Limited
 198386 # THRIVE OPERATIONS LIMITED
 198389 # EASYNET.PL Sp. z o.o.
 198394 # Star Satellite Communications Company - PJSC
@@ -32379,7 +32388,6 @@
 199486 # Tietokeskus Finland Oy
 199490 # INTERCONNECT s.r.o.
 199491 # South Communications Ltd.
-199493 # TELEKOM SRBIJA a.d.
 199494 # ETTH Bartosz Bachowski
 199496 # E-PORTS AMPLE DE BANDA I INTERNET S.L.
 199500 # e-BO Enterprises N.V.
@@ -33770,7 +33778,7 @@
 203565 # PE Gumenova Olga
 203566 # Mila hf
 203567 # Piotr Drzewiecki trading as PC-NET
-203568 # Airband Community Internet Ltd
+203568 # Acil Realisations 2 Limited
 203574 # Conect Intercom SRL
 203576 # Onur Ekren
 203582 # M-Tech Systems Ltd
@@ -33855,7 +33863,7 @@
 203815 # Exa B.V.
 203817 # Kuhmon kylaverkko-osuuskunta
 203821 # IT4 Polska Sp. z o.o.
-203823 # ITEAM NORGE AS
+203823 # Kleri Norge AS
 203824 # Info Sistemi d.o.o.
 203827 # Professional Network Corporation
 203828 # DSS OPERATOR SPOLKA AKCYJNA
@@ -36389,7 +36397,7 @@
 211110 # HTELCO TILEPIKOINONIAKES YPIRESIES MONOPROSOPI A.E.
 211117 # Binotel LLC
 211119 # Rignet AS
-211121 # Tiger Network Limited
+211121 # Toko Communications Co., Ltd.
 211128 # Sky Fiber AD
 211131 # LOBOS NETWORKING LTD
 211133 # KING ICT d.o.o.
@@ -37383,6 +37391,7 @@
 214593 # Dias Bilisim ve Teknoloji Hizmetleri AS
 214607 # Avangard LLC
 214608 # Gazinet Internet Iletisim teknolojileri ltd. Sti.
+214622 # DE-CIX Management GmbH
 214624 # Rakhimov Sukhrob Ilkhomovich
 214627 # Mersey Fibre Limited
 214631 # Umniy Dom LLC
@@ -37594,8 +37603,6 @@
 215511 # Underscore S.r.l.
 215514 # KempNet Przemyslaw Kempa
 215519 # SKB LLC
-215523 # Yayzi Broadband Limited
-215526 # Zhongdi Luo
 215533 # LLC Zaitoon technology
 215534 # PLAZMATELEKOM LLC
 215539 # Superlink LLC
@@ -37831,7 +37838,15 @@
 216468 # Lemon IP group d.o.o.
 216472 # High Speed For Internet Services L.L.C
 216475 # NKtelecom INC
+218307 # Slovix Telecom s.r.o.
+218320 # NORTHERN WIRELESS SERVICES LLC
+218321 # Dekkapok LLC
+218325 # Jacek Jurczewski trading as Zaklad Elektroniki "ISKO" s.c.
+218329 # MGN TEKNOLOJI ANONIM SIRKETI
+218337 # Z8 TECNOLOGIAS LTDA
+218360 # NovaMX B.V.
 218365 # AYA Internet Service Provider
+218370 # TWS technologies GmbH
 218371 # Satcube AB
 218372 # Altaleb and Bahlaq for Communications Ltd
 218381 # SHICHAO TANG
@@ -37841,6 +37856,7 @@
 218419 # Wavelength Broadband
 218422 # LLC "TUNDRA TELECOM"
 218423 # NETFACTOR ILETISIM HIZMETLERI LTD. STI.
+218426 # Renzo van Kleef
 218431 # GENEX d.o.o. za usluge i trgovinu
 218433 # "Almatel-Engineering" Limited Liability Partnership
 218434 # IE Norbekov Ilyos
@@ -37849,7 +37865,6 @@
 218454 # ANDRIANOPOYLOS ANDREAS KAI SIA E.E. trading as OLYMPIAKI EYRYZONIKI
 218459 # Company for communication services One Macedonia telecommunications DOOEL Skopje
 218463 # VI Ltd.
-218466 # PROFESSIONAL FOOTBALL CLUB CSKA EAD
 218467 # FIBER 37 TELECOMUNICACOES LTDA
 218470 # Franke Capital GmbH
 218472 # Mynfi Pty Ltd
@@ -38890,7 +38905,7 @@
 263499 # Telecom Conectividade
 263500 # Star Telecom S/A
 263501 # INFORTECLINE TELECOM
-263502 # RAPIDO ACESSO COMUNICACOES LTDA - ME
+263502
 263506 # GB ONLINE TELECOMUNICACOES LTDA
 263507 # VAINET TECNOLOGIA LTDA
 263508 # SIMNET TELECOMUNICACOES LTDA
@@ -39510,7 +39525,7 @@
 264442 # Tamar Comercio e Equipamentos para Informática Ltd
 264443 # Policanal Serviços de Telecomunicações Ltda.
 264444 # LINK CEARA TELECOM LTDA
-264446 # MIDIX FIBRA
+264446 # NETWORK INTERNET SERVICOS E PROVEDOR LTDA
 264449 # ZOOM NET
 264450 # CPGNET SOLUCOES EM INTERNET E REDE LTDA - ME
 264451 # GETTEL INTERNET LTDA
@@ -39822,7 +39837,7 @@
 264908 # Ressoli Barbosa do Nascimento e Cia Ltda
 264909 # BRConnect Telecomunicacoes LTDA
 264910 # Alaife Corporation LTDA
-264911 # POWERNET TELECOM
+264911 # POWER NET FIBRA OPTICA LTDA
 264912 # Alcantara e Oliveira Ltda Me
 264913 # GOOFIBER TELECOM
 264914 # JETNET COMUNICACAO LTDA
@@ -39987,7 +40002,6 @@
 265126 # FLEETNET TELECOMUNICACOES LTDA - ME
 265127 # OK ITAOCARA PROVEDOR INTERNET LTDA
 265128 # SILVA MORAES SERV DE COMUN MULTIMIDIA-SCM EIRELI
-265129 # Duarte & Dias Eletroeletronicos Ltda ME
 265130 # FIBRA EMPRESAS LTDA
 265131 # GP4 SERVICOS E TECNOLOGIA LTDA
 265132 # TELEMOS MULTIMIDIA LTDA
@@ -40920,6 +40934,7 @@
 266418 # SERVTEL EIRELI
 266419 # ANANET Telecomunicações e Informática LTDA. ME
 266420 # NTC Comunicaçoes Ltda ME
+266422 # Atus Servicos e Comercio de Produtos de Informatic
 266423 # CONNECTVY TELECOMUNICACOES LTDA
 266425 # Franzoni Telecomunicações
 266427 # CINTIA AUXILIADORA DE ALCANTARA BARBOSA - ME
@@ -41055,7 +41070,7 @@
 266617 # Interleste Internet LTDA
 266618 # MEGA PROVEDOR - SERVICOS DE INTERNET LTDA - ME
 266619 # WEBVIVA TELECOMUNICACOES LTDA - SIGA FIBRA
-266620 # (VIPLANET) E D TELECOMUNICES LTDA - ME
+266620 # B4 TELECOM SERVICOS DE COMUNICACAO E TECNOLOGIA
 266621 # IGNET LINHAS TELECOMUNICAÇÕES - ME
 266623 # 18.843.555 LTDA
 266624 # CONEXAO VIP TELECOM
@@ -41329,6 +41344,7 @@
 266993 # FLOWSPEC SOLUTIONS
 266995 # Evox Telecom LTDA - ME
 266996 # LINK NET
+266997 # MPTEC INFORMATICA LTDA - ME
 267002 # JV NETWEB
 267003 # SCM EVOLUTT CONNECT LTDA
 267006 # TOP LAN NET
@@ -42214,7 +42230,6 @@
 268144 # IMPLANTAR TELECOM SOCIEDADE LIMITADA
 268145 # IPV7 SERVICOS DE TELECOMUNICACOES BRASIL LTDA
 268146 # PKNET SERVICOS DE TELECOMUNICACOES LTDA
-268147 # J. Safra Telecomunicações Ltda
 268148 # AccessLink Telecom
 268149 # 3One Telecomunicações e Serviços - LTDA
 268150 # Lehi V. de Aguiar Soluções
@@ -42234,7 +42249,7 @@
 268166 # POINT TELECOM SERVIÇOS LTDA
 268168 # FAST PROVEDOR NET TELECOM LTDA
 268170 # DOWNLOAD NET TELECOM LTDA - ME
-268171 # YOU CONSULTORIA E SERVICOS LTDA
+268171 # NUVYON TELECOMUNICACOES LTDA
 268172 # Golden Fibra Provedor de Internet
 268173 # SOUSATEC.NET LTDA ME
 268174 # CEARÁ NET FIBRA LTDA
@@ -42347,6 +42362,7 @@
 268316 # VAITELECOM LTDA ME
 268317 # CSTELECOM SERVICOS LTDA
 268318 # Ags Comunicação e Tecnologia Ltda ME
+268319 # CONTINENTAL EMPREENDIMENTOS EIRELI-ME
 268320 # GRUPO INOVA MAIS TELECOM LTDA
 268321 # SM Passos Kayser Sistemas de Comunicações ME
 268324 # Provecom Telecomunicacoes Ltda
@@ -42588,6 +42604,7 @@
 268647 # DFLASH NET TELECOM E TURISMO LTDA
 268648 # ABQUECIA BARBOSA DA SILVA
 268649 # tomaz da luz de castro filho
+268651 # VDS NET
 268653 # 4K Telecom Internet Ltda - ME
 268654 # MEGA FIBRA
 268655 # SERGIO MURILO DOS SANTOS ME
@@ -42646,6 +42663,7 @@
 268722 # T G L SERVICOS DE TELECOMUNICACOES LTDA
 268725 # Planex Telecom
 268726 # TOPNET SERVIÇOS DE TELECOMU E MULTIMÍDIA EIRELI-ME
+268727 # Tecnews.net Consultoria E Assessoria em Informatic
 268729 # Wnett Fibra
 268730 # M. Alves Paulino Telecom Me
 268731 # e@sy Internet
@@ -43021,6 +43039,7 @@
 269229 # Superondas Internet Ltda.
 269230 # Perfect Provedor de Internet LTDA
 269231 # BIOS NETWORKS TELECOMUNICAÇÕES LTDA
+269233 # GDM INFORMATICA LTDA
 269234 # ULTRA CONNECT PROVEDOR DE INTERNET LTDA-ME
 269235 # RUFINOS TECNOLOGIA DA INFORMACAO LTDA
 269236 # CORPORATIVA CARRIER LTDA
@@ -44239,7 +44258,7 @@
 270819 # SOS Internet
 270820 # COMPUNET DO BRASIL TELECOM LTDA
 270821 # SARA ONLINE INFORMATICA EIRELI - ME
-270822 # C. SIDNEI DOS SANTOS - ME
+270822 # TURBO TELECOM LTDA
 270823 # LH - NET - TELECOMUNICAÇÕES
 270826 # VELiNK FiBRA BR
 270828 # Full Telecom LTDA
@@ -44470,6 +44489,7 @@
 271097 # ACESSOLINE TELECOMUNICACOES LTDA
 271098 # LINKS INFORMATICA E TELECOM LTDA
 271099 # N.K. FIBER LINK LTDA
+271100 # One Two Servicos Ltda - ME
 271101 # CORREA E RODRIGUES TELECOM LTDA
 271102 # Master Link Net - ME
 271103 # Antonio Weslley Ximenes Farias EIRELI
@@ -44705,6 +44725,7 @@
 271385 # FIBRA CHEGOU COMUNICACOES EIRELI
 271387 # LMGB SERVIÇOS DE TELECOMUNICAÇOES E INTERNET LTDA
 271388 # WEB Provedor
+271389 # PAULO CESAR OLIVEIRA DA SILVA 05852075698
 271390 # PERDOESNET LTDA
 271391 # LINK SPEED PROVEDOR DE INTERNET LTDA - ME
 271392 # Expressnet Telecom
@@ -46204,6 +46225,7 @@
 273496 # GOLDNET INTERNET DE FIBRA LTDA
 273497 # IMPERIUM  T.  BARREIRA  GRANDE SER. TELECOM LTDA
 273498 # CNX TELECOMUNICACOES LTDA
+273499 # ORLANDO LEITE ROLIM
 273500 # YPN TECNOLOGIA LTDA
 273502 # LIVRE FIBRA INTERNET LTDA.
 273504 # WEBNET PROVEDOR LTDA
@@ -46331,6 +46353,7 @@
 273689 # mrm fibra ltda
 273691 # MR JOMAR SERVICOS DE INTERNET LTDA
 273692 # ULTRA INTERNET LTDA
+273700 # ESPECIALISTA SERVIÇOS DE INFORMATICA LTDA ME
 273701 # AUTOLINKNET SOLUCOES EM INTERNET FIBRA OPTICA LTDA
 273702 # REPARA SMART SERVICOS DE TELECOMUNICACOES LTDA
 273704 # RRNET TELECOMUNICACOES LTDA
@@ -46532,6 +46555,7 @@
 273958 # INACOM C.A
 273959 # GUECAM TECNOLOGIA Y SERVICIOS E.I.R.L.
 273960 # TELECABLE INTERNACIONAL TAMBORIL SRL
+273961 # LUDWIN GROUP COMPANY SRL
 273962 # CAMET, S.A DE C.V.
 273963 # Servicios Integrales Maipo SPA
 273964 # IMANTEL, IMAGENES DEL NORTE TELECOMUNICACIONES, S.R.L.
@@ -46921,6 +46945,7 @@
 274453 # PLIM, PLATAFORMA DE LANZAMIENTO INTERNET DE MICHOACAN SA DE CV
 274454 # SERVICIOS DE TELECOMUNICACIONES METRO RED MEXICO
 274455 # GPON TELECOM
+274456 # ALFREDO NARANJO HERNANDEZ
 274457 # SERVICIOS E INFRAESTRUCTURA MEGAFIBRA
 274458 # COMERCIALIZADORA, SUMINISTROS Y SERVICIOS ALIGER
 274462 # WEB FIBER TELECOMUNICAÇÕES
@@ -46980,7 +47005,7 @@
 274526 # MEGANETS BANDA LARGA EIRELI
 274527 # EURO FIBER LTDA
 274528 # Jeferson Siqueira Alves
-274529 # M.O. SERVICOS DE TELECOMUNICACOES LTDA
+274529 # M.O. TELECOM LTDA
 274531 # FABRICIO DA SILVA ROCHA TELECOM
 274532 # NET TVM SERVICOS DE INTERNET LTDA
 274533 # Fibra 100 Telecon
@@ -46994,6 +47019,7 @@
 274542 # USENET TELECOMUNICACOES PROVEDOR DE INTERNET LTDA
 274544 # MNL ASSISTENCAI TECNICA EM COMPUTADORES
 274545 # VEEP TELECOM LTDA
+274548 # M DE M SILVA JUNIOR
 274549 # HEAVEN SYSTEM
 274550 # overlink internet e S em telecomunicações ltda
 274551 # O C CORREA MELO SERVICOS DE INTERNET
@@ -47426,6 +47452,10 @@
 275079 # NUNES DE SOUZA EDSON (DS TELECOM)
 275080 # SARMIENTO LOPEZ EDISON MAURICIO
 275081 # SM OPTICAL FIBER S.A.S
+275082 # Cooperativa de Telecomunicaciones Oruro Ltda - COTEOR
+275083 # NOVA LINK TELECOMUNICACIONES S.A.S.
+275084 # SELTEC INGENIERIA Y TELECOMUNICACIONES SAS
+275085 # ORTIZ SALAS NANCY MARIELA (WIPRONET)
 275293 # FR INFORMATICA LTDA
 275294 # NOBRE SCM LTDA
 275295 # Ronaldo Cezar Faccio
@@ -47434,7 +47464,11 @@
 275298 # C. A. NUNES MELCHIADES - EIRELI - ME
 275300 # AA TELECOM PROVEDOR LIMITADA
 275301 # BIMNET TELECOM LTDA
+275302 # WESLEY BARBOSA RODRIGUES
+275303 # RVT SERVICOS DE TELECOMUNICACOES LTDA
+275549 # JUAN CARLOS CARDENAS CEBALLOS
 275553 # MIGUEL ALEJANDRO DOMINGUEZ HAU
+275554 # CESAR ABED GOMEZ ORTEGA
 275614 # ALTA - América Latina Telecomunicações Avançadas
 275615 # R de Abreu Machado
 275616 # FB TELECOMUNICACOES LTDA
@@ -47504,6 +47538,7 @@
 275722 # NEXT LEVEL TELECOM LTDA
 275723 # Ademir Sulzenco & Cia LTDA
 275725 # CTS SERVICOS DE COMUNICACAO LTDA
+275726 # j a aguiar
 275727 # SASS.NET INFORMATICA LTDA
 275729 # SPOTNET TECNOLOGIA DE TELECOMUNICACOES LTDA
 275730 # king fibra
@@ -47594,6 +47629,7 @@
 275840 # BAH TELECOM SERVICOS DE TELECOMUNICACOES LTDA
 275841 # PORTAL TELECOM NC LIMITADA
 275844 # R. M. dos Santos Ltda
+275845 # jordão de souza jamariqueli me
 275848 # Link Master Telecomunicacoes LTDA
 275851 # Cybernetfibra telecom
 275852 # MIX TELECOM LTDA
@@ -48389,6 +48425,7 @@
 329208 # BullTech Group (Pty) Ltd
 329210 # HSAMS - Soluções Tecnológicas, LDA
 329211 # Novia East Africa Ltd
+329212 # TIRISAN TECH SOLUTIONS (PTY) LTD
 329215 # LiFi.net Limited
 329216 # Lwayo Communication
 329217 # EUPHORBIA SARL
@@ -48753,6 +48790,7 @@
 329832 # Complete Enterprise Solutions Mozambique, LIMITADA
 329833 # ICTNETWORKS (PTY) LTD
 329834 # GOLDLINK FIBER SOLUTIONS LTD
+329838 # OCTIK INTERNET SERVICES LTD
 393217 # TELUS Communications Inc.
 393223 # CWI Caribbean Limited
 393227 # RTC Communications Corp.
@@ -50935,3 +50973,4 @@
 403087 # RB TECHNOLOGIES, LLC
 403090 # Backyard Broadband LLC
 403104 # Solutions Opero Inc.
+403123 # Fiber Labs LLC

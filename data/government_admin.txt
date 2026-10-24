@@ -1884,7 +1884,7 @@
 9732 # Digital Policy Office, HKSARG
 9755 # Korea Internet Security Agency
 9763 # KIC for Agriculture
-9783 # KoROAD
+9783
 9788 # Inland Revenue Department - Te Tari Taake
 9807 # Data Management Centre National Bureau of Statistics of China
 9811 # Development & Research Center of State Council Net.
@@ -2238,7 +2238,6 @@
 18532 # Secretaria de Hacienda y Credito Publico
 18545 # Office of Surface Mining Reclamation and Enforcement
 18558 # Riverside County Office of Education
-18572 # Beaver Valley Intermediate Unit #27
 18576 # EDUC.AR SOCIEDAD DEL ESTADO
 18586 # Department of Energy, National Nuclear Security Administration
 18614 # Yakima County
@@ -3463,7 +3462,6 @@
 43988 # Agenzia per L'Italia Digitale
 44008 # Royal Borough of Kensington and Chelsea
 44085 # DARS d.d.
-44110 # Walsall Metropolitan Borough Council
 44177 # INBW Infrastruktur und Netzwerk Baden-Wuertemberg GmbH
 44201 # Bulgarian National Bank
 44280 # Diputacio de Girona
@@ -4182,6 +4180,7 @@
 61569 # Tribunal Regional Federal da 1a Regiao
 61572 # CONTROLADORIA-GERAL DA UNIÃO
 61585 # MINISTÉRIO DA SAÚDE - INSTITUTO NACIONAL DE CÂNCER
+61603 # Goias Telecomunicações SA. - GOIAS TELECOM
 61612 # DEPARTAMENTO DE CIÊNCIA E TECNOLOGIA AEROESPACIAL
 61656 # AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL
 61738 # SECRETARIA DE ESTADO DE ECONOMIA DO DF - SEEC/DF
@@ -4464,6 +4463,7 @@
 134131 # Whakatane District Council
 134164 # NSW Government Telecommunications Authority
 134181 # Burnie City Council
+134230 # Office Of Insurance Commission
 134251 # EMPLOYEES PROVIDENT FUND ORGANISATION
 134296 # Reserve Bank of India
 134461 # National Health Security Office (NHSO)
@@ -5443,6 +5443,7 @@
 198024 # Istekki Oy
 198033 # Ministry of finance of Ukraine
 198045 # Provincia di Pesaro e Urbino
+198062 # PUBLICLY USEFUL FOUNDATION "CENTER FOR INNOVATION AND INFORMATION TECHNOLOGIES"
 198096 # Junta de Andalucia
 198108 # Ukrainian Hydrometeorological Center
 198142 # Warrington Borough Council
@@ -5918,6 +5919,7 @@
 209440 # Gabinete Nacional de Seguranca (GNS)
 209444 # The Royal commission for Jubail and Yanbu
 209457 # Etela-Pohjanmaan Hyvinvointialue
+209497 # Saudi Red Crescent Authority
 209501 # Chief Information-Commercial and Scientific-Production Regional Centre
 209511 # STATE UNITARY ENTERPRISE OF THE CITY OF MOSCOW "MOSGORTRANS"
 209514 # Magen David Adom
@@ -6157,6 +6159,7 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218348 # European Agency for Safety and Health at Work
 218478 # AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV
 218509 # Stadt Biel/Bienne
 218603 # IKT Nordhordland Kommunalt Oppgavefellesskap
@@ -6273,6 +6276,7 @@
 265071 # SECRETARIA DA FAZENDA DO ESTADO DO PIAUI
 265073 # MUNICIPIO DE BARRA DO CHOCA
 265182 # Agencia Nacional do Cinema
+265202 # CONSELHO REGIONAL DE MEDICINA - SP
 265212 # TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL
 265375 # Justica Federal de Primeiro Grau no RS
 265431 # TRIBUNAL REGIONAL DO TRABALHO-14a.REGIÃO
@@ -6697,6 +6701,7 @@
 329726 # Comitè d'Organisation des Jeux Olympiques de la Jeunesse Dakar 2026
 329751 # National Cybersecurity Coordination Centre
 329824 # Caisse Nationale de Prévoyance Sociale
+329836 # Autorité Malienne de Regulation des Télécommincations/TIC et Postes (AMRTP)
 393228 # City of Vineland Board of Education
 393273 # Education Service Center, Region 17
 393278 # Electric Plant Board of the city of Franklin Kentucky
@@ -7334,3 +7339,4 @@
 403064 # City of Shelby
 403103 # BAnQ
 403105 # City of Miami Beach
+403118 # City of Antioch
