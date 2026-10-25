@@ -3074,7 +3074,7 @@
 35396 # Amt fuer Informatik des Kantons Graubuenden
 35414 # European Medicines Agency
 35445 # Jonkoping Kommun
-35482 # REGION AUVERGNE-RHONE-ALPES
+35482 # Region Auvergne-Rhone-Alpes
 35490 # Spitalul Clinic Judetean de Urgenta Cluj
 35503 # Ministry of Education Youth and Science
 35506 # INFORMATION SOCIETY S.A.
@@ -4922,7 +4922,7 @@
 142384 # Dinas Komunikasi Dan Informatika Kabupaten Jember
 142422 # Hobart City Council
 142425 # Department of Foreign Affairs and Trade
-142502 # BHARAT-PUBLIC-DNS
+142502 # 1.10.10.10 - Indian Public DNS
 142543 # RAB
 142573 # Government of Tuvalu
 142590 # Ambulance Victoria
@@ -6159,6 +6159,7 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218300 # Prokuratura Krajowa
 218348 # European Agency for Safety and Health at Work
 218478 # AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV
 218509 # Stadt Biel/Bienne

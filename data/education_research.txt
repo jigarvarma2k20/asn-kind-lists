@@ -2369,7 +2369,7 @@
 24490 # Trans-Eurasia Information Network (TEIN2) - SG
 24514 # MINISTRY OF HIGHER EDUCATION MALAYSIA
 24526 # Bina Nusantara University
-24575 # DRAGONLAB
+24575 # FIT Center, Tsinghua University
 24614 # Sakarya University
 24620 # Rigas Tehniska Universitate
 24643 # Liberty Global Europe Holding B.V.
@@ -7205,7 +7205,6 @@
 218733 # HYW HK LIMITED
 218744 # Aydan Abrahams
 218750 # Egor Belanov
-218796 # Yunsheng Deng
 218804 # Mahmood Althawadi
 218811 # Peeraboon Tangnipatjinda
 218820 # WEI JEN CHANG
@@ -7425,7 +7424,6 @@
 271821 # UNIVERSIDAD TECNICA DEL NORTE
 271873 # ZAIGOVER S.A
 271877 # INSTITUTO NACIONAL DE FORMACION TECNICA PROFESIONAL DE SAN JUAN DEL CESAR
-271885 # ASOCIACIÓN DE RED AVANZADA GUATEMALTECA PARA LA INVESTIGACIÓN Y LA EDUCACIÓN (IXP GT)
 271891 # UNIVERSIDAD ESTATAL A DISTANCIA
 271925 # INSTITUCION UNIVERSITARIA DE ENVIGADO
 271958 # UNIVERSIDAD DE CUNDINAMARCA
@@ -7555,6 +7553,7 @@
 329809 # Réseau National d'Education et de Recherche du Niger (Niger REN)
 329814 # Université Djibo Hamani de Tahoua
 329823 # UNIVERSITE D'AGADEZ
+329840 # Zimbabwe Centre for High Performance Computing
 393216 # UCNJ Union College of Union County, NJ
 393248 # Northside Independent School District
 393249 # University of British Columbia
