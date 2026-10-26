@@ -75,7 +75,7 @@
 229 # Merit Network Inc.
 230 # Merit Network Inc.
 231 # Michigan State University
-232 # Merit Network Inc.
+232 # OpenAI OpCo, LLC
 233 # Merit Network Inc.
 235 # Merit Network Inc.
 236 # Merit Network Inc.
@@ -92,7 +92,6 @@
 292 # ESnet
 293 # ESnet
 294 # Renater
-297 # National Aeronautics and Space Administration
 299 # University of California, Irvine
 302 # Baylor College of Medicine
 304 # SRI International
@@ -115,7 +114,6 @@
 600 # OARnet
 611 # NB-PEI Educational Computer Network
 614 # California State University, Office of the Chancellor
-668 # United States Department of Defense (DoD)
 669 # Renater
 675 # Minnesota State Colleges and Universities
 677 # Arizona State University
@@ -1032,7 +1030,6 @@
 6092 # Harford Community College
 6106 # University of California, Riverside
 6112 # Auburn University
-6122 # Iowa Communications Network
 6124 # Marist University
 6125 # Rede Nacional de Ensino e Pesquisa
 6133 # Red Nacional de Guatemala, MAYANet
@@ -1075,7 +1072,6 @@
 6868 # Federal State Autonomous Educational Institution of Higher Education "Bauman Moscow State Technical University"
 6874 # Perm National Research Polytechnic University
 6879 # ENSTINET
-6922 # Texas Department of Information Resources
 6931 # Ringling College of Art and Design
 6975 # Lexington County School District
 7013 # Health Sciences Libraries Consortium
@@ -1808,7 +1804,6 @@
 17042 # Conseil scolaire de district catholique Franco-Nord
 17055 # University of Utah
 17118 # Virginia Institute of Marine Science
-17120 # New Brunswick Department of Education and Early Childhood Development
 17124 # SouthArk
 17135 # Ohio University
 17152 # Bates College
@@ -1904,7 +1899,6 @@
 18122 # Advanced Software Technology & Management Research Institute of KYOTO
 18123 # INAOKI EDUCATIONAL INSTITUTION
 18124 # Okayama University of Science
-18125 # Tsukuba Business-Academia Cooperation Support Center, Agriculture, Forestry and Fisheries Research Council Secretariat, Ministry of Agriculture, Forestry and Fisheries
 18128 # RIKEN
 18148 # Fukuoka University
 18158 # CHUNGBUK NATIONAL UNIVERSITY
@@ -3837,7 +3831,6 @@
 56056 # Sector 125
 56094 # ITENET:wq
 56101 # 320 Factory Rd
-56105 # Department of Education and Training - Victoria
 56123 # VERNet Pty Ltd
 56132 # Monash University,
 56166 # IISER Bhopal Campus
@@ -4484,7 +4477,6 @@
 138122 # IAIN Langsa
 138124 # Universitas Samudra
 138133 # Universitas Muslim Indonesia
-138135 # Pemerintah Kabupaten Tanah Bumbu
 138136 # Universitas Mataram
 138142 # Institut Informatika & Bisnis Darmajaya
 138144 # Institut Agama Islam Negeri Kediri
@@ -4654,7 +4646,6 @@
 141649 # Institut Agama Islam Negeri Madura
 141682 # APIDT Infrastructure Pty Ltd
 141714 # Nakhon Pathom Rajabhat University
-141749 # Department of Local Government, Sport and Cultural Industries
 141776 # Baoshuo Network
 141841 # INDIAN INSTITUTE OF HARDWARE TECHNOLOGY LIMITED
 141936 # STIE YKPN Yogyakarta
@@ -6538,7 +6529,6 @@
 204575 # TECHCOLLEGE S/I
 204611 # Giuseppe Augiero
 204626 # Modern University College
-204679 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 204680 # Karlsruhe Institute of Technology
 204742 # Bitarray GmbH
 204750 # Leon-Alexander Bernhardt

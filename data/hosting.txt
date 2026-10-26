@@ -2810,6 +2810,7 @@
 39563 # CTA Systems B.V.
 39564 # Kernnetz Invent GmbH
 39566 # Smarthost sp. z o.o.
+39567 # OCI Cloud SAS
 39570 # Loopia AB
 39572 # DataWeb Global Group B.V.
 39576 # Sharpstack Hosting Ltd
@@ -3653,7 +3654,6 @@
 48386 # Misaka Network, Inc.
 48391 # Pars Data Processing Company (LTD)
 48399 # Svyaz VSD LLC
-48402 # Sparteo SAS
 48430 # Perviy TSOD LLC
 48434 # Tebyan-e-Noor Cultural-Artistic Institute
 48435 # DevonStudio Sp. z o.o.
@@ -4909,7 +4909,6 @@
 60825 # CLOUD SG UK LTD
 60831 # Arkadia Spolka Cywilna Krysztof Rozmus Barbara Rozmus
 60841 # berrybyte
-60874 # Marcel van Dorp trading as LABWorX Telematics
 60878 # RTCloud, LLC
 60897 # Binary Racks Limited
 60899 # Krystal Hosting Ltd
@@ -5599,7 +5598,6 @@
 133607 # KiwiData
 133617 # NetPilot Limited
 133619 # DESIVPS
-133643 # BASIS Technologies
 133667 # Newton Cloud Serve Private Limited
 133682 # CSpace Web Solutions Private Limited
 133689 # Onemind Cloud Services Pvt Ltd
@@ -10067,6 +10065,7 @@
 215002 # PRISM.GG Limited
 215013 # Yandex.Cloud LLC
 215023 # LIMEE NETWORK LTD
+215027 # FEBZEN SUNUCU VE BILISIM HIZMETLERI LIMITED SIRKETI
 215029 # OXIGEN Data Center S.L.
 215030 # Budankailu Namrata Patra trading as AspireHosting
 215037 # DATARU OBLAKO LLC
@@ -10355,6 +10354,12 @@
 216444 # UAB "Cherry Servers"
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
+218289 # ICT BULUT BILISIM A.S.
+218290 # ICT BULUT BILISIM A.S.
+218296 # CLOUD SOLUTIONS GLOBAL LTD
+218301 # PT INFRASTRUKTUR LINTAS AWAN
+218302 # Dadeh Gostar Mizban Web LTD
+218304 # HONG KONG NEW CLOUD NETWORK TECHNOLOGY CO., LIMITED
 218312 # Alien Servers Ltd
 218313 # Al Skyline Limited Company
 218316 # SPACECORE SOLUTION LTD
@@ -10471,6 +10476,7 @@
 218785 # TC DATACENTER LIMITED
 218788 # ARJUN LAL YADAV trading as SERVER VIBES TECHNOLOGIES
 218789 # Soundvia LLC
+218805 # Stacklayer Communications Limited
 218806 # Raiymbek Dosmailov
 218808 # CLOUD FIVE SAS
 218812 # Kacper Rybczynski
@@ -12221,3 +12227,4 @@
 403115 # cloudnq LLC
 403116 # Drawbridge Digital LLC
 403117 # websvm LLC
+403130 # VC2 LLC

@@ -105,6 +105,7 @@
 289 # Headquarters, USAISC
 295 # United States Department of Defense (DoD)
 296 # Air Force Systems Networking
+297 # National Aeronautics and Space Administration
 298 # Air Force Systems Networking
 300 # United States Department of Defense (DoD)
 301 # Air Force Systems Networking
@@ -407,6 +408,7 @@
 665 # United States Department of Defense (DoD)
 666 # Headquarters, USAISC
 667 # United States Department of Defense (DoD)
+668 # United States Department of Defense (DoD)
 670 # Headquarters, USAISC
 671 # Headquarters, USAISC
 672 # Headquarters, USAISC
@@ -1768,6 +1770,7 @@
 6099 # Alameda County Office of Education
 6105 # Denver Water
 6121 # Ministerio de Justicia de la Nacion Argentina
+6122 # Iowa Communications Network
 6127 # IDSC
 6150 # National Cancer Institute
 6189 # Enoch-Pratt Free Library
@@ -1788,6 +1791,7 @@
 6833 # Terranets bw GmbH
 6882 # Regione Toscana
 6883 # Parlamentsdirektion
+6922 # Texas Department of Information Resources
 6958 # Diplomatic Telecommunications Services
 6959 # Diplomatic Telecommunications Services
 6960 # Diplomatic Telecommunications Services
@@ -2168,6 +2172,7 @@
 17029 # California Highway Patrol
 17101 # PORT OF LOS ANGELES
 17107 # Georgia Department of Transportation
+17120 # New Brunswick Department of Education and Early Childhood Development
 17147 # Ministerio del Interior y de Seguridad Publica - Gobierno de Chile
 17172 # FIFTH JUDICIAL DISTRICT OF PENNYSYLVANIA
 17190 # Washington Metropolitan Area Transit Authority
@@ -2219,6 +2224,7 @@
 18053 # Special Communication Organization
 18055 # Department of Human Services
 18082 # Japan Agency for Local Authority Information Systems
+18125 # Tsukuba Business-Academia Cooperation Support Center, Agriculture, Forestry and Fisheries Research Council Secretariat, Ministry of Agriculture, Forestry and Fisheries
 18127 # Ibaraki Prefectural Government
 18154 # Australian Trade Commission
 18162 # VICTORIAN RAIL TRACK
@@ -3286,6 +3292,7 @@
 39719 # Liguria Digitale S.p.A.
 39803 # Compania Nationala Administratia Porturilor Maritime SA Constanta
 39804 # Vlaamse Dienst voor Arbeidsbemiddelling en Beroepsopleiding
+39872 # ELES, d.o.o.
 39879 # Sozialversicherungs-Chipkarten Betriebs- und Errichtungsgesellschaft m.b.H - SVC
 39914 # Narodowy Fundusz Zdrowia
 39940 # Police and Fire Federal Credit Union
@@ -3960,6 +3967,7 @@
 56015 # China Sports Lottery Technology Development Co., Ltd
 56032 # BTCL IX service
 56051 # Department of Water (WA)
+56105 # Department of Education and Training - Victoria
 56118 # OCSC
 56128 # Asian Development Bank
 56141 # Da Nang Center for Digital Transformation and Strategic Technology
@@ -4661,6 +4669,7 @@
 138105 # Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi
 138114 # Diskominfo Kabupaten Tangerang
 138127 # PEMERINTAH KABUPATEN MADIUN
+138135 # Pemerintah Kabupaten Tanah Bumbu
 138140 # Pusinfolahta TNI
 138215 # Royal Thai Police
 138216 # Burwood Council
@@ -4887,6 +4896,7 @@
 141688 # Telangana Fiber Grid Corporation Limited
 141695 # Pacific Community
 141744 # CPA
+141749 # Department of Local Government, Sport and Cultural Industries
 141755 # Nepali Army
 141770 # City of Boroondara
 141793 # THE KOLKATA MUNICIPAL CORPORATION
@@ -4922,7 +4932,6 @@
 142384 # Dinas Komunikasi Dan Informatika Kabupaten Jember
 142422 # Hobart City Council
 142425 # Department of Foreign Affairs and Trade
-142502 # 1.10.10.10 - Indian Public DNS
 142543 # RAB
 142573 # Government of Tuvalu
 142590 # Ambulance Victoria
@@ -5732,6 +5741,7 @@
 204635 # Dienst Wegverkeer
 204645 # REGIE MUNICIPALE D'ELECTRICITE DE CREUTZWALD
 204658 # ASSEMBLEE NATIONALE EPA
+204679 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 204701 # Executive Committee of the Kryvyi Rih City Council
 204753 # Ministarstvo Finansija - Uprava Carina Republike Srbije
 204772 # Reditelstvi silnic a dalnic s.p.
