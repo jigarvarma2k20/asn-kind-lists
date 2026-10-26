@@ -75,7 +75,6 @@
 229 # Merit Network Inc.
 230 # Merit Network Inc.
 231 # Michigan State University
-232 # OpenAI OpCo, LLC
 233 # Merit Network Inc.
 235 # Merit Network Inc.
 236 # Merit Network Inc.
@@ -7170,6 +7169,7 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218293 # Kendall Powell
 218338 # Dominic Grimm
 218347 # Jan Bellon
 218349 # Benjamin Turquet de Beauregard

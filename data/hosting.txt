@@ -1820,6 +1820,7 @@
 27395 # OSOLABS LLC
 27407 # Equinix, Inc.
 27411 # Leaseweb USA, Inc.
+27415 # CANIX Solutions & Services
 27420 # McAllen Data Center, LLC
 27433 # Equinix, Inc.
 27435 # NTT Cloud Infrastructure, Inc.
@@ -2131,7 +2132,6 @@
 31786 # PloxHost
 31788 # Poppy Inc
 31792 # Microsoft Corporation
-31798 # DataCity
 31807 # RackAloha, LLC
 31815 # GoDaddy.com, LLC
 31843 # Arx Technologies
@@ -3278,7 +3278,6 @@
 44541 # Jochem Stobbe trading as Prelution
 44550 # Techno G Limited
 44556 # DDOS-GUARD LTD
-44558 # Netonline Bilisim Sirketi LTD
 44559 # IT HOSTLINE LTD
 44569 # 1api GmbH
 44571 # Melbikomas UAB
@@ -10409,6 +10408,7 @@
 218519 # Salesforge OU
 218523 # LLC CLOUD FACILITIES
 218524 # Oriol Centelles Ruiz trading as enginerIT
+218530 # Massive Maker sp. z o.o.
 218534 # Eidetic SAS
 218540 # IKT Solutions UG (haftungsbeschraenkt)
 218541 # Ventrya LTD
@@ -10425,6 +10425,7 @@
 218583 # Anastasia Cernavska
 218584 # Sipher Ltd
 218587 # FLARELABS LTD
+218589 # Datapath
 218591 # Aaron Janssen
 218595 # Sidra Bilisim Teknolojileri Limited Sirketi
 218596 # Yousef Ghovanloo Ghajar
@@ -10989,7 +10990,6 @@
 329591 # Dynamic Data Solutions LTD
 329592 # Sitehub Agency Ltd
 329599 # Megin Cloud (PTY) Ltd
-329602 # CÔTE D'IVOIRE DATA
 329611 # Serverpulse Africa Ltd
 329615 # Sharp Thoughts Proprietary Ltd t/a Cloud Raptor
 329625 # Wingu Africa Data Center Plc

@@ -1111,6 +1111,7 @@
 5540 # The Israel Electric Corporation Limited
 5585 # Israel Internet Association
 5589 # JSC "BM-Bank"
+5593 # Load.me sp. z o. o.
 5594 # Lufthansa Systems Hungaria Ltd.
 5608 # Magnus McKay Moeller
 5618 # DP IRAN PLC
@@ -1520,7 +1521,6 @@
 7320 # LANcity Company
 7323 # Advest
 7324 # iFAX Solutions, Inc.
-7330 # Internet  Laboratories, Inc.
 7331 # Information Architecture
 7334 # Markit On Demand, Inc.
 7338 # GLOBAL ENTREPRENEURS NETWORK,
@@ -8744,7 +8744,6 @@
 27408 # Helpon
 27410 # Baca, Stein, White & Associates, Inc.
 27414 # Caris Diagnostics, Inc.
-27415 # CANIX Solutions & Services
 27418 # OUTOFWALL INC.
 27421 # Applause
 27423 # Caithness Energy LLC.
@@ -15830,7 +15829,6 @@
 48908 # Steinar H. Gunderson
 48914 # Zeppelin Rusland Ltd
 48916 # JSC Kraftway Corporation PLC
-48920 # Association TOILE-LIBRE
 48921 # Yoursafe Holding B.V.
 48922 # Domodedovo_IT_Services LLC
 48932 # Saudi Arabian Airlines
@@ -23851,7 +23849,6 @@
 140773 # THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY
 140776 # 247 SCRAP TRADE JOINT STOCK COMPANY
 140777 # VNCOIN247 CORPORATION
-140778 # MINH HIEN SOLUTIONS COMPANY LIMITED
 140779 # VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED
 140780 # THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY
 140782 # 424 De La Thanh, O Cho Dua Ward, Dong Da District, Ha Noi City
@@ -28547,6 +28544,7 @@
 147235
 147238 # CYBERVATE CONSULTANCY SERVICES
 147244
+147251 # PRAGYASOFT TECHNOLOGIES
 147257 # Altruist Technologies Private Limited
 147272 # SG ENTERPRISES
 147276 # SSB INDUSTRIES
@@ -37435,7 +37433,6 @@
 216469 # Ismail Fayaz trading as OAKLABS
 216471 # Devout BV
 218291 # IP PISSAREV ALEXANDR YURIEVICH
-218293 # Kendall Powell
 218295 # Christian Clark
 218297 # Bram Vandenbogaerde
 218298 # Vlad-Stefan Sas
@@ -37551,7 +37548,6 @@
 218527 # Igors Cernavskis
 218528 # RCS Technologies FZE LLC
 218529 # f-quadrat IT GmbH
-218530 # Massive Maker sp. z o.o.
 218531 # WallStreetDocs Ltd
 218532 # Jemmtec EAD
 218533 # Tmgames Oyun Yazilim Teknoloji ve Pazarlama Limited Sirketi
@@ -37577,7 +37573,6 @@
 218581 # Goldinger IT GmbH
 218586 # ZOHO Corporation B.V
 218588 # Yurii Diachenko
-218589 # Datapath
 218590 # David Lowes
 218592 # Impact Trading & Consulting GmbH
 218597 # Biogarda LLC
@@ -38492,7 +38487,6 @@
 267677 # COMERCIALIZADORA E IMPORTADORA PRESTOM CHILE LTDA
 267683 # COMPENSADORA ELECTRONICA S.A.
 267696 # HOME DEPOT S.R.L.
-267714 # DAF S. R. L.
 267717 # CS SPA
 267723 # SOLAR BANCO S.A.E.
 267724 # FULLSOLUTION S.P.A.
@@ -39017,7 +39011,6 @@
 274295 # SISTEMAS INFORMATICOS DE APLICACIONES, SOCIEDAD ANONIMA
 274297 # CORPORACION FINANCIERA DE DESARROLLO S.A.
 274313 # ENORAL S.A
-274320 # GARAING S.A.S
 274323 # FINANZAUTO S.A. BIC
 274330 # SYK SOLUCIONES SAS
 274332 # NDC SOLUTIONS C.A.
@@ -39387,7 +39380,6 @@
 328754 # DIAMOND TRUST BANK UGANDA LIMITED
 328758 # R A Consulting Services (Pty) Ltd
 328770 # SIMBA MEDIA GHANA LIMITED
-328771
 328772 # Momentum Metropolitan Life Ltd
 328775 # AZAMPAY TANZANIA LIMITED
 328776 # Evercare Hospital Lekki Limited
@@ -39583,6 +39575,7 @@
 329588 # Winners Co-operative Credit Union Limited
 329589 # SELENIUM - DIGITAL SOLUTIONS, S.A.
 329594 # AVISTA GROUPE SA
+329602 # CÔTE D'IVOIRE DATA
 329604 # Elemech Contractors Proprietary Limited
 329605 # ATTIJARIWAFABANK
 329606 # Blue Turtle Technologies (Pty) Ltd
@@ -44629,8 +44622,6 @@
 403129 # North Wind Ventures
 403131 # Gimlet Labs, Inc.
 403132 # Xkrme Network LLC
-403133 # CANIX Solutions & Services
-403134 # CANIX Solutions & Services
 453620
 520022
 371064834

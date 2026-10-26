@@ -85,6 +85,7 @@
 222 # Air Force Systems Networking
 227 # Headquarters, USAISC
 228 # United States Department of Defense (DoD)
+232 # OpenAI OpCo, LLC
 240 # Air Force Systems Networking
 241 # Air Force Systems Networking
 242 # SUPSHIP
