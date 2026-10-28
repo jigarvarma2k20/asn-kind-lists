@@ -52,7 +52,6 @@
 140 # United States Department of Defense (DoD)
 141 # Navy Network Information Center (NNIC)
 142 # Headquarters, USAISC
-143 # 1881CS/XPC
 146 # Air Force Systems Networking
 147 # United States Department of Defense (DoD)
 148 # Navy Network Information Center (NNIC)
@@ -2026,7 +2025,7 @@
 12891 # Genel Kurmay Baskanligi
 12991 # Amt der Ooe. Landesregierung
 13011 # RA Monitorul Oficial
-13029 # Autonomous institution Center of Information Technologies of Ministry of Digital Development, Information Policy and Mass Communications of the Chuvash Republic
+13029 # Budget Institution of Chuvash Republic "Center of Information Technologies" of the Ministry of Digital Development, Information policy and Mass Communication of Chuvash Republic
 13042 # Oesterreichische Nationalbank
 13128 # IT-Dienstleistungszentrum Berlin
 13134 # Instituto de Informatica, IP - Ministerio da Solidariedade e Seguranca Social
@@ -2487,7 +2486,6 @@
 23902 # Vietnam Internet network information center (VNNIC)
 23904 # Ministry for the Environment
 23974 # Ministry of education
-23999 # Vietnam News Agency
 24011 # Health New Zealand
 24035 # Ministry of Foreign Affairs of Vietnam - MOFA
 24066 # Vietnam Internet Network Information Center
@@ -3963,7 +3961,6 @@
 55885 # ISP
 55938 # Expressway Authority of Thailand
 55951 # Lembaga Hasil Dalam Negeri Malaysia
-56004 # Information Center of Shanghai Municipal Education Commission
 56010 # Development Research Center Of The State Council
 56015 # China Sports Lottery Technology Development Co., Ltd
 56032 # BTCL IX service
@@ -4270,7 +4267,6 @@
 63747 # Central Post and Telecommunication (CPT)
 63748 # Department of Cyber a??a??Security and High-Tech Crime Prevention
 63752 # Department of Science and Technology of Phu Tho province
-63753 # Viet Nam Lottery One Member Company Limited
 63769 # Information and Communication Technology Center of Bac Kan Province
 63784 # Digital Agency
 63826 # Ministry of Planning, Planning Commission Chatter
@@ -4314,14 +4310,12 @@
 131373 # Information Technology Center - Ministry of Science and Technology
 131375 # Information Technology Center - Ministry of Science and Technology
 131381 # Department of Information Technology and Customs Statistics
-131390 # Center for E-commerce and Digital Technology Development
 131395 # Van phong Dieu phoi Nong thong moi Trung uong
 131401 # Department of Science and Technology of Vinh Phuc province
 131412 # State Audit Office of Vietnam
 131415 # Vietnam Internet network information center (VNNIC)
 131422 # Center for Digital Transformation of Culture, Sports and Tourism - Ministry of Culture, Sports and Tourism
 131436 # Information Technology and Digital Transformation Center - Vietnam Social Security
-131438 # VIETNAM POST
 131462 # Western Australian Land Information Authority
 131467 # Unified National Networks
 131693 # Kementerian Agama (KEMENAG)
@@ -4528,7 +4522,6 @@
 135764 # National Dairy Development Board
 135769 # U R Rao Satellite Centre
 135860 # New Delhi Municipal Council
-135914 # Quang Trung Software City Development Company
 135934 # Dong Thap Center for Innovation, Entrepreneurship, and Digital Transformation
 135946 # Department of Science and Technology of Tay Ninh Province
 135950 # Binh Duong E-Government Information Center
@@ -4711,7 +4704,6 @@
 138892 # Pemerintah Kota Padang
 138901 # Dinas Komunikasi dan Informatika Kabupaten Blitar
 138906 # Ministry of Culture
-138942 # Assam Society for Comprehensive Financial Management System
 138963 # Lockhart Road Municipal Services Building
 139022 # NEPAL RASTRA BANK
 139090 # Wuxi Education Information Management Service Center
@@ -5185,7 +5177,6 @@
 149384 # Dinas Komunikasi dan Informatika Kabupaten Tabalong
 149388 # Pemerintah Kota Gorontalo
 149402 # Diskominfo Pemerintah Kabupaten Probolinggo
-149406 # Lembaga Layanan Pendidikan Tinggi Wilayah VI
 149413 # Dinas Komunikasi Informatika dan Persandian Kabupaten Bangli
 149429 # Reserve Bank of Fiji
 149442 # Department of Immigration & Passports

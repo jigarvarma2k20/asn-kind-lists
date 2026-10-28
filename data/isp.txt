@@ -6016,6 +6016,7 @@
 17709 # Asia Pacific Telecom
 17710 # President Information Corp.
 17714 # Chunghwa Telecom Co. , Ltd.
+17715 # ChungHwa Telecom. Co. Telecommunication Lab.
 17719 # SingTel Optus Pty Ltd
 17724 # Total Access Communication PLC.
 17726 # Telecom Cambodia
@@ -7600,7 +7601,6 @@
 22892 # Air Speed Internet
 22898 # ATLINK SERVICES, LLC
 22909 # Comcast Cable Communications, LLC
-22911 # SINAP-TIX, LLC
 22914 # Big River Telephone Company, LLC
 22915 # Acuity Technologies LLC
 22921 # SEAC Network Solutions LLC
@@ -8004,6 +8004,7 @@
 24138 # China TieTong Telecommunications Corporation
 24139 # Huashu media&Network Limited
 24141 # Shanghai DMT Information Network cor.,LTD.
+24142 # BennalongNet
 24143 # Qingdao Cable TV Network Center
 24144 # Wuhan LSHIY Network Technology Co., Ltd.
 24147 # BEIJING CBD TELECOM CO,.LTD
@@ -8020,7 +8021,6 @@
 24166 # KE-ing Co , Ltd
 24173 # Netnam Company
 24176 # Branch of Netnam Company in Ho Chi Minh City
-24177 # iNET Media Company Ltd
 24181 # CELLO GROUP LIMITED
 24183 # DTS LTD
 24186 # RailTel Corporation of India Ltd
@@ -12470,6 +12470,7 @@
 38330 # ANYCAST HOLDINGS PTY LTD
 38333 # Symbio Networks
 38335 # BeiJing Shocom Telecom CO.,LTD
+38336 # Beijing Linkever Technology Co.,Ltd
 38337 # NIU Telecommunications Inc
 38339 # CNISP-Union Technology (Beijing) Co., Ltd
 38340 # 263 Shanghai Communications Ltd.
@@ -12482,9 +12483,12 @@
 38353 # CNISP-Union Technology (Beijing) Co., Ltd
 38355 # ChongQing Broadcast & TV Broadband IP MAN
 38356 # Golden-Bridge Netcom communication Co.,LTD.
+38357 # BEIJING DATA-express tech CO.,ltd
 38360 # Beijing Linktom Network Technology Co.,Ltd.
 38364 # LTEL
 38370 # China TieTong Telecommunications Corporation
+38373 # P.O.Box 849- 28 Beijing China
+38379 # MAGINETWORK
 38387 # CMB Sejong Broadcasting Co,.Ltd
 38424 # KOREA CABLE TELECOM
 38425 # SEJONG NETWORKS
@@ -12589,9 +12593,9 @@
 38716 # DC West Pty. Ltd.
 38726 # VTC DIGICOM
 38729 # Kien Cuong International JSC
-38731 # Vietel - CHT Compamy Ltd
 38732 # CMC Telecom Infrastructure Company
 38733 # CMC Telecom Infrastructure Company
+38738 # L.C.S Company.,ltd
 38740 # Tashi InfoComm Limited
 38742 # Afghan Wireless Communication Company
 38744 # AlwaysOn Network Bangladesh Ltd
@@ -13829,7 +13833,6 @@
 42402 # RiZ Computers s.c.
 42403 # Join-stock company "Internet Exchange"MSK-IX"
 42405 # PAN-NET SRL
-42407 # GT11 Sp. z o.o.
 42408 # Transvyaz-N LLC
 42410 # Point To Point Ltd.
 42416 # Comnet Internetional BV
@@ -14932,10 +14935,13 @@
 45061 # Shanghai Information Network Co.,Ltd.
 45067 # JILIN OILFIELD Telecommunication CO.
 45069 # china tietong Shandong net
+45080 # LINW
 45082 # TianJin LongChina Network S&T Co.,Ltd.
 45083 # China UNICOM, Beijing Branch
 45086 # Shanghai Yovole Networks Inc.
+45089 # BSTINET
 45093 # Cnean Internet Exchange
+45097 # Poly facility (Beijing) Technology Co., Ltd.
 45099 # CNISP-Union Technology (Beijing) Co., Ltd
 45100 # CNISP-UNION
 45104 # Hangzhou Alibaba Advertising Co.,Ltd.
@@ -15084,13 +15090,13 @@
 45528 # Tikona Infinet Ltd.
 45536 # Readylink Internet Services Limited
 45538 # ODS Joint Stock Company
+45539 # VTCWLB-VN
 45543 # SaiGon Tourist cable Televition Company
 45544 # SUPERDATA-VN
 45545 # Sai Gon Telecommunication and Technology Corp
 45546 # Gtel Mobile Joint Stock Company
 45547 # SPT Telecommunications Service Center
 45549 # Hiep Nhat Company Limited
-45552 # METASERV COMPANY LIMITED
 45557 # Vietnam Technology and Telecommunication JSC
 45558 # MYANMA POSTS AND TELECOMMUNICATIONS
 45560 # TOPNET. IP Transit AS
@@ -15227,6 +15233,7 @@
 45884 # RVR Infrastructure Limited Service provider hyderabad india
 45885 # Orange Business Services India Technology
 45891 # Solomon Telekom Co Ltd
+45894 # FPT Online JSC
 45895 # Mobifone Global JSC
 45896 # Mobifone Global JSC
 45897 # Mobifone Global JSC
@@ -16565,7 +16572,6 @@
 49640 # S.P.E. SISTEMI E PROGETTI ELETTRONICI S.A.S. DI PRANDINI PAOLO E C.
 49641 # OOO "Alfacom"
 49645 # Soft Expert SRL
-49647 # Sky Unwired DWC-LLC
 49648 # I-P Service LLC
 49650 # Everex Comunicaciones, S.A.
 49653 # CADF S.p.A
@@ -18626,6 +18632,7 @@
 55271 # ZIRO Technologies Inc.
 55275 # Canfone.com Inc.
 55295 # New Day Broadband One LLC
+55305 # ODS Joint Stock Company
 55309 # Minh Tu Telecom Limited Company
 55313 # Hanel Communication JSC
 55329 # Telcotech Ltd.
@@ -18827,12 +18834,14 @@
 55968 # Great Wall Broadband Network Service Co.,Ltd.
 55969 # Great Wall Broadband Network Service Co.,Ltd.
 55970 # Great Wall Broadband Network Service Co.,Ltd.
+55972 # Beijing Sawas Technology Co.LTD.
 55977 # Zhejiang Wasu Broadcast&TV Network Co., Ltd
 55983 # Beijing Guanghuan Xinwang Digital
 55988 # Pacnet Business Solutions LTD
 55996 # CYPRESS TELECOM (CHINA) LIMITED
 55999 # Shanghai Sakura Communications Co., Ltd.,
 56002 # BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
+56003 # Beijing Century Union Network Technology Co.,LTD.
 56008 # Beijing Ixecloud Communication Solution
 56009 # Cetron Network Technology Co., Ltd
 56012 # LGNET China
@@ -19122,7 +19131,6 @@
 56699 # GUP NAO Neneckaya kompaniya electrosvyazi
 56701 # LLC "AVANTA TELECOM"
 56702 # JOINT-STOCK COMPANY "MOSCOW ENERGY COMMUNICATION NODE"
-56703 # MEHR AVA GOSTAR PARSIAN INFORMATION ENGINEERING CO.,LTD
 56704 # Farice ehf
 56705 # OSM-Telecom LLC
 56707 # OOO NETCOM
@@ -20014,7 +20022,6 @@
 58823 # PT Jagat Media Teknologi
 58825 # PT Cometsnet Mandiri Sejahtera
 58826 # ping by ICOM Bangladesh Ltd
-58827 # Jilin Gosun Technology Co., Ltd.
 58829 # Forest Eternal Communication Tech. co.ltd
 58830 # Shanghai HaoJin Technology Development Co.,Ltd.
 58831 # Beijing HuatongWeilai Technology Co Ltd
@@ -20022,11 +20029,11 @@
 58834 # Guangdong Cable Corporation Limited
 58836 # Xiaomi Telecom Technology Co.,LTD
 58837 # Sichuan aipu network co., LTD
-58838 # ShenZhenShiZongHengXinXiJiShuYouXianGongSi
 58839 # Xiaomi Telecom Technology Co.,LTD
 58840 # Fujian Guangtong Internet Communication Co., Ltd.
 58841 # Guangdong Hutong Broadband Network Co.,Ltd
 58842 # HCI Solutions Co.,Ltd
+58851 # Priority of Fashion(Beijing)Information Technology Co.,Ltd
 58852 # Guizhou provincial radio and television information Network Inc
 58857 # Pacnet Business Solutions(Chongqing)
 58860 # Beijing Beikuan Network Co,Ltd
@@ -21802,13 +21809,19 @@
 63581 # GUANGXI RADIO & TELEVISION INFORMATION NETWORK CO.,LTD.
 63589 # Pacnet Business Solutions(TianJin)
 63590 # Hebei Broadcasting&TV Network
+63595 # V District of Baisha emerging industrial park 8 Building
 63602 # China Internet Exchange
+63603 # GSS China
+63606 # Shandong Tian Wo Network Technology Co.,Ltd
 63607 # Anhui Radio and Television Information Network Co.,Ltd.
+63609 # Beijing LD Technology Co., Ltd.
+63614 # QishangOnline
 63616 # Beijing GlobalUnicom CO LTD
 63621 # NINGXIA BROADCAST&TV NETWORK CO.,LTD
 63627 # Xuan Hui Langfang TV Installation Services Co., Ltd.
 63628 # Huaxia Unipower Network Co.,Ltd
 63630 # Guangzhou Power Communication Networks CO.,Ltd.
+63637 # Zhejiang Nilian information technology Co., Ltd.
 63642 # Fanya (Guizhou) ICT&Networks Co.,Ltd
 63662 # Beijing Fouth Dimension Telecom Co,Ltd
 63664 # Beijing shouchangchuangye telecom Technology Co., Ltd.
@@ -21818,6 +21831,7 @@
 63690 # China Dragon Telecom Co.,Ltd
 63700 # Shanghai Information Network Co.,Ltd.
 63702 # PCS Telecom Co., Ltd.
+63703 # TianJin ERENB Technology Development Co.,Ltd.
 63704 # Guizhou provincial radio and television information Network Inc
 63706 # Hubei New-Type Internet Exchange  Co, Ltd
 63711 # China TieTong Telecommunications Corporation
@@ -21832,9 +21846,7 @@
 63735 # Hoatoc company limited
 63741 # DCNET TELECOM
 63745 # NTT VietNam Communication Company Limited
-63754 # VMG MEDIA JOINT STOCK COMPANY
 63757 # Pacific Technology Development and Communication joint stock company
-63767 # GCAFE
 63772 # extride inc.
 63774 # Kamoike.net LLP
 63775 # YAKAGE CABLE TELEVISION
@@ -22175,6 +22187,7 @@
 131299 # tornado net private limited
 131304 # FIBER TECHNOLOGY LIMITED
 131306 # CITI Cableworld Inc.
+131308 # IRINN
 131309 # Khmer Highspeed Asianet Co., Ltd.
 131314 # CBC Tech International Limited
 131317 # TTSL-ISP DIVISION
@@ -22192,15 +22205,14 @@
 131340 # Md. Mozammel Hoque t/a Taqwa IT
 131349 # Digital telecomminication service joint stock
 131366 # Lanit Technology and Communication Joint Stock Company
-131367 # Viet Online trading service corporation
 131370 # NETNAM Company
-131372 # VIVAS-VN
-131386 # Long Van System Solution JSC
+131388 # VIET NAM HT GROUP JOINT STOCK COMPANY
 131393 # Minh Phat Telecomunication service Company Limited
+131406 # CTC Media Technology Apply Joint Stock Company
+131407 # Sai Gon CTT
 131409 # ACT Telecomunication Joint Stock Company
 131410 # Vietnam Cable Television Corporation Joint Stock Company
 131421 # Intercom Telecom., JSC
-131423 # Branch of Long Van System Solution JSC - Hanoi
 131429 # MOBIFONE Corporation
 131432 # Cyber Link Service Trading Corporation
 131442 # Digital Network Associates Pvt Ltd
@@ -22235,7 +22247,7 @@
 131532 # Shanghai intercity communication co. LTD
 131534 # Guangzhou Ming Xin Communication Technology Limited Company
 131536 # Shanghai Great Wall Broadband Network Service Co., Ltd.
-131547 # Beijing yunchuang communication Technology Co.Ltd.
+131545 # Beijing Wafer New Century Information Technology Limited
 131548 # BEIJINGSHICHAOYANGQUSIYUNSIYIHAOYUAN
 131550 # Inner Mongolia Ruitong Network Technology Co., Ltd
 131554 # Oneasia ( Shanghai) Limited
@@ -22247,6 +22259,7 @@
 131568 # Xiamen Kuaikuai Network Technology Co.,Ltd
 131569 # Beijing Elinkcloud network technology co. LTD
 131570 # Beijing Allwayee Science and Technology Ltd.;
+131574 # Beijing Haiyu Technology Co. Ltd..
 131577 # Wuhan Unifiber Communication Co., Ltd.
 131583 # WIZwireless Limited
 131584 # Taiwan Intelligent Fiber Optic Network Co.,Ltd.
@@ -22864,7 +22877,6 @@
 133095 # PT Pusat Fiber Indonesia
 133096 # Mothership
 133097 # StarHub Ltd
-133101 # Power Wireless Ltd
 133107 # FNETLINK CO .,LIMITED
 133109 # Delta
 133110 # IP Core Sdn Bhd
@@ -24278,14 +24290,16 @@
 135896 # SBC Network Solutions Inc
 135898 # Universal Communications Group NZ Limited
 135905 # VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+135908 # ECONET VIETNAM CORPORATION
 135910 # INTELLIGENCE INFORMATION SYSTEM CO, LTD
-135918 # VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
 135923 # SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED
-135944 # VinhNam Commercial informatics service corporation
+135943 # TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY
 135949 # Cloudfone Viet Nam Joint Stock Company
-135961 # Viet Nam Data Online Joint Stock Company
 135964 # RVC Rong Viet Trade Service Telecom Company Limited
 135965 # VNPT Net Corporation - VNPT Group
+135977 # Vietnam BDA technology and communication joint stock company
+135979 # QI TECHNOLOGIES CORPORATION
+135990 # Everest Global Joint Stock Company
 135991 # Green Network Solutions LTD.
 135993 # IPTP Networks Company Limited
 135995 # TLINKVN Technology Connection Joint Stock Company
@@ -25155,22 +25169,18 @@
 137708 # BANGALORE TECHNOLOGY NETWORK PRIVATE LIMITED
 137725 # JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED
 137727 # Anshan Guangxun Mingzhe Information Technology Co., Ltd.
-137732 # Shanghai Longrui Information Technology Co., Ltd
-137738 # Beian Digital Network Technology Co., Ltd.
-137743 # Beian Digital Network Technology Co., Ltd.
 137747 # Beijing Chijun Network Advisory Service Co,Ltd
 137754 # Zhejiang Shanxun Network Technology Co., Ltd.
 137755 # China Radio and Television Qinghai Network Co. Ltd
 137756 # BEIJING SHENZHOU GREATWALL COMMUNICATION
 137757 # BEIJING SHENZHOU GREATWALL COMMUNICATION
 137763 # Teleinfo
-137766 # Yangzhou safety and speedly Network Technology CO.,Ltd.
-137768 # Algoblu Ltd.
 137772 # Beijing Dingchang Communication Technology Co., Ltd
 137773 # Guizhou lianguang technology co. LTD
 137774 # Beijing next generation access Acceleration CO.LTD
 137776 # Beijing Rong-Xin-Hui-Tong Communication Technology Co., Ltd.
 137783 # ShangHai Telecom Science & Technology Development Co.,Ltd
+137786 # Nanjing Plani Information Technology Co. Ltd.
 137793 # Beijing Jike Communication Technology Co., Ltd.
 137797 # Nanjing dongfang network information technology co. LTD.
 137804 # China Internet Exchange
@@ -25849,6 +25859,7 @@
 139136 # ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.,LTD.
 139146 # Xixian New Area Fengwei Smart Communication Network Tec.Co.,Ltd.
 139156 # Beijing wangshun qiantong network communications technology company
+139176 # Beijing fast exchange Network Technology Development Co.,Ltd
 139180 # Shandong eshinton Network Technology Co., Ltd.
 139188 # China Merchants Bank Co., Ltd.
 139191 # CLOUDHM @SUPERNAP Thailand
@@ -25904,7 +25915,6 @@
 139306 # Blamac Pty Ltd
 139309 # Tata Communications (CANADA) Ltd.
 139312 # MYKRIS NET SDN BHD
-139318 # Airbrils Private Limited
 139319 # BEE ONLINE
 139325 # IQ-TEL
 139326 # Digital One Broadband Internet Service
@@ -26727,17 +26737,16 @@
 140726 # UNICOM AnHui province network
 140728 # Quantum Voice and Data
 140732 # KK Networks (Pvt) Ltd.
-140738 # VESNET JOINT STOCK COMPANY
 140745 # VINTEK VIET NAM TECHNOLOGY TELECOM COMPANY LIMITED
 140752 # Kien Phong Trading Service Telecommunication Company Limited
 140756 # SAIGON TELECOMMUNICATIONS TECHNOLOGY SOLUTIONS COMPANY
 140765 # Vi Na Network Services Joint Stock Company
-140770 # Digilife Vietnam Digital Services Company Limited
 140774 # VIET NAM UNIFIED COMMUNICATIONS CORPORATION
 140775 # GLOBAL INFORMATICS TELECOMMUNICATIONS JOINT STOCK COMPANY
 140778 # MINH HIEN SOLUTIONS COMPANY LIMITED
 140789 # DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE JOINT STOCK COMPANY
 140796 # SBDTELECOM
+140798 # BAO NAM HOLDINGS., JSC
 140803 # Telecommunications Company Limited A
 140806 # PVS TELECOM CO.LTD.,
 140813 # DIGITAL SOLUTION AND TELECOMMUNICATIONS SERVICE JOINT STOCK COMPANY
@@ -26745,7 +26754,6 @@
 140838 # Mandari Online
 140842 # DCA Networks Pty Ltd
 140843 # Dhamrai Network
-140844 # Power Wireless Ltd
 140847 # Update Technology
 140849 # Pan M Tech Limited
 140850 # Maa Internet Service Provider
@@ -27824,7 +27832,6 @@
 146786 # Conicloud Communication Service Co., Ltd
 146787 # Hengyang Jiangwan Network Technology Co., Ltd.
 146788 # China Broadcasting Network Co., Ltd
-146793 # Shanghai Youxun Industrial Co.,Ltd.
 146795 # Wenzhou Yunfeng Network Technology Co., Ltd
 146798 # Guangdong New Concept Network Co., Ltd
 146802 # China Broadcasting Network Yunnan Co.,Ltd
@@ -28186,14 +28193,13 @@
 149058 # Speed Links
 149059 # Alpha Motion Pte Ltd
 149060 # SQUARE NET
-149082 # NGOC MINH TECHNOLOGY JOINT STOCK COMPANY
-149097 # FASTLY NETWORK SOLUTION COMPANY LIMITED
+149070 # Da Thanh Service and Trade Company Limited
 149105 # IPTP NETWORKS DA NANG COMPANY LIMITED
+149113 # ODB VIET NAM COMPANY LIMITED
 149119 # DHD TELECOM COMPANY LIMITED
 149140 # VIETSPEED SERVICE COMPANY LIMITED
 149147 # GOFIBER SOFTWARE TECHNOLOGY COMPANY LIMITED
 149148 # Phu Hai Computer Co., Ltd
-149161 # MEGA TECHNOLOGY COMPANY LIMITED
 149162 # Fiber Link
 149165 # Manhattan Telecommunications Corporation
 149166 # Inmarsat Solutions (Canada) Inc
@@ -29262,10 +29268,14 @@
 150808 # optimus online
 150811 # Khulna Online
 150812 # Myanmar Fortune Global Company Limited
+150826 # VR VIET NAM COMPANY LIMITED
 150837 # SAOVANG TELECOMMUNICATION INFRASTRUCTURE JOINT STOCK COMPANY
 150838 # HA SON TECHNOLOGY ONE MEMBER LIMITED COMPANY
 150861 # POWERNET COMPANY LIMITED
 150885 # DA THANH TELECOMMUNICATION COMPANY LIMITED
+150899 # HTSG HIGH TECHNOLOGY SERVICES AND MEDIA JOINT STOCK COMPANY
+150903 # ROYAL TECHNOLOGY MEDIA JOINT STOCK COMPANY
+150907 # GREEN SYSTEM SOLUTIONS COMPANY LIMITED
 150913 # PT Alam Daur Nusantara
 150914 # PT Ned Link Telekomunikasi
 150915 # PT Borneo Global Persada
@@ -29436,7 +29446,11 @@
 151237 # Taiyuan Cable Zhongguang Technology Developmewnt Co.Ltd
 151238 # BOCNET (BEI JING) COMMUNICATIONS LIMITED
 151239 # FLEDGE NETWORKS LIMITED
+151263 # Juzhi technology co., ltd
+151276 # XI'AN UOTOCOM NETWORK TECHNOLOGY CO.,LTD
 151277 # China Broadcast Network International Co.,Ltd
+151290 # Cenvan (BeiJing) Network Technology CO.,LTD
+151291 # JiuPeng Network Co.Ltd
 151301 # Beijing Fibre Sky Network Technology Co., Ltd.
 151310 # Beijing Beiao Communication (Group) Co., Ltd
 151318 # TALORA ONLINE
@@ -29716,9 +29730,13 @@
 151848 # GULF CABLE NETWORK (SMC-PVT.) LIMITED
 151849 # PT Inspirasi Internet Xtra
 151855 # SOUTH TELECOMMUNICATIONS SOFTWARE JOINT STOCK COMPANY
-151858 # INTERDIGI JOINT STOCK COMPANY
 151862 # NGOC TU NETWORK SOLUTIONS AND TECHNOLOGY COMPANY LIMITED
+151863 # PSG JOINT STOCK COMPANY
+151866 # DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED
 151876 # BLUE SKY NETWORK INFRASTRUCTURE SOLUTIONS CO., LTD
+151880 # BCONNECT TECHNOLOGY AND SOLUTION JOINT STOCK COMPANY
+151881 # GREEN LIGHT TECHNOLOGY SOLUTIONS COMPANY LIMITED
+151896 # ETEL TECHNOLOGY COMPANY LIMITED
 151910 # VIETNAM TELECOMMUNICATION COMPUTING JOINT STOCK COMPANY
 151936 # ASAP Software Solutions Company Limited
 151937 # MEKONGNET LLC
@@ -30252,9 +30270,10 @@
 152929 # Fahin Online
 152931 # Burak Tech
 152932 # DOUR NET
-152936 # LIEN LIEN ELECTRONIC WAVE TECHNOLOGY COMPANY LIMITED
 152938 # TRI VIET COMMERCIAL AND SYSTEM INTEGRATION COMPANY LIMITED
 152940 # TTC TELECOM SERVICE TRADING INVESTMENT COMPANY LIMITED
+152959 # GKIN COMPANY LIMITED
+152969 # Kim Ky Nam Digital Technology Solutions Company Limited
 152981 # VNC NIX COMPANY LIMITED
 152995 # The Phong Telecommunications Technology Service & Trading Company Limited
 153031 # Huy Hoang Phat Telecommunications Company Limited
@@ -30472,10 +30491,8 @@
 153390 # PAKHTUN FIBER SOLUTION (PRIVATE) LIMITED
 153392 # Kalukhali Cable Network
 153400 # Prime Broadband
-153401 # Huu Dien High Technology Company Limited
 153403 # Huy Hoang Electronics and Telecommunications Company Limited
 153410 # NEXT STEP TECHNOLOGY JOINT STOCK COMPANY
-153413 # HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY
 153428 # TTP GROUP TECHNOLOGY TELECOMMUNICATION JOINT STOCK COMPANY
 153429 # Le Quang Telecommunications Technology Company Limited
 153430 # Quang Kim Digital Technology Investment and Development Company Limited
@@ -30549,7 +30566,6 @@
 153583 # PT POLARIS LINTAS NUSANTARA
 153584 # PT Quel Teknologi Indonesia
 153588 # Blackbox Internet
-153591 # LEEON TECHNOLOGY COMPANY LIMITED
 153594 # B3NETWORKS PTE. LTD.
 153596 # SWIS
 153597 # Townsville Internet
@@ -30663,7 +30679,6 @@
 153826 # SLJ FIBER NETWORKS PVT LTD
 153827 # Beyondtech Nepal Pvt. Ltd.
 153830 # Upnet Technology Solutions Company Limited
-153831 # Bao Khanh ICT Company Limited
 153833 # GCXG INDIA PRIVATE LIMITED
 153835 # PT Fibersa Indotama Network
 153836 # Solitary Technology
@@ -30724,7 +30739,6 @@
 153936 # PT DINAMIKA TEKNOLOGI NUSA
 153938 # PT Digital Omni Telekomunikasi
 153940 # PT Win Akselerasi Net Indonesia
-153941 # ESECURE SOLUTION LIMITED COMPANY
 153942 # Safwan Communication
 153943 # PT Media Infrastruktur Teknik
 153944 # BRAINTREE
@@ -30822,7 +30836,6 @@
 154128 # PT Elviana Jaringan Nusantara
 154129 # PT. GLOBAL LINTAS SOLUSI
 154133 # SUDAMA TELECOM PRIVATE LIMITED
-154134 # COMMERCIAL MOBILE INFORMATION TECHNOLOGY JOINT STOCK COMPANY
 154136 # CORENET NETWORKS PRIVATE LIMITED
 154137 # H LINK FIBER INDIA PVT LTD
 154139 # SNNET INTERNET SERVICES PRIVATE LIMITED
@@ -30944,6 +30957,7 @@
 154347 # PT Anagata Akusara Semesta
 154348 # Sky47 Limited
 154349 # PT Asa Kreasi Interasia
+154350 # ATZ CORP JOINT STOCK COMPANY
 154351 # Star Network
 154352 # Digonto Communication Network
 154353 # PT Indo Cahaya Network
@@ -30960,6 +30974,7 @@
 154385 # PT PRIMA INDO SENTOSA
 154386 # Javed Net
 154387 # PT Lintas Trans Khatulistiwa
+154388 # ETC Technology System Joint Stock Company
 154390 # BEAMCONNECT INTERNET SERVICES PVT LTD
 154391 # ICOMNET COMMUNICATION PRIVATE LIMITED
 154393 # PT Flok Global Utama
@@ -31025,6 +31040,7 @@
 154483 # PT Galaktik Optika Omni Data
 154487 # OPTO TECHNOLOGY SOLUTIONS PRIVATE LIMITED
 154489 # Magnet Telecommunication
+154491 # NETCORE COMPANY LIMITED
 154494 # PT Selaras Teknologi Utama
 154495 # PT Sterlink Permata Indonesia
 154500 # DIGITAL FIBER TECH PRIVATE LIMITED
@@ -31369,6 +31385,8 @@
 155048 # ZAMZAMNET PRIVATE LIMITED
 155049 # PT Jati Buana Sentosa
 155050 # PT Trivara Fiber Connection
+155052 # Telecom Vanuatu Limited
+155056 # MYGURU FIBERNET PRIVATE LIMITED
 196608 # INTERNET AG Global Network
 196609 # PCS Professional Communication Systems GmbH
 196612 # GHOSTnet GmbH
@@ -35842,7 +35860,7 @@
 209406 # IpWay LLC
 209408 # BZSOLUTIONS SRL
 209410 # SiciLink s.r.l.s
-209411 # D1, informacijske tehnologije, d.o.o.
+209411 # RETIP Informacijske Storitve d.o.o.
 209417 # Tianhai Infotech Ltd
 209420 # START LLC
 209421 # Saudi Telecom Company JSC
@@ -36387,7 +36405,6 @@
 211079 # E.S.I. Informatique S.P.R.L.
 211084 # RF COM S.R.L.
 211085 # mapnet IT services s.r.o.
-211087
 211090 # DIL Technology Limited
 211091 # I P House Limited
 211092 # Ucom CJSC
@@ -36937,7 +36954,6 @@
 212829 # Strnet Iletisim Sanayi ve tic. Ltd. Sti
 212833 # FIBRAWORLD TELECOM S.A.U.
 212836 # IPv4 Superhub Limited
-212840 # OOO WestCall Ltd.
 212842 # Coming Computer Engineering DOO
 212843 # TOV "IPMAC"
 212850 # Omnia Alkher for internet services Limited Liability/Private Company
@@ -37477,7 +37493,6 @@
 214972 # Lobi Bilgi Teknolojileri A.S.
 214975 # Girey-net OOO
 214976 # AVSISP OU
-214981 # IE Didyk Dmitriy Sergeyevich
 214982 # Awaser Oman LLC
 214990 # GO LINE LLC
 214991 # Killean Jor LTD
@@ -37844,7 +37859,6 @@
 216472 # High Speed For Internet Services L.L.C
 216475 # NKtelecom INC
 218292 # Telco Pack SA
-218294 # Infinite Horizon Networks
 218305 # CoolNet, s.r.o.
 218307 # Slovix Telecom s.r.o.
 218317 # MDO Furuz LLC
@@ -37955,7 +37969,7 @@
 218810 # Space Web LLC
 218814 # SONIC SPEED FIBER INTERNET LIMITED
 218824 # SOLTANTECH TEKNOLOJI BILISIM SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI
-218826 # ALESSIO TROIANI trading as A.TEL. DI TROIANI ALESSIO
+218826 # FIBRE NETWORK S.R.L.
 218828 # Kikix LLC
 218836 # Nicky Hendriks trading as Expeditioner
 218843 # Omnivision Solutions Ltd
@@ -39464,7 +39478,6 @@
 264322 # DATA NETWORKS TELECOMUNICACOES LTDA - EPP
 264323 # OXMAN TECNOLOGIA LTDA
 264324 # BIT7NET TECNOLOGIA E SERVICOS LTDA
-264326 # CARTECH INFORMATICA LTDA-ME
 264327 # ANDERSON MANZANO BACHIEGA
 264328 # Eclipse Telecom
 264329 # ESTRATEGIA REDES DE TELECOMUNICACOES LTDA.
@@ -43768,7 +43781,6 @@
 270136 # OPTOENLACES S.A. DE C.V.
 270137 # Telecable de Rioverde S.A. de C.V.
 270138 # Airfaster S.A. de C.V.
-270139 # KIUBIX, SA de CV
 270141 # REHEDMEX S.A de C.V
 270142 # Castor Networks Mexico
 270143 # MAYSNET SA DE CV
@@ -45713,7 +45725,6 @@
 272839 # NETCALLS SOCIEDAD DE RESPONSABILIDAD LIMITADA
 272840 # EMPRESA DE SERVICIOS DAN SOLUTIONS S.R.L.
 272841 # STAR CONECT ISP TECNOLOGIES, C.A.
-272843 # Rio Colorado Television S.A.
 272845 # LANJET S.R.L.
 272847 # COMPUREDES PLANETA SAS
 272848 # HUASCARAN INVESTMENT GROUP S.A.C.
@@ -50922,6 +50933,7 @@
 402579 # STS Broadband
 402590 # Ardent Wireless, LLC
 402629 # TAIPEI101 NETWORK LLC
+402635 # Sines Networks LLC
 402647 # Netronex
 402652 # BroadMAX Networks Inc.
 402654 # LHS Networks

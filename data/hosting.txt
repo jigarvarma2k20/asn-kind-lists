@@ -1427,6 +1427,7 @@
 22890 # Nebraska Colocation Centers, LLC
 22903 # Databank Holdings, Ltd
 22908 # Sixsigma Networks Mexico, S.A. de C.V.
+22911 # SINAP-TIX, LLC
 22923 # Netminders Server Hosting
 22951 # Hebergement Phaonix Inc.
 22961 # Atheral LLC
@@ -1513,6 +1514,7 @@
 24050 # Internet Systems Consortium, Inc.
 24051 # Internet Systems Consortium, Inc.
 24056 # Internet Data Centre
+24085 # Quang Trung Software City Development Company
 24095 # ePLDT - Vitro Internet Data Center
 24099 # Layerlinks Global Lmited
 24114 # Equinix Asia Pacific
@@ -1524,6 +1526,7 @@
 24140 # 21VIANET(CHINA),INC
 24168 # Cloudmax Inc.
 24170 # New Century InfoComm Tech. Co., Ltd.
+24177 # iNET Media Company Ltd
 24188 # Equinix Asia Pacific
 24192 # Solarix Networks Limited
 24198 # PT. Datakom Padma Jaya (DatakomNAP)
@@ -2723,6 +2726,8 @@
 38670 # CDNetworks
 38690 # HyosungITX
 38719 # Dreamscape Networks Limited
+38725 # Inet software one member company limited
+38731 # Vietel - CHT Compamy Ltd
 38735 # Global Data Service Joint Stock Company
 38743 # ABTINFOSYSTEM PVT LTD - INTERNET DATA CENTER,
 38767 # PT Awan Media Semesta
@@ -3368,6 +3373,7 @@
 45494 # NREN ASN for Misc. Root Servers and Community
 45495 # Interchange Ltd.
 45508 # Equinix Australia Pty Ltd
+45552 # METASERV COMPANY LIMITED
 45577 # Intervolve Pty Ltd
 45584 # Web Hosting Provider
 45633 # Slush Technologies AS V4 Transit
@@ -4381,9 +4387,11 @@
 56111 # Agarto Sdn Bhd
 56125 # P.D.R Solutions FZC
 56140 # ModernOne Data Solutions Sdn. Bhd.
+56143 # VDATA-VN
 56150 # Viet Solutions Services Trading Company Limited
 56153 # Digital Storage Company Limited
 56158 # Digital world data online company
+56160 # VIETNIX Solution and Technology Joint Stock Company
 56161 # Exabytes Network (Singapore) Pte. Ltd.
 56202 # Suite no 10, Level 5; C Wing
 56219 # NetSpot Pty. Ltd.
@@ -4510,7 +4518,7 @@
 57311 # ADMINS UA LLC
 57317 # Servermeile GmbH
 57342 # NetzNutz GmbH
-57344 # Telehouse EAD
+57344 # Telehouse AD
 57348 # Oxya FRANCE SA
 57358 # IMT-Systems GmbH
 57360 # Nomino Sp. z o.o.
@@ -4663,10 +4671,13 @@
 58791 # GMO Internet, Inc.
 58793 # FUJITSU LIMITED
 58797 # Carpathia Hosting
+58827 # Jilin Gosun Technology Co., Ltd.
 58833 # Beijing CloudHosting Communications CO.,LTD
 58835 # 9F, FIYTA Building, Gaoxinnanyi Road,Southern
+58838 # ShenZhenShiZongHengXinXiJiShuYouXianGongSi
 58844 # Guangdong Aofei Data Technology Co., Ltd.
 58847 # Shanghai Cloud Win Data Technology Co., Ltd
+58853 # Shanghai KUDUNET Communication network equipment., LTD
 58854 # Kaopu Cloud
 58856 # Beijing Blue I.T Technologies Co.,Ltd.
 58861 # ShangHai AnchNet Tec, Inc.
@@ -4687,12 +4698,17 @@
 58981 # DataPort Limited
 58982 # DataPipe
 58989 # VORTECH BUSINESS SOLUTIONS PTY LTD.
+58991 # Syscloud(BeiJing)Technology Limited
+58996 # Shanghai Meicheng Technology Information Co.,Ltd.
 59002 # Chongqing Cloud Computing Investment&Operation Co.,Ltd
 59004 # Tianjin new cloud network technology co., LTD
 59019 # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 59020 # 21vianet(China) Inc.
+59031 # Shanghai Yunrui Zhitong Industrial Co. Ltd.
+59036 # Shanghai Maginetwork Cro,.Ltd.
 59048 # Bei Jing Cloud Times Technology Co.,Ltd
 59050 # Beijing Cloud-Ark Technology Co.,Ltd.
+59060 # Yunnan Tiancheng Technology Co., Ltd.
 59061 # Beijing UniCloud Technology Co,Ltd.
 59062 # BZYUN Cloud computing & IOT Technology Co., Ltd
 59063 # TopIaas Inc.
@@ -4704,7 +4720,7 @@
 59088 # Range Technology Development Co., Ltd.
 59089 # CloudVsp
 59090 # HUITIAN NETWORK TECHNOLOGY CO.,LTD
-59099 # BroadBand Tower, Inc.
+59099
 59109 # Hitachi,Ltd., Managed & Platform Services Business Division
 59117 # DREAM CLOUD INNOVATION PTE. LTD.
 59153 # Rumahweb Indonesia CV.
@@ -5236,6 +5252,8 @@
 63568 # Beijing Zhonglian Runtong Information Technology Co. Ltd.
 63572 # Ningxia West Cloud Data Technology Co.Ltd.
 63573 # Zenlayer Network Technologies Inc
+63575 # Shanghai Kuanhui Tech. Co.,ltd
+63576 # Shanghai Kuanhui Tech. Co.,ltd
 63577 # Beijing Aidi Communications Technology Co., Ltd.
 63586 # Hangzhou Yunzhimeng Technology Co. LTD
 63587 # Quantum Cloud New Media Technologies Co.Ltd
@@ -5244,7 +5262,9 @@
 63622 # Shandong Evayinfo TechnologyT.,Ltd
 63631 # Guangdong Cloudbase Technology Co., Ltd.
 63632 # Guangdong Cloudbase Technology Co., Ltd.
+63650 # Xinjiang Shuao Network Technology Co,Ltd
 63656 # Tang Shan Hong Yun Data Co.,LTD
+63657 # Shanghai Shuao Technology Co,Ltd
 63659 # CHINA UNICOM CLOUD DATA COMPANY LIMITED Shanghai Branch
 63674 # Beijing zhongJiahexin Communication Technology Co. Ltd.
 63675 # Guizhou Wingcloud Bigdata Service Ltd.
@@ -5257,12 +5277,16 @@
 63682 # Lead Cloud Information Technology Co. Ltd.
 63685 # Kongshan Network Technology (Shanghai) Co., Ltd.
 63688 # Shanghai Qiniu Information Technologies Co., Ltd.
+63691 # Beijing wisdom network technology Co., Ltd. polymerization
+63692 # Daily-tech Beijing Co.,Ltd.
 63708 # Guangdong LITONG Network Technology Limited
+63709 # Shanghai Yiyun Information Technology Development Co., Ltd.
 63718 # Hangzhou YouYun Technology Co., Ltd.
 63726 # QingDao HaiLian Information Engineering Co.Ltd
 63734 # 365 Online technology joint stock company
 63737 # VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED
 63739 # VIETPN Company Limited
+63740 # TOCDOSOVN-VN
 63760 # AZDIGI Corporation
 63761 # Cong ty TNHH Dich vu truc tuyen Maxdata
 63765 # HOSTVN Technology Solutions Joint Stock Company
@@ -5371,12 +5395,20 @@
 131346 # FLYCLOUD Company Limited
 131353 # NhanHoa Software company
 131358 # Telehouse international corporation of vietnam
+131367 # Viet Online trading service corporation
+131377 # DIGIPOWER CO., LTD
 131378 # Cloud Viet Technology Company Limited
 131384 # Viet Solutions Services Trading Company Limited
+131386 # Long Van System Solution JSC
 131392 # GMO-Z.com Runsystem Joint Stock Company
 131400 # Global Data Joint Stock Company
 131404 # Masters Technology Corporation
+131414 # Long Van Soft Solution JSC
 131416 # Cloudone Technology Company Limited
+131423 # Branch of Long Van System Solution JSC - Hanoi
+131424 # Online Solution Company Limited
+131427 # AOHOAVIET-VN
+131437 # Van Gia Technology Company Limited
 131441 # May Chu Viet Company Limited
 131444 # Huawei IT Data Center in AP
 131447 # POPIDC powered by CSLoxinfo
@@ -5386,12 +5418,15 @@
 131495 # Beijing nine cloud infinite network technology co., LTD
 131505 # Nantong Key-cloud Technology Co.,Ltd
 131508 # Beijing Yunji Wantong Network Technology Co. LTD
+131511 # Beijing Chenxun Technology Co., Ltd.
 131514 # Fujian Data Fujian Cloud Computing Operaing CO.LTD
 131522 # Beijing Yovole Cloud Computing Technology Company Limited
 131525 # Nanjing Tuniu Technology Co. Ltd.
 131530 # Shanghai Stacks Network Co., Ltd
 131533 # Wuxi Shanghang Data Co., Ltd.
 131535 # Suzhou Qiduo Information Technology Co.,Ltd
+131540 # cloudvop.com
+131547 # Beijing yunchuang communication Technology Co.Ltd.
 131556 # Shandong Lunan Data Technology Co., Ltd
 131561 # Wuxi Shanghang Data Co., Ltd.
 131564 # Beijing 2049 cloud computing data technology service co. LTD
@@ -5539,6 +5574,7 @@
 133033 # Dragon Spirit Investments International Co., Limited
 133034 # Virtual American Companies (BD) Limited
 133046 # Cloudoip Pty Ltd
+133047 # P9 TECHNOLOGY COMPANY LIMITED
 133050 # CNCNA Pty Ltd
 133065 # Well-Act Partnership Limited
 133070 # EBN HOST LIMITED
@@ -5855,17 +5891,22 @@
 135880 # NEON CLOUD PRIVATE LIMITED
 135889 # Softsource Ltd
 135900 # State Data Center - Hanoi Department of Science and Technology
+135901 # Phuong Dong technology solution company limited
 135907 # VI NA Host Co., ltd
 135912 # VNETWORK Joint Stock Company
 135917 # Cong ty TNHH Web Panda
+135918 # VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
 135920 # Ehost software company limited
 135921 # Maxserver Company Limited
 135930 # Anycast Networks (VN)
 135932 # Viet Storage Technology Joint Stock Company
+135944 # VinhNam Commercial informatics service corporation
 135951 # Webico Company Limited
 135952 # VPS Securities Joint Stock Company
 135953 # Vietnam Online Network Solution Joint Stock Compnay
+135961 # Viet Nam Data Online Joint Stock Company
 135967 # Bach Kim Network solutions Join stock company
+135976 # CLO Technology Limited Company
 135983 # Tino Group Joint Stock Company
 135986 # Turbo Technology Solution Joint Stock Company
 135994 # IDC Online Technology and Solutions Corporation
@@ -6026,13 +6067,19 @@
 137729 # BEIJING ZHONGYUNXIN SHUNYI DATA TECHNOLOGY CO.,LTD
 137730 # Beijing Yun Duan Zhi Du Technology Co., Ltd.
 137731 # Guangdong Huayun Century Technology Co., Ltd.
+137732 # Shanghai Longrui Information Technology Co., Ltd
 137734 # Beijing Wancong Information Technology Co., Ltd.
+137738 # Beian Digital Network Technology Co., Ltd.
 137740 # Beijing Blue I.T Technologies Co.,Ltd.
 137741 # Beijing Blue I.T Technologies Co.,Ltd.
+137743 # Beian Digital Network Technology Co., Ltd.
 137750 # Beijing Dianju Yunwang Technology Co., Ltd
+137751 # Xi'an Qianxi Network Technology Co. Ltd.
 137752 # Guangzhou Yungang Information Technology Co., Ltd.
 137762 # Liaoning Yifu Cloud Computing Co., Ltd.
 137765 # Beijing Jingliang Cloud Technology Co.,Ltd.
+137766 # Yangzhou safety and speedly Network Technology CO.,Ltd.
+137768 # Algoblu Ltd.
 137771 # Zhejiang Liangliang Cloud Network Technology Co., Ltd
 137789 # CN Care Cyber Cloud Ltd.
 137795 # Hangzhou Sulian Information Technology Co.,ltd
@@ -6156,19 +6203,23 @@
 139094 # Dian ke yun (Beijing) Technology Co., Ltd.
 139095 # Dian ke yun (Beijing) Technology Co., Ltd.
 139096 # Dian ke yun (Beijing) Technology Co., Ltd.
+139102 # Henan Blue Shield Big Data Information Technology Co., Ltd..
 139115 # Guangtongtianxia Network Technology Limited Company
 139123 # Changnuo Network Technology (Shanghai) Co., Ltd
 139124 # Huawei Cloud Computing Technologies Co., Ltd.
 139125 # Shenzhen Oceanblue Cloud Technology Co. LTD
 139126 # JIANGSU CLOUD WORKS INFORMATION TECHNOLOGY CO.LTD.
 139127 # GuangZhou Yisu Cloud LTD.
+139128 # Dr.Peng BigData co.LTD
 139132 # Chayora Technology Development (Tianjin) Co., Limited
 139135 # Xinxiang Yi Yang Network Technology Co. Ltd.
 139141 # Yusys Financial Cloud
+139144 # Huawei
 139154 # Big Data Center Of Shandong Province
 139159 # Guoxincloud
 139160 # Shandong Huayun Interconnection Information Technology Co., Ltd.
-139176 # Beijing fast exchange Network Technology Development Co.,Ltd
+139172 # Hangzhou Woodnn Technology Co., Ltd.
+139181 # BEIJING SPEEDYTF TECHNOLOGIES CO.,LTD
 139189 # Beijing Yu Jia Heng Tong Communications and Information Co., Ltd.
 139190 # Google Asia Pacific Pte. Ltd.
 139201 # Jiangxi Jiujiang IDC
@@ -6293,24 +6344,43 @@
 140720 # UNICOM JiangSu NanTong IDC network
 140723 # EDGE CLOUD (CAMBODIA) CO., LTD
 140736 # Edge Data Centres Pty Ltd
+140738 # VESNET JOINT STOCK COMPANY
 140739 # USDC TECHNOLOGY JSC
+140741 # DIGITAL TECHNOLOGY DEVELOPMENT AND INVESTMENT COMPANY LIMITED
 140743 # Vietnam Cloud Technology and Services Joint Stock Company
+140744 # Hanoi Technology and Equipment Joint Stock Company
+140749 # NSTECH VIET NAM JOINT STOCK COMPANY
 140753 # Representative Office in Hanoi of Vinahost Company Limited
+140754 # SPR Viet Nam Joint Stock Company
+140755 # Ha Tuyet Trading and Services Company Limited
 140766 # FPT Smart Cloud Company Limited
+140767 # VINASOFT One Member Limited Company
+140771 # MXGROUP TECHNOLOGY JOINT STOCK COMPANY
+140772 # MXGROUP MEDICINE COMPANY LIMITED
+140773 # THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY
+140779 # VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED
+140780 # THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY
 140781 # VIET HOSTING COMPANY LIMITED
+140782 # 424 De La Thanh, O Cho Dua Ward, Dong Da District, Ha Noi City
 140790 # CLOUDCORE JOINT STOCK COMPANY
 140791 # BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY
+140792 # IT VILAS VIET NAM JOINT STOCK COMPANY
 140793 # VIET NAM GALAXY DIGITAL TECHNOLOGY COMPANY LIMITED
 140799 # VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY
 140800 # VNCLOUDTECH
+140807 # Nguyen Ngoc Thanh Trading Limited Company
 140810 # Megacore Technology Company Limited
 140815 # HTTVSERVER TECHNOLOGY COMPANY LIMITED
 140817 # ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY
+140821 # Nihao Data Management Co., Ltd
 140822 # ANPHATIDC
 140824 # VNIDC TECHNOLOGY COMPANY LIMITED
 140825 # Thien Quang Digital technology joint stock company
+140826 # INTER GROUP VIET NAM JOINT STOCK COMPANY
+140827 # AZ VIET NAM COMMUNICATIONS TECHNOLOGY COMPANY LIMITED
 140830 # IDS VIET NAM SOLUTION CORPORATION
 140831 # Data Center of Vietnam National University Ho Chi Minh City
+140832 # Vietnam F Tech., JSC
 140833 # INTERDATA JOINT STOCK COMPANY
 140841 # Ling Cloud Corporation Limited
 140869 # Turing Group Limited
@@ -6409,6 +6479,7 @@
 142240 # HostNost
 142244 # Iotamine Cloud Private Limited
 142259 # 92host Limited
+142260 # Skydome Technology Co., Ltd.
 142262 # 434480
 142267 # Hong Kong Beecloud System Technology Services Limited
 142273 # Digital Realty Korea Ltd.
@@ -6454,7 +6525,6 @@
 146781 # Beijing Sankuai Cloud Computing Co.,Ltd.
 146785 # Sichuan Mengniao Cloud Computing Co., Ltd
 146791 # Beijing Kingsoft Cloud Internet Technology Co., Ltd
-146792 # Shanghai Shenfu Information Technology Co., Ltd
 146794 # Zhejing Yitian cloud Information Technology Co., Ltd
 146797 # Beijing micro network cohesionnetwork science and technologylimited company
 146806 # Beijing Yunlian Interactive Technology Co., Ltd.
@@ -6530,17 +6600,25 @@
 149064 # CLOUDSTACK COMPANY LIMITED
 149068 # iNET software one member company limited
 149072 # VPSTTT Technology Company Limited
+149073 # Hunasoft Technology Solution Consulting Co., Ltd
+149075 # Tan Hoang ViNa Company Limited
 149076 # Cloud Computing Server Solutions Co., Ltd
 149078 # VPSMMO TECHNOLOGY COMPANY LIMITED
+149081 # Eco Green Transport and Construction Investment Joint Stock Company
 149083 # VPSCLOUD 24H TECHNOLOGY AND SERVICES COMPANY LIMITED
 149085 # E-DATA TECHNOLOGY SERVICE COMPANY LIMITED
+149088 # INET Solution Corporation
 149089 # CLOUDFLY CORPORATION
 149093 # VPS VIET NAM COMPANY LIMITED
+149097 # FASTLY NETWORK SOLUTION COMPANY LIMITED
 149098 # VIETNAM DIGITAL INFRASTRUCTURE JOINT STOCK COMPANY
 149101 # BKCLOUD COMPANY LIMITED
+149102 # KHANH CHI ICT COMPANY LIMITED
+149103 # BACH KIM HNT COMPANY LIMITED
 149106 # VIETNAM SERVER SOLUTION COMPANY LIMITED
 149107 # TRUMVPS COMPANY LIMITED
 149110 # CLOUD4VN DIGITAL TECHNOLOGY COMPANY LIMITED
+149115 # KINGBOND MIEN TRUNG COMPANY LIMITED
 149123 # VU GIA TECHNOLOGY INVESTMENT JOINT STOCK COMPANY
 149124 # WEBPX SOFTWARE COMPANY LIMITED
 149130 # TEKNIX CLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY
@@ -6550,6 +6628,7 @@
 149151 # VNSUN CLOUD COMPANY LIMITED
 149152 # Onet IDC Company
 149155 # SUNCLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY
+149161 # MEGA TECHNOLOGY COMPANY LIMITED
 149178 # China Telecom
 149231 # Soloidc Technologies Private Limited
 149244 # JEEBR CLOUD SOLUTION PVT LTD
@@ -6666,30 +6745,42 @@
 150810 # AT&T TAO Cloud Access Node
 150818 # HYPERCORE TECHNOLOGY JOINT STOCK COMPANY
 150820 # LIENVPS TECHNOLOGY COMPANY LIMITED
+150827 # MUOI LONG COMPANY LIMITED
 150828 # VMON CLOUD COMPANY LIMITED
 150829 # DIGITAL NETWORK CLOUD COMPANY LIMITED
+150834 # IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
 150835 # MAY CHU SAI GON SERVICE TRADING COMPANY LIMITED
 150847 # DIGITAL SERVER COMPANY LIMITED
 150850 # ZINVPS COMPANY LIMITED
 150853 # CLOUD VIET ONE MEMBER COMPANY LIMITED
+150855 # MAY SOC COMPANY LIMITED
 150856 # VNG DATA CENTER CO., LTD
 150858 # VIET SERVER TECHNOLOGY SOLUTIONS CO.,LTD
 150860 # JETCLOUD TECHNOLOGY CO., LTD
 150862 # VPSTTT COMPUTER COMPANY LIMITED
+150871 # N C T CORPORATION
 150872 # TECHCLOUD SOLUTION JOINT STOCK COMPANY
 150873 # THUONGCLOUD COMPANY LIMITED
 150874 # XOR BPO JOINT STOCK COMPANY
+150875 # XOR BPO JOINT STOCK COMPANY
+150876 # MAILAND TECHNOLOGY TRADING SERVICES COMPANY LIMITED
 150879 # WIX CLOUD COMPANY LIMITED
 150880 # FAST BYTE FAST DATA COMPANY LIMITED
 150886 # VN CLOUD ONE MEMBER COMPANY LIMITED
 150887 # NGOC HA TECHNOLOGY SERVICES CO., LTD
 150889 # MONA HOST LIMITED
+150891 # INFOGATE TECHNOLOGY COMPANY LIMITED
 150892 # GOLD VPS LIMITED
+150894 # SON NGUYEN GROUP CORPORATION
+150895 # EZ TECHNOLOGY COMPANY LIMITED
 150896 # HUNGCLOUD COMPANY LIMITED
+150897 # AZPLAY TECHNOLOGY COMPANY LIMITED
 150898 # VINASITE VIET NAM COMPANY LIMITED
 150900 # VPSMMO COMPANY LIMITED
+150908 # LAM TRAN SOFTWARE DEVELOPMENT COMPANY LIMITED
 150909 # BTT TECHNOLOGY SERVICES COMPANY LIMITED
 150910 # MODATEK LIMITED COMPANY
+150911 # Travelaire Limited Liability Company
 150912 # TEKAWAY LIMITED COMPANY
 150949 # PT RumahNET Internusa
 151000 # PT Awan Data Indonesia
@@ -6734,16 +6825,22 @@
 151225 # Nanchang Guangguang Data Technology Co., Ltd
 151226 # Beijing kucloud wisdomain Network Technology Co., Ltd
 151227 # Chengdu Anke Network Technology Co., Ltd.
+151241 # Qingdao YingDao Network Technology Co., Ltd.
 151245 # Shanghai Yuelungu Network Technology Co., Ltd
+151250 # Shanghai Enqing Information Technology Co., Ltd
 151251 # Chengdu Qianzhiyunfu Technology Co., Ltd.
 151253 # Beijing Sanwang Fusion Technology Co., Ltd
 151255 # Chengdu ZhiYunShiJie Technology Co., Ltd
 151256 # Chengdu ZhiYunShiJie Technology Co., Ltd
 151259 # Hubei Guoxin Intelligent Computing Technology Co., Ltd.
 151261 # Sichuan Xiaocong Cloud Supercomputing Technology Co., Ltd
+151262 # Xingjielian Corporation,Ltd
+151264 # SHENZHEN QIYUE STAR TECHNOLOGY CO.,
 151270 # Sichuan Xiaoteyun Technology Co., Ltd
 151271 # Shaanxi Security Cloud Network Technology Limited
+151274 # Suzhou Raiyi Information Technology CO.,LTD
 151280 # Jiangsu Lanyiyun Computing Technology Co. , Ltd
+151283 # Suzhou Bountech Information Technology CO.,LTD
 151295 # Jiangsu Yinsuyun Network Technology Co. , Ltd.
 151302 # Hebei Sea Whale Technology Co. Ltd.
 151309 # Beijing Changxin Edge Cloud Computing Co., Ltd
@@ -6752,7 +6849,6 @@
 151320 # Haining Sihe Cloud Computing Technology Co., Ltd
 151323 # Namepart
 151335 # Intensy Cloud Services Pvt Ltd
-151343 # DataHub Asia DC First Limited
 151345 # Easycloud Sdn Bhd
 151346 # MIaaS Cloud Services
 151348 # A5-DB OPERATIONS (M) BERHAD
@@ -6771,7 +6867,7 @@
 151487 # Awesomecloud Limited
 151492 # E-LINK CLOUD LIMITED
 151597 # PT Valmich Hosting Indonesia
-151609
+151609 # GREYWOLF NETWORKS PTE. LTD.
 151612 # HOSTPERL
 151613 # Shanghai Pineapple Cloud Computing Co. Ltd.
 151616 # HOSTLINK (HK) LIMITED
@@ -6802,28 +6898,43 @@
 151854 # AHOST COMPANY LIMITED
 151856 # LITESPEED TECHNOLOGY COMPANY LIMITED
 151857 # NIVA GROUP JONT STOCK COMPANY
+151858 # INTERDIGI JOINT STOCK COMPANY
 151859 # CLOUDVIET COMPANY LIMITED
 151861 # STB TECHNOLOGY COMPANY LIMITED
+151869 # DLC DIGITAL TECHNOLOGY SOLUTION INVESTMENT LIMITED LIABILITY COMPANY
 151872 # CLOUD DATA TECHNOLOGY AND COMMUNICATION COMPANY LIMITED
 151873 # TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED
 151875 # TAFU ENERGY COMPANY LIMITED
 151882 # CLOUDME COMPANY LIMITED
 151883 # LIEN CLOUD TECHNOLOGY COMPANY LIMITED
+151885 # DATA SECURITY SOLUTIONS LIMITED
+151887 # VCORE COMPANY LIMITED
 151890 # HAWK HOST COMPANY LIMITED
 151891 # K-SERVER NETWORK SERVICES COMPANY LIMITED
 151892 # NEWCLOUD DIGITAL TECHNOLOGY COMPANY LIMITED
+151893 # DIGI SUCCESS SERVICE COMPANY LIMITED
 151895 # MYVPS TECHNOLOGY COMPANY LIMITED
 151898 # MEGAHOST TECHNOLOGY COMPANY LIMITED
+151906 # ICODE DIGITAL DATA COMPANY LIMITED
 151908 # MAY CHU VIET SOLUTIONS CORPORATION
 151914 # Quoc Tin Cyber Technology Company Limited
+151915 # Tran Thi Data and Technology Company Limited
+151916 # TPT Technology and Electronics Company Limited
 151918 # VPS PA Company Limited
 151919 # CLOUD WP Technology One Member LLC
+151920 # DDL Digital Technology Solutions Company Limited
+151921 # DIGI GROUP CO.,LTD
+151924 # NDD Digital Technology Company Limited
+151925 # Technology NHD Co., Ltd
 151926 # TH Technology and Data Mining Company Limited
+151930 # Ung Dung Development Technology Company Limited
 151931 # Cloud Era LLC
 151932 # Tan VPS Company Limited
 151933 # HOA FRUITS LLC
 151934 # Thanh Trang Cloud Computing and Technology Company Limited
 151938 # CLOUDY One Member LLC
+151940 # TTT Data Encryption and Technology Co. LTD
+151946 # DANG DINH LUONG DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED
 151954 # Kushtia Colo
 151966 # VCCL Cloud Private Limited
 151970 # OceanBlue Cloud Technology Limited
@@ -6921,20 +7032,25 @@
 152913 # BAGE CLOUD LLC
 152933 # ZONECLOUD TECHNOLOGY JOINT STOCK COMPANY
 152935 # PROXY VN TECHNOLOGY COMPANY LIMITED
+152936 # LIEN LIEN ELECTRONIC WAVE TECHNOLOGY COMPANY LIMITED
 152937 # NNK INFORMATION TECHNOLOGY COMPANY LIMITED
 152939 # NNK INFORMATION TECHNOLOGY COMPANY LIMITED
 152941 # HYPERNODE ONE MEMBER COMPANY LIMITED
 152942 # BigData Network Technology Company Limited
 152943 # FASTVT Network Technology Company Limited
 152945 # DAINTY CLOUD INC
+152946 # TUAN TU TECHNOLOGY COMPANY LIMITED
+152948 # APAC Technology Engineering Company Limited
 152950 # Interserver LLC
 152951 # NDH Hosting Company Limited
 152955 # CLOUDACE COMPANY LIMITED
 152956 # Duc Kien Technology Company Limited
+152957 # ETC Computer Trading and Services Company Limited
 152958 # IPXO Technology Company Limited
 152960 # CloudTTT Hosting Services LLC
 152961 # DEVTTT Website Design Company Limited
 152962 # CLOUDERA TECHNOLOGY COMPANY LIMITED
+152963 # Phuong Nam Company Limited
 152964 # Sehan Hosting Company Limited
 152965 # Green VPS Company Limitedx
 152966 # ALGO DATA SERVICES COMPANY LIMITED
@@ -6945,6 +7061,7 @@
 152975 # DATAZ TECHNOLOGY COMPANY LIMITED
 152977 # TrumCloud LLC
 152980 # KHANH CHI IDC COMPANY LIMITED
+152984 # PVH Technology and Solutions Company Limited
 152985 # Cloud247 LLC
 152986 # VPSMMOCLOUD LLC
 152987 # Phan Lien Creative Technology Development Company Limited
@@ -6958,17 +7075,17 @@
 153005 # PHU THANH CLOUD COMPANY LIMITED
 153006 # Thuong Tin Cloud Company Limited
 153007 # Dac Tin VPS Company Limited
-153008 # NETVN Software Company Limited
 153009 # Phu An IDC Company Limited
 153012 # SERVER VIET NAM CO.,LTD
 153013 # GTSC VIETNAM TECHNOLOGY SERVICES AND COMMERCIAL JOINT STOCK COMPANY
 153014 # Technology Sky Company Limited
 153015 # 08 Future Cloud Company Limited
 153018 # COHOTA JOINT STOCK COMPANY
+153019 # T-Star Company Limited
 153020 # Totdata Data and Digital Services Company Limited
 153021 # VPS VN Company Limitedc
+153022 # ADM TECHNOLOGY JOINT STOCK COMPANY
 153023 # Shopvps Technology Company Limited
-153025 # Nam Son Group Technology and Services Company Limited
 153030 # Datvps Information Technology Company Limited
 153039 # Protected Networks
 153040 # YouStable
@@ -7016,45 +7133,27 @@
 153394 # RED CLOUD INFORMATION TECHNOLOGY SERVICES COMPANY
 153396 # CLOUDSAVVIE IT SOLUTIONS
 153398 # Myasia Cloud Sdn Bhd.
-153402 # Tuan Linh High Technology Company Limited
 153404 # Vietnam Physical Server Company Limited
-153405 # Hoa My Distribution Technology Company Limited
-153406 # Hung Anh JSC Technology Company Limited
-153407 # Sava Meta Technology Joint Stock Company
 153408 # Phu Yen Physical Server Company Limited
-153409 # VTXK Trading and Services Company Limited
 153411 # VPSDO Company Limited
 153412 # Ibtech Trading & Service Company Limited
 153414 # Top Proxy LLC
 153415 # Hoang Dieu Physical Server Company Limited
 153416 # Hoang Dieu Cloud Computing Company Limited
 153417 # Zenhub Trading & Service Company Limited
-153418 # Dgon Technology and Solution Company Limited
-153419 # Thang Manh TTN Company Limited
 153420 # Nguyen Gia IDC Company Limited
-153421 # REALTECH TECHNOLOGY COMPANY LIMITED
-153422 # HND Green Agricultural Technology Company Limited
 153423 # HDATA COMPANY LIMITED
-153424 # Nam Dien Technology Company Limited
-153425 # Vu Gia Technology and Services Company Limited
 153426 # HT Proxy Company Limited
 153427 # KDATA Company Limited
 153431 # LTL Digital Technology Company Limited
-153434 # S GLOBAL TECHNOLOGY JOINT STOCK COMPANY
 153436 # Future AI LLC
 153437 # VPS Nava Company Limited
 153438 # PHUONG NGA MY SUPPLY COMPANY LIMITED
 153439 # VPS4U TECHNOLOGY COMPANY LIMITED
 153440 # BSTECH COMPANY LIMITED
 153441 # LNS Technology Company Limited
-153442 # TYU Website Management Company Limited
 153443 # VPSRE.NET LLC
-153444 # H2 Service Consulting Company Limited
-153445 # Somi 168 Group International Joint Stock Company
-153446 # VNONE Vietnam Company Limited
 153447 # 360 Technology and Services Company Limited
-153448 # Nam Son Development Joint Stock Company
-153449 # Golden Key Solutions LLC
 153457 # VIEWCLOUD NETWORK LIMITED
 153458 # Haruzakura Cloud
 153461 # Digital Layer Co., Ltd.
@@ -7065,12 +7164,14 @@
 153497 # Dongguan Xingxiu Technology Co., Ltd.
 153499 # CLOUDX JOINT STOCK COMPANY
 153502 # Specialized Web Company Limited
-153505 # DichvuDark LLC
 153506 # Pow Pow LLC
 153517 # Ju Link Tech Limited
 153522 # Joy Data Services
 153523 # Ummah Host BD
 153531 # DATAGEEKS CLOUD IP TECHNOLOGY PRIVATE LIMITED
+153532 # Trung Tin Iron and Aluminum Company Limited
+153534 # CAO GIA NANOMEDECINE TECHNOLOGY JOINT STOCK COMPANY
+153535 # HLC VIET NAM JOINT STOCK COMPANY
 153536 # Osie Cloud LLC
 153539 # THUEMAYCHUVN
 153541 # KIGI GROUP JOINT STOCK COMPANY
@@ -7086,12 +7187,14 @@
 153610 # Tenbyte Limited
 153611 # CLOUD (HK) LIMITED
 153634 # CodeNext IT Solution
+153649 # Nguyenphonglong One Member Company Limited
 153686 # SPEED CLOUD LIMITED
 153714 # Blue Cloud Network (Opc) Private Limited
 153726 # Shanghai Huiduan Technology Co., LTD.
 153737 # Cloud View
 153747 # Kunming Xingjielian Technology Co. Ltd
 153749 # LiveHosting24
+153750 # GZ CORE COMPANY LIMITED
 153755 # HosterCube
 153763 # DATA 360 TECHNOLOGY JOINT STOCK COMPANY
 153764 # TIER1 CLOUD
@@ -7105,6 +7208,7 @@
 153811 # Zhongshan Lesuyun Network Technology Co., Ltd.
 153828 # DTH CLOUD COMPUTING TECHNOLOGY COMPANY LIMITED
 153829 # Le Hong Technology Company Limited
+153831 # Bao Khanh ICT Company Limited
 153853 # Server Anywhere
 153859 # BIGSERVER COMPANY LIMITED
 153871 # PT SOLUSI INOVASI BISNIS
@@ -7116,7 +7220,6 @@
 153911 # DuoTu Cloud
 153913 # Check Point Software Technologies India PVT LTD.
 153958 # WEB SERVER COMPANY LIMITED
-153959 # VMON Service Technology Company Limited
 153974 # EDGE CLOUD (THAILAND) COMPANY LIMITED
 153976 # Le Vu Technology Infrastructure Services Company Limited
 153982 # Huong Ly Technology Company Limited
@@ -7158,6 +7261,7 @@
 154221 # VCENTRICLOUD SERVICES
 154222 # PT BIT ASIA TECHNOLOGY
 154245 # HOSTING SAFARI PVT LTD
+154247 # MCO HA NOI TECHNOLOGY COMPANY LIMITED
 154251 # TIM Nextgen DC Corporation
 154263 # Amazon Corporate Services Pty Ltd
 154280 # Bytesun Web Services Private Limited
@@ -7223,6 +7327,7 @@
 154752 # Hmb Technology Private Limited
 154773 # PT Payo Web Solutions
 154779 # PT Datakom Padma Jaya
+154781 # VSIS AP Company Limited
 154783 # Cloudexter Technologies Llp
 154784 # SB Secure Data centers India Private Limited
 154796 # Metaname
@@ -7246,8 +7351,6 @@
 154974 # Teleindia Datacenter private limited
 154980 # DBYTE INFRA SERVICES PRIVATE LIMITED
 154992 # PT DATA AWAN NUSANTARA
-155000 # Beian Digital Network Technology Co., Ltd.
-155002 # Beian Digital Network Technology Co., Ltd.
 155006 # PT Centris Data Indo
 155014 # HOSTPEPPY PRIVATE LIMITED
 155019 # ST Dynamo DC Sdn Bhd
@@ -9697,7 +9800,6 @@
 213273 # OSISM GmbH
 213274 # Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.
 213277 # ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA
-213278 # OOO WestCall Ltd.
 213282 # Ada Yuksek Teknoloji Limited Sirketi
 213285 # Eventkey Lda
 213291 # Nebius B.V.

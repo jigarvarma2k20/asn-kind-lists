@@ -33,6 +33,7 @@
 122 # UPMC
 125 # Honeywell International, Inc.
 128 # Booz Allen Hamilton Inc.
+143 # 1881CS/XPC
 144 # Lucent Technologies/Bell Laboratories
 151 # HP Inc.
 157 # HEWLETT PACKARD ENTERPRISE COMPANY
@@ -4962,7 +4963,6 @@
 17702
 17703
 17704
-17715 # ChungHwa Telecom. Co. Telecommunication Lab.
 17718 # Taiwan Network Information center
 17720 # Treen Technology
 17722 # Butterworths Australia
@@ -7537,6 +7537,7 @@
 23989
 23994 # Concentrix Services India Private Limited
 23997 # Motile Associates Pty Ltd,
+23999 # Vietnam News Agency
 24002 # South China Morning Post Publishers Limited. English
 24003 # JUBILANT ORGANOSYS LTD., INDIA, LEADING CHEMICAL MANUFACTURER
 24004 # Orrstown Bank
@@ -7572,7 +7573,6 @@
 24081 # SPI Technologies Inc.
 24083 # Siam City Cement Public Company Limited
 24084 # PLOT NO: 3A, SECTOR 126, SEZ, NOIDA
-24085 # Quang Trung Software City Development Company
 24087 # VIETBRANDS COMPANY LIMITED
 24096 # Metlife Taiwan Taipei Office Multihomed
 24097 # CSLOXINFO Project for Magnecomp Precision
@@ -7589,7 +7589,6 @@
 24132 # Members Equity Bank
 24134 # Huanan (Guangzhou) Business Management Co., Ltd.
 24135
-24142 # BennalongNet
 24145
 24146
 24148
@@ -12319,7 +12318,6 @@
 38326 # Chiva-Som international
 38327 # Woodside Energy Ltd
 38332 # .au Domain Administration Ltd
-38336 # Beijing Linkever Technology Co.,Ltd
 38338 # Beijing Guanghuan Xinwang Digital
 38341 # HEXIE Information technology Co., Ltd.
 38345 # Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
@@ -12328,7 +12326,6 @@
 38350
 38352 # Beijing Gehua Ticketmaster Ticketing Co., Ltd.
 38354 # Ticketmaster Ticketing Information Technology (Shanghai) Co., Ltd
-38357 # BEIJING DATA-express tech CO.,ltd
 38358 # 3 Fuxing Road, Beijing, China
 38359
 38361 # CNET Networks LTD.
@@ -12340,13 +12337,11 @@
 38369 # Zhejiang Taobao Network Co.,Ltd
 38371
 38372 # Foshan Tongyuan Intelligent Technology Co., Ltd
-38373 # P.O.Box 849- 28 Beijing China
 38374 # GUANZHOU GEHUANETWORK TECHNOLOGY&DEVELOPMENT CO;LTD
 38375 # GSGH security LLC
 38376
 38377
 38378 # Bosch (China) Investment Ltd.
-38379 # MAGINETWORK
 38380 # China South Locomotive And Rolling Stock Industry Company
 38381 # travelsky
 38382 # GuangDong Jinsheng investment development Co.,LTD
@@ -12461,11 +12456,9 @@
 38720 # Tech Mahindra Limited
 38722 # Conduent Business Services Philippines Inc.
 38724 # STIHL PTY LTD,
-38725 # Inet software one member company limited
 38728
 38730 # VIETINBANK-VN
 38734 # ENCAPITAL FINANCIAL TECHNOLOGY JOINT STOCK COMPANY.
-38738 # L.C.S Company.,ltd
 38741 # HelpCenter Inc.
 38746 # Tech Mahindra Limited
 38766 # PT. Bumi Merbabu Permai
@@ -13719,6 +13712,7 @@
 42383 # ITT Desk B.V.
 42385 # Join-stock company "Internet Exchange"MSK-IX"
 42386 # EPRESA ENERGIA SA
+42407 # GT11 Sp. z o.o.
 42411 # TAQNIA SPACE CO.
 42412 # Jane Street Europe Ltd
 42413 # Address Limited
@@ -14366,7 +14360,7 @@
 44762 # AXESOR CONOCER PARA DECIDIR SA
 44763 # NATIONAL OILWELL NORWAY AS
 44766 # Akdeniz Insaat ve Egitim Hizmetleri A.S
-44767 # CABEL INDUSTRY SPA
+44767 # ACCENTURE FINANCIAL ADVANCED SOLUTIONS & TECHNOLOGY S.R.L.
 44768 # Promise Enterprise Hungary Kft.
 44777 # Insurance MAKEDONIJA s.c. Skopje Vienna Insurance Group
 44778 # "Enterprise Incubator" Foundation
@@ -14457,17 +14451,14 @@
 45075 # China Central Television
 45076 # Beijing Baidu Netcom Science and Technology Co., Ltd.
 45079 # GDS CHANGAN SERVICES Ltd.
-45080 # LINW
 45084 # BTV
 45085 # Beijing Baidu Netcom Science and Technology Co., Ltd.
 45087 # China Duty Free group
 45088 # Enlightenment chain network (Shanghai) technology co., LTD
-45089 # BSTINET
 45091 # CNNIC-kaixin
 45092
 45094 # 53A Xibianmennei Ave, Xuanwu Distract, Beijing, China , BJ
 45095 # HENAN XINTOU INFORMATION INDUSTRY CO.,LTD
-45097 # Poly facility (Beijing) Technology Co., Ltd.
 45101 # Walmart
 45103 # Hangzhou Alibaba Advertising Co.,Ltd.
 45105 # Beijing Sanxin Shidai Co.Ltd
@@ -14603,7 +14594,6 @@
 45531 # MAXSUN-PH-As
 45534 # Card Access Services Pty Ltd
 45535 # American Express Banking Corp.
-45539 # VTCWLB-VN
 45540
 45541 # Information Technology Center - Joint Stock Commercial Bank for Investment and Development of Vietnam
 45548 # Artex Securities Joint Stock Company
@@ -14696,7 +14686,6 @@
 45888 # Societe Generale
 45892 # Westpac Banking Corporation
 45893 # DMMI
-45894 # FPT Online JSC
 45901 # Vietnam Export Import Commercial JSC
 45902 # Hai Phong Securities Company
 45908 # WISERS
@@ -16136,7 +16125,7 @@
 49987 # Stroy Park - R Ltd
 49988 # LLC VK
 49989 # Ceramika Paradyz Sp. z o.o.
-49990 # AEM SA
+49990 # NETPROTECT SRL
 49996 # Address Limited
 49998 # Comp S.A.
 50001 # Joint Stock Company Commercial Bank Lanta-Bank
@@ -16249,7 +16238,7 @@
 50375 # SOVINFORMTECH LTD
 50377 # Dustin Finland Oy
 50393 # 4b42 UG
-50399 # Open Line BV
+50399 # Open Line Managed Services B.V.
 50402 # SC Autonet Import SRL
 50403 # JSC Nordstar Airlines
 50404 # Christian Beheer B.V.
@@ -18079,7 +18068,6 @@
 55301 # PO Box 805
 55303 # 60 Market Square,P.O. Box 364
 55304 # Australia Pacific Airports (Melbourne) Pty Ltd
-55305 # ODS Joint Stock Company
 55306 # Vietnam bank for Agriculture anh Rural Development
 55307 # Asian Pacific Securitis Joint Stock Company
 55310 # KCS VIETNAM COMPANY LIMITED
@@ -18280,7 +18268,6 @@
 55965 # qinhuangdao yanda-zhengyang electroni co.ltd
 55966 # PSBCNET
 55967 # Beijing Baidu Netcom Science and Technology Co., Ltd.
-55972 # Beijing Sawas Technology Co.LTD.
 55973 # Universal Cinema Services Co., Ltd
 55974 # Daimler Greater China Ltd.
 55979 # BeiJing WeiMengYunKuo Technology Co.Ltd.
@@ -18297,7 +18284,6 @@
 55997
 55998 # Huanan (Guangzhou) Business Management Co., Ltd.
 56000 # HERBALIFE(SHANGHAI)MANAGEMENT CO.,LTD.
-56003 # Beijing Century Union Network Technology Co.,LTD.
 56006 # Shanghai Pudong Development Bank Co.,Ltd.
 56007 # Daimler Greater China Ltd.
 56013 # SAMSUNG SDS CHINA
@@ -18340,7 +18326,6 @@
 56131 # DXC Connect Pty Limited
 56135 # DELOITTE SERVICES PTY LTD
 56142 # THE OPERATING OFFICE OF ZARUBEZHNEFT EP VIETNAM B.V. IN BA RIA - VUNG TAU PROVINCE - BLOCK 11-2
-56143 # VDATA-VN
 56144 # AIA Life Insurance Company limited
 56146 # Global informatics solution corporation
 56148 # PVcombank
@@ -18349,7 +18334,6 @@
 56154 # THEGIOISO-VN
 56155 # Tuong Minh Software Solutions Company Limited
 56159 # Sai Gon Join stock commercial Bank
-56160 # VIETNIX Solution and Technology Joint Stock Company
 56164 # Marriott Hotel Manila
 56171 # Dorys Plaything
 56173 # internet content provider
@@ -18378,7 +18362,7 @@
 56271 # Eagle Farm, QLD
 56274 # GM Asia Pacific, Singapore
 56281 # Pendal Group Limited
-56283 # 34 Egatoor Kelambakkam
+56283
 56285 # DIGITRAL PRIVATE LIMITED
 56287 # EVENT HOSPITALITY AND ENTERTAINMENT LTD
 56289 # 2 Changi Business Park Crescent
@@ -18494,6 +18478,7 @@
 56691 # Fabrikant.ru Ltd.
 56692 # KBER Bank Kazani limited liability company
 56698 # Karachaganak Petroleum Operating b.v. Kazakhstan Branch Office
+56703 # MEHR AVA GOSTAR PARSIAN INFORMATION ENGINEERING CO.,LTD
 56715 # Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
 56719 # Dorfner KG
 56722 # UNStudio
@@ -19081,8 +19066,6 @@
 58848 # Tianjin Zanpu Electronic Technology Co.,Ltd
 58849 # Shanghai Wuxin Communication Equipment co. LTD
 58850 # Bloomberg Financial Information (Beijing) Co Ltd
-58851 # Priority of Fashion(Beijing)Information Technology Co.,Ltd
-58853 # Shanghai KUDUNET Communication network equipment., LTD
 58855 # Beijing Yufeng Technology Co., Ltd.
 58858 # China Internet Network Infomation Center
 58859 # Shenzhen WSUNet Technology Co., Ltd.
@@ -19128,10 +19111,8 @@
 58976 # Sophos Technologies Pvt. Ltd
 58988 # Experieco Limited
 58990 # HYSEC EXIM PRIVATE LIMITED
-58991 # Syscloud(BeiJing)Technology Limited
 58994 # Beijing Capiinfo Technology Co., LTD
 58995
-58996 # Shanghai Meicheng Technology Information Co.,Ltd.
 58997
 58998
 58999
@@ -19152,11 +19133,9 @@
 59028 # Hangzhou Alibaba Advertising Co.,Ltd.
 59029 # People.Cn CO.,LTD
 59030 # Neunn Technology Co., Ltd
-59031 # Shanghai Yunrui Zhitong Industrial Co. Ltd.
 59032 # Enlightenment chain network (Shanghai) technology co., LTD
 59033 # Esun Technology(Shanghai) Co.,Ltd
 59035 # Chengdu Canxing Technology Co., Ltd.
-59036 # Shanghai Maginetwork Cro,.Ltd.
 59037 # Zhejiang Ruili Information Technology Co., Ltd
 59038 # Guangming Online Communication Co.,Ltd
 59039 # Shanghai Oriental Pearl Media Co.,Ltd
@@ -19175,7 +19154,6 @@
 59057 # Jishi Media Co ., Ltd.
 59058 # Beijng EastNet Technology Co.,Ltd
 59059 # Enlightenment chain network (Shanghai) technology co., LTD
-59060 # Yunnan Tiancheng Technology Co., Ltd.
 59065 # PayPal Network Information Services (Shanghai) Co., Ltd.
 59066 # Dianji Network Technology Co. Ltd
 59067 # Microsoft Mobile Alliance Internet Services Co., Ltd
@@ -20605,8 +20583,6 @@
 63563 # BEIJING COLOLRNET TECHNOLOGY CO.,LTD
 63569
 63570
-63575 # Shanghai Kuanhui Tech. Co.,ltd
-63576 # Shanghai Kuanhui Tech. Co.,ltd
 63579 # Shanghai Wuxin Communication Equipment co. LTD
 63580 # China Novartis Institutes for Bio-Medical Research Co., Ltd.
 63584 # Cisco Systems (China) Networking Technology Co., Ltd.
@@ -20615,24 +20591,19 @@
 63592 # GUANGDONG HENGRUI TECHNOLOGY CO.,LTD
 63593 # HeyTap PTE.LTD.
 63594
-63595 # V District of Baisha emerging industrial park 8 Building
 63596
 63597
 63598 # Hebei Kun Time Network Technology Co. Ltd.
 63599 # Guangzhou Nowtop-technology Limited Company
 63600 # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
 63601 # SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
-63603 # GSS China
 63604
 63605 # Beijing Chinese totem Technology Co., LTD.
-63606 # Shandong Tian Wo Network Technology Co.,Ltd
 63608
-63609 # Beijing LD Technology Co., Ltd.
 63610
 63611 # Beijing Wannuotong Technology Co. LTD
 63612
 63613
-63614 # QishangOnline
 63615 # GE (China) Co.,Ltd
 63617 # McKinsey & Consulting Company Inc. Shanghai
 63618 # Hangzhou Aron Teconology Co.,Ltd.
@@ -20646,7 +20617,6 @@
 63634 # China Payment & Clearing Network Co., Ltd.
 63635
 63636 # Shanghai Changxin Technology Corp., Ltd.
-63637 # Zhejiang Nilian information technology Co., Ltd.
 63638 # Xi'an Yudi Netec Co., LTD.
 63639 # GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD.
 63640 # Jilin Province Longke Information Technology Co., Ltd.
@@ -20658,13 +20628,11 @@
 63647 # Beijing WangJu Interworking Information Technology Co. LTD
 63648 # Beijing Xiaoju Science and Technology Co., Ltd.
 63649 # BEIJING HAVES CINDA SCI-TECH DEVELOPMENT CO.LTD
-63650 # Xinjiang Shuao Network Technology Co,Ltd
 63651 # Ji lin sheng ai te wang luo chuan mei you xian gong si
 63652
 63653 # Beijing Xunhexintong Keji Fazhan Co.,Ltd
 63654 # BEIJING NETEAST TECHNOLOGIES CORPORATION LTD
 63655 # Huawei Technologies Co., Ltd
-63657 # Shanghai Shuao Technology Co,Ltd
 63658 # Jangsu Bangrun Network Technology Co.,Ltd.
 63660
 63661 # Shanghai LONYO Information Technology Co., Ltd
@@ -20680,8 +20648,6 @@
 63684 # Beijing Amazing Fox Communication Technology Co., Ltd.
 63687 # Beijing DakuanLingdong Technology Co Ltd
 63689 # Esun Technology(Shanghai) Co.,Ltd
-63691 # Beijing wisdom network technology Co., Ltd. polymerization
-63692 # Daily-tech Beijing Co.,Ltd.
 63693 # Shengtu Information & Technology (Shanghai) CO.LTD
 63694 # Shanghai Giant Network Technology Co., Ltd.
 63695 # WeiYi Network Technology Co., Ltd
@@ -20690,10 +20656,8 @@
 63698 # Shanghai Giant Network Technology Co., Ltd.
 63699 # MIGU Video Co.,Ltd
 63701 # Jishi Media Co ., Ltd.
-63703 # TianJin ERENB Technology Development Co.,Ltd.
 63705 # Nanjing Anlai Xinxi Tongxin Jishu Youxian Gongsi
 63707 # Apple Computer Trading (Shanghai) Co. Ltd.
-63709 # Shanghai Yiyun Information Technology Development Co., Ltd.
 63710
 63717
 63720 # BeiJing MaiMai You Pin Technology Co., Ltd.
@@ -20709,13 +20673,14 @@
 63733 # Hoa Thai Software Services Company Limited
 63736 # Nam A Commercial Joint Stock Bank
 63738 # GLTEC-VN
-63740 # TOCDOSOVN-VN
 63742 # BIDV Securities joint stock company
 63743 # VietNam payment solution joint stock company
 63744 # DNSE Securities Joint Stock Company
 63749 # Luxoft VietNam Company LTD
 63750 # 18 Nguyen Du, Hai Ba Trung, Hanoi
 63751 # Vietcombank securities Company limited
+63753 # Viet Nam Lottery One Member Company Limited
+63754 # VMG MEDIA JOINT STOCK COMPANY
 63755 # VietNam - Russia joint venture bank
 63756 # VSTV-VN
 63758 # VETC Corporation
@@ -20724,6 +20689,7 @@
 63763 # VCCORP-VN
 63764 # INCOM SAI GON JOINT STOCK COMPANY
 63766 # VEGAGAME-VN
+63767 # GCAFE
 63768 # Thien Binh Software Service Company Limited
 63770 # Industrial Cyber Security Center of Excellence
 63776 # Mercari, Inc.
@@ -20923,7 +20889,6 @@
 64502
 64613
 65000
-65115
 65208
 65500
 65502
@@ -21028,7 +20993,6 @@
 131302 # EDELWEISS
 131305 # MSCA
 131307 # Beijing Zhonglianlixin Technology Co., Ltd.
-131308 # IRINN
 131312 # TAYLOR CONSTRUCTION GROUP PTY LTD
 131313 # I-GALLERY @ I-CITY, PERSIARAN MULTIMEDIA
 131323 # Honda New Zealand Ltd
@@ -21054,17 +21018,17 @@
 131364 # Military commercial join stock bank
 131368 # Petro Viet Nam Oil Corporation
 131371 # BaoMinh securities company
+131372 # VIVAS-VN
 131374 # HQG Technology Solutions Joint Stock Company
 131376 # KB Securities Vietnam Joint Stock Company
-131377 # DIGIPOWER CO., LTD
 131379 # Modern Bank of Vietnam Limited
 131380 # Niteco Vietnam Co., Ltd.
 131382 # S3WORK Technology Co., Ltd.
 131383 # PVI Holdings
 131385 # VTV-VN
 131387 # Sun Life Vietnam Insurance Company Limited
-131388 # VIET NAM HT GROUP JOINT STOCK COMPANY
 131389 # SeABank
+131390 # Center for E-commerce and Digital Technology Development
 131391 # Vietnam-Asia Commercial Joint Stock Bank
 131394
 131398 # LOTTE INNOVATE VIETNAM COMPANY LIMITED
@@ -21072,27 +21036,22 @@
 131402 # FPT Software Company limited
 131403 # ICSOFT Joint Stock Company
 131405 # Saigon Newport
-131406 # CTC Media Technology Apply Joint Stock Company
-131407 # Sai Gon CTT
 131408 # TPBANK-VN
 131411 # VietNamNet
 131413 # VINGROUP JOINT STOCK COMPANY
-131414 # Long Van Soft Solution JSC
 131417 # Vietnam National Coaland Mineral Industries Holding Corporation Limited
 131418 # SHOPEEPAY JOINT STOCK COMPANY
 131419 # NATIONAL PAYMENT CORPORATION OF VIET NAM
 131420
-131424 # Online Solution Company Limited
 131425 # Dien May Xanh Investment Joint Stock Company
 131426 # MISA-VN
-131427 # AOHOAVIET-VN
 131428 # Rainbow E-Commerce Company Limited
 131430 # Bao Viet Commercial Joint Stock Bank
 131431
 131433
 131434 # Scom Technology Join stock company
 131435 # Vietnam Esports and Entertainment Joint Stock Company
-131437 # Van Gia Technology Company Limited
+131438 # VIETNAM POST
 131439 # VietNam credit information joint stock company
 131440 # ZINGPLAY VIETNAM COMPANY LIMITED
 131443 # Oxygen IT
@@ -21128,7 +21087,6 @@
 131504
 131509 # Guangzhou navigation information technology co., LTD
 131510 # Guangzhou navigation information technology co., LTD
-131511 # Beijing Chenxun Technology Co., Ltd.
 131516 # Jinhua Weian InfoTech Co., Ltd
 131517 # Guangzhou navigation information technology co., LTD
 131518
@@ -21142,11 +21100,9 @@
 131537 # Guangzhou navigation information technology co., LTD
 131538
 131539 # Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd
-131540 # cloudvop.com
 131541
 131542
 131543
-131545 # Beijing Wafer New Century Information Technology Limited
 131546
 131549
 131551
@@ -21160,7 +21116,6 @@
 131571 # Zhejiang Rural Credit Union
 131572 # Zhejiang Rural Credit Union
 131573
-131574 # Beijing Haiyu Technology Co. Ltd..
 131575 # Shanghai Fuiou Financial Service Group Corp., Ltd
 131576 # Shanghai Fuiou Financial Service Group Corp., Ltd
 131581 # INPEX Australia
@@ -21623,7 +21578,6 @@
 132877 # Kalash Services Pvt Ltd
 132878 # HT Media Ltd.
 132887 # Counties Energy Limited
-132888 # Freak
 132889 # Konica Minolta Business Solutions Australia Pty Ltd
 132891 # SARFRAZ TEXTILE MILLS (PRIVATE) LIMITED
 132893 # KODIAK NETWORKS INDIA PRIVATE LIMITED
@@ -21686,7 +21640,6 @@
 133040 # PPS MUTUAL INSURANCE PTY LTD
 133044 # Sol1 Pty Ltd
 133045 # NSW Electricity Networks Operations Pty Limited
-133047 # P9 TECHNOLOGY COMPANY LIMITED
 133048 # Guangzhou Hongli Technology Co., Ltd
 133049 # Kommunique Pty Ltd
 133051 # COMMERCIAL BANK OF CEYLON PLC
@@ -22515,14 +22468,13 @@
 135895 # Centorrino Technologies Pty Ltd
 135897 # MetLife Insurance Limited
 135899 # ELEGANT HOME COOP LTD.
-135901 # Phuong Dong technology solution company limited
 135902 # Hahalolo Travel Social Network Joint Stock Company
 135903 # FFC joint stock company
 135904 # VINID PAY JOINT STOCK COMPANY
 135906 # BOOKING247 COMPANY LIMITED
-135908 # ECONET VIETNAM CORPORATION
 135911 # VietNam maritime commercial joint stock bank
 135913 # MB Ages life insurance company limited
+135914 # Quang Trung Software City Development Company
 135915 # TLSOFT
 135916 # KIENPHONGITS
 135919 # MB SHINSEI Finance Limited Liability Company
@@ -22542,7 +22494,6 @@
 135940 # Nice Tech Center Vietnam Limited Company
 135941
 135942 # Adsota Corporation
-135943 # TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY
 135945 # VTC Online Joint Stock Company
 135947 # Shopee Company Limited
 135948 # S-Trading Company Limited
@@ -22559,16 +22510,12 @@
 135973 # Bamboo Airways Company Limited
 135974 # National Power Transmission Corporation
 135975 # Sea Gem Company Limited
-135976 # CLO Technology Limited Company
-135977 # Vietnam BDA technology and communication joint stock company
-135979 # QI TECHNOLOGIES CORPORATION
 135981 # VisualViet Company Limited
 135982 # Hoi An South Development Ltd
 135984
 135985 # BCALL Viet Nam Company Limited
 135987 # Reload Company Limited
 135988 # Sun Group Corporation
-135990 # Everest Global Joint Stock Company
 135996 # Be Group Joint Stock Company
 135997 # EVN Finance Joint Stock Company
 135998 # International Distribution Corporation
@@ -22602,6 +22549,7 @@
 136125 # PT. ASTRA SEDAYA FINANCE
 136126 # PT. BLUE BIRD Tbk
 136136 # Avant Mutual Group Limited
+136137 # RileyNet
 136138 # Cybage Software Pvt. Ltd.
 136139 # Southern Cross Credit Union LTD
 136140 # Commonwealth Bank of Australia
@@ -22847,7 +22795,7 @@
 136939 # DJC Systems PTY LTD
 136951 # Hospharm Pty Ltd
 136954 # On The Run Pty Ltd
-136955 # Shang Hai Mu Ji Shang Wu Zi Xun You Xian Gong Si
+136955
 136960 # ARTHUR J. GALLAGHER & CO (NZ) LIMITED
 136962 # MSE DOTNET SDN BHD
 136963 # QuintilesIMS
@@ -23053,7 +23001,6 @@
 137745
 137746
 137748 # Dongfeng Communication Technology Co.,Ltd.
-137751 # Xi'an Qianxi Network Technology Co. Ltd.
 137753 # Beijing Jingdong Shangke Information Technology Co. Ltd.
 137758 # Industrial and Commercial Bank of China Limited,ICBC
 137759 # MTS SYSTEM (China) Co.,Ltd
@@ -23069,7 +23016,6 @@
 137781 # Beijing Beikuan Technology Co,Ltd
 137784 # YBY Technology (Shanghai) Co., Ltd.
 137785 # YBY Technology (Shanghai) Co., Ltd.
-137786 # Nanjing Plani Information Technology Co. Ltd.
 137787 # Beijing Jingdong Shangke Information Technology Co. Ltd.
 137788 # Shanxi Beacon Cloudscape
 137790 # Bei jing bo yun rong tian ke ji you xian gong si
@@ -23423,7 +23369,6 @@
 139099 # Zhejiang Geely Holding Group
 139100 # BMW Brilliance Automotive Ltd.
 139101 # TY Solution Guangdong Limited
-139102 # Henan Blue Shield Big Data Information Technology Co., Ltd..
 139103 # People's Daily
 139104 # CHINA ZHESHANG BANK CO.,LTD.
 139105 # CHINA ZHESHANG BANK CO.,LTD.
@@ -23438,14 +23383,12 @@
 139117
 139118 # Shanghai Rugu Info&Tech Co.,Ltd.
 139121
-139128 # Dr.Peng BigData co.LTD
 139129 # BANK OF NINGBO
 139130 # BANK OF NINGBO
 139134
 139138 # Gopay Information Technology Co.,Ltd
 139142 # Refinitiv Technology China Co., Ltd
 139143 # Agora.io Inc
-139144 # Huawei
 139145 # Xiatu (Beijing) Technology Co., Ltd.
 139147 # XUNMA(BEIJING) TECHNOLOGY CO., LTD.
 139148 # China UnionPay Co., Ltd
@@ -23461,14 +23404,12 @@
 139163 # Beijing Xiaoju Science and Technology Co., Ltd.
 139164 # Beijing Xiaoju Science and Technology Co., Ltd.
 139165 # Beijing Xiaoju Science and Technology Co., Ltd.
-139172 # Hangzhou Woodnn Technology Co., Ltd.
 139173 # Hangzhou Quuyun Network Technology Co., Ltd.
 139174 # CHINA COSCO SHIPPING CORPORATION LIMITED
 139175 # CHINA COSCO SHIPPING CORPORATION LIMITED
 139177 # New Oriental Education & Technology Group Ltd.
 139178 # Rural Credit Banks Funds Clearing Center
 139179 # China Pacific Insurance (Group) Co.,Ltd.
-139181 # BEIJING SPEEDYTF TECHNOLOGIES CO.,LTD
 139182 # China Central Depository & Clearing Co., Ltd.
 139183 # Thomson Reuters (Beijing) Technology Development Co. Ltd
 139184 # China Central Depository & Clearing Co., Ltd.
@@ -23829,42 +23770,28 @@
 140734 # Watch Tower Bible and Tract Society of the Philippines
 140737 # Viva social network Joint Stock Company
 140740 # HA CUONG TRADING INVESTMENT COMPANY LIMITED
-140741 # DIGITAL TECHNOLOGY DEVELOPMENT AND INVESTMENT COMPANY LIMITED
 140742 # DZOGAME COMPANY LIMITED
-140744 # Hanoi Technology and Equipment Joint Stock Company
 140746 # MCT Technology Solution Joint Stock Company
-140749 # NSTECH VIET NAM JOINT STOCK COMPANY
-140754 # SPR Viet Nam Joint Stock Company
-140755 # Ha Tuyet Trading and Services Company Limited
 140757 # K2F Information Technology Company Limited
 140760 # INFINITY SOFTWARE CORPORATION
 140761 # ALLIEX VIETNAM JOINT STOCK COMPANY
 140762 # Vinh Railway Signalling - Telecom Joint Stock Company
 140763 # ITEXPERT Viet Nam Joint Stock Company
 140764 # CSD Group Technology JSC.
-140767 # VINASOFT One Member Limited Company
 140769 # INFORMATICS SOLUTION COMPANY LIMITED
-140771 # MXGROUP TECHNOLOGY JOINT STOCK COMPANY
-140772 # MXGROUP MEDICINE COMPANY LIMITED
-140773 # THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY
+140770 # Digilife Vietnam Digital Services Company Limited
 140776 # 247 SCRAP TRADE JOINT STOCK COMPANY
 140777 # VNCOIN247 CORPORATION
-140779 # VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED
-140780 # THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY
-140782 # 424 De La Thanh, O Cho Dua Ward, Dong Da District, Ha Noi City
 140783 # NAMEDIA INTERNATIONAL TECHNOLOGY COMPANY LIMITED
 140784 # VIET DIGITAL SOLUTIONS JOINT STOCK COMPANY
 140785 # WINCOMMERCE GENERAL COMMERCIAL SERVICES JOINT STOCK COMPANY
 140787 # LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED
-140792 # IT VILAS VIET NAM JOINT STOCK COMPANY
 140795
 140797 # EXA COMPANY LIMITED
-140798 # BAO NAM HOLDINGS., JSC
 140801 # HARAVAN TECHNOLOGY CORPORATION
 140802 # UNINATION
 140804 # JOBKEY JOINT STOCK COMPANY
 140805 # TIN VIET TECHNOLOGY ENGINEERING COMPANY LIMITED
-140807 # Nguyen Ngoc Thanh Trading Limited Company
 140808 # ONE PLUS INTERNATIONAL CORPORATION
 140811 # VIET NAM INTERACTIVE TELEVISION JOINT STOCK COMPANY
 140812 # 22B, Alley 57 Hoa Binh, Group 14, yen Nghia Ward, Ha Dong District, Ha Noi
@@ -23872,13 +23799,9 @@
 140818 # D.I.C Viet Nam Technology Joint Stock Company
 140819 # HANA
 140820 # P2702 A3 Ecolife Capitol - 58 To Huu, Me Tri Ward, Nam Tu Liem Distrct, Ha Noi City
-140821 # Nihao Data Management Co., Ltd
 140823 # Group 7, THieu Khanh Ward, Thanh Hoa City, Thanh Hoa, Viet Nam
-140826 # INTER GROUP VIET NAM JOINT STOCK COMPANY
-140827 # AZ VIET NAM COMMUNICATIONS TECHNOLOGY COMPANY LIMITED
 140828 # Teknix Technology Joint Stock Company
 140829
-140832 # Vietnam F Tech., JSC
 140834 # SAIGON TRAVEL SERVICE TRADING JOINT STOCK COMPANY
 140835 # VAN TRANG PHARMACEUTICAL SUPPLY JOINT STOCK COMPANY
 140836 # PVS SOFTWARE JOINT STOCK COMPANY
@@ -24220,7 +24143,6 @@
 142250 # Oversea-Chinese Banking Corporation Limited
 142254 # My Cool Price
 142257 # PT Kevin Cahaya Nusantara
-142260 # Skydome Technology Co., Ltd.
 142263 # NETINFINIUM SOLUTIONS SDN BHD
 142269 # KINA BANK
 142274 # The Bank of Khyber
@@ -28423,6 +28345,8 @@
 146784
 146789 # Zhejiang Sihe Intelligent Engineering Co., LTD
 146790 # Shanghai Shizhi Information Technology Co., LTD
+146792 # Shanghai Shenfu Information Technology Co., Ltd
+146793 # Shanghai Youxun Industrial Co.,Ltd.
 146796 # Shanghai Jingchen Technology Co., Ltd
 146799 # BSB Home Appliances Holding China Co.,Ltd.
 146800 # Guangzhou Zhurui Information Technology Co., Ltd
@@ -28632,33 +28556,25 @@
 149066 # ADNS CO., LTD
 149067 # AZ Clean Trading and Manufacturing Joint Stock Company
 149069 # Information and Communications Technology  Company of Vietnam Electricity
-149070 # Da Thanh Service and Trade Company Limited
 149071 # Phuong Tran Co., Ltd
-149073 # Hunasoft Technology Solution Consulting Co., Ltd
-149075 # Tan Hoang ViNa Company Limited
 149077 # Yen Viet Tourist Company Limited
 149079 # CUONG KHANG INFORMATICS COMPANY LIMITED
 149080 # SHINHAN LIFE VIETNAM INSURANCE CO., LTD
-149081 # Eco Green Transport and Construction Investment Joint Stock Company
+149082 # NGOC MINH TECHNOLOGY JOINT STOCK COMPANY
 149084 # KBG VIET NAM REFRIGERATION ELECTRICAL ENGINEERING TRADING COMPANY LIMITED
 149086 # Digital Era Software Company Limited
-149088 # INET Solution Corporation
 149090 # ZOZO SOFTWARE COMPANY LIMITED
 149091 # Ecofly Joint Stock Company
 149094 # THM REFRIGERATION TECHNICIANS COMPANY LIMITED
 149095 # TRINH VIET DIGITAL TECHNOLOGY COMPANY LIMITED
 149099 # HUNG THINH GROUP CORPORATION
 149100 # SMARTMIND SECURITIES JOINT STOCK COMPANY
-149102 # KHANH CHI ICT COMPANY LIMITED
-149103 # BACH KIM HNT COMPANY LIMITED
 149104 # UNI JOINT STOCK COMPANY
 149108 # BAO LONG MANAGEMENT CONSULTANT COMPANY LIMITED
 149109 # GIAO HANG TIET KIEM JOINT STOCK COMPANY
 149111 # TEDEV TECHNOLOGICAL DEVELOPMENT COMPANY LIMITED
 149112 # TTK VIET NAM EDUCATION TECHNOLOGY JOINT STOCK COMPANY
-149113 # ODB VIET NAM COMPANY LIMITED
 149114 # NVK TECHNOLOGY AND SERVICES COMPANY LIMITED
-149115 # KINGBOND MIEN TRUNG COMPANY LIMITED
 149116 # National Hospital of Tropical Diseases
 149117 # VTC MOBILE SERVICES JOINT STOCK COMPANY
 149118 # 3S Viet Nam Technology Joint Stock Company
@@ -29023,13 +28939,10 @@
 150823 # FAST SOFTWARE JOINT STOCK COMPANY
 150824 # Premier Oil Viet Nam Offshore B.V
 150825 # CODETAY SOFTWARE LIMITED LIABILITY COMPANY
-150826 # VR VIET NAM COMPANY LIMITED
-150827 # MUOI LONG COMPANY LIMITED
 150830 # CHIEU MINH COMPANY LIMITED
 150831 # JACCS international vietnam finance company limited
 150832 # NTNT COMPANY LIMITED
 150833 # TUAN LINH 88 COMPANY LIMITED
-150834 # IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
 150836 # EPAY SERVICES JOINT STOCK COMPANY
 150839 # THIEN TUAN SOLUTION AND TECHNOLOGY COMPANY LIMITED
 150840 # HVT TM AND XNK COMPANY LIMITED
@@ -29043,7 +28956,6 @@
 150851 # DXT DIGITAL TRANSFORMATION TECHNOLOGY JOINT STOCK COMPANY
 150852 # BIGZ TECHNOLOGY JOINT STOCK COMPANY
 150854 # Diginext Group Joint Stock Company
-150855 # MAY SOC COMPANY LIMITED
 150857 # JB SECURITIES VIETNAM COMPANY LIMITED
 150859 # SANDCLOCK SERVICE TRADING COMPANY LIMITED
 150863 # HUY NGUYEN TECHNOLOGY SOLUTION JOINT STOCK COMPANY
@@ -29054,29 +28966,17 @@
 150868 # ADVIETNAM ADVERTISEMENT MEDIA COMPANY LIMITED
 150869 # National Citizen Commercial Joint stock bank
 150870 # KIM NGAN TECHNOLOGY TRADING SERVICES CO., LTD
-150871 # N C T CORPORATION
-150875 # XOR BPO JOINT STOCK COMPANY
-150876 # MAILAND TECHNOLOGY TRADING SERVICES COMPANY LIMITED
 150877 # HOI LOC TRADE SERVICES COMPANY LIMITED
 150878 # V9 TECHNOLOGY JOINT STOCK COMPANY
 150881 # INTERSTELLAR DIGITAL TECHNOLOGY COMPANY LIMITED
 150882 # XKA TECHNOLOGY MTV COMPANY LIMITED
 150884 # ANZIX Joint Stock Company
 150890 # VETC ELECTRONIC TOLL COLLECTION COMPANY LIMITED
-150891 # INFOGATE TECHNOLOGY COMPANY LIMITED
-150894 # SON NGUYEN GROUP CORPORATION
-150895 # EZ TECHNOLOGY COMPANY LIMITED
-150897 # AZPLAY TECHNOLOGY COMPANY LIMITED
-150899 # HTSG HIGH TECHNOLOGY SERVICES AND MEDIA JOINT STOCK COMPANY
 150901 # NEXTPAY DIGITAL TRANSFORMATION GROUP JOINT STOCK COMPANY
 150902 # BIDATA MEDIA AND TECHNOLOGY JOINT STOCK COMPANY
-150903 # ROYAL TECHNOLOGY MEDIA JOINT STOCK COMPANY
 150904 # BWF Technology Company Limited
 150905 # CENTRAL ELECTRICITY INFORMATION TECHNOLOGY COMPANY - CENTRAL REGIONAL ELECTRICITY CORPORATION
 150906 # NOVA SQUARE LIMITED
-150907 # GREEN SYSTEM SOLUTIONS COMPANY LIMITED
-150908 # LAM TRAN SOFTWARE DEVELOPMENT COMPANY LIMITED
-150911 # Travelaire Limited Liability Company
 150916 # PT Megah Data Utama
 150918 # PT Asuransi Umum BCA
 150920 # PT Dua Empat Tujuh
@@ -29171,7 +29071,6 @@
 151235 # Beijing QiTeng Network Technology Co., Ltd
 151236 # Beijing Lexin Chengtong Technology Co., Ltd.
 151240
-151241 # Qingdao YingDao Network Technology Co., Ltd.
 151242
 151243
 151244
@@ -29179,37 +29078,28 @@
 151247 # HSBC Software Development (Guangdong) Limited Shanghai Branch
 151248 # Saiyu Technology (Beijing) Co., Ltd.
 151249 # Saiyu Technology (Beijing) Co., Ltd.
-151250 # Shanghai Enqing Information Technology Co., Ltd
 151252 # NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 151254
 151257 # Citigroup Services and Technology (China) Limited
 151258 # Citigroup Services and Technology (China) Limited
 151260 # TingYun Network Technology(Beijing)Co, Ltd.
-151262 # Xingjielian Corporation,Ltd
-151263 # Juzhi technology co., ltd
-151264 # SHENZHEN QIYUE STAR TECHNOLOGY CO.,
 151265 # Beijing Electronic Digital & Intelligence Co., Ltd.
 151266
 151267 # Hebei Lanxun Network Technology Co., Ltd
 151268 # Shenzhen Yunshang Wuyou Network Technology Co., Ltd
 151269 # Beijing BG Digital Technology Co.. Ltd
 151272 # CHINA NATIONAL PUBLICATIONS IMPORT & EXPORT (GROUP) CO.,LTD.
-151274 # Suzhou Raiyi Information Technology CO.,LTD
 151275 # The Asia-Pacific Property & Casualty Insurance co.,Ltd.
-151276 # XI'AN UOTOCOM NETWORK TECHNOLOGY CO.,LTD
 151278 # INNER MONGOLIA POWER (GROUP)CO.,LTD
 151279 # INNER MONGOLIA POWER (GROUP)CO.,LTD
 151281 # Xingyin Information Technology (Shanghai) Co., Ltd
 151282 # Xingyin Information Technology (Shanghai) Co., Ltd
-151283 # Suzhou Bountech Information Technology CO.,LTD
 151284
 151285 # Henan Xiayun Network Technology Co., Ltd.
 151286 # Jinhu county ChuangLian technology co., LTD
 151287
 151288 # Beijing Aerospace Tong'an Electronic Technology Co., Ltd.
 151289 # QingDao WangXin Information Technology Corp. Limited
-151290 # Cenvan (BeiJing) Network Technology CO.,LTD
-151291 # JiuPeng Network Co.Ltd
 151292 # CEEC GREEN DIGITAL TECHNOLOGY (QINGYANG) CO, LTD.
 151293 # Netskope Network Technology (Shanghai) Company Limited
 151294 # Yunxu Huayao Information Tcehnlolgy(Beijing)Co.Ltd
@@ -29343,6 +29233,7 @@
 151646 # 1LINK (Private) Limited
 151649 # Mercy Aged and Community Care Ltd
 151661 # Goldman Sachs Services Private Limited
+151665 # GREYWOLF NETWORKS PTE. LTD.
 151666 # SAVEX TECHNOLOGIES PRIVATE LIMITED
 151668 # RDCW Company Limited
 151670
@@ -29391,58 +29282,39 @@
 151846 # Southern Cross Care (WA) Inc
 151847 # Fastmail Pty Ltd
 151852 # FUTE JOINT STOCK COMPANY
-151863 # PSG JOINT STOCK COMPANY
 151864 # TUAN VU SERVICES TECHNOLOGY COMPANY LIMITED
 151865 # ZENTECH Technology Solutions Co., Ltd
-151866 # DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED
 151868
-151869 # DLC DIGITAL TECHNOLOGY SOLUTION INVESTMENT LIMITED LIABILITY COMPANY
 151871 # DANH TUAN TECHNOLOGY COMPANY LIMITED
 151874 # BIM VIETNAM COMMUNITY COMPANY LIMITED
 151877 # ANH SAO TECHNOLOGY TRAINING CONSULTANT JOINT STOCK COMPANY
 151878 # EDC INTERNATIONAL TRADING COMPANY LIMITED
 151879 # GLOBAL TECHNOLOGY SOLUTIONS VIETNAM JOINT STOCK COMPANY
-151880 # BCONNECT TECHNOLOGY AND SOLUTION JOINT STOCK COMPANY
-151881 # GREEN LIGHT TECHNOLOGY SOLUTIONS COMPANY LIMITED
 151884 # STNC SERVICE CONSULTANCE COMPANY LIMITED
-151885 # DATA SECURITY SOLUTIONS LIMITED
-151887 # VCORE COMPANY LIMITED
 151888 # SWIFT INVESTMENT AND TECHNOLOGY COMPANY LIMITED
 151889 # HAI NAM TECH JOINT STOCK COMPANY
-151893 # DIGI SUCCESS SERVICE COMPANY LIMITED
-151896 # ETEL TECHNOLOGY COMPANY LIMITED
 151897 # QUOC VUONG TECHNOLOGY COMPANY LIMITED
 151899 # EDC TECHNOLOGY JOINT STOCK COMPANY
 151900 # METECH TECHNOLOGY AND SERVICES COMPANY LIMITED
 151901 # HAO QUANG VIET SOFTWARE COMPANY LIMITED
 151904 # TRAN PHAT CONSTRUCTION EQUIPMENT COMPANY LIMITED
 151905 # PHO TUE SOFTWARE AND TECHNOLOGY SOLUTIONS JOINT STOCK COMPANY
-151906 # ICODE DIGITAL DATA COMPANY LIMITED
 151907 # ECOSTA LIMITED
 151909 # NGUYEN HAU TP COMPANY LIMITED
 151911 # Verichains Joint Stock Company
 151912 # Tranco Technology Company Limited
-151915 # Tran Thi Data and Technology Company Limited
-151916 # TPT Technology and Electronics Company Limited
 151917 # Jupiter Media Joint Stock Company
-151920 # DDL Digital Technology Solutions Company Limited
-151921 # DIGI GROUP CO.,LTD
 151922 # Vietnam National Credit Information
 151923 # BC CARD Vietnam Company Limited
-151924 # NDD Digital Technology Company Limited
-151925 # Technology NHD Co., Ltd
 151927 # Truong Dai Digital Technology Company Limited
 151928 # ROSTEK CO .,JSC
 151929 # PRIMITIVE AI LLC
-151930 # Ung Dung Development Technology Company Limited
 151935 # Minh Nhat Paper General Company Limited
-151940 # TTT Data Encryption and Technology Co. LTD
 151941 # Vietnam Online Entertainment Joint Stock Company OnPlay
 151942 # PHAN HUU BAO DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED
 151943
 151944
 151945 # OI AGENCY MEDIA LIMITED
-151946 # DANG DINH LUONG DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED
 151947
 151948 # IONSITE SOFTWARE ONE MEMBER COMPANY LIMITED
 151949 # MHI WHEREVER JOINT STOCK COMPANY
@@ -29688,7 +29560,6 @@
 152871 # TAIYO NIPPON SANSO CORPORATION
 152872 # VirtualLink Networks
 152877 # Nintendo Co., Ltd
-152878 # Luna
 152881 # PT RMP JAYA LESTARI
 152883 # Teachers Savings and Loan Society Limited
 152884 # NEP AUSTRALIA PTY LTD
@@ -29711,23 +29582,16 @@
 152930 # Lin Xiangliang
 152934 # DUC DUY HIGH TECHNOLOGY COMPANY LIMITED
 152944 # TIEN TRUNG SOFTWARE COMPANY LIMITED
-152946 # TUAN TU TECHNOLOGY COMPANY LIMITED
-152948 # APAC Technology Engineering Company Limited
 152949 # AZ VIETNAM TECHNOLOGY JOINT STOCK COMPANY
 152952 # LAM ANH TM TECHNOLOGY COMPANY LIMITED
 152953 # NORTH WIND SOFTWARE COMPANY LIMITED
 152954 # Technology DVT Company Limited
-152957 # ETC Computer Trading and Services Company Limited
-152959 # GKIN COMPANY LIMITED
-152963 # Phuong Nam Company Limited
 152967 # A2T TECHNOLOGY JOINT STOCK COMPANY
 152968 # LPBank Insurance Joint Stock Corporation
-152969 # Kim Ky Nam Digital Technology Solutions Company Limited
 152976 # Thanh Loan Fashion Company Limited
 152978 # PHB Digital Technology Solutions Company Limited
 152979 # Vietservice Technology Company Limited
 152983 # Cao Hoang Hai Technology Company Limited
-152984 # PVH Technology and Solutions Company Limited
 152988 # TVC Information Technology Company Limited
 152989 # System 443 Company Limited
 152990 # FOXAI TECHNOLOGY JOINT STOCK COMPANY
@@ -29735,13 +29599,13 @@
 152994 # EB Services LLC
 153003 # Digital Shield Technology Company Limited
 153004 # NH SECURITIES VIETNAM CO., LTD
+153008 # NETVN Software Company Limited
 153010 # HTCN One Member LLC
 153011 # DVDVN Technology Company Limited
 153016 # VN Change Digital Ltd.
 153017 # TIDADIGI COMPANY LIMITED
-153019 # T-Star Company Limited
-153022 # ADM TECHNOLOGY JOINT STOCK COMPANY
 153024 # GOLDEN EGG MARKETING COMPANY LIMITED
+153025 # Nam Son Group Technology and Services Company Limited
 153026 # Techpay Technology and Services Company Limited
 153027 # Sunsight Technology and Tourism Company Limited
 153028 # Hong Lam Consulting Company Limited
@@ -29832,7 +29696,27 @@
 153391 # MINIUM NET LLC
 153397 # HCF
 153399 # Tu Atea Limited
+153401 # Huu Dien High Technology Company Limited
+153402 # Tuan Linh High Technology Company Limited
+153405 # Hoa My Distribution Technology Company Limited
+153406 # Hung Anh JSC Technology Company Limited
+153407 # Sava Meta Technology Joint Stock Company
+153409 # VTXK Trading and Services Company Limited
+153413 # HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY
+153418 # Dgon Technology and Solution Company Limited
+153419 # Thang Manh TTN Company Limited
+153421 # REALTECH TECHNOLOGY COMPANY LIMITED
+153422 # HND Green Agricultural Technology Company Limited
+153424 # Nam Dien Technology Company Limited
+153425 # Vu Gia Technology and Services Company Limited
 153433 # IPA TECHNOLOGY SOLUTION JOINT STOCK COMPANY
+153434 # S GLOBAL TECHNOLOGY JOINT STOCK COMPANY
+153442 # TYU Website Management Company Limited
+153444 # H2 Service Consulting Company Limited
+153445 # Somi 168 Group International Joint Stock Company
+153446 # VNONE Vietnam Company Limited
+153448 # Nam Son Development Joint Stock Company
+153449 # Golden Key Solutions LLC
 153450 # STEP TECHNOLOGY INVESTMENT JOINT STOCK COMPANY
 153451 # Kenpro Pty Ltd
 153452 # Labsol (Pvt.) Ltd
@@ -29847,6 +29731,7 @@
 153501 # Pal Vietnam Technology and Trading Joint Stock Company
 153503 # MK Technology Trading Company Limited
 153504 # HTH Technology Development Company Limited
+153505 # DichvuDark LLC
 153507 # VPBANK SECURITIES JSC
 153510 # EMERSON ASIA PACIFIC PRIVATE LIMITED
 153512 # Bennet Coleman and Company Limited
@@ -29855,9 +29740,6 @@
 153520 # PT Galen Sakti Baroka
 153524 # PT Inovasi Data Xprime
 153529 # 202436505D
-153532 # Trung Tin Iron and Aluminum Company Limited
-153534 # CAO GIA NANOMEDECINE TECHNOLOGY JOINT STOCK COMPANY
-153535 # HLC VIET NAM JOINT STOCK COMPANY
 153537 # Active Worldscope Co., Ltd.
 153540 # PITC Investment Joint Stock Company
 153542 # ECOAI Joint Stock Company
@@ -29869,6 +29751,7 @@
 153569 # Ziska Pharmaceuticals Ltd.
 153585 # Gold Key Real Estate Investment Company Limited
 153589 # VOLVO GROUP KOREA CO LTD
+153591 # LEEON TECHNOLOGY COMPANY LIMITED
 153593 # Shanghai Finmail Network Technology Co., Ltd.
 153595 # Citigroup Inc.
 153599 # New Pos Network (S) Pte Ltd
@@ -29890,7 +29773,6 @@
 153646 # PT Digikarsa Nusantara Internasional
 153647 # Viet Homes Furniture Manufacturing Company Limited
 153648 # Emapta Versatile Services Inc
-153649 # Nguyenphonglong One Member Company Limited
 153650 # MEGAMAX VIET NAM TECHNOLOGY JOINT STOCK COMPANY
 153651 # QPPF Company Limited
 153652 # Duyen Tran Digital Technology Consulting Company Limited
@@ -29922,7 +29804,6 @@
 153743 # Anh Dao Phuc Technology Company Limited
 153745 # Sayagi
 153748 # Function4
-153750 # GZ CORE COMPANY LIMITED
 153752 # Le Gia Technology Company Limited
 153754 # WORLDLINE INDIA PRIVATE LIMITED
 153757 # IMC NETWORKS LIMITED
@@ -29975,11 +29856,13 @@
 153933 # Xevera Sdn Bhd
 153937 # PT Ring Data Prima
 153939 # PT Sandeq Media Teknologi
+153941 # ESECURE SOLUTION LIMITED COMPANY
 153945 # PT THC DIGITAL SOLUTION
 153947 # FAST ZONE IT
 153950 # ICSDC PRIVATE LIMITED
 153952 # HongKong XIYE Limited
 153956 # SPEROTEL TECHNOLOGIES LLP
+153959 # VMON Service Technology Company Limited
 153960 # PT Metro Data Teknik
 153962 # PT Wismilak Inti Makmur TBK
 153964 # Core Component Pty Ltd
@@ -30032,6 +29915,7 @@
 154130 # AIMLware systems Private Limited
 154131 # Seven Stars Hospital & Diagnostic Center
 154132 # M/S UMARA INTERNATIONAL
+154134 # COMMERCIAL MOBILE INFORMATION TECHNOLOGY JOINT STOCK COMPANY
 154138 # PRE6 TECH PRIVATE LIMITED
 154144 # MOBIFONE DIGITAL PAYMENT JOINT STOCK COMPANY
 154150 # ZOOMVIEW TECHNOLOGY LLP
@@ -30050,7 +29934,6 @@
 154234 # KF GLOBAL LIMITED
 154239 # Neosoft Technologies And Software Pvt Ltd
 154246 # Association of Small & Medium Enterprises
-154247 # MCO HA NOI TECHNOLOGY COMPANY LIMITED
 154250 # Lumus Imaging (New South Wales/ACT) Pty Ltd
 154253 # NITHYASRI TECHNO SALES AND SERVICES
 154254 # Syntax Systems
@@ -30080,7 +29963,6 @@
 154334 # RS All in One Online Store Rajshahi
 154336 # PT PEGADAIAN
 154337 # PT Kledo Berhati Nyaman
-154350 # ATZ CORP JOINT STOCK COMPANY
 154359 # APU Company
 154361 # ZGX HK LIMITED
 154362 # Strac Consulting Engineers Pty Ltd
@@ -30090,7 +29972,6 @@
 154382 # Advika Enterprises
 154383 # ZORNTECH WEB SOLUTIONS
 154384 # DOSEPACK INDIA LLP
-154388 # ETC Technology System Joint Stock Company
 154389 # N Group Investment Joint Stock Company
 154399 # HELIX SOLUTION SDN BHD
 154405 # Vestas Australian Wind Technology Pty Ltd
@@ -30108,7 +29989,6 @@
 154486 # REI MIMURA
 154488 # IoT Innovation Technologies Company Limited
 154490 # LIVELINKING MEDIA SOLUTIONS PRIVATE LIMITED
-154491 # NETCORE COMPANY LIMITED
 154492 # PROTERGO
 154496 # Emperor Group Network Technology Sdn. Bhd.
 154497 # Technonext Software Limited
@@ -30179,7 +30059,6 @@
 154759 # Little Bit Technology Co., Limited
 154777 # PT MATA ARTHA DIGITAL
 154778 # PT JAVVARA TECHNOLOGY SOLUTIONS
-154781 # VSIS AP Company Limited
 154782 # SMC Manufacturing (Vietnam) Co., Ltd.
 154787 # Commercial Bank of Maldives Private Limited
 154788 # PT Delta Guna Nusantara
@@ -30228,7 +30107,9 @@
 154994 # Madhya Pradesh Gramin Bank
 154996 # IDLC Finance PLC.
 154997 # Testpress Tech Labs LLP
+155000 # Beian Digital Network Technology Co., Ltd.
 155001 # John Whitfeld
+155002 # Beian Digital Network Technology Co., Ltd.
 155003 # CV ADNAN DATA
 155016 # PT Gifta Media Samawa
 155018 # Skope IT
@@ -30245,6 +30126,10 @@
 155046 # LUCKY CREST LIMITED
 155047 # PT Grafika Tugu Indonesia
 155051 # Growthlash
+155053 # Foorty Digital
+155054 # CV Muzan Solution
+155055 # PT Omega Network Era
+155057 # PT Dhiray Mediatec Cyberindo
 196615
 196618 # Claudio Jeker
 196622 # Hrvatska posta d.d.
@@ -35149,7 +35034,6 @@
 210044 # Hamburger Energienetze GmbH
 210045 # Blackrock Clinic Unlimited Company
 210046 # GIOVANIS I. GKOUMASI X. E.E., trading as BEEASY Solutions
-210047 # Maxima, LLC
 210049 # SMARTTENDER LLC
 210050 # JSC "Guaranteed Buyer"
 210053 # CJSC "Humo Bank"
@@ -36899,6 +36783,7 @@
 214978 # HIGHLOAD SOLUTIONS LLC
 214979 # Dijust Development LTD
 214980 # Hexi Group ApS
+214981 # IE Didyk Dmitriy Sergeyevich
 214983 # Mikkel Buhl Madsen
 214984 # CUHK LTD.
 214985 # DMC24 Marketing und Dienstleistungs GmbH
@@ -37432,6 +37317,20 @@
 216464 # SIA Callgear
 216469 # Ismail Fayaz trading as OAKLABS
 216471 # Devout BV
+218275 # CLEV NETWORKS LIMITED
+218276 # Trukhin Sergey Vladimirovich
+218277 # Jannik Schroeder
+218278 # OOO Savvis
+218279 # Levin Schroeren
+218280 # Stephen Hildrey
+218281 # THE CHANGE SOLUTIONS INC.
+218282 # WESTTECH LTD
+218283 # LLC KETRIX PARK
+218284 # Metin Gorkem Gursoy
+218285 # Ben Gopfert
+218286 # HostPalace GCC LLC-FZ
+218287 # Juan Carlos de las Heras Escudero trading as Jcloud Hosting
+218288 # Nikolai Pulman
 218291 # IP PISSAREV ALEXANDR YURIEVICH
 218295 # Christian Clark
 218297 # Bram Vandenbogaerde
@@ -38649,6 +38548,7 @@
 270124 # SCONTINUIDAD LATAM, S.A. DE C.V.
 270128 # DANIEL RIVERA GONZALEZ
 270135 # Mario Guerra Figueroa
+270139 # KIUBIX, SA de CV
 270145 # Gualberto Mis Caamal
 270146 # KANSAS CITY SOUTHERN DE MEXICO
 270154 # Galaz, Yamazaki, Ruiz Urquiza, S.C.
@@ -38853,6 +38753,7 @@
 272829 # TASKUS COLOMBIA SAS
 272834 # ENERGIA DE ENTRE RIOS SOCIEDAD ANONIMA (ENER SA)
 272835 # EMPRESA DE OBRAS SANITARIAS DE CALDAS S.A. EMPRESA DE SERVICIOS PUBLICOS PUDIENDO EMPLEAR LA EXPRESION ABREVIADA EMPOCALDAS S.A E.S.P.
+272843 # Rio Colorado Television S.A.
 272846 # GIIPON PERU S.A.C.
 272853 # CORPORACION MALFA, SOCIEDAD ANONIMA
 272856 # YOFC PERU S.A.C.
@@ -39104,10 +39005,13 @@
 275090
 275091
 275092
+275093
+275094
 275299 # Qest Tecnologia LTDA
 275304
 275305
 275306
+275307
 275550
 275552
 275555
@@ -39649,6 +39553,7 @@
 329828 # OWN GROUP SA (PTY) LTD
 329829 # Ghana Interbank Payment and Settlement Systems
 329835 # Nexaura Technologies Pty Ltd
+329842 # KWIK TRIP WI-FI LIMITED
 393220 # ARIN Operations
 393222 # InterVoice, Inc.
 393224 # Invalid Network
@@ -44382,7 +44287,6 @@
 402632 # Wellman Industries
 402633 # INDUSTRIAL DATA ENTERPRISES INC.
 402634 # JESUELEARIANN LLC
-402635 # Sines Networks LLC
 402636 # SERVUS CREDIT UNION LTD
 402637 # Giesecke+Devrient Mobile Security America, Inc.
 402640 # U.S. Anesthesia Partners, Inc.
