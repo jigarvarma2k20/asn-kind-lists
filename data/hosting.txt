@@ -2232,6 +2232,7 @@
 32793 # XTIUM, INC.
 32804 # Leaseweb Canada Inc.
 32810 # IT Colo Exchange
+32819 # Entity Solutions LLC
 32821 # NearlyFreeSpeech.NET
 32868 # Flexential Dataside, LLC
 32872 # Difficult Computing, LLC
@@ -3830,6 +3831,7 @@
 49941 # Eurotux Informatica SA
 49981 # WorldStream B.V.
 49983 # MiroNet AG
+49990 # NETPROTECT SRL
 50018 # Flowmailer B.V.
 50037 # Server Ltd
 50041 # Saba Abr Mizban LLC
@@ -4661,6 +4663,7 @@
 58679 # Xssist Group Pte Ltd
 58683 # Rackspace.com Sydney
 58740 # HostAway Pty Ltd
+58750 # ThinkEx Holdings Pty Ltd
 58772 # CHINANET Fujian province Fuzhou IDC network
 58773 # CHINANET Fujian province Xiamen IDC network
 58774 # CHINANET Fujian province Quanzhou IDC network
@@ -6479,7 +6482,6 @@
 142240 # HostNost
 142244 # Iotamine Cloud Private Limited
 142259 # 92host Limited
-142260 # Skydome Technology Co., Ltd.
 142262 # 434480
 142267 # Hong Kong Beecloud System Technology Services Limited
 142273 # Digital Realty Korea Ltd.
@@ -8412,7 +8414,7 @@
 203839 # Internet Vikings International AB
 203846 # SESTERCE France LABS SAS
 203854 # active 1 GmbH
-203861 # Miteflux Technologies Ltd
+203861 # ServerExpress
 203892 # Flow Swiss AG
 203897 # ADVANIA UK LIMITED
 203898 # Cloudflare Inc
@@ -8949,7 +8951,7 @@
 207551 # Wijnand Schouten
 207556 # ServerForge LLC
 207560 # Zubritska Valeriia Nikolaevna
-207567 # Intezio Worldwide Limited
+207567 # Intezio Worldwide
 207569 # IHOR HOSTING LTD
 207570 # SV-GBT IT-Service GmbH
 207590 # Matteo Filiberto Sciacca trading as LocLix
@@ -9139,7 +9141,6 @@
 208831 # Afzal Cloud Technologies LLC
 208832 # Twinservers OU
 208848 # Jakub Orzel trading as Cloudfinity
-208889 # CSNETWORKS GmbH
 208895 # Intelligence Hosting Services Limited
 208898 # Superhosting doo
 208904 # LOOKING HOUSE LLC
@@ -9457,7 +9458,7 @@
 210990 # SpeedClick for Information Technology and Communication Ltd
 211011 # DANIEL MARSZALKOWSKI trading as VoxiHost
 211014 # AMIT VASANTRAO AHER trading as ELITE TECHNO SOLUTION
-211019 # moula world llc
+211019 # Moula World LLC
 211027 # LLC Vpsville
 211033 # Jose Poyato Prieto
 211037 # 1Ago CommV
@@ -10455,6 +10456,10 @@
 216444 # UAB "Cherry Servers"
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
+218278 # OOO Savvis
+218283 # LLC KETRIX PARK
+218286 # HostPalace GCC LLC-FZ
+218287 # Juan Carlos de las Heras Escudero trading as Jcloud Hosting
 218289 # ICT BULUT BILISIM A.S.
 218290 # ICT BULUT BILISIM A.S.
 218296 # CLOUD SOLUTIONS GLOBAL LTD
@@ -10543,7 +10548,6 @@
 218631 # EnderHost LLC
 218632 # TOPCODE SRL
 218637 # ALEKSANDR VITALEVICH MAKSIMOV
-218639 # CogniCloud Ltd
 218644 # Dylan Joseph Ogle
 218645 # Michal Widak
 218646 # Ksawery Duda
@@ -10943,7 +10947,6 @@
 272445 # VIA CLOUD SERVIDORES LTDA
 272524 # CONECTHOST DATACENTER
 272547 # Servicos de Infraestrutura e Datacenter
-272570 # ONO TECNOLOGIA E SEGURANCA DIGITAL LTDA
 272611 # Pecorari Cloud
 272694 # ONEX DATA CENTERS LTDA
 272696 # HOSTING NOW NET LTDA
@@ -11187,7 +11190,7 @@
 394192 # Fastly, Inc.
 394203 # Chicagoservers.org LLC
 394233 # Cloudwifi
-394235 # Many Ventures Compute L.L.C.
+394235 # Two Squared, LLC
 394255 # Equinix, Inc.
 394256 # Tech Futures Interactive Inc.
 394265 # Box.com

@@ -3826,7 +3826,6 @@
 55919 # 20 Dover Drive Singapore 138682
 55963 # Chinese Academy of Governance
 55971 # Chinese Academy of Social Sciences
-56004 # Shanghai Online Information Network Co.,Ltd
 56031 # Bangladesh University of Engineering and Technology
 56056 # Sector 125
 56094 # ITENET:wq
@@ -7171,9 +7170,11 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218264 # Universitaet Kassel
 218274 # Fabrizio Borelli
+218279 # Levin Schroeren
 218293 # Kendall Powell
-218294 # Infinite Horizon Networks
+218294 # Meridian Backbone
 218338 # Dominic Grimm
 218347 # Jan Bellon
 218349 # Benjamin Turquet de Beauregard
