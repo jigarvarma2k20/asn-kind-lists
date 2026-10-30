@@ -490,6 +490,7 @@
 1009 # Air Force Technical Applications Center
 1052 # Coeur d' Alene Tribe
 1055 # City of Manteca
+1056 # Cortland County Health Department
 1062 # City of Emmett
 1067 # Hamilton County, Ohio
 1070 # Peel Regional Police
@@ -1959,10 +1960,10 @@
 11188 # LOS ANGELES COUNTY - INTERNAL SERVICESDIVISION
 11205 # City of Philadelphia
 11212 # COUNTY OF SONOMA
-11284 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11309 # International Monetary Fund
 11394 # City of Richardson
 11405 # Environmental Protection Agency
+11431 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11436 # Benton County Emergency Management
 11480 # City of Sioux Falls
 11493 # Hillsborough County Sheriff's Office
@@ -2098,6 +2099,7 @@
 14644 # City of High Point
 14645 # CJIS-Consortium-20th-Court Administration
 14648 # COUNTY OF BUTTE
+14650 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 14677 # City of Tacoma
 14694 # Telecommunications Regulatory Commission
 14695 # City of El Reno
@@ -2257,7 +2259,7 @@
 18815 # CITY AND COUNTY OF DENVER
 18847 # Randolph County Government of NC
 18884 # Ramapo Catskill Library System
-18889 # City of Ruston
+18889 # Rightfiber
 18927 # National Nuclear Security Administration, Kansas City Plant
 18975 # Stanislaus County Office of Education
 18995 # Clackamas County
@@ -2315,6 +2317,7 @@
 20056 # Tualatin Valley Fire & Rescue
 20091 # City of Martinsville, VA
 20097 # City of Tulsa
+20116 # CAIXA ECONOMICA FEDERAL
 20137 # USAGM
 20244 # Division de Impuestos y Aduanas de Colombia
 20301 # National Aeronautics and Space Administration
@@ -6278,6 +6281,7 @@
 265064 # Agência de Tecnologia da Informação do Piauí ATI
 265071 # SECRETARIA DA FAZENDA DO ESTADO DO PIAUI
 265073 # MUNICIPIO DE BARRA DO CHOCA
+265119 # DATACI - COMPANHIA DE TEC. DE INFORM. DE C.I.
 265182 # Agencia Nacional do Cinema
 265202 # CONSELHO REGIONAL DE MEDICINA - SP
 265212 # TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL
@@ -6399,6 +6403,7 @@
 270127 # SECRETARIA DE ADMINISTRACION Y FINANZAS
 270129 # Municipio de San Pedro Garza Garcia
 270170 # SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES INSTITUTO MEXICANO DEL TRANSPORTE
+270171 # BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO
 270177 # CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 270181 # Instituto Mexicano de la Propiedad Industrial
 270184 # Instituto para Devolver al Pueblo lo Robado
@@ -6492,6 +6497,7 @@
 272321 # Sociedad Hipotecaria Federal, S.N.C.
 272324 # COMISION NACIONAL DE SEGURIDAD NUCLEAR Y SALVAGUARDIAS
 272325 # Instituto de Administracion y Avaluos de Bienes Nacionales
+272327 # SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 272328 # COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 272329 # Secretaría de Turismo
 272331 # SERVICIO GEOLOGICO MEXICANO
