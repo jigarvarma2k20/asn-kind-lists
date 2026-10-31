@@ -1819,6 +1819,7 @@
 17278 # Iona University
 17281 # CONSORTIUM FOR WORKER EDUCATION
 17287 # Universidad de Carabobo
+17290 # Austin Hadley, Sole Proprietorship
 17309 # Roosevelt University
 17311 # Erie County Medical Center
 17324 # Yeshiva University
@@ -2720,6 +2721,7 @@
 30713 # York Region District School Board
 30746 # Nat Morris
 30778 # Kielce University of Technology
+30812
 30847 # Lancaster University Network Services Limited
 30869 # FEDERAL STATE AUTONOMOUS EDUCATIONAL INSTITUTE OF HIGHER EDUCATION "RUSSIAN UNIVERSITY OF TRANSPORT"
 30911 # State Educational Institution of higher professional Education 'Altai state technical university after I.I.Polzunov'
@@ -3123,6 +3125,7 @@
 38597 # NSW Education Standards Authority
 38601 # Resaerch and Education Network
 38620 # National Knowledge Network
+38630 # Natsumegu Networks, Inc.
 38635 # Keio University
 38639 # NTT DOCOMO BUSINESS, Inc.
 38641 # Osaka Sangyo University
@@ -3607,6 +3610,7 @@
 52889 # FUNDAÇÃO UNIVERSIDADE ESTADUAL DO CEARA - FUNECE
 52914 # Associacao Educacional Nove de Julho
 52992 # UNIVERSIDADE FEDERAL DE SAO PAULO
+52994 # SODECAM - Soc de Desenv. Cultural do Amazonas S/A
 52998 # Fundacao Assis Gurgacz
 53046 # UNIVERSIDADE ESTADUAL DE PONTA GROSSA
 53111 # Centro Educacional Nossa Senhora Auxiliadora
@@ -4617,6 +4621,7 @@
 140918 # CMKL University
 140926 # 251 Research Redive
 140938 # mnihyc Network Global
+140946 # PT Lintas Cita Nusantara
 140974 # Mengly J. Quach Education PLC
 140977 # SCECGS Redlands Ltd
 141052 # Institut Agama Islam Negeri Metro
@@ -7170,6 +7175,7 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218248 # Gavin Phratsachack
 218264 # Universitaet Kassel
 218274 # Fabrizio Borelli
 218279 # Levin Schroeren
@@ -7241,6 +7247,7 @@
 262245 # UNIVERSIDAD DE LA SABANA
 262265 # Fundación Universidad Empresarial Siglo 21
 262266 # GRIDTICS UTN FRM
+262349 # Instituto Curitiba de Informática
 262382 # EPEC-Empresa Prudentina de Educação e Cultura SA
 262390 # UNIVERSIDADE UNICESUMAR - UNICESUMAR
 262441 # Fund. Vale do Taquari de Educ. e Desenvolv. Social

@@ -2259,7 +2259,6 @@
 18815 # CITY AND COUNTY OF DENVER
 18847 # Randolph County Government of NC
 18884 # Ramapo Catskill Library System
-18889 # Rightfiber
 18927 # National Nuclear Security Administration, Kansas City Plant
 18975 # Stanislaus County Office of Education
 18995 # Clackamas County
@@ -3818,7 +3817,6 @@
 52890 # Centro Integrado de Telemática do Exército
 52950 # Fund. de Apoio a Pesq. C&T do Est. de SC - FAPESC
 52958 # Empr.Tec.Inform.Comun. Mun.SP-PRODAM-SP S/A
-52994 # SODECAM - Soc de Desenv. Cultural do Amazonas S/A
 52996 # Tribunal Regional do Trabalho da 7a Regiao
 52997 # PARANÁ TRIBUNAL DE JUSTIÇA
 53012 # SEC MUN DE PLANEJAMENTO, FAZENDA E TEC DA INFORM-S
@@ -6164,6 +6162,8 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218247 # kommunit IT-Zweckverband Schleswig-Holstein
+218260 # O'zbekiston Respublikasi Raqamli Texnologiyalar Vazirligi Huzuridagi Raqamli Hukumat Loyihalarini Boshqarish Markazi Davlat Muassasasi
 218300 # Prokuratura Krajowa
 218348 # European Agency for Safety and Health at Work
 218478 # AGENCIJA ZA TRG VREDNOSTNIH PAPIRJEV
@@ -6190,7 +6190,6 @@
 262250 # Direccion Nacional de Contrataciones Publicas
 262264 # SECRETARIA DE GOBIERNO DE AMBIENTE Y DESARROLLO SUSTENTABLE
 262347 # Prefeitura Municipal de Mogi das Cruzes
-262349 # Instituto Curitiba de Informática
 262451 # Prefeitura Municipal de Londrina
 262483 # Prefeitura Municipal de Campo Grande
 262486 # PRODAM Processamento de Dados Amazonas S.A
@@ -6536,7 +6535,6 @@
 272949 # SOCIEDAD DE ACUEDUCTOS Y ALCANTARILLADOS DEL VALLE DEL CAUCA S.A. E.S.P. ACUAVALLE S.A. E.S.P.
 272983 # CANAL CAPITAL
 273030 # MUNICIPIO DE MOSQUERA
-273052 # UNIÓN TELECOMUNICACIONES S.R.L.
 273055 # INSTITUTO DE FINANCIAMIENTO PROMOCION Y DESARROLLO DE CALDAS
 273059 # MUNICIPIO DE GUACHETA
 273062 # EMPRESA DE SERVICIOS PUBLICOS DE SABANETA E.S.P.
