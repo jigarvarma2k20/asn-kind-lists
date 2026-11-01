@@ -1210,6 +1210,7 @@
 4586 # Texas Natural Resources Information System
 4602 # Navy Network Information Center (NNIC)
 4607 # Air Force Systems Networking
+4729 # Japan Atomic Energy Agency
 4754 # 1016, Electronics Niketan, 6, CGO Complex
 4758 # National Informatics Centre
 4820 # Department of Communities and Justice
@@ -1819,6 +1820,7 @@
 7563 # Korea Internet Security Agency
 7576 # ShaoGuan Information Center
 7590 # Commission on Science and Technology for
+7626 # SCOURTFAMILY
 7633 # Software Technology Parks of India - Bangalore
 7634 # Singapore Government Network AS
 7635 # Townsville City Council
@@ -1900,6 +1902,7 @@
 9860 # National Health Insurance Service
 9864 # Korea Securities Depository
 9871 # Gyeong Sang Buk-Do Office of Education
+9885 # NKN INTERNET GATEWAY NETWORK
 9893 # Cenitex
 9932 # Health Insurance Commission
 9977 # Korea Internet Security Agency
@@ -2190,23 +2193,25 @@
 17461 # NSW Department of Commerce
 17478 # Bangkok Metropolitan Administration
 17485 # Trade and Industry Department, the Government of the Hong Kong Special Administrative Region
-17494 # Telecom Operator & Internet Service Provider as well
 17518 # Shiojiri City
 17574 # Seoul Metropolitan Government Computer Center
 17576 # National Research Foundation of Korea
 17580 # National Pension Service
 17582 # Korea Investment Corporation
+17584 # Inchon Metropolitan Office Of Education
 17585 # Public Procurement Service The Republic of Korea
 17590 # KOCCA
 17591 # National Research Foundation of Korea
 17595 # Korea Institute of Nuclear Safety
 17600 # KOREA RESOURCES RECOVERY AND REUTILIZATION CORPORATION
 17601 # KOREA CREDIT GUARANTEE FUND
+17611 # Korea Housing Finance Corporation
 17618 # DEPARTMENT OF HOUSING AND WORKS
 17630 # Hong Kong Education City Ltd
 17663 # KAINGA ORA HOMES AND COMMUNITIES
 17706 # Airport Authority Hong Kong
 17713 # Ministry of Education Computer Center
+17717 # Ministry of Education Computer Center Taipei, Taiwan
 17735 # China Ministry of Science and Technology
 17787 # Pakistan Software Export Board
 17792 # Metservice
@@ -2235,6 +2240,7 @@
 18220 # Australian Defence Organisation
 18255 # Brisbane City Council
 18312 # Korea Asset Management COrporation
+18327 # Seoul Education Research Information Institute
 18333 # at(Korea Argo-Fisheries   Food Trade Corporation)
 18402 # NATIONAL LIBRARY BOARD
 18404 # HyderabadIX is an non-profit Internet Exchange Point in the city of Hyderabad, India.
@@ -2469,6 +2475,7 @@
 23553 # National IT Industry Promotion Agency
 23562 # BUSAN CITY ENVIRONMENTAL INSTALLATIONS CORP
 23571 # Gangwon State Office of Education
+23579 # Seoul Metropolitan Office Of Education
 23585 # Ministry of Justice
 23589 # KERIS
 23592 # Ministry of Food and Drug Safety
@@ -2478,7 +2485,6 @@
 23603 # Housing New Zealand
 23644 # Government Savings Bank
 23667 # Bureau of Meteorology
-23687 # The Institute for the Promotion of Teaching Science
 23705 # Queensland State Government Department responsible
 23744 # Department of Home Affairs
 23769 # Department of Customer Service
@@ -3195,6 +3201,7 @@
 37915 # Wakayama Prefectural Government
 37924 # Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau
 37937 # China eGovNet Information Center
+37942 # SACHNET
 37976 # Telecommunications Authority of Fiji
 38002 # Security and Exchange Commission (SEC).
 38027 # Information Center, Ministry of Sci and Tech
@@ -3202,6 +3209,7 @@
 38076 # Australian Sports Commission. Bruce, ACT
 38078 # QLD Department of the Premier and Cabinet
 38079 # Public Services Commission
+38102 # SCOURTFAMILY
 38112 # Korea Housing   Urban Guarantee Corporation
 38125 # Korea Expressway Corporation
 38128 # Gyeonggi Hosing Urban Development Corporation
@@ -3248,6 +3256,7 @@
 38687 # Financial Security Institute
 38692 # Jeonbuk State office of Education Future Education Research Institute
 38693 # Korea Transportation Safety Authority
+38708 # EXPORT-IMPORT BANK OF KOREA
 38736 # Vietnam Internet network information center (VNNIC)
 38737 # Vietnam Internet network information center (VNNIC)
 38739 # Vietnam Internet network information center (VNNIC)
@@ -3516,6 +3525,7 @@
 45389 # Jeonbuk State office of Education Future Education Research Institute
 45394 # KERIS
 45403 # INCHEON TECHNOPARK
+45408 # KOSAF
 45431 # AG-CWLTH
 45434 # Cambelltown Council
 45442 # Department of Parliamentary Services,
@@ -3524,12 +3534,10 @@
 45480 # PO Box 805
 45503 # Legal Execution Department
 45506 # Department of Foreign Affairs and Trade
-45532 # Bangladesh Bank
 45533 # Comptroller General's Department
 45537 # C/o Cs Loxinfo Public Company Limited
 45554 # Vietnam Internet network information center (VNNIC)
 45596 # Centre For Railway Information Systems
-45607 # Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
 45657 # NSW Rural Fire Service
 45692 # Department of Customer Service
 45696 # Pusat Pelaporan dan Analisis Transaksi Keuangan
@@ -3964,7 +3972,6 @@
 55951 # Lembaga Hasil Dalam Negeri Malaysia
 56010 # Development Research Center Of The State Council
 56015 # China Sports Lottery Technology Development Co., Ltd
-56032 # BTCL IX service
 56051 # Department of Water (WA)
 56105 # Department of Education and Training - Victoria
 56118 # OCSC
@@ -4921,6 +4928,7 @@
 142334 # Disdukcapil Kota Bandung
 142343 # Dinas Kominfo Kabupaten Rembang
 142349 # Dinas Komunikasi dan Informatika Kabupaten Mojokerto
+142359 # PT Bina Pertiwi
 142363 # RSUP Prof Kandou
 142380 # Dinas Persandian Komunikasi dan Informatika Kabupaten Manokwari
 142384 # Dinas Komunikasi Dan Informatika Kabupaten Jember
@@ -4942,6 +4950,7 @@
 147170 # Dinas Komunikasi Informatika dan Statistik Kota Banjarmasin
 147171 # Badan Riset dan Inovasi Nasional
 147172 # Australian Defence Organisation
+147227 # GUJARAT ISP SERVICES LIMITED
 147228 # Bangalore Metro Rail Corporation Ltd.
 147316 # Indian Council of Medical Research (ICMR), Dollygunj, Portblair
 147317 # Indian Council of Medical Research (ICMR), Dollygunj, Portblair
@@ -5857,7 +5866,6 @@
 207894 # Gemeente Sudwest-Fryslan
 207949 # Agence Francaise de Developpement EPIC
 207950 # Nemzeti Sportugynokseg Nonprofit Zrt.
-208007 # Libanpost S.A.L
 208086 # Digitaliseringsdirektoratet
 208093 # Moravskoslezsky kraj
 208096 # Serviciul de Telecomunicatii Speciale
@@ -6425,7 +6433,6 @@
 270229 # CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL
 270230 # BANCO NACIONAL DE COMERCIO EXTERIOR
 270231 # INSTITUTO NACIONAL DE LENGUAS INDIGENAS
-270235 # AGROASEMEX SA
 270308 # MUNICIPIO DE MACAE
 270327 # SECRETARIA MUNICIPAL DE GESTAO - SEMGE
 270328 # Justiça Federal de 1º instância em Pernambuco
@@ -7348,3 +7355,4 @@
 403105 # City of Miami Beach
 403118 # City of Antioch
 403144 # Metropolitan Emergency Services Agency
+403149 # San Joaquin Valley Unified Air Pollution Control District

@@ -954,7 +954,6 @@
 4690 # WIDE Project
 4697 # Nippon Telegraph and Telephone Corporation
 4717 # WIDE Project
-4729 # Japan Atomic Energy Agency
 4730 # Osaka University
 4738 # AARNET Test
 4756 # Korea National Police University
@@ -1314,7 +1313,6 @@
 9870 # DONG-EUI UNIVERSITY
 9877 # Ngee Ann Polytechnic Computer Center
 9878 # ac3, Australian Centre for Advanced Computing and Communications
-9885 # NKN INTERNET GATEWAY NETWORK
 9903 # Rajamangala Institute of Technology
 9916 # National Yang Ming Chiao Tung University
 9920 # IMPROVE SYSTEM TECHNOLOGY CO., LTD.
@@ -1841,7 +1839,6 @@
 17575 # Chung-Ang University
 17578 # CHEJU HALLA UNIVERSITY
 17579 # KISTI
-17584 # Inchon Metropolitan Office Of Education
 17587 # HANSOL GYOYOOK
 17603 # Kum oh National University of Technology (KNUT)
 17609 # Silla Univ
@@ -1853,7 +1850,6 @@
 17711 # National Dong Hwa University
 17712 # National Chung Cheng University
 17716 # National Taiwan University
-17717 # Ministry of Education Computer Center Taipei, Taiwan
 17721 # International Rice Research Institute,
 17733 # Office of Communications & IT
 17764 # Hong Kong Metropolitan University
@@ -1925,7 +1921,6 @@
 18323 # Seoul National University Bundang Hospital
 18324 # Masan College
 18325 # Korea Christian University
-18327 # Seoul Education Research Information Institute
 18329 # Sangmyung University
 18330 # HONGIK UNIVERSITY
 18331 # Daejeon Institute of Science and Technology
@@ -2260,7 +2255,6 @@
 23561 # Yongin University
 23569 # SEOJEONG COLLEGE
 23570 # UNIVERSITY OF INCHEON
-23579 # Seoul Metropolitan Office Of Education
 23586 # Korean Council for University Education
 23605 # De La Salle University Incorporated
 23615 # University of Shizuoka
@@ -2268,6 +2262,7 @@
 23623 # Chuo University
 23654 # AARNet Adelaide Office
 23668 # TECH UNIVERSITY OF KOREA
+23687 # The Institute for the Promotion of Teaching Science
 23714 # Keimyung University
 23719 # University of Sydney
 23726 # India Internet Foundation
@@ -3009,6 +3004,7 @@
 36719 # Mount Mercy University
 36748 # St. Edwards University
 36786 # Universite Laval
+36831
 36843 # Florida State University
 36850 # University of North Carolina at Chapel Hill
 36859 # University of Houston
@@ -3145,6 +3141,7 @@
 38787 # Kampus ITS Keputih Sukolilo Surabaya
 38795 # CEnet
 38827 # REANNZ Customer - Kristin School
+38839 # CSPTEK LTD. CO.
 38844 # National Taiwan Normal University
 38845 # Fu Jen Catholic University
 38847 # National Chung Hsing University
@@ -3405,6 +3402,7 @@
 46418 # Baker College
 46419 # Baker College
 46420 # Baker College
+46435 # IRON
 46457 # ESD 112
 46464 # Nybbles and Bytes Studios, LLC
 46470 # Skidmore College
@@ -3830,6 +3828,7 @@
 55919 # 20 Dover Drive Singapore 138682
 55963 # Chinese Academy of Governance
 55971 # Chinese Academy of Social Sciences
+56004 # Shanghai Online Information Network Co.,Ltd
 56031 # Bangladesh University of Engineering and Technology
 56056 # Sector 125
 56094 # ITENET:wq
@@ -4158,6 +4157,7 @@
 131795 # KOREA INSTITUTE OF ENERGY RESEARCH
 131822 # Korea National University of Transportation
 131830 # Institute for Basic Science
+131856 # WONJU SEVERANCE CHRISTIAN HOSPITAL
 131869 # UST
 131882 # Chungnam National University Hospital
 131883 # INSTITUTES OF GREENBIO SCIENCE AND TECHNOLOGY
@@ -4457,6 +4457,7 @@
 137429 # Stuartholme School
 137546 # Faculty of Engineering , Rajamangala University of
 137569 # The Corporation of the Trustees of the Roman Catholic Archdi
+137617 # Indian Institute Of Management Ahmedabad
 137706 # National University
 137749 # NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 137769 # Shenzhen Cyberspace Laboratory
@@ -6235,6 +6236,7 @@
 154301 # THE ASSOCIATION OF INDEPENDENT SCHOOLS OF NEW SOUTH WALES LIMITED
 154354 # Politeknik Negeri Lhokseumawe
 154392 # Singapore Institute of Technology
+154417 # Mahir Dot Net
 154518 # SHREE SWAMINARAYAN GURUKUL
 154519 # University of Computer Studies, Yangon
 154540 # Moriah War Memorial College Association
@@ -7089,7 +7091,6 @@
 215168 # Akos Miklos
 215207 # Henrik Van Tassell
 215216 # Barry Ruetten
-215219 # Florian Berthold trading as Sub-Net e.U.
 215223 # Mohammad Raska
 215236 # Julian Huhn
 215246 # Nicolas Paparusso
