@@ -108,7 +108,6 @@
 3324 # Fujitsu Technology Solutions, S.A.
 3337 # ColocationIX GmbH
 3344 # Burstfire Networks Ltd
-3357 # VLAN24
 3361 # Digital Fortress, Inc.
 3503 # WebNet LLC
 3507 # IPSwat LLC
@@ -161,6 +160,7 @@
 4921 # Exodus Communiations, Inc.
 4935 # DirectNIC, Ltd.
 4946 # DedicatedSolutions.com LLC
+4961 # Daewoo Information Systems
 5003 # Insync Internet Services, Inc.
 5045 # Databank, Inc.
 5060 # Darkness Reigns (Holding) B.V.
@@ -381,6 +381,7 @@
 9235 # PT. Dunia Virtual Online
 9248 # Netwise Hosting Ltd
 9259 # Web Host Limited
+9273 # ITCENENTEC CO.,LTD.
 9280 # Servers Australia Pty Ltd
 9287 # Arise IDC Company Limited
 9290 # GoHosting
@@ -390,6 +391,7 @@
 9335 # National Telecom Public Company Limited
 9370 # SAKURA Internet Inc.
 9371 # SAKURA Internet Inc.
+9388 # Chengdu west dimension digital technology Co.,LTD
 9409 # Rapid-Fire-y (Tokyo)
 9423 # ServerKing.io, LLC
 9448 # PT. MEDIA NUSANTARA GLOBAL DATA
@@ -401,6 +403,7 @@
 9607 # BroadBand Tower, Inc.
 9667 # 5G NETWORK OPERATIONS PTY LTD
 9678 # HostingInside LTD
+9701 # viaweb
 9714 # Vocus Cloud Services Australia
 9715 # SAMART Corp (Excise-Direct Coding Data Center)
 9733 # Netspace Services Limited
@@ -415,7 +418,6 @@
 9925 # VDC Powerbase Hong Kong Data Centers Limited
 9947 # kt cloud Co., Ltd
 9952 # Hostway IDC
-9972 # INTMANAGEMENT Corp.,
 9989 # Equinix Singapore Pte Ltd
 10016 # Minaminihon Information Processing Center Co Ltd
 10022 # Internet access for Datacom Systems Auckland
@@ -576,7 +578,6 @@
 12232 # CatalystCloud LLC
 12233 # Ninja-IX Corporation
 12266 # StoreRunner, Inc.
-12290 # Exonetric Consulting Ltd
 12293 # Xvid Services OU
 12333 # Cheops Technology Switzerland SA
 12337 # noris network AG
@@ -999,6 +1000,7 @@
 17422 # Walks Cloud Inc.
 17428 # 21Vianet.Co.,Ltd
 17441 # PrimeXM Networks (Singapore) PTE. LTD
+17442 # Internet Service Provider in China
 17447 # Net4India Ltd
 17448 # Web.com.ph Inc.
 17452 # Bitstop Inc
@@ -1026,6 +1028,8 @@
 17791 # CNCGROUP IP network of ShengZhen IDC
 17804 # Lao Data Center (LaoDC)
 17819 # Equinix Asia Pacific
+17833 # NCOM ltd.
+17878 # DREAMMARK1
 17881 # Inet Hosting, Inc.
 17894 # AyalaPort Makati, Inc. / Data Center Operator
 17914 # Gameserverkings
@@ -1054,7 +1058,6 @@
 18362 # Netway Communication Co.,Ltd.
 18370
 18381 # RedSwitches
-18405 # Snowregal Holdings TA Digital Data Solutions Perth Peering AS
 18423 # RAID Networks Co., Ltd.
 18432 # Vonage Holdings, Inc.
 18450 # WebNX, Inc.
@@ -1309,7 +1312,6 @@
 21130 # IOMART CLOUD SERVICES LIMITED
 21134 # Data Management S.r.l.
 21141 # Openstack Ltd
-21159 # IAF B.V.
 21162 # Valantic Digital Experience Solutions (DXS) B.V.
 21187 # ALSO Polska SP ZOO
 21217 # Infrastructure Switzerland Colo Sarl
@@ -1481,7 +1483,9 @@
 23516 # Cirrus Seven, Inc.
 23522 # GigeNET
 23535 # HostRocket.com, Inc.
+23557 # Elice inc.
 23576 # NAVER Cloud Corp.
+23588 # KAKAO Enterprise
 23634 # WIDE Project
 23637 # Equinix Japan Enterprise K.K.
 23650 # AS Number for CHINANET jiangsu province backbone
@@ -1523,6 +1527,7 @@
 24085 # Quang Trung Software City Development Company
 24095 # ePLDT - Vitro Internet Data Center
 24099 # Layerlinks Global Lmited
+24113 # Oz Gamers
 24114 # Equinix Asia Pacific
 24115 # Equinix
 24116 # Equinix Asia Pacific
@@ -2703,6 +2708,7 @@
 38106 # Korea Security Technology Co., Ltd.
 38107 # CDNetworks
 38111 # HANA TI
+38119 # WITHSYSTEMS
 38187 # Gamania CloudForce Co., Ltd
 38194 # DE-CIX Kuala Lumpur Route Servers
 38206 # DE-CIX Johor Baru Route Servers
@@ -2713,9 +2719,10 @@
 38283 # CHINANET SiChuan Telecom Internet Data Center
 38284 # EcoHost Pty Ltd
 38294 # Serverworks Content Provider
+38360 # Beijing Linktom Network Technology Co.,Ltd.
 38365 # Beijing Baidu Netcom Science and Technology Co., Ltd.
+38372 # Foshan Tongyuan Intelligent Technology Co., Ltd
 38386 # Iconz-Webvisions Pte. Ltd.
-38427 # FORCETEC Co., LTD.
 38439 # ZFS.RENT LLC
 38451 # SMX Ltd
 38478 # SunnyVision Limited
@@ -2730,8 +2737,10 @@
 38622 # Limelight Networks Australia
 38640 # SAKURA Internet Inc.
 38643 # UNIADEX, LTD.
+38661 # abcle
 38670 # CDNetworks
 38690 # HyosungITX
+38700 # SMILESERV
 38719 # Dreamscape Networks Limited
 38725 # Inet software one member company limited
 38731 # Vietel - CHT Compamy Ltd
@@ -2743,8 +2752,11 @@
 38791 # Automaton PTY LTD. Application Service Provider, Melbourne Australia
 38802 # Azurance Limited
 38813 # Emantra Pty Ltd
+38843 # PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD
+38850 # Dodo Ltd.
 38854
 38856 # Walks Cloud Inc.
+38867 # Gaming firm which wants to peer directly to different
 38880 # Micron21 Datacentre Pty Ltd
 38895 # Amazon.com Tech Telecom
 38913 # The Infrastructure Group B.V.
@@ -2904,6 +2916,7 @@
 40399 # Masergy Cloud Communications, Inc.
 40400 # Middletown Data Center
 40401 # Backblaze Inc
+40419 # Austin Hadley, Sole Proprietorship
 40427 # Cisco Systems Ironport Division
 40430 # colo4jax, LLC
 40431 # ColocateUSA
@@ -3345,7 +3358,6 @@
 45031 # dogado GmbH
 45037 # Propelin Consulting S.L.U.
 45042 # TOV UA2WEB
-45064 # BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd.
 45066 # Nanjing Zihai Data Co.,Ltd
 45090 # Shenzhen Tencent Computer Systems Company Limited
 45096 # Alisoft (Shanghai) Co., Ltd.
@@ -3366,6 +3378,7 @@
 45261 # Oz Servers
 45328 # NIPA TECHNOLOGY CO., LTD
 45352 # IP ServerOne Solutions Sdn Bhd
+45370 # BROADBANDIDC
 45382 # Hostcenter
 45396 # Edgio - AS45396 - Korea
 45413 # ServeNET Solution Limited Partnership
@@ -4356,6 +4369,7 @@
 55539 # AMC Data Centre
 55558 # Speedy Group Cloud Limited
 55576 # Gamania CloudForce Co., Ltd
+55592 # Korea Data Telecommunication Co., Ltd.
 55635 # BangkokVPS.com
 55637 # Hostin Services Private Limited
 55639 # Asia Web Service Ltd
@@ -4383,15 +4397,12 @@
 55959 # Hangzhou Netbank Technologies co.,LTD
 55960 # Beijing Guanghuan Xinwang Digital
 55975 # LingCloud (Beijing) Technology Co., Ltd.
-55976 # Beijing DxConsole Technology Co. Ltd
-55978 # Shanghai fuyun Networks Inc.
 55984 # Beijing firstleader Science and Technology Ltd.
 55985 # Zhejiang Watone Cloud Data Technology Co., Ltd
 55990 # Huawei Cloud Service data center
 55994 # Shanghai ruisu Network Technology Co.,Ltd
 56001 # Shanghai Chenyi Network Technology Co.,Ltd
 56005 # Zhengzhou Fastidc Technology Co.,Ltd.
-56011 # UNICLOUD TECH CO.,LTD.
 56019 # Beijing ShuJuJia Technology Co., Ltd.
 56038 # RackCorp
 56057 # Entity Data Pty Limited
@@ -4412,7 +4423,6 @@
 56219 # NetSpot Pty. Ltd.
 56225 # Servers Australia Pty Ltd
 56229 # LightsUp Network Solution Sdn. Bhd.
-56252 # PT. Kreatif Pasific
 56263 # NEXTDC Limited
 56279 # Beijing fast cloud Information Technology co. LTD
 56282 # Beijing Internet Harbor Technology Co., Ltd
@@ -4674,6 +4684,7 @@
 58679 # Xssist Group Pte Ltd
 58683 # Rackspace.com Sydney
 58740 # HostAway Pty Ltd
+58741 # shanghai Netlan Network Technology Co.,Ltd.
 58750 # ThinkEx Holdings Pty Ltd
 58772 # CHINANET Fujian province Fuzhou IDC network
 58773 # CHINANET Fujian province Xiamen IDC network
@@ -4686,9 +4697,11 @@
 58793 # FUJITSU LIMITED
 58797 # Carpathia Hosting
 58827 # Jilin Gosun Technology Co., Ltd.
+58830 # Shanghai HaoJin Technology Development Co.,Ltd.
 58833 # Beijing CloudHosting Communications CO.,LTD
 58835 # 9F, FIYTA Building, Gaoxinnanyi Road,Southern
 58838 # ShenZhenShiZongHengXinXiJiShuYouXianGongSi
+58842 # HCI Solutions Co.,Ltd
 58844 # Guangdong Aofei Data Technology Co., Ltd.
 58847 # Shanghai Cloud Win Data Technology Co., Ltd
 58853 # Shanghai KUDUNET Communication network equipment., LTD
@@ -4716,16 +4729,22 @@
 58996 # Shanghai Meicheng Technology Information Co.,Ltd.
 59002 # Chongqing Cloud Computing Investment&Operation Co.,Ltd
 59004 # Tianjin new cloud network technology co., LTD
+59010 # Inner Mongolia Qiyun Network Technology Co., Ltd.
+59011 # Beijing Yunlin Network Technology Co.,Ltd.
+59014 # JIANGYIN power network science and technology limited company
+59017 # Beijing East Rui Ting Network Technology Co., Ltd.
 59019 # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 59020 # 21vianet(China) Inc.
 59031 # Shanghai Yunrui Zhitong Industrial Co. Ltd.
 59036 # Shanghai Maginetwork Cro,.Ltd.
+59044 # Entrust Network Inc.
 59048 # Bei Jing Cloud Times Technology Co.,Ltd
 59050 # Beijing Cloud-Ark Technology Co.,Ltd.
 59060 # Yunnan Tiancheng Technology Co., Ltd.
 59061 # Beijing UniCloud Technology Co,Ltd.
 59062 # BZYUN Cloud computing & IOT Technology Co., Ltd
 59063 # TopIaas Inc.
+59066 # Dianji Network Technology Co. Ltd
 59070 # Chengdu Zhongli Data Technology Co.,Ltd
 59077 # Shanghai UCloud Information Technology Company Limited
 59078 # Yunify Technologies Inc.
@@ -5248,6 +5267,7 @@
 63524 # Equinix Asia Pacific
 63525 # Equinix Asia Pacific
 63529 # Bangkok Neutral Internet Exchange Route Servers
+63532 # Lonlife inc
 63533 # Shenzhen Qianhai bird cloud computing Co. Ltd.
 63534 # SHENZHEN CHUNQIU YUNJISUAN
 63539 # Cloud Union (HuBei) Network Technology Co., Ltd
@@ -5262,7 +5282,9 @@
 63557 # Beijing Big Data Tech Co.,Ltd.
 63558 # Beijing Big Data Tech Co.,Ltd.
 63559 # Beijing Big Data Tech Co.,Ltd.
+63562 # Wuhan MyE Information Technology co.,Ltd
 63564 # Lingchuanfeng (Guizhou)Information Technology Co., Ltd.a??
+63566 # Beijing yiwangxin science and Technology Development Co., Ltd.
 63567 # Suqian Pugongying Network Service Co.,Ltd
 63568 # Beijing Zhonglian Runtong Information Technology Co. Ltd.
 63572 # Ningxia West Cloud Data Technology Co.Ltd.
@@ -5270,6 +5292,7 @@
 63575 # Shanghai Kuanhui Tech. Co.,ltd
 63576 # Shanghai Kuanhui Tech. Co.,ltd
 63577 # Beijing Aidi Communications Technology Co., Ltd.
+63578 # Guangdong LITONG Network Technology Limited
 63586 # Hangzhou Yunzhimeng Technology Co. LTD
 63587 # Quantum Cloud New Media Technologies Co.Ltd
 63588 # Zhejiang Jusuan Network Technology Co.,Ltd
@@ -5281,6 +5304,7 @@
 63656 # Tang Shan Hong Yun Data Co.,LTD
 63657 # Shanghai Shuao Technology Co,Ltd
 63659 # CHINA UNICOM CLOUD DATA COMPANY LIMITED Shanghai Branch
+63666 # Chengdu Giant Times Technology Co.,Ltd
 63674 # Beijing zhongJiahexin Communication Technology Co. Ltd.
 63675 # Guizhou Wingcloud Bigdata Service Ltd.
 63676 # Shanghai Qiniu Network Technology Co., Ltd.
@@ -5294,6 +5318,7 @@
 63688 # Shanghai Qiniu Information Technologies Co., Ltd.
 63691 # Beijing wisdom network technology Co., Ltd. polymerization
 63692 # Daily-tech Beijing Co.,Ltd.
+63705 # Nanjing Anlai Xinxi Tongxin Jishu Youxian Gongsi
 63708 # Guangdong LITONG Network Technology Limited
 63709 # Shanghai Yiyun Information Technology Development Co., Ltd.
 63718 # Hangzhou YouYun Technology Co., Ltd.
@@ -5435,31 +5460,35 @@
 131508 # Beijing Yunji Wantong Network Technology Co. LTD
 131511 # Beijing Chenxun Technology Co., Ltd.
 131514 # Fujian Data Fujian Cloud Computing Operaing CO.LTD
+131516 # Jinhua Weian InfoTech Co., Ltd
 131522 # Beijing Yovole Cloud Computing Technology Company Limited
-131525 # Nanjing Tuniu Technology Co. Ltd.
 131530 # Shanghai Stacks Network Co., Ltd
 131533 # Wuxi Shanghang Data Co., Ltd.
 131535 # Suzhou Qiduo Information Technology Co.,Ltd
+131539 # Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd
 131540 # cloudvop.com
 131547 # Beijing yunchuang communication Technology Co.Ltd.
 131556 # Shandong Lunan Data Technology Co., Ltd
 131561 # Wuxi Shanghang Data Co., Ltd.
 131564 # Beijing 2049 cloud computing data technology service co. LTD
+131568 # Xiamen Kuaikuai Network Technology Co.,Ltd
+131569 # Beijing Elinkcloud network technology co. LTD
 131579 # Chengdu FeifanShuJu Technology Co., LTD
 131580 # CloudVsp.Inc
 131582 # QUAPE PTE LTD
 131586 # New Century InfoComm Tech Co., Ltd.
 131601 # Dynamic Computing Technology
+131605 # Inventec Besta CO.,LTD
 131609 # Yuan Cheng Co., Ltd.
 131612 # Internet Dept., Data Communication Group of CHT Ltd.
 131613 # Sky Digital Co., Ltd.
-131615 # Chief Telecom Inc.
-131616 # Chief Telecom Inc.
+131617 # CENTROID
 131620 # SERVCOMPUTING INC
 131628 # Tai-Fu Cloud Co., Ltd.
 131632 # GMI Cloud Phoenix LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)
 131633 # TW Sakura Internet
 131637 # FastCould
+131670 # WELL POWER Tech. Corp.
 131675 # GMI Computing International LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)
 131676 # GMI Computing International LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)
 131678 # Sky Digital Co., Ltd.
@@ -5467,8 +5496,6 @@
 131755 # PT Axarva Media Teknologi
 131756 # PT. Indo Web Media
 131759 # PT. Web Data Solusindo
-131828 # KAKAO Enterprise
-131865 # stibee
 131866 # Digital Edge Korea
 131894 # UNIADEX, LTD.
 131909 # OCC Co., Ltd.
@@ -5585,6 +5612,7 @@
 132954 # NXTR DATA LIMITED
 132966 # Impulse Web Hosting
 132969 # Web Werks India Pvt. Ltd.
+132983 # Real Time Data Services Pvt Ltd
 133023 # Virtualplatform Pty Ltd
 133033 # Dragon Spirit Investments International Co., Limited
 133034 # Virtual American Companies (BD) Limited
@@ -5612,6 +5640,7 @@
 133215 # Dedicated Servers Australia
 133217 # BACHBLUE PTY LTD T/A AFOYI
 133219 # NewMedia Express Pte Ltd
+133221 # HOSTMIDITECH LLP
 133295 # Web Werks India Pvt Ltd
 133296 # Web Werks India Pvt. Ltd.
 133314 # Bubble Server LLP
@@ -5625,7 +5654,6 @@
 133441 # CloudITIDC Global
 133447 # Crunch Co Pty Ltd
 133449 # VASTSPACE PTE. LTD.
-133453 # Mogul Service LLC
 133458 # FPT Smart Cloud Japan Co., Ltd
 133460 # Phantom Company Limited
 133478 # Tencent Cloud Computing (Beijing) Co., Ltd
@@ -5806,6 +5834,7 @@
 134830 # Host Universal Pty Ltd (Business Connections)
 134833 # 24.HK BGP FAST GLOBAL
 134847 # REDtone Data Centre Sdn. Bhd.
+134856 # VD NETWORKS INDIA PVT LTD
 134926 # Micro Hosting Private Limited
 134930 # HOSTING SERVER SOLUTIONS
 134954 # Vital Data Ltd
@@ -5952,6 +5981,7 @@
 136253 # Cloud Discovery HK LTD
 136258 # BrainStorm Network, Inc
 136274 # Cloud Servers Pvt Ltd
+136337 # WEBBERSTOP INDIA PRIVATE LIMITED
 136382 # ColoCloud
 136387 # Deepidc technology international co.,limted
 136396 # HOSTOMEGA
@@ -6096,8 +6126,11 @@
 137766 # Yangzhou safety and speedly Network Technology CO.,Ltd.
 137768 # Algoblu Ltd.
 137771 # Zhejiang Liangliang Cloud Network Technology Co., Ltd
+137784 # YBY Technology (Shanghai) Co., Ltd.
+137785 # YBY Technology (Shanghai) Co., Ltd.
 137789 # CN Care Cyber Cloud Ltd.
 137795 # Hangzhou Sulian Information Technology Co.,ltd
+137796 # Beijing Zhongyunkunpin Communication technology co. LTD.
 137801 # AIPO Cloud (Guizhou) Technology Co., Ltd.
 137813 # LeanCloud
 137816 # Cloud Net Technologies Limited
@@ -6219,8 +6252,9 @@
 139095 # Dian ke yun (Beijing) Technology Co., Ltd.
 139096 # Dian ke yun (Beijing) Technology Co., Ltd.
 139102 # Henan Blue Shield Big Data Information Technology Co., Ltd..
+139112 # Shanghai Qnet Networking Technology Co.,Ltd
 139115 # Guangtongtianxia Network Technology Limited Company
-139123 # Changnuo Network Technology (Shanghai) Co., Ltd
+139118 # Shanghai Rugu Info&Tech Co.,Ltd.
 139124 # Huawei Cloud Computing Technologies Co., Ltd.
 139125 # Shenzhen Oceanblue Cloud Technology Co. LTD
 139126 # JIANGSU CLOUD WORKS INFORMATION TECHNOLOGY CO.LTD.
@@ -6452,6 +6486,7 @@
 141444 # Wicked Networks Limited
 141518 # SUBHOSTING INNOVATIONS PRIVATE LIMITED
 141584 # PT Jetorbit Teknologi Indonesia
+141593 # PT Herza Intermedia Nusantara
 141679 # China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
 141687 # Distributed Storage Solutions Ltd
 141700 # CLOUD NINE COMMUNICATIONS PTY LTD
@@ -6467,6 +6502,7 @@
 141829 # KEEP SECURE CLOUD SERVICES PVT LTD
 141839 # DiskLayer Private limited
 141881 # Cloudconnect Communications Private Limited
+141894 # PT Byakta Digital Ekosistem
 141897 # PT Ekagrata Data Gemilang
 141947 # PT Loveika Host Nusantara
 141968 # PT Industri Kreatif Digital
@@ -6488,6 +6524,7 @@
 142148 # Casbay LLC
 142166 # PT Hyperscale Data Network
 142169 # HIRDHAV TECHNOLOGIES PVT LTD
+142170 # PT Satu Data Indonesia
 142174 # Shanghai Heng Yi Network Technology Co.,Ltd
 142179 # Indus Cloud Private Limited
 142185 # AviraHost
@@ -6507,6 +6544,7 @@
 142379 # PT. INDONESIA SUPER CORRIDOR - DATA CENTER
 142403 # YISU CLOUD LTD
 142409 # DigitalEdgeDC
+142427 # PT INTRADATA ANUGERAH BANUA
 142430 # DIGI VPS
 142431 # Host Bangla
 142433 # DATAWAVE GLOBAL LLC
@@ -6535,14 +6573,15 @@
 146750 # Wuxiang Cloud Valley Co., Ltd
 146751 # Wuxiang Cloud Valley Co., Ltd
 146767 # Shanghai Xinsai Cloud Computing Technology Co., LTD
-146778 # Beijing BG-SUGON Big Data Co.,Ltd
+146779 # Tianjin SmartBC Network Technology Co., Ltd
 146781 # Beijing Sankuai Cloud Computing Co.,Ltd.
 146785 # Sichuan Mengniao Cloud Computing Co., Ltd
+146787 # Hengyang Jiangwan Network Technology Co., Ltd.
 146791 # Beijing Kingsoft Cloud Internet Technology Co., Ltd
 146794 # Zhejing Yitian cloud Information Technology Co., Ltd
-146797 # Beijing micro network cohesionnetwork science and technologylimited company
 146806 # Beijing Yunlian Interactive Technology Co., Ltd.
 146807 # Shanghai Data Center Science Co., Ltd
+146809 # Jiangsu Anfutong Information Technology Co., Ltd
 146811 # Beijing Beiqing Cloud Technology Co., Ltd.
 146819 # TianHe Computer Technology Limited Company In TianJin
 146822 # Shenzhenshi Zhongyun Shujujishu Youxiangongsi
@@ -6554,10 +6593,12 @@
 146840 # Hefei City Cloud Data Center Co., Ltd
 146841 # Tianjin GiantDC Data Technology Co.Ltd
 146842 # ChinaDataCom Corporation Limited
+146845 # Shanghai Longjing Information Technology Co., Ltd
 146874 # INFYNIX DATA SERVICES PRIVATE LIMITED
 146878 # CLOUDTECHTIQ ENTERPRISES PRIVATE LIMITED
 146897 # Vertoz Limited
 146930 # DEEPCLOUD PRIVATE LIMITED
+146940 # Natsav
 146943 # Tier 4 Cloud Services
 146952 # INSTART TECHNOLOGY CO., LIMITED
 146958 # MonoCloud Pty Ltd
@@ -6724,7 +6765,6 @@
 150368 # SERVER-G Group
 150370 # Beijing WuYuYunLian Network Technology Co., Ltd.
 150374 # Jiang Men Shi Tian Da Cloud Co. Ltd
-150390 # Visual Softs
 150393 # LAYER WEBHOST (PVT.) LIMITED
 150396 # Philippines Cloud Exchange Inc
 150413 # Huang Weilong
@@ -6750,11 +6790,8 @@
 150723 # Mega Limited
 150733 # RING WEB HOST
 150753 # Pioneer Services Limited
-150756 # Floppy Ltd.
-150763 # Chief Telecom Inc.
-150765 # Chief Telecom Inc.
+150757 # Floppy Ltd.
 150768 # Cloud Walker Co., Ltd.
-150769 # Digital Explorer Technology
 150777 # Siffat Host
 150810 # AT&T TAO Cloud Access Node
 150818 # HYPERCORE TECHNOLOGY JOINT STOCK COMPANY
@@ -6836,25 +6873,35 @@
 151217 # Sihe Cloud (Shanghai) Technology Co., Ltd.
 151218 # Sichuan Sihe High-Tech Data Technology Co., Ltd.
 151219 # Jiaxing Sihe cloud computing Technology Co., LTD
+151220 # Zhejiang Guiyu Technology Co., Ltd.
 151225 # Nanchang Guangguang Data Technology Co., Ltd
 151226 # Beijing kucloud wisdomain Network Technology Co., Ltd
 151227 # Chengdu Anke Network Technology Co., Ltd.
+151235 # Beijing QiTeng Network Technology Co., Ltd
+151239 # FLEDGE NETWORKS LIMITED
 151241 # Qingdao YingDao Network Technology Co., Ltd.
 151245 # Shanghai Yuelungu Network Technology Co., Ltd
+151246 # Guangzhou Shenbo Information Technology Co., LTD
+151248 # Saiyu Technology (Beijing) Co., Ltd.
+151249 # Saiyu Technology (Beijing) Co., Ltd.
 151250 # Shanghai Enqing Information Technology Co., Ltd
 151251 # Chengdu Qianzhiyunfu Technology Co., Ltd.
 151253 # Beijing Sanwang Fusion Technology Co., Ltd
 151255 # Chengdu ZhiYunShiJie Technology Co., Ltd
 151256 # Chengdu ZhiYunShiJie Technology Co., Ltd
 151259 # Hubei Guoxin Intelligent Computing Technology Co., Ltd.
+151260 # TingYun Network Technology(Beijing)Co, Ltd.
 151261 # Sichuan Xiaocong Cloud Supercomputing Technology Co., Ltd
 151262 # Xingjielian Corporation,Ltd
 151264 # SHENZHEN QIYUE STAR TECHNOLOGY CO.,
+151265 # Beijing Electronic Digital & Intelligence Co., Ltd.
 151270 # Sichuan Xiaoteyun Technology Co., Ltd
 151271 # Shaanxi Security Cloud Network Technology Limited
 151274 # Suzhou Raiyi Information Technology CO.,LTD
 151280 # Jiangsu Lanyiyun Computing Technology Co. , Ltd
 151283 # Suzhou Bountech Information Technology CO.,LTD
+151292 # CEEC GREEN DIGITAL TECHNOLOGY (QINGYANG) CO, LTD.
+151294 # Yunxu Huayao Information Tcehnlolgy(Beijing)Co.Ltd
 151295 # Jiangsu Yinsuyun Network Technology Co. , Ltd.
 151302 # Hebei Sea Whale Technology Co. Ltd.
 151309 # Beijing Changxin Edge Cloud Computing Co., Ltd
@@ -6975,9 +7022,9 @@
 152174 # EQUINIX MALAYSIA ENTERPRISES SDN. BHD.
 152188 # Equinix Fabric - Kuala Lumpur
 152194 # CTG Server Limited
-152202 # NCAX
 152231 # Quantil, Inc. Korea
 152232 # kt cloud Co., Ltd
+152281 # SHARE.DEV Co., Ltd.
 152291 # NHNCLOUD
 152301 # DAUN PENH DATA CENTER CO., LTD.
 152320 # GOALNOW NETWORK TECHNOLOGY CO., LIMITED
@@ -6987,7 +7034,6 @@
 152338 # National Data Center
 152339 # EDGE CLOUD (SG) PTE. LTD.
 152351 # PT. MITRA SINERGI JAYAABADI
-152361 # PT Trisari Data Indonesia
 152433 # CV Klik Server Indonesia
 152450 # ChangLian Network Technology Co., Limited
 152454 # SERVERNEXA CLOUDTECH PRIVATE LIMITED
@@ -6998,6 +7044,7 @@
 152541 # SKE CLOUD PRIVATE LIMITED
 152561 # ICSDC CONSULTANTS LLP
 152565 # JOY SERVICES
+152568 # 99RPM WEB PRIVATE LIMITED
 152586 # Kuroit
 152587 # DE-CIX Jakarta MAPS Router Servers
 152600 # ResetData Pty Ltd
@@ -7108,7 +7155,6 @@
 153056 # Dedicated Freight Corridor Corporation of India Limited
 153071 # PT Cloudlink Ardtech Indonesia
 153133 # PT Rumah Data Kita
-153161 # PT Indie Data Nusantara
 153164 # ASIA CLOUD HOSTING
 153169 # BengalCloud
 153173 # Information Technology Consultants Limited
@@ -7173,7 +7219,6 @@
 153447 # 360 Technology and Services Company Limited
 153457 # VIEWCLOUD NETWORK LIMITED
 153458 # Haruzakura Cloud
-153461 # Digital Layer Co., Ltd.
 153473 # FLEXHOSTING SERVICES
 153474 # HIGH FREQUENCY TRADING NETWORK PTE. LTD.
 153475 # Mark Anthony Constable for Spiderweb Cloud and
@@ -7236,6 +7281,7 @@
 153907 # WTTYUN COMPUTE LIMITED
 153911 # DuoTu Cloud
 153913 # Check Point Software Technologies India PVT LTD.
+153950 # ICSDC PRIVATE LIMITED
 153958 # WEB SERVER COMPANY LIMITED
 153974 # EDGE CLOUD (THAILAND) COMPANY LIMITED
 153976 # Le Vu Technology Infrastructure Services Company Limited
@@ -7276,7 +7322,6 @@
 154214 # Outscale SAS
 154215 # Bytedc Solutions Co., Ltd
 154221 # VCENTRICLOUD SERVICES
-154222 # PT BIT ASIA TECHNOLOGY
 154245 # HOSTING SAFARI PVT LTD
 154247 # MCO HA NOI TECHNOLOGY COMPANY LIMITED
 154251 # TIM Nextgen DC Corporation
@@ -7302,7 +7347,6 @@
 154373 # Singapore Data Cloud Pte Ltd
 154375 # BRICKS DATA CENTER PRIVATE LIMITED
 154376 # Cloudvalley Sdn. Bhd.
-154380 # i2k2 Networks Pvt Ltd
 154381 # CLOUDFOREST CO.,LTD
 154395 # Rackdog LLC
 154402 # Fredyun Network
@@ -7333,15 +7377,18 @@
 154609 # MS Retail
 154610 # IDA Business Consulting Sdn. Bhd.
 154612 # Bengalcloud International
+154615 # UBITECH ASIA LIMITED
 154632 # Spidernet Cloud Solutions
 154633 # Sparrowhost Technologies Private Limited
 154648 # TermRat Network Limited
+154651 # PT Sarang Data Nusantara
 154671 # Nur Host
 154696 # Andcloud Limited
 154701 # Capitalonline Data Service (HK) Co., Limited
 154718 # Bengalcloud International
 154724 # DNS GLOBAL TECHNOLOGY LIMITED
 154752 # Hmb Technology Private Limited
+154766 # PT RODA DATA INFRASTRUKTUR
 154773 # PT Payo Web Solutions
 154779 # PT Datakom Padma Jaya
 154781 # VSIS AP Company Limited
@@ -7349,6 +7396,7 @@
 154784 # SB Secure Data centers India Private Limited
 154796 # Metaname
 154805 # Buildermonkey Web Services Private Limited
+154817 # PT Inti Data Optima
 154820 # Bzhosting
 154821 # Elite EV Perth Pty Ltd
 154823 # One Cloud Next-Gen Co., Ltd
@@ -7372,6 +7420,7 @@
 155014 # HOSTPEPPY PRIVATE LIMITED
 155019 # ST Dynamo DC Sdn Bhd
 155029 # HostHatch Korea
+155044 # PT Grya Data Indonesia
 196645 # HOSTPRO LAB LLC
 196646 # Datum Datacentres Limited
 196653 # BEST-NET s.r.o.
@@ -8696,6 +8745,7 @@
 205602 # Seamus Caveney
 205613 # Exeplay d.o.o.
 205617 # P. van den Belt trading as "QSIT" V.O.F.
+205621 # Zentria OU
 205631 # Your Hosting B.V.
 205644 # Switch Datacenters Amsterdam 6 B.V.
 205655 # Zodoms International LLC
@@ -9147,6 +9197,7 @@
 208725 # Devrandom.be BV
 208728 # Schuberg Philis B.V.
 208741 # 60 North ApS
+208743 # Templass
 208744 # UGT LLC
 208760 # Fortlax AB
 208763 # Alexander Becker trading as Bitflow Development
@@ -10478,6 +10529,8 @@
 216444 # UAB "Cherry Servers"
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
+218231 # Fehmi Bora Simsek
+218239 # AntiDDoS Networks LTD
 218243 # Dominik Andreas Jetten trading as EpicJump Systems
 218244 # MasterVM Europe L.L.C
 218246 # Vladislav Fedin
@@ -10632,6 +10685,7 @@
 218840 # Maslov Maksim Valerievich
 218841 # Datalix GmbH
 218842 # Seibert Group GmbH
+218846 # DUNDNS LIMITED
 218851 # HOSTON-SRL
 218856 # TeraCloudz d.o.o.
 218858 # EvoScale Company Limited
@@ -10688,6 +10742,7 @@
 219084 # Belce Taylan
 219087 # Hostup AB
 219089 # M-Cloud LLC
+219094 # William McDade
 219095 # Paul Sagov
 219096 # HOSDEX LLC
 219097 # Fanth sp. z o.o.
@@ -12389,3 +12444,4 @@
 403147 # UG Imports LLC
 403148 # WawaCloud Inc.
 403150 # 1Legion
+403152 # Acorn Data Solutions Inc.

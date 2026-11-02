@@ -844,7 +844,6 @@
 3548 # Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional
 3551 # Universidad Tecnologica de Panama
 3582 # University of Oregon
-3583 # BPP Teknologi Networks Manager
 3586 # University of the West Indies
 3591 # Emory University
 3592 # Trinity College
@@ -1267,6 +1266,7 @@
 9475 # Walailak University
 9486 # King Mongkut's Institute of Technology Ladkrabang
 9488 # Seoul National University
+9489 # Korea Aerospace Research Institute
 9504 # Darkness Reigns (Holding) B.V.
 9517 # Brisbane Catholic Education
 9521 # Korea Automotive Technology Institute
@@ -1334,7 +1334,6 @@
 10046 # HOWON UNIVERSITY
 10052 # Kyungpook National University
 10053 # yeonsung University
-10058 # NACUFOK
 10060 # YONSEI UNIVERSITY HEALTH SYSTEM
 10062 # Branksome Hall Asia
 10070 # KRISS SubDAEJONnetworks connected to backbone
@@ -1351,6 +1350,7 @@
 10159 # Korea Aerospace University
 10176 # Daejon Metropolitan Office of Education
 10180 # Duksung Womens University
+10187 # Korea Information Society Developement Institute
 10188 # Songdo Chadwick international School
 10190 # Joongbu University
 10197 # Chonnam National University
@@ -1839,7 +1839,6 @@
 17575 # Chung-Ang University
 17578 # CHEJU HALLA UNIVERSITY
 17579 # KISTI
-17587 # HANSOL GYOYOOK
 17603 # Kum oh National University of Technology (KNUT)
 17609 # Silla Univ
 17614 # Geumgang University
@@ -2019,6 +2018,7 @@
 19611 # Associação Antônio Vieira - Unisinos
 19616 # ACCESS
 19673 # LAKE FOREST COLLEGE
+19705 # NextEd Limited
 19718 # MCNC
 19737 # Royal Military College of Canada
 19742 # Fairfield-Suisun Unified School District
@@ -3076,7 +3076,6 @@
 38104 # Hyejeon University
 38105 # SOON CHUN HYANG UNIVERSITY
 38110 # Chungwoon University
-38113 # KUMC
 38131 # Mokpo National Maritime University
 38142 # Universitas Airlangga
 38153 # Universitas Pelita Harapan
@@ -3321,6 +3320,7 @@
 45344 # International Islamic University Of Malaysia
 45363 # SunMoon University
 45379 # Ulsan National Institute of Science and Technology
+45393 # SFS
 45397 # KOREA ADVANCING SCHOOLS FOUNDATION
 45428 # Catholic Education Office Wollongong
 45542 # VietNam National University Ha Noi
@@ -3348,7 +3348,6 @@
 45906 # LERNET at LAOs
 45953 # CEnet
 45962 # James Cook University
-45963 # KIRAMS (Korea Institute of Radiological   Medical Sciences)
 45984 # Dongnam Institute of Radiologycal Sciences
 46012 # Induk University
 46019 # Universitas Brawijaya
@@ -3788,6 +3787,7 @@
 55586 # THE CATHOLIC UNIVERSITY OF KOREA SONGSIM
 55589 # Korea Institute of Industrial Technology
 55596 # Gachon University Gil Hospital
+55597 # National Cancer Center
 55611 # kyungmin university
 55616 # DGIST
 55618 # UNIVERSITY OF ULSAN
@@ -4459,7 +4459,6 @@
 137569 # The Corporation of the Trustees of the Roman Catholic Archdi
 137617 # Indian Institute Of Management Ahmedabad
 137706 # National University
-137749 # NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD
 137769 # Shenzhen Cyberspace Laboratory
 137770 # Shenzhen Cyberspace Laboratory
 137837 # Children's Medical Research Institute
@@ -6810,7 +6809,6 @@
 210561 # Q Misell
 210562 # WURZELLOS LLC
 210565 # Faculty of Computer Science and Engineering - Ss. Cyril and Methodius University in Skopje
-210578 # Niels Groenewegen trading as NeNet
 210583 # Khatam Academic Institute
 210594 # TURK HAVA KURUMU UNIVERSITESI
 210617 # Philipp Kern
@@ -6830,7 +6828,6 @@
 210826 # Giuseppe La Spina
 210836 # Edward Behling
 210851 # Nicolas Patouillard
-210890 # ROKR Services BV
 210915 # Dominik Pastorek
 210941 # Markus Schmelter
 210951 # Josef Miegl

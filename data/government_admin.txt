@@ -1872,10 +1872,12 @@
 9424 # Qld Dept Local Govt and Planning
 9430 # Software Technology Parks of India,Block-IV
 9455 # KERIS
-9489 # Korea Aerospace Research Institute
+9458 # Public Officials Benefit Association
+9487 # Korea Technology Finance Corporation
 9494 # National Infomation Society Agency
 9509 # Department of Employment and Workplace Relations
 9552 # Department of Human Services
+9574 # Teachers Pension
 9633 # SUDOKWON Landfill Site Management Corp
 9640 # Korea Internet Security Agency
 9642 # Korea Internet Security Agency
@@ -1884,8 +1886,6 @@
 9650 # QLD Government Business (IT)
 9665 # Hong Kong Post Office Dept.
 9683 # Seoul Facilities Corporation
-9685 # KOAT
-9693 # KFTC
 9700 # Korea Internet Security Agency
 9707 # Korea Employment Information Management Agency
 9732 # Digital Policy Office, HKSARG
@@ -1896,17 +1896,17 @@
 9807 # Data Management Centre National Bureau of Statistics of China
 9811 # Development & Research Center of State Council Net.
 9835 # Government Information Technology Services
-9847 # Korea Securities Finance Corporation
 9849 # Office of the president
+9854 # KTO
 9858 # Korea Internet Security Agency
 9860 # National Health Insurance Service
-9864 # Korea Securities Depository
 9871 # Gyeong Sang Buk-Do Office of Education
 9885 # NKN INTERNET GATEWAY NETWORK
 9893 # Cenitex
 9932 # Health Insurance Commission
 9977 # Korea Internet Security Agency
 9983 # Australian Bureau of Statistics.
+10034 # SEOUL AGRICULTURAL   MARINE PRODUCTS CORP.
 10039 # Korea Health Industry Development Institute
 10043 # Ministry of Science and ICT
 10044 # Rural Development Administration (RDA)
@@ -1922,7 +1922,6 @@
 10166 # Korea Water Resources Corporation
 10170 # The Bank of Korea
 10183 # Korea Culture Information Service Agency
-10187 # Korea Information Society Developement Institute
 10213 # Workcover Corporation
 10277 # Ministerio de Cultura y Educacion
 10299 # EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
@@ -2194,6 +2193,7 @@
 17478 # Bangkok Metropolitan Administration
 17485 # Trade and Industry Department, the Government of the Hong Kong Special Administrative Region
 17518 # Shiojiri City
+17567 # Airport Railroad Co ltd
 17574 # Seoul Metropolitan Government Computer Center
 17576 # National Research Foundation of Korea
 17580 # National Pension Service
@@ -2222,6 +2222,7 @@
 17844 # National Pension Service
 17845 # Gyeonggi Technopark
 17847 # Financial Supervisory Service
+17851 # KPETRO
 17865 # Supreme Court of Korea
 17869 # Supreme Court of Korea
 17874 # National Pension Corporation
@@ -2235,16 +2236,15 @@
 18127 # Ibaraki Prefectural Government
 18154 # Australian Trade Commission
 18162 # VICTORIAN RAIL TRACK
-18180 # Taiwan Network Information Center
 18218 # HK Science & Technology Parks Corporation
 18220 # Australian Defence Organisation
 18255 # Brisbane City Council
 18312 # Korea Asset Management COrporation
 18327 # Seoul Education Research Information Institute
-18333 # at(Korea Argo-Fisheries   Food Trade Corporation)
 18402 # NATIONAL LIBRARY BOARD
 18404 # HyderabadIX is an non-profit Internet Exchange Point in the city of Hyderabad, India.
 18409 # Bank of Thailand, Bangkok, Thailand
+18417 # Taiwan Network Information Center
 18431 # Department of Foreign Affairs and Trade
 18472 # Canadian Museum for Human Rights
 18482 # City of Raleigh
@@ -2474,6 +2474,7 @@
 23544 # City of Mission Viejo
 23553 # National IT Industry Promotion Agency
 23562 # BUSAN CITY ENVIRONMENTAL INSTALLATIONS CORP
+23568 # CycleBoat Racing Business Division
 23571 # Gangwon State Office of Education
 23579 # Seoul Metropolitan Office Of Education
 23585 # Ministry of Justice
@@ -3209,6 +3210,7 @@
 38076 # Australian Sports Commission. Bruce, ACT
 38078 # QLD Department of the Premier and Cabinet
 38079 # Public Services Commission
+38088 # KOREA EAST-WEST POWER
 38102 # SCOURTFAMILY
 38112 # Korea Housing   Urban Guarantee Corporation
 38125 # Korea Expressway Corporation
@@ -3225,6 +3227,7 @@
 38328 # Ministry of Finance
 38329 # Wellington City Council
 38334 # World Health Organization, Western Pacific Regional Office,
+38358 # 3 Fuxing Road, Beijing, China
 38388 # Korea Copyright Protection Agency
 38391 # Gyeonggi provincial gimpo office of education
 38392 # KYONGGI YANGPYEONG OFFICE OF EDUCATION
@@ -3237,7 +3240,6 @@
 38413 # Gyeonggi Do Provincial Institute for Lifelong Learning
 38415 # Guri Namyangju Office Of Education
 38418 # KOREA APPRAISAL BOARD
-38426 # KOREA RURAL ECONOMIC INSTITUTE
 38438 # Department of Communities and Justice (DCJ)
 38450 # Ministry of Infomation Communication Technology
 38470 # Department of Home Affairs
@@ -3251,6 +3253,7 @@
 38574 # LCSD, HKSARG
 38603 # LCSD, HKSARG
 38626 # NEW ZEALAND INSTITUTE FOR PUBLIC HEALTH AND FORENSIC SCIENCE LIMITED
+38672 # KOREA HOUSING MANAGEMENT
 38682 # National Institute of Environmental Research
 38683 # National Electoin Commission
 38687 # Financial Security Institute
@@ -3521,6 +3524,7 @@
 45320 # Departemen Komunikasi dan Informasi Republik Indonesia
 45353 # NITC: IT Agency of Government of Nepal
 45377 # Jeju Special Self Governing Provincial office of Education
+45380 # MMAAC C
 45381 # Seoul Housing Communities Corporation
 45389 # Jeonbuk State office of Education Future Education Research Institute
 45394 # KERIS
@@ -3534,6 +3538,7 @@
 45480 # PO Box 805
 45503 # Legal Execution Department
 45506 # Department of Foreign Affairs and Trade
+45532 # Bangladesh Bank
 45533 # Comptroller General's Department
 45537 # C/o Cs Loxinfo Public Company Limited
 45554 # Vietnam Internet network information center (VNNIC)
@@ -3555,14 +3560,16 @@
 45837 # CITEC, Queensland Government Business,
 45870 # Lyle Williams - F3-1-70
 45900 # Department of Infomatic - The State Bank of Viet Nam
+45963 # KIRAMS (Korea Institute of Radiological   Medical Sciences)
+45971 # Financial Security Institute
 45972 # KOREA LAND AND GEOSPATIAL INFORMATIX CORPORATION
 45973 # KOTRA
 45986 # Korea Internet Security Agency
 45988 # KOREA CREDIT GUARANTEE FUND
 45990 # Health Insurance Review   Assessment Service
 45994 # incheon city
+45998 # National Medical Center
 45999 # Korea Transportation Safety Authority
-46011 # LX
 46014 # Country Fire Authority
 46017 # Badan Koordinasi Survei dan Pemetaan Nasional (BAKOSURTANAL)
 46018 # Departemen Perindustrian Republik Indonesia
@@ -3943,13 +3950,12 @@
 55580 # Moreton Bay Regional Council - Pine Rivers Office
 55584 # Korea Power Exchange
 55591 # Korea Institute for Curriculum and Evaluation
-55597 # National Cancer Center
 55598 # Korea Environmental Technology   Industry Institute
 55603 # Korea Internet Security Agency
 55604 # KOMSCO
 55609 # Financial Security Institute
-55610 # KAIT
 55613 # KOREA APPRAISAL BOARD
+55620 # KNOC
 55628 # Incheon Free Economic Zone
 55632 # Sejong City Office of Education
 55656 # Ministry of Transportation Republic of Indonesia
@@ -4095,6 +4101,7 @@
 58695 # Unicef Bangladesh,
 58716 # Penrith City Council
 58811 # CONAC (China Organizational Name Administration Center)
+59012 # China Grain Reserves Group LTD.Company
 59124 # KYOTO Prefectural Government
 59132 # Bank Indonesia
 59137 # PUSDATIN KEMHAN RI
@@ -4343,15 +4350,20 @@
 131784 # Sumber Daya Dan Perangkat Pos Dan Informatika SIMS
 131785 # Mahkamah Agung RI
 131787 # Keltron House
+131793 # Green Technology Center
+131797 # National Medical Center
 131799 # korea workers compensation welfare service
 131800 # Korea Internet Security Agency
 131804 # Seoul Regional Correction Headquarters
 131823 # korea Institute for Animal Products Quality Evaluation
+131837 # Korea Fire Safety Institute
+131839 # mmaa
 131842 # Office of the president
 131846 # GYEONGGI-DO FIRE SERVICES
 131854 # Saemangeum Development and Investment Agency
 131870 # KSPO
 131872 # IITP
+131880 # KOREA FEDERATION OF CREDIT GUARANTEE FOUNDATIONS
 131881 # National Medical Center
 131884 # Korea Internet Security Agency
 131885 # National Research Council of Science and Technology
@@ -4743,6 +4755,7 @@
 139465 # MONASH CITY COUNCIL
 139500 # Directorate General Of Training
 139501 # National Crime Records Bureau
+139546 # Institute For Design Of Electrical Measuring Instruments
 139614 # BANGKO SENTRAL NG PILIPINAS
 139666 # City of Charles Sturt
 139679 # Office of the Electoral Commission
@@ -5186,6 +5199,7 @@
 149381 # Dinas Komunikasi dan Informatika Kabupaten Tulungagung
 149384 # Dinas Komunikasi dan Informatika Kabupaten Tabalong
 149388 # Pemerintah Kota Gorontalo
+149395 # RSUD Tidar Magelang
 149402 # Diskominfo Pemerintah Kabupaten Probolinggo
 149413 # Dinas Komunikasi Informatika dan Persandian Kabupaten Bangli
 149429 # Reserve Bank of Fiji
@@ -5302,6 +5316,8 @@
 152208 # KART, KIDI
 152212 # Korea Institute of Science and Technology Evaluation and Planning
 152217 # Korea Gas Safety Corporation
+152234 # GYEONGGI TRANSPORT CORPORATION
+152275 # Korea Power Exchange
 152283 # Korea Elevator Safety Agency
 152299 # Statebank of Mongolia
 152302 # Public Transport Authority of Western Australia
@@ -5373,7 +5389,6 @@
 153932 # Pakistan Single Window
 154001 # INDIAN INSTITUTE OF LEGAL METROLOGY
 154009 # Directorate of Primary Education (DPE)
-154142 # MAHARASHTRA KNOWLEDGE CORPORATION LIMITED
 154178 # Rumah Sakit Umum Pusat Dr. Soeradji Tritonegoro Klaten
 154195 # Kementerian Pemberdayaan Perempuan Dan Perlindungan Anak
 154213 # Ministry of Interior
