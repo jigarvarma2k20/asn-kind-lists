@@ -11374,7 +11374,6 @@
 35197 # Virtual ISP s.a.l.
 35198 # TOM MEDIA SP. Z O.O.
 35199 # Enformatel Sp. z o.o.
-35200 # TransitX Ltd
 35203 # Goldenphone GmbH
 35205 # RFT Kabel Brandenburg GmbH
 35210 # ORANGE MOLDOVA S.A.
@@ -30341,6 +30340,7 @@
 152851 # RJOC Limited
 152855 # Rush Broadband
 152856 # Genex Infosys Limited
+152859 # UNIADEX, LTD.
 152863 # OKIT Corporation
 152864 # NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION
 152867 # Takaoka cable network
@@ -37490,7 +37490,6 @@
 214326 # PERGAUD Erwan
 214327 # neXat SA
 214328 # IP SERVICES Sp. zo.o.
-214329 # BGP Network LLC
 214335 # Heron Innovations Factory GmbH
 214336 # Iridium Service LLC
 214338 # Daturum AB
@@ -37706,6 +37705,7 @@
 215273 # Hexabyte AB
 215283 # MINA COMMUNICATION LTD
 215294 # Lumina broadband UAB
+215296 # Raoul Brouns is trading as LowPing NL
 215303 # Qubitbytes LTD
 215307 # Movetel LTD
 215308 # Spolek PASKOV.net
@@ -38030,7 +38030,6 @@
 218419 # Wavelength Broadband
 218422 # LLC "TUNDRA TELECOM"
 218423 # NETFACTOR ILETISIM HIZMETLERI LTD. STI.
-218426 # Renzo van Kleef
 218431 # GENEX d.o.o. za usluge i trgovinu
 218433 # "Almatel-Engineering" Limited Liability Partnership
 218434 # IE Norbekov Ilyos
@@ -51234,4 +51233,6 @@
 403140 # Bluegrass Fiber, LLC
 403151 # Intela Net LLC
 403154 # MotorCity Networks
+403158 # Tampa Bay Access Exchange LLC
+403159 # Snake River IT
 403160 # Mobilen Communications Inc

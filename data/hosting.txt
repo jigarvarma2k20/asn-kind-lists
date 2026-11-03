@@ -1039,7 +1039,6 @@
 17986 # Web Prophets Pty Ltd
 18019 # NEUTRADC
 18020 # Hostopia Australia Web Pty Ltd
-18086 # PFU LIMITED
 18120 # Gemini Software Solutions (P) Ltd. Hosting Services, India
 18138 # SAKURA Internet Inc.
 18141 # HBA
@@ -2485,6 +2484,7 @@
 35130 # REGISTER S.P.A.
 35152 # AURORA INFRASTRUCTURE EU Sp. z o.o.
 35196 # FIRST SERVER LIMITED
+35200 # TransitX Ltd
 35204 # Akamai International B.V.
 35206 # NovaTrend Services GmbH
 35207 # Stellar PCS GmbH
@@ -7080,7 +7080,6 @@
 152774 # PT Omni Data Center Indonesia
 152849 # 202301029483 (1523406-W)
 152857 # Karim Hosting Services
-152859 # UNIADEX, LTD.
 152872 # VirtualLink Networks
 152879 # PhoenixNAP LLC
 152880 # Mega Limited
@@ -10086,6 +10085,7 @@
 214320 # Sergei Saliukov
 214321 # IMAJWEB Internet Teknoloji Hiz. Ltd. Sti.
 214322 # HostAnder OU
+214329 # BGP Network LLC
 214331 # TESKE VIRTUAL SYSTEM LTDA
 214332 # Exascale Ltd
 214337 # Webmedia - Nijmegen B.V.
@@ -10645,7 +10645,6 @@
 218659 # Free VPN One Co., Limited
 218666 # Civo LTD
 218669 # CORE42 TECHNOLOGY PROJECTS LLC
-218681 # Geonwoo Kim
 218687 # Vsem Network LLC
 218689 # PT DOMPAY DIGITAL TECHNOLOGY
 218695 # CloudTiki Ltd
@@ -10742,7 +10741,6 @@
 219084 # Belce Taylan
 219087 # Hostup AB
 219089 # M-Cloud LLC
-219094 # William McDade
 219095 # Paul Sagov
 219096 # HOSDEX LLC
 219097 # Fanth sp. z o.o.
@@ -12430,7 +12428,6 @@
 403092 # HOSTRAM LLC
 403096 # Andromedacraft Hosting LLC
 403101 # IBEE
-403102 # Dreamstation Systems
 403109 # Rainproxy
 403112 # ZeroCopy, Inc.
 403114 # CleanVDS.com LLC
