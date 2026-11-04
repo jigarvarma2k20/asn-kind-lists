@@ -4136,7 +4136,7 @@
 131257 # Suratthani ratjabhat university, Thailand
 131258 # DLS
 131260 # 1985 La Salle Avenue
-131272 # Open Polytechnic
+131272 # The Open Polytechnic of New Zealand
 131281 # University of the Philippines, Visayas Cebu Campus
 131289 # University of the Philippines - Open University Los Banos Campus
 131315 # RACP

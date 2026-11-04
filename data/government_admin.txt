@@ -4298,7 +4298,6 @@
 64274 # Oregon Judicial Department
 64306 # PEMERINTAH KABUPATEN TEMANGGUNG
 64312 # Dewan Ketahanan Nasional
-65536 # Internet Assigned Numbers Authority
 131097 # KEAD
 131098 # Korea Internet Security Agency
 131099 # Korea Internet Security Agency
@@ -6202,7 +6201,6 @@
 219102 # Departement de l'Herault
 219154 # URSIV
 219256 # Kanton Zug
-219315 # Juan Kevin Fernandez Feijoo
 219373 # Gemeente Enschede
 219388 # OJSC "Certification centers, government services and development of digital programs"
 219532 # Public Works Authority - Ashghal
@@ -6656,6 +6654,7 @@
 328403 # Malawi Revenue Authority
 328420 # Bank of Zambia
 328421 # National Information Center (NIC)
+328432 # NORTH STAR INTERNATIONAL
 328435 # Economic & Strategic Research Center
 328448 # La Direction générale des impôts
 328454 # Bank of Ghana

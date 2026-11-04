@@ -2860,6 +2860,7 @@
 8612 # Smeraldo S.p.A.
 8613 # Wavenet Limited
 8615 # "Central Telegraph" Public Joint-stock Company
+8622 # TEAM BLUE INTERNET SERVICES UK LIMITED
 8629 # Moscow Center of New Telecommunication Technologies JSC
 8632 # Luxembourg Online S.A.
 8636 # MAXnet Systems Ltd.
@@ -9687,6 +9688,7 @@
 29267 # Quest Communication SRL
 29270 # Triskel srl
 29276 # Telekom Slovenije, d.d.
+29278 # Rackhost Zrt.
 29283 # Hub One SA
 29285 # PJSC Moscow city telephone network
 29286 # SKYLOGIC S.P.A.
@@ -10003,6 +10005,7 @@
 30482 # Beaver TV Inc.
 30490 # Ethr.Net LLC
 30497 # Global Telecom Brokers
+30500 # Wolfpaw Data Centres Inc
 30507 # Gold Line Telemanagement,  Inc.
 30513 # DYNAMIC INTERNET
 30514 # Magenta Networks Inc.
@@ -12609,6 +12612,7 @@
 38716 # DC West Pty. Ltd.
 38726 # VTC DIGICOM
 38729 # Kien Cuong International JSC
+38731 # Vietel - CHT Compamy Ltd
 38732 # CMC Telecom Infrastructure Company
 38733 # CMC Telecom Infrastructure Company
 38738 # L.C.S Company.,ltd
@@ -16293,7 +16297,6 @@
 48978 # Orbitel LLC
 48980 # Pure Line Co. For Telecommunications & Internet Ltd.
 48981 # Pawel Zamaro trading as Netadmin Support
-48986 # DiState Ltd.
 48989 # Cluster LLC
 48994 # Open Infra ISP Production International AB
 48995 # IE Gilaskhanov Said Visirpashaevich
@@ -16358,7 +16361,7 @@
 49128 # Joint Stock Company TransTeleCom
 49129 # LTD CGC Co
 49131 # PE Voloschenko Olexandr Volodumirovich
-49136 # Telecommunication networks Ltd
+49136 # Telenet Ltd.
 49139 # PE Prujmak Olexandr Olegovich
 49140 # Hals-Development LLC
 49144 # PJSC "Vimpelcom"
@@ -16568,7 +16571,7 @@
 49587 # JSA Group LLC
 49588 # SDS-Vostok Ltd.
 49589 # FOP Abashin Andrew Aleksandrovich
-49590 # TRENDNET d.o.o.
+49590 # IN.SIST d.o.o.
 49594 # Altitude Infrastructure Exploitation SAS
 49596 # Fara Negar Pardaz Noor Khuzestan Co.JSP
 49597 # EURO.NET SRLS
@@ -16962,7 +16965,6 @@
 50509 # Transroute Telecom LTD
 50512 # JSC "ER-Telecom Holding"
 50516 # Maxiplace Ltd.
-50519 # SSP Ltd.
 50521 # Tele2 Sverige AB
 50522 # Sewan Nederland B.V.
 50529 # FreeNet L.L.C-FZ
@@ -20568,7 +20570,7 @@
 60124 # LLC NTT
 60130 # Nexthop AS
 60132 # Zoreole
-60133 # AIT IT AB
+60133 # Kleri Sverige AB
 60134 # Cesar Maffini Martin
 60137 # Internet BlueNET doo Cacak
 60138 # Naroon Intelligent Communications LTD.
@@ -22303,6 +22305,7 @@
 131583 # WIZwireless Limited
 131584 # Taiwan Intelligent Fiber Optic Network Co.,Ltd.
 131585 # PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD
+131586 # New Century InfoComm Tech Co., Ltd.
 131592 # TWT Communication Inc.
 131594 # Asia Pacific On-Line Service Inc.
 131596 # TBC
@@ -22952,7 +22955,6 @@
 133160 # AMS-IX
 133161 # MBIT Technologies Pty Ltd
 133164 # Viewqwest Digital Sdn. Bhd.
-133173 # DGIT Systems
 133174 # Neda Telecommunications
 133175 # OZtell
 133177 # OpenWaveX LLC
@@ -26816,7 +26818,7 @@
 140715 # KF Network Limited Corp.
 140721 # Fiber Connect (Private) Limited
 140726 # UNICOM AnHui province network
-140728 # Quantum Voice and Data
+140728 # Leaptel
 140732 # KK Networks (Pvt) Ltd.
 140740 # HA CUONG TRADING INVESTMENT COMPANY LIMITED
 140745 # VINTEK VIET NAM TECHNOLOGY TELECOM COMPANY LIMITED
@@ -27147,7 +27149,6 @@
 141389 # GOIP Telecom (Asia Pacific) Pte. Ltd.
 141391 # BIDA Fiber
 141393 # Roshni Broadband Network
-141394 # Kingviews Solutions (Hong Kong) Limited
 141395 # NETELASTIC TECHNOLOGIES (PRIVATE) LIMITED
 141396 # Arrange BD
 141397 # BitWave Networks Pty Ltd
@@ -29063,6 +29064,7 @@
 150361 # NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION
 150362 # Mamireimu Net Work's
 150363 # SoftEther Corporation
+150364 # BBIX, Inc.
 150365 # LifeLink Co.,Ltd
 150369 # TelHi Corporation
 150371 # Pace Telecom and Brodcasting Private Limited
@@ -31522,7 +31524,7 @@
 155061 # Qbify Technologies Ltd
 155063 # DISHAWAVES INFRANET PRIVATE LIMITED
 155064 # OMNET SMARTLINK SERVICES PRIVATE LIMITED
-155065 # PT Laguna Cipta Persasda
+155065 # PT Laguna Cipta Persada
 155066 # PT Jaringan Internet Anak Negeri
 155067 # PT TULUS TELEKOMUNIKASI RAYA
 155068 # PT Gugik Digital Indonesia
@@ -32382,7 +32384,6 @@
 198974 # Siberian Internet Company LLC
 198975 # Przedsiebiorstwo Produkcyjno-Handlowo-Uslugowe "MAT-SAT" telecom Tomasz Olech
 198977 # UnArtel s.r.o.
-198979 # Nicolae Razvan Stanescu
 198982 # INSOFT.NET Tomasz Malarczuk
 198984 # BIALNET SP. Z O.O.
 198985 # AQUILENET
@@ -32467,7 +32468,6 @@
 199270 # HASHIKMA NGN International Communications 015LTD
 199276 # Tele.Co.Albania SHPK
 199281 # Asociacion de Consumidores y Usuarios de Informacion (ASUI)
-199282 # Sofia Lan EOOD
 199283 # STRUCTURED COMMUNICATIONS LIMITED
 199284 # Thueringer Netkom GmbH
 199286 # Abtec Network Systems LTD
@@ -32570,7 +32570,6 @@
 199534 # Interfiber Ltd
 199536 # Angelastri Giuseppe trading as TechDigital
 199546 # Moscomnet LLC
-199547 # NETandWORK s.r.l.
 199548 # UrSolutions Ltd
 199549 # 108 TELECOM LLC
 199551 # Multiplay Sp. z o.o.
@@ -34380,7 +34379,7 @@
 204795 # Marco Accardo
 204797 # Jamitel sp. z o.o.
 204798 # Max Link Company Ltd
-204802 # FREEDOM NETWORK
+204802 # Freedom Network SARL
 204804 # Meganet LLP
 204805 # Voiped Wholesale BV
 204807 # Lite Info LLC
@@ -36055,7 +36054,7 @@
 209565 # Shanghai Candy Rectangle Technology Co., Ltd.
 209566 # Stichting NBIP-NaWas
 209572 # Alessio Sassone trading as Computer System
-209573 # Arcus IT Managed Services B.V.
+209573 # Onited Property B.V.
 209578 # Sveanet AB
 209580 # VOLYN OPTICAL NETWORKS LLC
 209581 # Xarxes Esteses de Comunicacions SL
@@ -36178,7 +36177,7 @@
 209923 # GRUPO INFORMATICA PACO SECILLA SL
 209926 # SkyStream Ltd.
 209927 # LLC "Internet Service"
-209928 # XEFI LYON SAS
+209928 # ANGELINKS SAS
 209931 # Virair Limited
 209937 # Kub-Telecom Ltd.
 209938 # Moy Telecom LLC
@@ -36486,7 +36485,6 @@
 210863 # Velartis GmbH
 210868 # Limited Liability Company "R-Business Svyaz"
 210869 # GLC NETCOM S.R.L
-210870 # NETJETT LTD
 210874 # Box Broadband Limited
 210875 # WIINET S.R.L.
 210882 # Tim Zuidema trading as TiZu
@@ -37705,7 +37703,6 @@
 215273 # Hexabyte AB
 215283 # MINA COMMUNICATION LTD
 215294 # Lumina broadband UAB
-215296 # Raoul Brouns is trading as LowPing NL
 215303 # Qubitbytes LTD
 215307 # Movetel LTD
 215308 # Spolek PASKOV.net
@@ -38000,6 +37997,7 @@
 216468 # Lemon IP group d.o.o.
 216472 # High Speed For Internet Services L.L.C
 216475 # NKtelecom INC
+218229 # Plassmann Beteiligungs- und Verwaltungs UG (haftungsbeschraenkt) trading as g3 NetworX UG (haftungsbeschraenkt) & Co. KG
 218237 # Kapital Telecom LLC
 218238 # ENERTELCO TELEKOM BILISIM VE INTERNET HIZMETLERI TICARET LIMITED SIRKETI
 218257 # Telekom Servis LLC
@@ -48245,7 +48243,6 @@
 328426 # Zonke Wifi Private Company
 328427 # AirLink Broadband Limited
 328431 # Connected Space cc
-328432 # NORTH STAR INTERNATIONAL
 328434 # Netovate (PTY) LTD
 328436 # Flashnet Technologies Limited
 328437 # Link-Up Wireless Pty Ltd

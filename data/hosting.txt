@@ -332,7 +332,6 @@
 8523 # Orange Business Digital Sweden AB
 8545 # Equinix (Poland) Sp. z o.o.
 8560 # IONOS SE
-8622 # TEAM BLUE INTERNET SERVICES UK LIMITED
 8624 # Equinix (Finland) Oy
 8646 # cloudinfrastack, s.r.o.
 8647 # VIRTUAL TELECOM LLC
@@ -1926,7 +1925,6 @@
 29243 # Domainkeskus Oy
 29262 # Ideal Hosting Teknoloji A.S.
 29269 # Cloud Global S.L.
-29278 # Rackhost Zrt.
 29290 # Your Hosting B.V.
 29302 # Hosting Services Inc
 29311 # Solvinity B.V.
@@ -2059,7 +2057,6 @@
 30475 # Handy Networks, LLC
 30492 # Infobunker, L.L.C.
 30496 # TierPoint, LLC
-30500 # Wolfpaw Data Centres Inc
 30502 # Hosting Consulting, Inc
 30504 # Profitability.net
 30506 # Cloud Sync Inc
@@ -2743,7 +2740,6 @@
 38700 # SMILESERV
 38719 # Dreamscape Networks Limited
 38725 # Inet software one member company limited
-38731 # Vietel - CHT Compamy Ltd
 38735 # Global Data Service Joint Stock Company
 38743 # ABTINFOSYSTEM PVT LTD - INTERNET DATA CENTER,
 38767 # PT Awan Media Semesta
@@ -3949,7 +3945,7 @@
 50922 # SHI Li Li
 50926 # AXARNET COMUNICACIONES, S.L.
 50932 # Host Europe GmbH
-50935 # INTERNATIONAL HOSTING SOLUTIONS LLP
+50935 # Iryna Oliinyk
 50939 # Space Ro SRL
 50950 # IM Level 7 SRL
 50954 # Eyona SAS
@@ -5476,7 +5472,6 @@
 131579 # Chengdu FeifanShuJu Technology Co., LTD
 131580 # CloudVsp.Inc
 131582 # QUAPE PTE LTD
-131586 # New Century InfoComm Tech Co., Ltd.
 131601 # Dynamic Computing Technology
 131605 # Inventec Besta CO.,LTD
 131609 # Yuan Cheng Co., Ltd.
@@ -9006,7 +9001,7 @@
 207408 # servinga GmbH
 207418 # CLOUD HOST TECHNOLOGY LLC
 207429 # Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S
-207449 # Hostinity
+207449 # LEBREUILLY Jeremy trading as Hostinity and as CORENIX
 207451 # Ales Hruska
 207461 # HOSTING INDUSTRY LIMITED
 207471 # Sokol Media LTD
@@ -9881,7 +9876,7 @@
 213316 # DLine Media LLC
 213323 # ZMC MAR GRAPHIC DESIGN SRL-D
 213344 # FLAME HOST BRASIL LTDA
-213354 # INTERNATIONAL HOSTING SOLUTIONS LLP
+213354 # Iryna Oliinyk
 213393 # Data Storage Center JSC
 213394 # Clever Cloud SAS
 213400 # xData Cloud SRL
@@ -9990,7 +9985,6 @@
 213904 # BUBA USLUGE d.o.o.
 213909 # SERVYTEC NETWORKS, S.L.U.
 213915 # HOSTES LTD
-213918 # EVO SERVERS LLC
 213924 # MOUNT10 AG
 213925 # Rabb IT Solutions GmbH
 213931 # Alaitisal Computers and Requisites Trading LLC
@@ -10287,6 +10281,7 @@
 215285 # Bonyan Sepehr Kasir PJSC
 215287 # Secure Digital Apps CO WLL
 215291 # SimplePod.ai Sp. z o.o.
+215296 # Raoul Brouns is trading as LowPing NL
 215300 # Global Layer B.V.
 215310 # UserCloud
 215311 # Regxa Company for Information Technology Ltd
@@ -10602,7 +10597,6 @@
 218517 # Dmitrijs Bolasnikovs
 218519 # Salesforge OU
 218523 # LLC CLOUD FACILITIES
-218524 # Oriol Centelles Ruiz trading as enginerIT
 218530 # Massive Maker sp. z o.o.
 218534 # Eidetic SAS
 218540 # IKT Solutions UG (haftungsbeschraenkt)
@@ -10645,6 +10639,7 @@
 218659 # Free VPN One Co., Limited
 218666 # Civo LTD
 218669 # CORE42 TECHNOLOGY PROJECTS LLC
+218681 # Geonwoo Kim
 218687 # Vsem Network LLC
 218689 # PT DOMPAY DIGITAL TECHNOLOGY
 218695 # CloudTiki Ltd
@@ -10735,6 +10730,7 @@
 219060 # Mizbani Mehr Hamin PJSC
 219064 # Akenai Products LTD
 219066 # KX712 SAS
+219067 # EggyWall
 219070 # Eximia Networks Limited
 219072 # AL MASAR AL RAQAMI COMPUTERS TRADING L.L.C
 219073 # cemil celil ozel
@@ -10797,6 +10793,7 @@
 219309 # CodeLounge Co.,Ltd.
 219312 # INFONAIR S.R.L.
 219313 # ASAO SARL
+219315 # Juan Kevin Fernandez Feijoo
 219318 # Elastichosting Ltd.
 219319 # Zertix LLC
 219321 # Devout BV
