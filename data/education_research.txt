@@ -119,7 +119,6 @@
 679 # Technische Universitat Wien
 680 # Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
 681 # University of Waikato
-683 # Argonne National Laboratory
 689 # Merit Network Inc.
 691 # University of Prince Edward Island
 693 # University of Notre Dame
@@ -823,7 +822,6 @@
 3440 # ESnet
 3441 # ESnet
 3442 # ESnet
-3443 # ESnet
 3444 # ESnet
 3445 # ESnet
 3449 # Universidad Nacional de Buenos Aires
@@ -6828,6 +6826,7 @@
 210826 # Giuseppe La Spina
 210836 # Edward Behling
 210851 # Nicolas Patouillard
+210859 # King Abdul Aziz City for Science and Technology
 210915 # Dominik Pastorek
 210941 # Markus Schmelter
 210951 # Josef Miegl
@@ -7356,9 +7355,7 @@
 266512 # FUNDACAO UNIVERSIDADE ESTADUAL DO PIAUI - FUESPI
 266589 # Sociedade de Educação Tiradentes S.A.
 266659 # UNIVERSIDAD NACIONAL DE RÍO NEGRO
-266717 # Academia Nacional de Ciencias
 266718 # Academia Nacional de Ciencias
-266719 # Academia Nacional de Ciencias
 266736 # Universidad Tecnologica de Pereira
 266737 # UNIVERSIDAD DEL CAUCA
 266848 # UNIVERSIDAD MILITAR NUEVA GRANADA
@@ -8196,3 +8193,4 @@
 403065 # PARKERCS
 403067 # Flake Networks LLC
 403121 # University of Dayton Research Institute
+403163 # Carnegie Mellon University
