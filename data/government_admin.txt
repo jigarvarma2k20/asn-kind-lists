@@ -1985,7 +1985,6 @@
 10954 # SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
 11004 # City of Golden
 11027 # Village of Menomonee Falls
-11087 # Comision Federal de Electricidad
 11109 # State of Alabama, Office of Information Technology
 11159 # Los Angeles Public Library
 11188 # LOS ANGELES COUNTY - INTERNAL SERVICESDIVISION
@@ -2133,7 +2132,7 @@
 14650 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 14677 # City of Tacoma
 14694 # Telecommunications Regulatory Commission
-14695 # City of El Reno
+14695 # El Reno Fast Connect
 14702 # Idaho National Laboratory
 14736 # City of Kansas City Missouri
 14747 # Lee County Clerk of Courts
@@ -6214,6 +6213,7 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218199 # NVBW - Nahverkehrsgesellschaft Baden-Wuerttemberg mbH
 218247 # kommunit IT-Zweckverband Schleswig-Holstein
 218260 # O'zbekiston Respublikasi Raqamli Texnologiyalar Vazirligi Huzuridagi Raqamli Hukumat Loyihalarini Boshqarish Markazi Davlat Muassasasi
 218300 # Prokuratura Krajowa
@@ -6632,6 +6632,7 @@
 274792 # Goias MP Procuradoria Geral de Justiça
 274914 # DEPARTAMENTO DEL ARAUCA
 274926 # DEPARTAMENTO DE LA GUAJIRA
+275096 # MUNICIPIO DE ARAUQUITA
 275686 # FUNDACAO MUNICIPAL DE TI E COMUNICACAO DE CANOAS
 275776 # CVM - COMISSAO DE VALORES MOBILIARIOS
 275792 # SEFAZ - SECRETARIA DE ESTADO DE FAZENDA

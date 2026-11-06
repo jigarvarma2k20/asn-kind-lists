@@ -951,6 +951,7 @@
 4690 # WIDE Project
 4697 # Nippon Telegraph and Telephone Corporation
 4717 # WIDE Project
+4718 # Cyber Kansai Project
 4730 # Osaka University
 4738 # AARNET Test
 4756 # Korea National Police University
@@ -1422,7 +1423,6 @@
 11131 # University of Maryland Baltimore County (UMBC)
 11132 # ARKANSAS SCHOOL FOR MATHEMATICS, SCIENCES & THE ARTS
 11136 # Instituto Tecnológico y de Estudios Superiores de Monterrey
-11162 # Los Nettos
 11164 # Internet2
 11200 # Regis University
 11204 # Kings Park Central School District
@@ -1754,7 +1754,6 @@
 16489 # Webster University
 16496 # Colorado State University
 16498 # LaSalle University
-16499 # Los Nettos
 16519 # University of Colorado Denver
 16549 # Papillion La Vista Community Schools
 16573 # Santa Monica Community College District
@@ -7171,6 +7170,15 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218176 # Technische Universitaet Wien
+218177 # Technische Universitaet Wien
+218178 # Technische Universitaet Wien
+218179 # Technische Universitaet Wien
+218180 # Technische Universitaet Wien
+218181 # Technische Universitaet Wien
+218182 # Technische Universitaet Wien
+218183 # Technische Universitaet Wien
+218196 # Maik Sussdorf
 218248 # Gavin Phratsachack
 218264 # Universitaet Kassel
 218274 # Fabrizio Borelli
