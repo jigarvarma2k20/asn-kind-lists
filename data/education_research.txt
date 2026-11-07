@@ -6254,6 +6254,7 @@
 197005 # Instytut Ekonomiki Rolnictwa i Gospodarki Zywnosciowej Panstwowy Instytut Badawczy
 197119 # KRENA - Kyrgyz research and education network association
 197178 # Jinwei Zhao
+197237 # Beltran Gallego Gutierrez
 197291 # Ken Marfilla
 197319 # Luca Maximilian Wannemacher
 197324 # Vladyslav Koba
@@ -6511,7 +6512,6 @@
 204179 # Lars Erik Reuterborg Larsson
 204185 # Yuchen Ma
 204186 # BILLY Remi
-204201 # European Molecular Biology Laboratory
 204235 # Nicolo Invernizzi
 204291 # Thomas McLoughlin
 204293 # TinyHomeLab Ltd
@@ -6590,7 +6590,6 @@
 205802 # Zentrum fuer Sonnenenergie- und Wasserstoff-Forschung Baden Wuerttemberg
 205816 # Elkaim Elie
 205833 # Al-mustafa International University
-205874 # Zero Byte Ltd
 205901 # Evgenii Diakov
 205909 # Phystrax Ltd
 205964 # UAB code200
@@ -7170,6 +7169,7 @@
 216430 # Nikola PHILIP-SINIBALDI
 216441 # Jakob Riepler
 216467 # Universitaet Bern
+218165 # Markus Reich
 218176 # Technische Universitaet Wien
 218177 # Technische Universitaet Wien
 218178 # Technische Universitaet Wien
@@ -7257,7 +7257,6 @@
 262441 # Fund. Vale do Taquari de Educ. e Desenvolv. Social
 262442 # Fundação Universidade de Itaúna
 262511 # Universidade Federal do Pará
-262515 # FUNDACAO JOAO PAULO II
 262533 # Universidade do Estado do Pará
 262552 # BH - TEC
 262583 # Fundação Universidade de Passo Fundo

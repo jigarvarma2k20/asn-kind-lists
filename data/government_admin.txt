@@ -2132,7 +2132,6 @@
 14650 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 14677 # City of Tacoma
 14694 # Telecommunications Regulatory Commission
-14695 # El Reno Fast Connect
 14702 # Idaho National Laboratory
 14736 # City of Kansas City Missouri
 14747 # Lee County Clerk of Courts
@@ -6213,6 +6212,7 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218185 # Communaute D'agglo De L'albigeois C2a
 218199 # NVBW - Nahverkehrsgesellschaft Baden-Wuerttemberg mbH
 218247 # kommunit IT-Zweckverband Schleswig-Holstein
 218260 # O'zbekiston Respublikasi Raqamli Texnologiyalar Vazirligi Huzuridagi Raqamli Hukumat Loyihalarini Boshqarish Markazi Davlat Muassasasi
@@ -7403,3 +7403,4 @@
 403118 # City of Antioch
 403144 # Metropolitan Emergency Services Agency
 403149 # San Joaquin Valley Unified Air Pollution Control District
+403178 # The Town of Milton

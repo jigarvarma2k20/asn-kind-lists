@@ -685,6 +685,7 @@
 13830 # PureVoltage Hosting Inc.
 13832 # Oracle Corporation
 13845 # eStruxture Data Centers Inc.
+13851 # LABATT RACKS.NET MANAGING SERVICES INC
 13878 # Scala Data Centers
 13884 # IBM Cloud
 13886 # Cloud South
@@ -2560,7 +2561,7 @@
 35829 # auth-servers, LLC
 35830 # Fast Servers (Pty) Ltd
 35831 # Vnetrix Ltd
-35873 # Move Networks, inc.
+35873 # Move Networks
 35875 # StormCloud Network (Canada) Incorporated
 35882 # Teradata Operations, Inc.
 35884 # ARK Data Centers LLC
@@ -2671,7 +2672,6 @@
 36685 # DMS
 36689 # Data Security Node Inc.
 36692 # Cisco OpenDNS, LLC
-36715 # Apogee Telecom Inc.
 36729 # Brash Concepts, Inc.
 36731 # Server Cloud Canada Inc
 36742 # Data Intensity, LLC
@@ -3023,6 +3023,7 @@
 41194 # Finnish Communication and Internet Exchange - FICIX ry
 41216 # Advania Sverige AB
 41227 # Insightometrics B.V.
+41240 # Advania Sverige AB
 41241 # Dustin NL B.V.
 41242 # Sofor Oy
 41290 # AlpineDC SA
@@ -6971,7 +6972,6 @@
 151805 # MU Cloud
 151810 # Phylaxis Korea
 151814 # Guo Chuang Xin Xing (Beijing) Technology Co Ltd
-151817 # Zappie Host LLC
 151831 # STACK Infrastructure Australia Pty Ltd
 151837 # JOYPUR COLO
 151845 # Scalewithus India
@@ -7759,7 +7759,6 @@
 199412 # ANARCHY LAB S.R.L.
 199414 # NeoProtect
 199415 # YORKHOST SAS
-199417 # Serghei Samoilov
 199419 # LIMON BILGI TEKNOLOJILERI ANONIM SIRKETI
 199425 # Individual Entrepreneur Postnikov Matvey Petrovich
 199427 # Limited Liability Company "DataHarbour"
@@ -8803,6 +8802,7 @@
 205848 # Server-Network Pohl
 205853 # virtual solution srl
 205868 # recast IT GmbH & Co. KG
+205874 # Zero Byte Ltd
 205876 # Hoasted B.V.
 205885 # Cloudnet IT Solutions Ltd
 205911 # SC ITNS.NET SRL
@@ -10338,7 +10338,6 @@
 215373 # Sabiedriba ar ierobezotu atbildibu DELSKA Latvia
 215375 # Luca Nowak
 215376 # ML Cloud Ltd
-215378 # Lunaworks Limited
 215381 # ROCKHOSTER PRIVATE LIMITED
 215384 # Hostsymbol Pte. Ltd.
 215391 # CAFER ESER
@@ -10558,6 +10557,8 @@
 216444 # UAB "Cherry Servers"
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
+218163 # encircle360 GmbH
+218192 # CableHosting B.V.
 218194 # 10GCLOUD LTD
 218197 # ESCAPE CLOUD LTD
 218207 # TOO Freedom Cloud
@@ -10652,7 +10653,6 @@
 218564 # Felix Wilhelm-Steier
 218565 # GHOST NETWORKS LTD
 218567 # AGORA CALYCE SpAS
-218568 # Shabalov Grigoriy Pavlovich
 218582 # VOLUNIA
 218583 # Anastasia Cernavska
 218584 # Sipher Ltd
@@ -10683,7 +10683,6 @@
 218666 # Civo LTD
 218669 # CORE42 TECHNOLOGY PROJECTS LLC
 218681 # Geonwoo Kim
-218687 # Vsem Network LLC
 218689 # PT DOMPAY DIGITAL TECHNOLOGY
 218695 # CloudTiki Ltd
 218699 # NexusLayer Systems LLC
@@ -10772,7 +10771,7 @@
 219060 # Mizbani Mehr Hamin PJSC
 219064 # Akenai Products LTD
 219066 # KX712 SAS
-219067 # EggyWall
+219067 # Chiara Conti
 219070 # Eximia Networks Limited
 219072 # AL MASAR AL RAQAMI COMPUTERS TRADING L.L.C
 219073 # cemil celil ozel
@@ -11528,6 +11527,7 @@
 396441 # PingHQ Holding, LLC
 396468 # Alpha Technology Group
 396473 # Merrick Mirror Hosting, Inc
+396477 # DNSnetworks Corporation
 396479 # Mailgun Technologies Inc.
 396507 # Emerald Onion
 396509 # LETSCLOUD
@@ -11786,6 +11786,7 @@
 399128 # UNMETERED
 399129 # UNMETERED
 399133 # VPS Solutions, LLC
+399140 # Red Hat LLC
 399153 # Vercara, LLC
 399156 # Vercara, LLC
 399204 # White Iron LLC
@@ -12280,6 +12281,7 @@
 402412 # Infobox Compute LLC
 402415 # Vpecedge LLC
 402418 # iKVMServer LLC
+402425 # QOREXA LABS LLC
 402429 # Raff Technologies LLC
 402432 # Obsidian LLC
 402437 # FirmVPS LLC
@@ -12459,3 +12461,5 @@
 403168 # Sun Digital Dev LLC
 403169 # GPUlayer LLC
 403170 # Reizor Hosting LLC
+403176 # Together Computer, Inc.
+403179 # Da Business LLC
