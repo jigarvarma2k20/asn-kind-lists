@@ -6243,6 +6243,7 @@
 154798 # Poltekkes Kemenkes Semarang
 154815 # University of Engineering and Technology - Vietnam National University of Hanoi
 154886 # Poltekkes Kemenkes Pontianak
+155088 # Universitas Islam Syekh-Yusuf
 196610 # DE-CIX Management GmbH
 196613 # SURF B.V.
 196621 # Matthias Cramer
@@ -7179,6 +7180,7 @@
 218182 # Technische Universitaet Wien
 218183 # Technische Universitaet Wien
 218196 # Maik Sussdorf
+218204 # Trevor Lawrence
 218248 # Gavin Phratsachack
 218264 # Universitaet Kassel
 218274 # Fabrizio Borelli

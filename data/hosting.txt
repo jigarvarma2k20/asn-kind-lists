@@ -4,7 +4,6 @@
 555 # Navisite Opco LLC
 603 # Equinix, Inc.
 607 # Revelation Network Management, Inc.
-692 # CuroTec ApS
 699 # Amazon Technologies Inc.
 807 # FORK SYSTEMS
 834 # IPXO LLC
@@ -189,6 +188,7 @@
 6098 # WebSpinners, Inc.
 6123 # Web Professionals
 6130 # American Internet Services, LLC.
+6152 # Darkness Reigns (Holding) B.V.
 6157 # SPRINT, Business Serices Group
 6169 # Kentik Technologies, Inc.
 6188 # Liquid Web, L.L.C
@@ -303,6 +303,7 @@
 8011 # MongoDB, Inc.
 8015 # US Signal Company, L.L.C.
 8028 # ProAxis Communications, Inc.
+8029 # Microserve, Inc.
 8068 # Microsoft Corporation
 8070 # Microsoft Corporation
 8075 # Microsoft Corporation
@@ -2518,7 +2519,7 @@
 35329 # Host Europe GmbH
 35336 # loadit AG
 35366 # ISPpro Internet KG
-35382 # Glesys AB
+35382 # Glesys Sweden AB
 35399 # Online50 Limited
 35409 # TUCHA Sp. z o.o.
 35415 # Webzilla B.V.
@@ -2561,7 +2562,6 @@
 35829 # auth-servers, LLC
 35830 # Fast Servers (Pty) Ltd
 35831 # Vnetrix Ltd
-35873 # Move Networks
 35875 # StormCloud Network (Canada) Incorporated
 35882 # Teradata Operations, Inc.
 35884 # ARK Data Centers LLC
@@ -3063,7 +3063,7 @@
 41671 # SERVER.UA LLC
 41684 # "1 CLOUD LAB" LLC
 41721 # Cartagon Cloud SL
-41745 # Baykov Ilya Sergeevich
+41745 # Ilia Baikov
 41747 # Cloud2 Oy
 41753 # Infracom Managed Services AB
 41760 # WEBDEV Sp. z o.o.
@@ -3162,7 +3162,7 @@
 42695 # Cleura AB
 42699 # axilaris GmbH
 42703
-42708 # Glesys AB
+42708 # Glesys Sweden AB
 42711 # LLC Skycloud
 42715 # Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH
 42724 # TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
@@ -3270,7 +3270,7 @@
 43906 # NTS Colocation AG
 43927 # HOSTERION SRL
 43945 # Mustafa Enes Akdeniz trading as OYUN CEVHERI
-43948 # Glesys AB
+43948 # Glesys Sweden AB
 43959 # xTom GmbH
 43987 # ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD
 43992 # xTom GmbH
@@ -3691,7 +3691,6 @@
 48287 # JSC "RU-CENTER"
 48289 # Dadeh Pardazan Sabz Alborz Co.(P.J.S.)
 48296 # SKYNET HOSTING SRL
-48300 # Pipe Networks LLC
 48303 # OVIS IT Consulting GmbH
 48305 # Noraina Ltd
 48314 # Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG
@@ -3724,7 +3723,7 @@
 48587 # PE Zharkov Mukola Mukolayovuch
 48596 # InterNetworX Management GmbH
 48597 # Ali Abedi
-48618 # Glesys AB
+48618 # Glesys Sweden AB
 48631 # Odine Solutions FZ-LLC
 48635 # Your Hosting B.V.
 48645 # Solvinity B.V.
@@ -3790,7 +3789,6 @@
 49130 # SysEleven GmbH
 49138 # ServedBy the Net LLC
 49162 # NetEasy LLC
-49166 # Dawico Deutschland GmbH
 49174 # PlanetCloud SA
 49187
 49192 # Openfactory GmbH
@@ -3804,7 +3802,7 @@
 49249 # Akamai International B.V.
 49258 # Domena.pl sp. z o.o.
 49276 # Zemlyaniy Dmitro Leonidovich
-49282 # Glesys AB
+49282 # Glesys Sweden AB
 49287 # Melbikomas UAB
 49297 # Cloud 9 Ltd.
 49305 # Alsycon B.V.
@@ -3900,7 +3898,7 @@
 50156 # Boxed IT Ltd.
 50166 # RTCloud, LLC
 50167 # PeaceWeb Group B.V.
-50168 # Glesys AB
+50168 # Glesys Sweden AB
 50171 # Indicate IT AB
 50193 # LoadEdge Limited
 50200 # INTERKVM HOST SRL
@@ -5112,7 +5110,7 @@
 62111 # Viacheslav Adamanov
 62119 # Root SAS
 62125 # Proact Netherlands B.V.
-62131 # Glesys AB
+62131 # Glesys Sweden AB
 62134 # IHNetworks, LLC
 62156 # HXS GmbH
 62160 # WEB3 Leaders INC
@@ -8802,7 +8800,6 @@
 205848 # Server-Network Pohl
 205853 # virtual solution srl
 205868 # recast IT GmbH & Co. KG
-205874 # Zero Byte Ltd
 205876 # Hoasted B.V.
 205885 # Cloudnet IT Solutions Ltd
 205911 # SC ITNS.NET SRL
@@ -9002,7 +8999,6 @@
 207134 # PHOENIX NAP, LLC.
 207137 # PacketHub S.A.
 207143 # hosttech GmbH
-207144 # SOFCOMPANY Ltd
 207151 # AZYLIS SARL
 207155 # Stormnet Hosting LTD
 207158 # Clouvider Limited
@@ -9225,7 +9221,7 @@
 208743 # Templass
 208744 # UGT LLC
 208760 # Fortlax AB
-208763 # Alexander Becker trading as Bitflow Development
+208763 # Converalis Engineering UG (haftungsbeschraenkt)
 208765 # Bullet Proof VPN Ltd
 208769 # Nicalia Internet, S.L.U
 208777 # LANKEY INFORMATION TECHNOLOGIES LLC
@@ -10558,6 +10554,8 @@
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
 218163 # encircle360 GmbH
+218164 # RAINY BILISIM INTERNET VE PROJECT HIZMETLERI LTD
+218168 # TORO DIJITAL TEKNOLOJI SAN. VE DIS TIC. A.S.
 218192 # CableHosting B.V.
 218194 # 10GCLOUD LTD
 218197 # ESCAPE CLOUD LTD
@@ -10771,7 +10769,6 @@
 219060 # Mizbani Mehr Hamin PJSC
 219064 # Akenai Products LTD
 219066 # KX712 SAS
-219067 # Chiara Conti
 219070 # Eximia Networks Limited
 219072 # AL MASAR AL RAQAMI COMPUTERS TRADING L.L.C
 219073 # cemil celil ozel
@@ -12463,3 +12460,6 @@
 403170 # Reizor Hosting LLC
 403176 # Together Computer, Inc.
 403179 # Da Business LLC
+403180 # Together Computer, Inc.
+403188 # HBG Inc.
+403189 # LEAPNET LLC

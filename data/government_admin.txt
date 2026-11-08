@@ -2249,7 +2249,6 @@
 17844 # National Pension Service
 17845 # Gyeonggi Technopark
 17847 # Financial Supervisory Service
-17851 # KPETRO
 17865 # Supreme Court of Korea
 17869 # Supreme Court of Korea
 17874 # National Pension Corporation
@@ -6229,7 +6228,6 @@
 218935 # Sociale Verzekeringsbank ZBO
 219028 # HayPost CJSC
 219102 # Departement de l'Herault
-219154 # URSIV
 219256 # Kanton Zug
 219373 # Gemeente Enschede
 219388 # OJSC "Certification centers, government services and development of digital programs"

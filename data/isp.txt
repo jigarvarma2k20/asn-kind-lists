@@ -46,6 +46,7 @@
 684 # Bell Canada
 685 # NTT America, Inc.
 690 # Verizon Business
+692 # CuroTec ApS
 701 # Verizon Business
 702 # Verizon Business
 703 # Verizon Business
@@ -1621,7 +1622,6 @@
 6145 # Synapsis.io
 6147 # INTEGRATEL PERÚ S.A.A.
 6151 # Allen, Bradley Ward
-6152 # Darkness Reigns (Holding) B.V.
 6153 # SPRINT, Business Serices Group
 6154 # SPRINT, Business Serices Group
 6155 # SPRINT, Business Serices Group
@@ -2585,7 +2585,6 @@
 8023 # Castles Information Network
 8025 # BrightNet Oklahoma
 8027 # Global NAPs Inc.
-8029 # Microserve, Inc.
 8030 # AT&T WorldNet
 8031 # AT&T WorldNet
 8032 # AT&T WorldNet
@@ -14733,7 +14732,7 @@
 44605 # DIGI ROMANIA S.A.
 44613 # UAB "Ogmios Centras"
 44618 # PJSC Moscow city telephone network
-44619 # OOO IT-Telecom
+44619 # JOINT-STOCK COMPANY "TELEPORT TELECOM"
 44620 # Netlen Internet Hizmetleri Ltd. Sti.
 44622 # Mifril+ LLC
 44626 # LTD BCA HOME INTERNET
@@ -15436,6 +15435,7 @@
 46769 # Telecast Communications
 46781 # NTURNET TECHNOLOGY, LLC
 46782 # Gabriels Technology Solutions, Inc.
+46783 # EASY LINK LLC
 46796 # Slappey Telephone, Inc.
 46797 # Windstream Communications LLC
 46805 # Angelnet Limited
@@ -15721,7 +15721,6 @@
 47617 # Wagner AG Informatik Dienstleistungen
 47618 # Penzenskaya Telephonnaya company closed joint-stock company
 47619 # MB Telecom-Ltd. SRL
-47620 # Tehnosoft LTD
 47624 # NETGUARD LLC
 47626 # Timer, LLC
 47627 # NIX.CZ z.s.p.o.
@@ -15989,6 +15988,7 @@
 48293 # Uniontel Ltd
 48294 # Spectrum Internet Ltd
 48299 # Digita Oy
+48300 # Pipe Networks LLC
 48302 # OOO "Telecom GKhK"
 48304 # Digmia s.r.o.
 48308 # OOO TTC
@@ -16360,6 +16360,7 @@
 49163 # Kabel-TV Amstetten GMBH
 49164 # Aramis Invest SRL
 49165 # JSC "Severen-Telecom"
+49166 # Dawico Deutschland GmbH
 49167 # ENLAYER d.o.o.
 49168 # ISP Brok-X
 49169 # SC ETA2U SRL
@@ -16710,6 +16711,7 @@
 49964 # TORNADO TELECOM S.R.L.
 49968 # FASTPATH IKE
 49971 # PrJSC Valex
+49972 # NAMAVARAN e ASR e Novin Information Technology (FANHAB) , Private Joint-Stock Co
 49974 # Bo data ApS
 49979 # LA Wireless Srl
 49984 # "Telecomunikatsiina Companiya" Ltd
@@ -19045,7 +19047,6 @@
 56489 # FLP Bogachenko Vasyl Valentinovich
 56493 # Dream Line OOO
 56494 # Etisalcom Bahrain Company W.L.L.
-56497 # Company with additional liability "New Technologies"
 56500 # BeeOne B.V.
 56503 # PJSC "Badr Rayan Jonoob"
 56512 # Asociatia Interlan
@@ -20348,7 +20349,7 @@
 59611 # INTERKAM sp. z o.o.
 59612 # Dancer LLC
 59613 # Ukrainian Backbone Networks LLC
-59616 # Baikal Teleport CJSC
+59616 # Baikal Teleport Ltd
 59617 # Andy Davidson
 59620 # Global Electronic Solutions LTD.
 59621 # Flo Networks Limited
@@ -29525,7 +29526,6 @@
 151237 # Taiyuan Cable Zhongguang Technology Developmewnt Co.Ltd
 151238 # BOCNET (BEI JING) COMMUNICATIONS LIMITED
 151242 # Zhongjing Yun (Beijing) Communication Service Co., Ltd.
-151263 # Juzhi technology co., ltd
 151276 # XI'AN UOTOCOM NETWORK TECHNOLOGY CO.,LTD
 151277 # China Broadcast Network International Co.,Ltd
 151290 # Cenvan (BeiJing) Network Technology CO.,LTD
@@ -31529,6 +31529,7 @@
 155079 # PT Nrlink Media Indonesia
 155080 # DIGIPATH COMMUNICATIONS PRIVATE LIMITED
 155082 # Liveye Private Limited
+155084 # PT Aulia Jaya Network Solusindo
 196608 # INTERNET AG Global Network
 196609 # PCS Professional Communication Systems GmbH
 196612 # GHOSTnet GmbH
@@ -34745,6 +34746,7 @@
 205871 # FISCOM Witold Tumalewicz
 205872 # EXTRANET 2010
 205873 # Daniel Zachert trading as SKYNET MULTIMEDIA
+205874 # Zero Byte Ltd
 205877 # TURUNCUNET ILETISIM SAN. ve TIC. LTD. STI.
 205879 # EKO-LINE Sp. z o.o.
 205880 # Hytron Network Services (US) LLC
@@ -35196,6 +35198,7 @@
 207140 # Sleat Community Trust
 207141 # Ertebat Gostare Nakhl Jonoob Company PJSC
 207142 # HMX Hungarian Media Exchange Kft
+207144 # SOFCOMPANY Ltd
 207146 # Netikom SRL
 207147 # Nexera SAS
 207153 # Stream-iT, s.r.o.
@@ -35481,7 +35484,6 @@
 208002 # HizliNet Teknoloji A.S.
 208003 # Tsyapa Oleg Anatolyevich
 208005 # Gostaresh Ertebat Azin Kia Company PJSC
-208010 # Danilo Campestrin trading as CAMBO di Campestrin Ottavio & C S.A.S.
 208011 # Antonio Liguori trading as ETS SISTEMI - ITALIA CONNESSIONI DI LIGUORI ANTONIO
 208012 # Hayalnet Telekomunikasyon Iletisim Ticaret Limited Sirketi
 208013 # wantech gmbh
@@ -37994,6 +37996,9 @@
 216468 # Lemon IP group d.o.o.
 216472 # High Speed For Internet Services L.L.C
 216475 # NKtelecom INC
+218159 # Protium Network LLC
+218162 # Balkan Internet Exchange Ltd
+218166 # LUXWAVE COMMUNICATIONS LLC
 218171 # LUMENWAVE WIRELESS LLC
 218172 # NORTHGATE WAVE WIRELESS LLC
 218173 # WAVE ONE NETWORKS LLC
@@ -38019,6 +38024,7 @@
 218292 # Telco Pack SA
 218305 # CoolNet, s.r.o.
 218307 # Slovix Telecom s.r.o.
+218308 # Artem Sedykh
 218317 # MDO Furuz LLC
 218320 # NORTHERN WIRELESS SERVICES LLC
 218321 # Dekkapok LLC
@@ -47296,7 +47302,6 @@
 274599 # Silva & Silva Tecnologia e Fibra Óptica LTDA
 274600 # Massa Telecomunicacoes Ltda
 274601 # IPROV TELECOM
-274602 # CONNECT PREMIUM LTDA
 274603 # FJr Telecom
 274604 # ZUMMNET LTDA
 274605 # CONECT FIBRA TELECOM
@@ -47654,7 +47659,6 @@
 275036 # AMEGOSTO S.R.L.
 275037 # CONEXTEL COLOMBIA SAS
 275038 # SPEEDWI TELECOM SRL
-275039 # BIOSSISTEMAS SA
 275040 # WISECOM GROUP INC.
 275041 # NODO PACIFICO SAS ESP
 275042 # INGENIERÍA Y TELECOMUNICACIONES CRISTIAN FELIPE ARIAS SEPÚLVEDA E.I.R.L.
@@ -47769,6 +47773,7 @@
 275659 # JDCONECT ME
 275660 # Escorpion Internet LTDA
 275661 # VIPFIBRA TELECOM
+275662 # HOW BE TECNOLOGIA E SOLUCOES LTDA
 275663 # LIVREBRAS INTERNET LTDA
 275664 # EDUARDO BEZERRA DA SILVA SERVIÇOS DE INFORMATICA
 275665 # Barranet Telecomunicações LTDA
@@ -50414,6 +50419,7 @@
 399639 # Lakeland Communications
 399642 # IDNCOM
 399643 # COOKSON HILLS CONNECT, LLC
+399645 # VNET IT INC.
 399654 # 360 Networks
 399656 # ETHX
 399660 # WWLTH, Inc
@@ -51208,7 +51214,6 @@
 402852 # TerraNet US
 402854 # Rel Comm
 402858 # Fiberwave Technologies, LLC
-402864 # SlateIT LLC.
 402912 # WE BUILD NETWORKS, INC.
 402919 # Nyallo Informatique
 402925 # Everywhere Wireless, LLC
@@ -51256,3 +51261,4 @@
 403164 # ThoughtWave Technologies, Inc.
 403165 # NORTHERN WIRELESS SERVICES LLC
 403177 # Jucode Innovations INC
+403182 # Zuma Internet, Inc
