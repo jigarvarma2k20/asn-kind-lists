@@ -8237,6 +8237,7 @@
 24689 # JSC Rosin.telekom
 24691 # TogoTelecom, Togo
 24693 # CNSYS PLC
+24697 # Saturn LLC
 24698 # NOS COMUNICACOES, S.A.
 24699 # PJSC Rostelecom
 24703 # United Networks of Ukraine Ltd
@@ -10026,6 +10027,7 @@
 30700 # OwO Network, LLC
 30705 # Voxtelesys LLC
 30708 # RAAPID Technical Services
+30709 # REVEAL SYSTEMS INC
 30712 # META Solutions
 30722 # Fastweb SpA
 30723 # Fotexnet Kft.
@@ -16797,6 +16799,7 @@
 50151 # Easterra LLC
 50153 # NET BIS SP Z O O
 50155 # Grodno Information Networks, Ltd.
+50157 # FOUNDATION FOR DEVELOPMENT OF NETWORKING TECHNOLOGIES "INDATA"
 50158 # Connect LLC
 50160 # Behin Saman Gostar Ltd.
 50161 # LLC "VELES ISP"
@@ -18608,6 +18611,7 @@
 55140 # Sho Me Technologies, LLC
 55141 # CableSouth Media III LLC
 55142 # Newbreak Management Co. LLC
+55144 # SakerLink, LLC
 55145 # ECFiber
 55148 # Strike Network Services, LLC
 55159 # Paradise Mobile Ltd.
@@ -19393,6 +19397,7 @@
 57328 # BCIX Management GmbH
 57332 # TOM-NET s.c. Dariusz Koper, Radoslaw Koper
 57333 # KaspiyTelekom Ltd.
+57334 # SPB State Unitary Enterprise "ATS Smolnogo"
 57335 # Predicted Paths BV
 57337 # VR Telecom SL
 57338 # Florian Elke
@@ -20713,7 +20718,6 @@
 60556 # LLC "Ilimskiy LTUS"
 60557 # Krik van der Vinne trading as Alpine North
 60559 # Maxfon Srl
-60561 # ITSystem LLC
 60563 # Transmitel Sp. z o.o.
 60569 # ARD Teleport LTD.
 60570 # LASOTEL SAS
@@ -20746,6 +20750,7 @@
 60635 # Voice Communication LLC
 60636 # Coolnet Communications ltd
 60641 # HEXATEL SAS
+60642 # OJSC "Trade Center Elektronika na Presny"
 60645 # AS Consulting Sp. z o. o.
 60646 # Krzysztof Sebastian Widerkiewicz trading as LutekLAN.pl
 60648 # GCI Network Solutions Limited
@@ -21491,6 +21496,7 @@
 62325 # HUNGTAK International Network Limited
 62327 # Yuriichuk Vatalii
 62328 # ANDRZEJ WISNICKI trading as AGG
+62330 # ASH Ltd
 62336 # PURtel.com GmbH
 62337 # S.C. "TELE-LUCI" S.R.L.
 62340 # Infotelecom SP Ltd.
@@ -28002,7 +28008,7 @@
 146973 # Enecom,Inc.
 146975 # NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION
 146976 # Kvision Co.,Ltd.
-146977 # Niikawa Portal Co.
+146977 # Americable International Japan, Inc.
 146978 # BBIX, Inc.
 146984 # INTERNET MULTIFEED CO.
 146985 # KISSEI COMTEC Co.,Ltd
@@ -30904,6 +30910,7 @@
 154046 # Best Net
 154051 # KRISH COMMUNICATION PVT LTD
 154052 # INTRO TELECOM PRIVATE LIMITED
+154054 # PT ANUGRAH GANETA ALVARO
 154055 # SITI VISION DIGITAL MEDIA PRIVATE LIMITED
 154056 # PT Metadata Teknovasi Nusantara
 154057 # INHOME INFOSERV PRIVATE LIMITED
@@ -31498,6 +31505,7 @@
 155028 # ICUBE INTERNET SERVICES PRIVATE LIMITED
 155031 # PT Digital Bisnis Teknologi
 155032 # PT Akses Solusindo Indonesia
+155037 # TECHMOVED
 155039 # PT Solusi Manik Sari
 155042 # FASTEDGE BROADBAND SERVICES PRIVATE LIMITED
 155043 # Neat Systems Private Limited
@@ -31505,6 +31513,7 @@
 155048 # ZAMZAMNET PRIVATE LIMITED
 155049 # PT Jati Buana Sentosa
 155050 # PT Trivara Fiber Connection
+155051 # Growthlash
 155052 # Telecom Vanuatu Limited
 155053 # Foorty Digital
 155054 # CV Muzan Solution
@@ -31522,20 +31531,26 @@
 155067 # PT TULUS TELEKOMUNIKASI RAYA
 155068 # PT Gugik Digital Indonesia
 155069 # FAB FIVE TECHNOLOGIES PRIVATE LIMITED
+155071 # AI NETWORK SOLUTIONS PRIVATE LIMITED
 155072 # PT KINARA INDONESIAN NETWORK
 155074 # PT ARFAH NETWORK INDONESIA
 155075 # PT Viriya Manggala Abadi
 155076 # Braintel Infotech Limited
+155077 # PT TOKOTA TEKNOLOGI NUSANTARA
 155079 # PT Nrlink Media Indonesia
 155080 # DIGIPATH COMMUNICATIONS PRIVATE LIMITED
 155082 # Liveye Private Limited
+155083 # PT Teradata Megah
 155084 # PT Aulia Jaya Network Solusindo
+155085 # PT INDONESIAN NETWORK MEDIA
+155086 # PT Lintas Network Akses
 196608 # INTERNET AG Global Network
 196609 # PCS Professional Communication Systems GmbH
 196612 # GHOSTnet GmbH
 196616 # regio[.NET] Holding GmbH
 196620 # Init7 (Switzerland) Ltd.
 196628 # Southern Communications Ltd
+196629 # Antipov Oleg
 196638 # JSC Promtelecom
 196640 # ASPIDER SOLUTIONS INTERNATIONAL HOLDINGS LIMITED
 196657 # Expressplus Ltd.
@@ -31845,6 +31860,7 @@
 197486 # "Uzbektelekom" Joint Stock Company
 197492 # ALSATIS SERVICES SAS
 197496 # SkyLan Sp. z o.o.
+197499 # PE Pivovar Aleksej Nikolaevich
 197503 # Sptelek Sp. z o.o.
 197504 # G-TELL Ltd
 197506 # Level7 s.r.l.
@@ -32432,6 +32448,7 @@
 199139 # Weritech B.V.
 199140 # Orange S.A.
 199143 # Indaleccius Broadcasting SL
+199146 # AT scriptum Ltd.
 199149 # Solintex Insular SLU
 199151 # MAGIS-MEDIANET Jacek Krzciuk
 199162 # Wifinetcom srl
@@ -32473,7 +32490,6 @@
 199287 # First Telecom Ltd
 199290 # INSTALACIONES Y SERVICIOS MOWITEL S.L.
 199291 # GCI Network Solutions Limited
-199293 # SPb-TV LLC
 199297 # Vyme
 199298 # Jan Stetina
 199305 # ALLTEL TELEKOMUNIKASYON A.S.
@@ -32578,6 +32594,7 @@
 199570 # fluctus GmbH
 199577 # Digimoney-SIA
 199585 # TELNET Ropczyce Sp. z o.o.
+199593 # LLC Synthesis
 199594 # Poema eXchange LLC
 199595 # GTELCOM LLC
 199596 # EL KOM - Electronic u. Kommunikationstechnik GmbH
@@ -33393,6 +33410,7 @@
 202056 # Naquadria S.R.L.
 202058 # Ekaterinburg-2000 LLC
 202065 # Alliance Global Net Ltd
+202067 # Advantex Network Solutions Ltd
 202072 # Bird B.V.
 202074 # Link Telecomunicazioni SRL
 202078 # Mix LLC
@@ -33879,6 +33897,7 @@
 203377 # Mehmet Uzunca
 203381 # Premier Data Networks LTD
 203385 # Pernix systems s.r.o.
+203387 # Telix LLC
 203388 # KPN B.V.
 203389 # TELEWIZJA KABLOWA "BART-SAT"-STOWARZYSZENIE W BARTOSZYCACH
 203392 # Ayandeh Gostar Bastak Co. (Private Joint Stock)
@@ -34483,6 +34502,7 @@
 205073 # EQUANT AG
 205074 # Robert Marek Bukowski trading as Media System
 205076 # Robi Inzhenering DOOEL
+205082 # TPnets.com Sp. z o.o.
 205085 # NET PLUS ONE Ltd.
 205086 # IUKANET SERVEIS SL
 205091 # EuroNet Internet Ltd
@@ -36960,6 +36980,7 @@
 212416 # Proximity EOOD
 212417 # MORDACCHINI SRL
 212420 # Abaila, Koop. S.Coop.
+212423 # ALITER-AXI LLC
 212426 # Hey Broadband LTD
 212432 # Zishko Alexandr
 212433 # NICTECH I.K.E.
@@ -36970,6 +36991,7 @@
 212443 # Leonet GmbH
 212444 # LLC BROSS-TELECOM
 212449 # Erate AS
+212452 # ALITER-AXI LLC
 212456 # TELECOM-OREL LLC
 212460 # SAWAD LAND for Information Technology Ltd
 212462 # Wizon Telecom, S.L.
@@ -37273,6 +37295,7 @@
 213405 # ING SERVIS d.o.o.
 213406 # Arka Ertebat Amir Kabir LLC
 213409 # Daniil Koval
+213411 # Electronic LLC
 213414 # MYNET S.R.L.
 213425 # noscito network GmbH
 213451 # CilixNet
@@ -49698,7 +49721,6 @@
 396852 # Clarity Fiber Solutions
 396853 # WorldCell Solutions, LLC
 396855 # TNC COMMUNICATIONS, INC.
-396856 # Sharon Networks, LLC
 396860 # MORnet Communications, LLC
 396872 # Advanced Internet
 396875 # Consumer Cellular Inc.
@@ -51262,3 +51284,8 @@
 403165 # NORTHERN WIRELESS SERVICES LLC
 403177 # Jucode Innovations INC
 403182 # Zuma Internet, Inc
+403195 # Mirinetwork LLC
+403196 # Virtelink LLC
+403197 # TAIPEI101 NETWORK LLC
+403198 # GPGEORGIEV ENTERPRISES INC.
+403199 # Netargent LLC

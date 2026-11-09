@@ -3388,7 +3388,6 @@
 40884 # TTC
 40959 # City and County of Denver -  Denver International Airport
 40973 # Junta de Comunidades de Castilla-La Mancha
-41036 # ZETO Lublin Sp. z o.o.
 41072 # Fabrica Nacional de Moneda y Timbre
 41092 # INSTITUTE OF TUBERCULOSIS AND LUNG DISEASES
 41094 # Provincia di Terni
@@ -4064,7 +4063,6 @@
 57201 # Estonian Defence Forces
 57275 # DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA
 57284 # Region Hauts-de-France
-57334 # SPB State Unitary Enterprise "ATS Smolnogo"
 57350 # European Maritime Safety Agency
 57366 # Islamic Republic of Iran Post PJSC
 57377 # LONDON BOROUGH OF MERTON
@@ -5456,7 +5454,6 @@
 196902 # Dudley Metropolitan Borough Council
 196971 # BEYKOZ BELEDIYESI
 197016 # Provincie Friesland
-197105 # AQUA - Sopot Sp. z o.o.
 197111 # Polska Agencja Zeglugi Powietrznej
 197136 # Ministry of Foreign Affairs
 197142 # Bankowy Fundusz Gwarancyjny
@@ -5473,7 +5470,6 @@
 197459 # Przedsiebiorstwo Panstwowe Porty Lotnicze
 197497 # OFFICE OF THE PRIME-MINISTER OF THE REPUBLIC OF ARMENIA STATE BODY
 197525 # Etablissement d'assurance contre l'incendie et les elements naturels du Canton de Vaud (ECA)
-197527 # Miejskie Przedsiebiorstwo Komunikacyjne SA w Krakowie
 197582 # State Institution National Library of Ukraine for children
 197668 # Administration of the Governor and Government of the Kirov region
 197694 # Municipal Office of the City Prague
@@ -5756,7 +5752,6 @@
 203750 # LLC "Information Technology Center"
 203768 # Energie-Control Austria fuer die Regulierung der Elektrizitaets-, Gas-und Wasserstoffwirtschaft (E-Control)
 203841 # RusAccreditation. Federal Service for accreditation
-203890 # Krakowski Park Technologiczny Sp ZOO
 203891 # GKU MO "MOC IKT"
 203940 # Kalajoen Kaupunki
 203982 # ERBIL INTERNATIONAL AIRPORT

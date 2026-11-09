@@ -107,7 +107,7 @@
 3324 # Fujitsu Technology Solutions, S.A.
 3337 # ColocationIX GmbH
 3344 # Burstfire Networks Ltd
-3361 # Digital Fortress, Inc.
+3361 # Digital Fortress
 3503 # WebNet LLC
 3507 # IPSwat LLC
 3579 # Databank, Inc.
@@ -541,7 +541,7 @@
 11728 # Harborvault
 11734 # Connectria
 11735 # ITRON INC.
-11739 # Digital Fortress, Inc.
+11739 # Digital Fortress
 11759 # Serverium Tech LLC
 11761 # kkcloud
 11762 # Pony Networks LLC
@@ -3548,7 +3548,7 @@
 47069 # USKVM LLC
 47080 # Internap Holding LLC
 47086 # 2604639 Ontario Inc
-47088 # Digital Fortress, Inc.
+47088 # Digital Fortress
 47099 # WiTopia, Inc.
 47100 # WiTopia, Inc.
 47110 # Cloud4com s.r.o.
@@ -5264,6 +5264,7 @@
 63246 # IntegraColor, Ltd.
 63252 # H5 Data Centers
 63258 # Web Hosting, Inc.
+63260 # Alyeska Inc.
 63271 # Online Datavault, LLC
 63292 # DC74 LLC
 63295 # Oracle Corporation
@@ -5679,7 +5680,6 @@
 133458 # FPT Smart Cloud Japan Co., Ltd
 133460 # Phantom Company Limited
 133478 # Tencent Cloud Computing (Beijing) Co., Ltd
-133488 # service limited
 133489 # CYPE Sdn.Bhd.
 133492 # AIYUN
 133493 # LocalDC Pty Ltd
@@ -10329,6 +10329,7 @@
 215358 # Robert Siebielski trading as Consulting Service
 215359 # Romain Neil
 215362 # Promo Plus SRL
+215365 # Tom Gewiese
 215366 # Gabor Birincsik
 215370 # Thomas Sebastiaan Viet trading as Wasabi Hosting
 215373 # Sabiedriba ar ierobezotu atbildibu DELSKA Latvia
@@ -10553,12 +10554,20 @@
 216444 # UAB "Cherry Servers"
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
+218145 # RunVee OU
+218146 # Cloudsson AB
+218152 # Geodema Group Limited
+218154 # NexGen Cloud Ltd
+218157 # HBG Inc
+218161 # Gilles Brands
 218163 # encircle360 GmbH
 218164 # RAINY BILISIM INTERNET VE PROJECT HIZMETLERI LTD
 218168 # TORO DIJITAL TEKNOLOJI SAN. VE DIS TIC. A.S.
 218192 # CableHosting B.V.
 218194 # 10GCLOUD LTD
+218195 # AIARKS TECHNOLOGY LIMITED
 218197 # ESCAPE CLOUD LTD
+218200 # HONGKONG APPMAX LIMITED
 218207 # TOO Freedom Cloud
 218210 # Matthias Plassmann
 218212 # Hosting Ltd.
@@ -10814,7 +10823,6 @@
 219250 # Civo LTD
 219252 # Kylian Schufreida-Careme
 219259 # JSC Ploshchadka ST
-219262 # Ushakov Evgeniy Andreevich
 219263 # ALLCLOUD LIMITED
 219269 # "LILI CLOUD" MCHJ
 219274 # Proaxis d.o.o.
@@ -11534,6 +11542,7 @@
 396534 # Deep Systems LLC
 396538 # Northsite Data, LLC
 396839 # TekTonic
+396856 # Sharon Networks, LLC
 396865 # Backblaze Inc
 396873 # Baby Penguin LLC
 396880 # Complete Digital Solutions, LLC.
@@ -12290,6 +12299,7 @@
 402487 # HostCram LLC
 402492 # HostCram LLC
 402493 # HostCram LLC
+402501 # Enterprise Data Solutions, Inc.
 402505 # Merry Hosts LLC
 402506 # Zenixcloud Inc
 402518 # TNAHOSTING
@@ -12398,6 +12408,7 @@
 402931 # AdaptGroup LLC
 402936 # MIKULA SYSTEMS LLC
 402939 # Encore Technologies
+402946 # SPUZE LLC
 402948 # HostFC, LLC
 402954 # Datatility, Inc.
 402956 # IOVANTA
@@ -12461,5 +12472,6 @@
 403176 # Together Computer, Inc.
 403179 # Da Business LLC
 403180 # Together Computer, Inc.
+403187 # QOREXA LABS LLC
 403188 # HBG Inc.
 403189 # LEAPNET LLC
