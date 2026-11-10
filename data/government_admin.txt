@@ -84,7 +84,6 @@
 222 # Air Force Systems Networking
 227 # Headquarters, USAISC
 228 # United States Department of Defense (DoD)
-232 # OpenAI OpCo, LLC
 240 # Air Force Systems Networking
 241 # Air Force Systems Networking
 242 # SUPSHIP
@@ -803,7 +802,6 @@
 2378 # DOI - BIA
 2383 # Office of Technology Assessment
 2384 # Architect of the Capitol
-2450 # Renater
 2482 # AFNIC (Association Francaise pour le Nommage Internet en Cooperation)
 2513 # Japan Science and Technology Agency
 2531 # United States Department of Defense (DoD)
@@ -840,7 +838,6 @@
 2630 # United States Department of Defense (DoD)
 2632 # United States Department of Defense (DoD)
 2636 # LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT
-2638 # CENTRO DE ADMINISTRACION NIC.NI
 2640 # Ames Laboratory
 2642 # California Department of Technology
 2648 # National Oceanic and Atmospheric Administration
@@ -878,7 +875,6 @@
 2681 # Shared Services Canada
 2684 # California ASSEMBLY
 2714 # General Services Administration
-2727 # Electric Plant Board of the City of Glasgow, Kentucky
 2741 # United States Department of Defense (DoD)
 2742 # Air Force Systems Networking
 2743 # Air Force Systems Networking
@@ -904,7 +900,6 @@
 3065 # NYCENET/Information Resources Unit
 3113 # U.S. Department of Commerce
 3114 # Department of Justice
-3117 # Texas Dept. of Mental Health & Mental Retardation
 3133 # U.S. Dept. of Health and Human Services
 3134 # U.S. Agency for International Development
 3135 # Maryland Information Technology Center
@@ -919,6 +914,7 @@
 3219 # Ministry of Local Government and Regional Development
 3234 # Parliament of the Czech Republic
 3240 # Styrelsen for it og laering
+3294 # ITER Organization
 3358 # Central Intelligence Agency
 3380 # Princeton Plasma Physics Laboratory
 3381 # Maui High Performance Computing Center
@@ -1000,7 +996,6 @@
 3766 # Shared Services Canada
 3781 # U.S. Department of the Interior
 3788 # Texas Department of Transportation
-3790 # RADIOGRAFICA COSTARRICENSE
 3806 # Sacramento County Office of Education
 3835 # Navy Network Information Center (NNIC)
 3849 # DMSSC/OAD
@@ -1050,7 +1045,6 @@
 3930 # Federal Energy Regulatory Commission
 3954 # United States Department of Defense (DoD)
 3969 # Software Technology Park
-3993 # Kitchener-Waterloo Municipal Area Network
 4010 # Headquarters, USAISC
 4011 # Headquarters, USAISC
 4016 # Lane County
@@ -1137,7 +1131,6 @@
 4123 # Headquarters, USAISC
 4124 # Headquarters, USAISC
 4125 # Headquarters, USAISC
-4137 # Burningate, Inc.
 4147 # Navy Network Information Center (NNIC)
 4149 # Jet Propulsion Laboratory
 4151 # USDA
@@ -1239,7 +1232,6 @@
 4586 # Texas Natural Resources Information System
 4602 # Navy Network Information Center (NNIC)
 4607 # Air Force Systems Networking
-4729 # Japan Atomic Energy Agency
 4754 # 1016, Electronics Niketan, 6, CGO Complex
 4758 # National Informatics Centre
 4820 # Department of Communities and Justice
@@ -1819,7 +1811,6 @@
 6769 # Kertinis valstybes telekomunikaciju centras
 6780 # Swedavia AB
 6829 # Vestland Fylkeskommune
-6833 # Terranets bw GmbH
 6882 # Regione Toscana
 6883 # Parlamentsdirektion
 6922 # Texas Department of Information Resources
@@ -1833,7 +1824,6 @@
 6965 # Diplomatic Telecommunications Services
 6966 # U.S. Department of State
 6989 # Government Technology Services Inc.
-7064 # West Boylston Municipal Light Plant
 7086 # Mississippi, Department of Information Technology Services (ITS)
 7119 # Forsyth County MIS
 7194 # City of Burbank
@@ -1841,6 +1831,7 @@
 7306 # Asian Development Bank
 7391 # Navy Network Information Center (NNIC)
 7417 # Ministry of Economy
+7444 # Systel S.A.R.L.
 7465 # PROCERGS - Cia de Processamento de Dados do RGS
 7471 # City of Darebin
 7547 # The East China regional network of CEInet
@@ -1848,7 +1839,6 @@
 7549 # The North China regional network of CEInet
 7563 # Korea Internet Security Agency
 7576 # ShaoGuan Information Center
-7590 # Commission on Science and Technology for
 7626 # SCOURTFAMILY
 7633 # Software Technology Parks of India - Bangalore
 7634 # Singapore Government Network AS
@@ -1901,7 +1891,6 @@
 9424 # Qld Dept Local Govt and Planning
 9430 # Software Technology Parks of India,Block-IV
 9455 # KERIS
-9458 # Public Officials Benefit Association
 9487 # Korea Technology Finance Corporation
 9494 # National Infomation Society Agency
 9509 # Department of Employment and Workplace Relations
@@ -1929,7 +1918,6 @@
 9854 # KTO
 9858 # Korea Internet Security Agency
 9860 # National Health Insurance Service
-9871 # Gyeong Sang Buk-Do Office of Education
 9885 # NKN INTERNET GATEWAY NETWORK
 9893 # Cenitex
 9932 # Health Insurance Commission
@@ -1953,7 +1941,6 @@
 10183 # Korea Culture Information Service Agency
 10213 # Workcover Corporation
 10277 # Ministerio de Cultura y Educacion
-10299 # EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.
 10309 # County of Marin
 10343 # National Aeronautics and Space Administration
 10348 # High Technology Development Corporation
@@ -1963,7 +1950,6 @@
 10442 # U.S. Department of Education
 10483 # Alaska Permanent Fund
 10497 # IBRD
-10563 # Rochelle Municipal Utilities
 10581 # Thomson Municipal
 10616 # National Oceanic and Atmospheric Administration
 10622 # National Institute of Environmental Health Sciences (NIEHS)
@@ -1991,31 +1977,26 @@
 11205 # City of Philadelphia
 11212 # COUNTY OF SONOMA
 11309 # International Monetary Fund
+11353 # Education Service Center Region XI
 11394 # City of Richardson
 11405 # Environmental Protection Agency
-11431 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11436 # Benton County Emergency Management
 11480 # City of Sioux Falls
 11493 # Hillsborough County Sheriff's Office
 11543 # NYS BOARD OF ELECTIONS
 11577 # Vermont Agency of Digital Services
 11592 # FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE ALAGOAS
-11622 # Orland Fire Protection District
-11644 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11663 # State of Utah
 11678 # U.S. Department of Energy
 11684 # Jefferson County Department of Health
 11687 # City of Hope National Medical Center
-11708 # City of North Kansas City, MO
 11718 # Livingston ESA
 11724 # Comptroller of the Currency
-11752 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 11760 # Connecticut Housing Finance Authority
 11777 # North Carolina Adminstrative Office of the Courts
 11787 # Supreme Court of Pennsylvania
 11802 # Centro de Informatica e Automacao do Estado de SC
 11826 # Regional Information Sharing Systems
-11830 # Instituto Costarricense de Electricidad y Telecom.
 11873 # U.S. Agency for International Development
 11891 # City of San Leandro
 11901 # County of Sacramento
@@ -2036,7 +2017,6 @@
 12155 # Henderson Municipal Power & Light
 12156 # City of Aurora Colorado
 12187 # Metropolitan Transportation Authority
-12191 # City of Lebanon - Lebanon Utilities
 12224 # City of New Haven
 12248 # Oficina Central de Estadistica eInformatica (OCEI)
 12249 # City of Yuba City
@@ -2058,6 +2038,7 @@
 13011 # RA Monitorul Oficial
 13029 # Budget Institution of Chuvash Republic "Center of Information Technologies" of the Ministry of Digital Development, Information policy and Mass Communication of Chuvash Republic
 13042 # Oesterreichische Nationalbank
+13091 # Posta Srbije Drustvo S Ogranicenom Odgovornoscu, Beograd
 13128 # IT-Dienstleistungszentrum Berlin
 13134 # Instituto de Informatica, IP - Ministerio da Solidariedade e Seguranca Social
 13216 # States of Guernsey
@@ -2065,7 +2046,6 @@
 13266 # Havenbedrijf Rotterdam n.v.
 13325 # Michigan State Government
 13365 # International Civil Aviation Organization
-13398 # WHRO Public Media
 13454 # PENNSYLVANIA TURNPIKE COMMISSION
 13456 # City of Spokane
 13467 # Oklahoma Turnpike Authority
@@ -2085,7 +2065,6 @@
 13784 # Air Force Systems Networking
 13788 # US Courts
 13829 # Pima County
-13855 # The Municipal Communications Utility of the City of Cedar Falls, Iowa
 13874 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 13918 # City of Tucson
 13940 # San Joaquin County Office of Education
@@ -2095,8 +2074,6 @@
 13972 # Wadsworth Center, NYS Department of Health
 13978 # Washington Health Benefit Exchange
 13990 # County of Orange
-13994 # Owensboro Municipal Utilities
-14026 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 14030 # FINANCIADORA DE ESTUDOS E PROJETOS - FINEP
 14072 # Government of the District of Columbia
 14140 # Auburn Essential Services
@@ -2117,6 +2094,7 @@
 14357 # King County IT/I-NET
 14404 # City of Wichita
 14411 # Maryland-National Capital Park and Planning Commission
+14432 # NTRC-Grenada
 14456 # Peterborough Utilities Commission
 14470 # CITY OF FALLS CHURCH
 14480 # County of Orangeburg
@@ -2129,7 +2107,6 @@
 14644 # City of High Point
 14645 # CJIS-Consortium-20th-Court Administration
 14648 # COUNTY OF BUTTE
-14650 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 14677 # City of Tacoma
 14694 # Telecommunications Regulatory Commission
 14702 # Idaho National Laboratory
@@ -2142,11 +2119,9 @@
 14844 # CITY OF KILLEEN
 14849 # Superior Court of California, County of San Diego
 14850 # PACE, the suburban bus division of the Region Transportation Authority
-14957 # Puerto Rico Electric Power Authority
 14977 # State of Wyoming Department A&I
 15025 # City of Bartow
 15029 # U.S. Department of Health & Human Services
-15036 # Town of Pineville
 15049 # Tompkins County
 15052 # CITY OF BURNABY
 15099 # County of Monroe
@@ -2162,7 +2137,6 @@
 15253 # SDSO
 15268 # Maryland State Archives
 15304 # Washoe County
-15350 # Algona Municipal Utilities
 15380 # Air Navigation Services of the Czech Republic, state enterprise
 15383 # Paradigm
 15466 # Commando Materieel en IT
@@ -2171,6 +2145,7 @@
 15568 # European Bank for Reconstruction and Development
 15584 # Informatica Alto Adige Spa
 15585 # Finanzdirektion des Kantons Bern
+15606 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 15675 # Direction generale du numerique et des systemes d'information (DGNSI) Etat de Vaud
 15679 # Ministry of Transport, Communication, and Information Technology
 15770 # Durham County Council
@@ -2195,9 +2170,8 @@
 16697 # City of Columbia, MO
 16701 # AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO (ARCA)
 16741 # City Of Lakeland
-16824 # Harlan Municipal Utilities
+16802 # Independent Electricity System Operator
 16956 # Cattaraugus County
-16958 # Bucks County Intermediate Unit #22
 16986 # City of Santa Monica
 16996 # Tarrant County
 17029 # California Highway Patrol
@@ -2207,7 +2181,6 @@
 17147 # Ministerio del Interior y de Seguridad Publica - Gobierno de Chile
 17172 # FIFTH JUDICIAL DISTRICT OF PENNYSYLVANIA
 17190 # Washington Metropolitan Area Transit Authority
-17203 # Beresford Municipal Telephone Company
 17236 # Tulsa City-County Library
 17270 # New York State Teachers' Retirement System
 17297 # CITY OF CARROLLTON - TEXAS
@@ -2220,6 +2193,7 @@
 17478 # Bangkok Metropolitan Administration
 17485 # Trade and Industry Department, the Government of the Hong Kong Special Administrative Region
 17518 # Shiojiri City
+17564 # GITN (M) Sdn. Bhd.
 17567 # Airport Railroad Co ltd
 17574 # Seoul Metropolitan Government Computer Center
 17576 # National Research Foundation of Korea
@@ -2253,6 +2227,7 @@
 17869 # Supreme Court of Korea
 17874 # National Pension Corporation
 17879 # Rural Development Administration (RDA)
+17913 # Guj Info Petro Limited
 17967 # CNNIC
 18051 # Pustekkom
 18053 # Special Communication Organization
@@ -2290,7 +2265,6 @@
 18814 # Atlantic Technology Centre
 18815 # CITY AND COUNTY OF DENVER
 18847 # Randolph County Government of NC
-18884 # Ramapo Catskill Library System
 18927 # National Nuclear Security Administration, Kansas City Plant
 18975 # Stanislaus County Office of Education
 18995 # Clackamas County
@@ -2308,11 +2282,11 @@
 19183 # City of Shafter
 19185 # City of Mesa
 19206 # CITY OF ALLEN
-19220 # Calgary Board of Education
 19282 # South Metro Fire Rescue Authority
 19302 # US Chamber of Commerce
 19307 # Water Works & Sanitary Sewer Board of the City of Montgomery
 19319 # Bonneville Power Administration
+19323 # Holyoke Gas & Electric Department
 19329 # Martin County Board of County Commissioners
 19348 # City of Brentwood
 19376 # Ministerie van Justitie P.O Box 20301 The Hague, ZH 2501 EH NL
@@ -2331,7 +2305,6 @@
 19723 # CIA. DE TECNOL. DA INFOR. E COMUNICAÇÃO DO PARANÁ
 19725 # City Of Houston - Public Works
 19739 # County of San Bernardino
-19746 # Marshall Municipal Utilities
 19779 # St. George Fire Department
 19798 # City of Elkhart
 19799 # Highland Communication Services
@@ -2341,7 +2314,6 @@
 19902 # Department of Administrative Services
 19904 # City of Longview
 19985 # California Department of Insurance
-20009 # The City of Wadsworth
 20010 # INTERNATIONAL DEVELOPMENT RESEARCH CENTRE
 20033 # National Oceanic and Atmospheric Administration
 20047 # City of Virginia Beach, Virginia
@@ -2351,10 +2323,11 @@
 20116 # CAIXA ECONOMICA FEDERAL
 20137 # USAGM
 20244 # Division de Impuestos y Aduanas de Colombia
+20279 # Education Service Center Region 12
 20301 # National Aeronautics and Space Administration
 20302 # City of Palm Coast
+20312 # Fundación Centro Nacional de Innovación Tecnológica (CENIT)
 20315 # McHenry County
-20329 # Sallisaw Municipal Authority
 20330 # New York State Unified Court System
 20336 # New York State Department of Transportation
 20372 # Office of Management and Budget
@@ -2401,6 +2374,7 @@
 21631 # Colorado Housing and Finance Authority
 21633 # U.S. Department of the Interior
 21640 # Shared Services Canada
+21668 # ElbertonNet
 21669 # New Jersey State Library
 21692 # SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO
 21694 # Fresno County Office of Education
@@ -2420,8 +2394,8 @@
 21929 # Federal Emergency Management Agency
 21968 # CITY OF LAURINBURG
 21992 # Ontario Health
+21998 # SETA
 22014 # City of Las Vegas
-22018 # Taunton Municipal Lighting Plant
 22045 # New York City Employees' Retirement System
 22055 # Banco Central do Brasil
 22066 # City of Eau Claire
@@ -2575,12 +2549,10 @@
 25278 # Autoritatea pentru Digitalizarea Romaniei
 25285 # Boletin Oficial del Estado
 25319 # Information Technology and Cyber Security Service
-25354 # Entidad Publica Empresarial Red.es
 25373 # National Agency for Network and Electronic Services
 25377 # Ministerie van Buitenlandse Zaken
 25387 # Goteborg Kommun
 25444 # Headquarters of National Armed Forces Republic of Latvia
-25461 # Serviciul de Informatii Externe
 25488 # Comune di Novara
 25495 # Kancelaria Sejmu
 25554 # Ministry of Finance of Bulgarian Government
@@ -2625,7 +2597,6 @@
 26218 # EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV
 26229 # U.S. Securities & Exchange Commission
 26231 # San Francisco International Airport
-26244 # Bowling Green Municipal Utilities
 26257 # County Of Washington
 26263 # City of Las Vegas
 26297 # Howard County, Maryland
@@ -2649,7 +2620,6 @@
 26814 # City of Birmingham
 26830 # OPERS
 26854 # New York State
-26898 # Connect
 26903 # City of Salisbury, North Carolina
 26923 # Ohio Public Library Information Network (OPLIN)
 27016 # United States Nuclear Regulatory Commission
@@ -2784,7 +2754,6 @@
 27158 # United States Department of Defense (DoD)
 27159 # United States Department of Defense (DoD)
 27201 # CITY OF LYNCHBURG
-27202 # City of Bardstown, Kentucky
 27206 # City of Sugar Land
 27268 # The Chickasaw Nation
 27275 # Board of Governors of The Banff Centre
@@ -2816,13 +2785,10 @@
 27909 # Correos Chile
 27938 # Ministerio de Obras Públicas
 27946 # Dirección General del Territorio Marítimo
-27948 # CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
 27949 # ANSES - Administración Nacional de la Seguridad Social
 27952 # Banco Central de Chile
 27961 # Jefatura de Gabinete de Ministros
 27967 # Gobernacion de la Provincia de Buenos Aires
-28006 # CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
-28011 # CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
 28013 # MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO
 28020 # Municipalidad de Rosario
 28025 # CENTROSUR
@@ -2830,13 +2796,13 @@
 28061 # Ministerio de la Presidencia
 28062 # Ministerio de Educacion - MEDUCA
 28072 # Instituto Nicaraguense de Seguridad Social (INSS)
-28081 # Instituto Costarricense de Electricidad y Telecom.
 28089 # BANCO CENTRAL DE VENEZUELA
 28115 # Dirección General de Aduanas
 28159 # PRODERJ - Centro de Tecnologia da Informação do RJ
 28197 # EMPRESA DE TECNOLOGIA DA INFORMACAO DO CEARA-ETICE
 28261 # EMPRESA SERGIPANA DE TECNOLOGIA DA INFORMAÇÃO
 28291 # MINISTERIO DA SAUDE
+28345 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
 28371 # Gobierno del Estado de Guanajuato
 28392 # Secretaría de la Hacienda Pública
 28400 # SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES DIRECCION GENERAL DE TECNOLOGIAS DE INFORMACION Y COMUNICACIONES
@@ -2855,7 +2821,6 @@
 28848 # United Nations Industrial Development Organization
 28850 # Zavod za zdravstveno zavarovanje Slovenije
 28892 # Cesky urad zememericky a katastralni
-28899 # Autonomous Institution of the Khanty-Mansi Autonomous Okrug Ugra Ugra Research Institute of Information Technology
 28916 # International Labour Office
 28940 # Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH
 28950 # AGENCJA RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA
@@ -2863,6 +2828,7 @@
 28990 # Information Technology and Cyber Security Service
 29143 # Magistrat Graz
 29214 # THE HOUSE OF COMMONS
+29229 # Anaptiksiakos Sindesmos Ditikis Athinas
 29263 # Gemeente Den Haag
 29296 # Amt fuer Informatik und Organisation des Kantons Solothurn
 29312 # Comune di Milano
@@ -2876,21 +2842,21 @@
 29515 # Hessische Zentrale fuer Datenverarbeitung
 29585 # Ministry of foreign affairs
 29598 # Regione Autonoma Valle d'Aosta - Dipartimento Sistema Informativo
+29615 # Associacao Porto Digital
 29626 # Staffordshire County Council
+29627 # Saechsische Aufbaubank - Foerderbank
 29673 # Imprensa Nacional-Casa da Moeda, S.A.
+29682 # Landeskreditbank Baden-Wuerttemberg - Foerderbank
 29734 # Tuttle Development Authority
 29751 # SAINT CLAIR COUNTY
 29755 # Southwest Dispatch Center
-29776 # Lubbock Reese Redevelopment Authority
 29860 # Florida House of Representatives
 29862 # Ontario Financing Authority
-29886 # Eastern Shore of Virginia Broadband Authority
 29901 # Mecklenburg County, NC
 29910 # INTL. ASSN OF CHIEF OF POLICEI
 29922 # Sanford Airport Authority
 29935 # City of Tampa, Florida
 29939 # Nova Scotia Research Foundation Corporation
-29953 # Mornington
 29961 # Madison County Commission
 29977 # Whatcom Transportation Authority
 29992 # U.S. Department of Veterans Affairs
@@ -2908,7 +2874,6 @@
 30227 # Cambridge Public Health Commission
 30264 # Columbia Power and Water Systems
 30267 # City of Waco
-30268 # CITY OF CHASKA CHASKANET
 30272 # Government of Grenada
 30313 # Internal Revenue Service
 30323 # The County of Oxford
@@ -2939,7 +2904,6 @@
 30659 # Orange County Comptroller
 30668 # Madison County New York
 30687 # National Weather Service Southern Region Headquarters
-30695 # Markit On Demand, Inc.
 30717 # Greer CPW
 30754 # Eduskunta
 30761 # Interpol
@@ -2953,7 +2917,6 @@
 31023 # United Nations Development Program
 31043 # International Training Centre of the ILO
 31065 # Ministry of Communications and Information Technology
-31072 # Municipal Enterprise "City Information Centre"
 31081 # National Audit Office of Estonia
 31105 # Glowny Urzad Geodezji i Kartografii
 31106 # Wroclawski Park Technologiczny S.A.
@@ -2961,8 +2924,6 @@
 31175 # Securities and Exchange Organization
 31215 # The Republic of Croatia, Ministry of Finance
 31236 # Reykjavik City Hall
-31241 # ASP SA
-31245 # ATI - Agence Tunisienne Internet
 31256 # Warwickshire County Council
 31278 # Administratia Nationala de Meteorologie RA
 31313 # Serviciul de Telecomunicatii Speciale
@@ -2979,17 +2940,16 @@
 31674 # T.C. Maliye Bakanligi Gelirler Genel Mudurlugu
 31683 # Zarzad Morskiego Portu Gdynia S.A
 31705 # Europaischen Organisation fuer die Nutzung Meteorologischen Satelliten (Eumetsat)
-31753 # Inmarsat Government
 31756 # City of Colorado Springs
-31784 # City of Bainbridge
+31794 # Caribbean Development Bank
 31802 # City of San Rafael
 31812 # Palm Beach County Sheriff's Office
 31850 # Mission Conversion Services Alliance, LLC
-31859 # ANGELINA COUNTY
 31900 # City of Thornton
 31901 # Johnson County Library
 31904 # Northern Water
 31951 # NASA Deep Space Network (DSN)
+31991 # Platte River Power Authority
 32027 # Port of Seattle
 32096 # Knoxville Utilities Board
 32099 # New York State Office of the Attorney General
@@ -3002,7 +2962,6 @@
 32236 # TRANSCOM
 32237 # Greater Victoria Public Library
 32253 # Buffalo & Erie County Public Library
-32259 # Central Rivers Area Education Agency
 32269 # City of Idaho Falls
 32273 # Long Island Rail Road
 32294 # City of Champaign, Illinois
@@ -3032,9 +2991,9 @@
 32897 # Chelan County Public Utility District No.1
 32917 # Randall County Texas
 32926 # Massachusetts State Lottery Commission
+32946 # Rochester Public Utilities
 32982 # U.S. Department of Energy
 33015 # Los Angeles Superior Court of California
-33029 # Osage Municipal Communications Utility
 33084 # DC-Net
 33123 # Ingham County
 33129 # City of Garden Grove
@@ -3053,7 +3012,6 @@
 33435 # City of Springfield, Massachusetts
 33444 # Tazewell County
 33475 # City of Asheboro
-33515 # City of Monroe
 33527 # Metropolitan Government of Nashville and Davidson County Tennessee
 33553 # SOUND TRANSIT
 33573 # Bay Area Air Quality Management District
@@ -3064,6 +3022,7 @@
 33624 # U.S. Dept. of Health & Human Services - Office of Inspector General
 33638 # CITY OF SCOTTSBURG
 33642 # Nlets
+33738 # United States Holocaust Memorial Museum
 33773 # NIC.MW
 33789 # Ministry of Communications and Information Technology
 33831 # Royal Hashemite Court
@@ -3084,10 +3043,7 @@
 34339 # Centrum Przetwarzania Danych Ministerstwa Finansow
 34367 # Banka Slovenije
 34405 # Anci Digitale S.P.A.
-34478 # TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma Enstitusu
 34500 # FGUP CTSPI MGA Russia
-34511 # Fundacion Integra
-34520 # Deutsche Forschungsgemeinschaft e.V.
 34522 # Ministarstvo Obrane Republike Hrvatske
 34576 # Skane Lans Landsting
 34592 # Iranian Presidential Administration
@@ -3107,6 +3063,7 @@
 35160 # Communications and Media Commission (CMC)
 35175 # Oulun kaupunki
 35225 # Hrvatske ceste
+35227 # Hertener Stadtwerke GmbH
 35264 # Gobierno de Cantabria
 35338 # Ministry of Interior
 35340 # State Organization "Deposit Guarantee Fund Of Physical Persons"
@@ -3133,7 +3090,6 @@
 35956 # Snohomish County Government
 35958 # MCCARRAN INTERNATIONAL AIRPORT
 35960 # City of Beverly Hills
-35963 # Greenville-Spartanburg Airport Commission
 35965 # Electrical District No.3 of Pinal County
 35973 # Clark County Water Reclamation District
 36037 # Education Service Center Region 20
@@ -3155,7 +3111,6 @@
 36437 # County of Santa Cruz
 36479 # SGI
 36482 # County of Placer
-36513 # BRETSA
 36514 # Florida Legislature
 36532 # Export Import Bank of the U.S
 36534 # Alberta Health Services
@@ -3175,7 +3130,6 @@
 36757 # Department of State Office of Inspector General
 36784 # SOCRATES
 36809 # City of Coral Gables
-36844 # San Antonio Water System
 36855 # Louisiana Department of Insurance
 36858 # Office of Broadband Access and Expansion
 36885 # Ministry of Communications and Information Technology
@@ -3188,14 +3142,16 @@
 37052 # United Nations Office Nairobi (UNON)
 37066 # Ministry of Foreign Affairs
 37067 # Ministère des Postes Télécommunications et de l'Economie Numérique
-37107 # ATI - Agence Tunisienne Internet
 37116 # Coega Development Corporation
 37130 # State Information Technology Agency SOC Ltd
+37177 # AFRINIC DNS Support
+37181 # AFRINIC RFC5855 Service
 37206 # Central Bank of Uganda
 37219 # Information and Communications Technology Authority
 37256 # National Information Center (NIC)
 37258 # Defence Intelligence Agency
 37289 # Ghana-India Kofi Annan Centre of Excellence in ICT
+37301 # AFRINIC MBA
 37302 # Dube TradePort
 37313 # Ghana Government (Ministry of Communications)
 37351 # African Development Bank - AFDB
@@ -3208,11 +3164,12 @@
 37426 # ASSET MANAGEMENT CORPORATION OF NIGERIA
 37436 # INTIC (National Institute of ICT)
 37452 # Central Bank of Nigeria
-37472 # Nigerian Communications Satellite Ltd
 37481 # ARPCE
+37505 # Lesotho Network Information Centre Proprietary
 37548 # ARPCE
 37551 # ATI - Agence Tunisienne Internet
 37582 # Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF)
+37617 # Central Bank of Lesotho
 37644 # Ministry of Posts, Telecommunications and Technology
 37648 # Union Economique et Monetaire Ouest Africaine (UEMOA)
 37654 # Rwanda Ministry of Education
@@ -3231,7 +3188,9 @@
 37942 # SACHNET
 37976 # Telecommunications Authority of Fiji
 38002 # Security and Exchange Commission (SEC).
+38005 # MIMOS R&D Malaysia
 38027 # Information Center, Ministry of Sci and Tech
+38044 # GITN-NETWORK
 38066 # Department of Environment and Climate Change
 38076 # Australian Sports Commission. Bruce, ACT
 38078 # QLD Department of the Premier and Cabinet
@@ -3263,6 +3222,7 @@
 38403 # GunpoUiwang Office of Education
 38404 # Gyeonggi Provincial Bucheon Office of Education
 38408 # GYEONGGI PROVINCIAL ANYANG OFFICE OF EDUCATION
+38410 # Pocheon Office of Education
 38413 # Gyeonggi Do Provincial Institute for Lifelong Learning
 38415 # Guri Namyangju Office Of Education
 38418 # KOREA APPRAISAL BOARD
@@ -3271,8 +3231,6 @@
 38470 # Department of Home Affairs
 38474 # Department of Climate Change Energy the Environment and Water
 38510 # KEMENTERIAN PERTANIAN REPUBLIK INDONESIA
-38514 # Indonesia Network Information Center
-38518 # Indonesia Network Information Center
 38526 # Badan Teknologi Informasi Dan Telematika Sekretariat Daerah Kota Yogyakarta
 38528 # Lao National Internet Center
 38536 # Software Technology Parks of India,
@@ -3282,7 +3240,6 @@
 38672 # KOREA HOUSING MANAGEMENT
 38682 # National Institute of Environmental Research
 38683 # National Electoin Commission
-38687 # Financial Security Institute
 38692 # Jeonbuk State office of Education Future Education Research Institute
 38693 # Korea Transportation Safety Authority
 38708 # EXPORT-IMPORT BANK OF KOREA
@@ -3308,6 +3265,7 @@
 39109 # Urzad Rejestracji Produktow Leczniczych Wyrobow Medycznych i Produktow Biobojczych
 39141 # Excma. Diputacion Provincial de Malaga
 39171 # GMINA WROCLAW
+39236 # Nedre Romerike vann- og avlopsselskap IKS
 39265 # Stadtverwaltung der Stadt Bern
 39279 # Information Technology and Cyber Security Service
 39323 # GBU SO "TSIFROVOY REGION"
@@ -3328,10 +3286,10 @@
 39658 # Statistics Sweden
 39659 # State institution "Kyzmat" under the Office of the President of the Kyrgyz Republic
 39662 # Finnish Transport and Communications Agency
+39675 # State Joint Stock Company "Latvian Development Finance Institution Altum"
 39719 # Liguria Digitale S.p.A.
 39803 # Compania Nationala Administratia Porturilor Maritime SA Constanta
 39804 # Vlaamse Dienst voor Arbeidsbemiddelling en Beroepsopleiding
-39872 # ELES, d.o.o.
 39879 # Sozialversicherungs-Chipkarten Betriebs- und Errichtungsgesellschaft m.b.H - SVC
 39914 # Narodowy Fundusz Zdrowia
 39940 # Police and Fire Federal Credit Union
@@ -3340,9 +3298,9 @@
 39961 # San Francisco Department of Telecommunications and Information Services
 39983 # Pension Benefit Guaranty Corp.
 39990 # Boulder County Government
-40033 # Red-Spectrum Communications
 40042 # Suffolk County Government
 40046 # Eastern Band of Cherokee Indians
+40047 # Intermediate Unit 1
 40086 # South Carolina Law Enforcement Division
 40087 # NEW ORLEANS PARISH LIBRARY
 40095 # City of Medicine Hat
@@ -3360,7 +3318,6 @@
 40411 # City of Concord
 40412 # PA House of Representatives - Democratic Caucus
 40453 # City of Gresham
-40454 # Manning Municipal Utilities
 40468 # Montgomery County Government, Maryland
 40553 # Cuyahoga County Information Services center
 40619 # Clark County, Nevada
@@ -3368,13 +3325,13 @@
 40628 # Oklahoma Office of Management & Enterprise Services
 40648 # Lee County BoCC
 40651 # Monster Government Solutions, LLC
+40661 # Education Service Center, Region VI
 40695 # FHLBanks - Office of Finance
 40701 # Government of Grenada
 40709 # City of Bend
 40721 # Pennsylvania House of Representatives BMC
 40724 # DeKalb County, Georgia
 40743 # California Joint Powers Insurance Authority
-40749 # CLARKSVILLE DEPARTMENT OF ELECTRICITY
 40754 # Henry County, Georgia
 40791 # City of Redding
 40795 # County of Lake
@@ -3392,6 +3349,7 @@
 41092 # INSTITUTE OF TUBERCULOSIS AND LUNG DISEASES
 41094 # Provincia di Terni
 41115 # Subsidiary company of the state-owned company Ukrespecexport - state-owned company Ukroboronservice
+41118 # Private institution "SCC of Rosatom"
 41121 # Ministarstvo unutarnjih poslova Republike Hrvatske
 41125 # BANK OF GREECE
 41150 # Chief Information-Commercial and Scientific-Production Regional Centre
@@ -3430,13 +3388,13 @@
 41915 # Land-, forst- und wasserwirtschaftliches Rechenzentrum GmbH
 41970 # Zavod za pokojninsko in invalidsko zavarovanje Slovenije - ZPIZ
 41986 # Sardegna IT srl
-42003 # OGERO
-42020 # OGERO
 42056 # Ministry for Economic Development of the Russian Federation
+42081 # European Centre for Medium-Range Weather Forecasts (ECMWF)
 42092 # Narodowy Fundusz Zdrowia
 42121 # The Federal Guard Service of the Russian Federation
 42142 # Agentia Nationala pentru Protectia Mediului
 42143 # Iran Airports & Air Navigation Company (Private Joint Stock)
+42147 # Sociedad Estatal Correos y Telegrafos S.A.
 42164 # State Service of Ukraine for Emergencies
 42165 # European Commission - Directorate General - Joint Research Centre
 42186 # Kancelarija za informacione tehnologije i elektronsku upravu
@@ -3450,6 +3408,7 @@
 42378 # Rundfunk und Telekom Regulierungs-GmbH
 42409 # Autoriteti i Komunikimeve Elektronike dhe Postare - AKEP
 42449 # Commune de Mulhouse
+42515 # ACI informatica s.p.a.
 42520 # Gmina Lublin
 42538 # COMUNE DI BRESCIA
 42603 # JKP Parking servis Beograd
@@ -3461,6 +3420,7 @@
 42934 # DIRECTIA DE IMPOZITE SI TAXE LOCALE A SECTORULUI 5
 42939 # Agentia Nationala pentru Locuinte
 42952 # NHS England
+42968 # Kujawsko-Pomorskie Centrum Kompetencji Cyfrowych Sp. z o.o.
 43011 # GUIT Omskoy oblasti
 43018 # Verket for Innovationssystem
 43028 # Ventspils city municipality institution "Ventspils Digital Center"
@@ -3519,8 +3479,7 @@
 44461 # Municipal Enterprise "Main Information and Computing Centre"
 44465 # Saudi Central Bank (SAMA)
 44490 # MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ
-44507 # JSC Kostroma Municipal Telephone Network
-44551 # Wojewodztwo Warminsko-Mazurskie
+44541 # Jochem Stobbe trading as Prelution
 44557 # Veiligheidsregio Rotterdam-Rijnmond
 44560 # FKU "GTsSIZI Ministry of Internal Affairs of Russia"
 44586 # Executive Agency "Electronic Communication Networks and Information Systems"
@@ -3528,6 +3487,7 @@
 44662 # GBU Arkhangelskoi oblasti "Arkhtelecentr"
 44689 # Ministry of Education
 44698 # Chancery of the President of Latvia
+44778 # "Enterprise Incubator" Foundation
 44831 # Insiel- Informatica per il sistema degli enti locali S.p.A
 44836 # Institution "State Tax Service under the Cabinet of Ministers of the Kyrgyz Republic"
 44842 # Syndicat Mixte Somme Numerique
@@ -3540,9 +3500,9 @@
 45078 # Shaanxi Broadcast&Television Monitoring Center
 45128 # Australian Nuclear Science and Technology Organisation,
 45160 # Lotteries Commission of Western Australia
+45162 # GPO Box 1681
 45175 # Medicare Australia Cross Site AS
 45229 # United Nation - Property Management Sub-unit, Thailand
-45239 # Departemen Luar Negeri Indonesia
 45292 # Lembaga Ilmu Pengetahuan Indonesia - LIPI
 45313 # Dinas Perhubungan,komunikasi, informasi dan Telematika -NAD
 45316 # Kantor Komunikasi Dan Informatika Kota Bogor
@@ -3551,6 +3511,7 @@
 45377 # Jeju Special Self Governing Provincial office of Education
 45380 # MMAAC C
 45381 # Seoul Housing Communities Corporation
+45384 # Korea trade insurance corporation
 45389 # Jeonbuk State office of Education Future Education Research Institute
 45394 # KERIS
 45403 # INCHEON TECHNOPARK
@@ -3585,8 +3546,6 @@
 45837 # CITEC, Queensland Government Business,
 45870 # Lyle Williams - F3-1-70
 45900 # Department of Infomatic - The State Bank of Viet Nam
-45963 # KIRAMS (Korea Institute of Radiological   Medical Sciences)
-45971 # Financial Security Institute
 45972 # KOREA LAND AND GEOSPATIAL INFORMATIX CORPORATION
 45973 # KOTRA
 45986 # Korea Internet Security Agency
@@ -3614,7 +3573,6 @@
 46207 # State of Louisiana Supreme Court - JA/CMIS
 46209 # GHC911
 46286 # Cook County
-46298 # Harris County Hospital District
 46299 # City of Littleton
 46341 # California Public Utilities Commission
 46367 # UTAH RETIREMENT SYSTEMS
@@ -3623,6 +3581,7 @@
 46405 # DANY-NY/NJ HIDTA
 46424 # New Jersey Turnpike Authority
 46439 # CITY OF LEXINGTON
+46496 # Washoe Tribe of Nevada and California
 46517 # City of Seattle, Dept. of Admin. Services
 46520 # California Department of Justice
 46522 # City of Henderson, Nevada
@@ -3638,6 +3597,7 @@
 46692 # City of Windom
 46701 # Indiana Office of Technology
 46716 # Crook County Oregon
+46725 # Education Service Center-Region 19
 46731 # City of Jefferson
 46744 # City and County of Honolulu
 46788 # Milwaukee County Government
@@ -3669,7 +3629,6 @@
 47310 # CIMAL - Comunidade Intermunicipal do Alentejo Litoral
 47318 # West Midlands Ambulance Service NHS Foundation Trust
 47338 # MKU TSITiTO
-47352 # VAS "Latvijas Valsts radio un televizijas centrs"
 47358 # Federal State Budgetary Institution NATIONAL MEDICAL AND SURGICAL CENTER NAMED AFTER N.I. PIROGOV of the Ministry of Healthcare of the Russian Federation
 47367 # Torbay Economic Development Company Limited
 47396 # Mazowiecka Jednostka Wdrazania Programow Unijnych
@@ -3722,7 +3681,6 @@
 48984 # Amt der Steiermaerkischen Landesregierung
 49002 # JSC "Russian Post"
 49010 # Herning Kommune
-49049 # Bath North East Somerset Council
 49077 # UM 02499 BUCURESTI
 49093 # KGKU ITC Primorskogo kraya
 49186 # Federal State Institution Research and Development Institute "Voskhod", FGAU
@@ -3745,6 +3703,7 @@
 49649 # Urzad Miasta Gorzow Wielkopolski
 49728 # Herefordshire Council
 49756 # Der Schleswig Holsteinische Landtag
+49769 # Teracom AB
 49833 # National Center for Meteorology
 49851 # Aragonesa de Servicios Telematicos
 49903 # Ukrainian State Air Traffic Service Enterprise
@@ -3804,19 +3763,18 @@
 51523 # Municipal Budgetary Educational Institution "Gymnasium Perspektiva" of the city district of Samara
 51562 # Federal Medical Research Center of Almazova
 51566 # TURK PATENT ENSTITUSU
-51588 # SESAN SERVICE NUMERIQUE DE SANTE GCS
 51635 # State Autonomous Institution of the Republic of Mordovia "Gosinform"
 51647 # Gemeente Amsterdam
 51663 # Administration of Solikamsk city
 51670 # Technical & Vocational Training Corporation
 51687 # Gemeente Alkmaar
 51707 # Medway Towns Council
-51733 # BWI GmbH
 51766 # Merseyside Fire and Rescue Service
 51780 # FGBU VNIIKR
 51804 # Nizhny Novgorod City Administration
 51831 # The State Tretyakov Gallery
 51882 # Government of Kurgan area
+51899 # Hoglandsforbundet
 51907 # Kanton Zug
 51912 # Department of Digital Development and Communications of the Jewish autonomous region
 51914 # Kuwait Investment Authority
@@ -3825,7 +3783,6 @@
 51977 # FGBU ROSGEOLFOND
 51989 # Grad Rijeka-Gradsko Vijece
 51998 # Public office of municipality "Gorod Arkhangelsk" "Hozyaistvennaya sluzhba"
-52039 # SIB
 52062 # Organisation Federal centre of informatization Central Election Commitee of Russian Federation
 52083 # Puntozero S.c.a.r.l.
 52108 # Municipal Educational Establishment for Additional Professional Education of Specialists - Information Technology Center
@@ -3849,9 +3806,9 @@
 52608 # ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
 52621 # Departamento de Agua e Esgoto de Bauru
 52622 # Tribunal Regional do Trabalho da 4 Regiao
+52623 # EMPRO TECNOLOGIA E INFORMACAO
 52628 # Tribunal de Justiça do Estado do Pará
 52649 # Tribunal de Justica do Estado do Rio Grande do Sul
-52722 # Paranhananet Ltda.
 52740 # PRODAP-Centro de Gestao da Tecnologia e Informacao
 52867 # TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO
 52890 # Centro Integrado de Telemática do Exército
@@ -3905,6 +3862,7 @@
 54068 # City of Greenville, SC
 54081 # City of Grand Junction
 54099 # City of Savannah
+54150 # BROADLAWNS MEDICAL CENTER
 54153 # Los Angeles County Metropolitan Transportation Authority
 54156 # City of Huntsville
 54157 # Orange County Government
@@ -3924,17 +3882,17 @@
 54413 # General Services Administration
 54439 # Montgomery County Government, Maryland
 54451 # Fairfax Water
+54457 # Harris County Emergency Corps
 54469 # City of Vacaville
 54474 # City of Santa Cruz
 54481 # County of Chester
 54521 # National Gallery of Art
-54547 # Bergen County Cooperative Library System
 54549 # City of Vallejo, A municipal corporation
 54559 # COUNTY OF ALLEGHENY
-54594 # Illuminate Hillsboro
 54595 # Delaware County
 54602 # Jefferson County Commission
 54669 # Larimer County Government
+54685 # ASHS
 54724 # City of Gaithersburg
 54751 # Virginia Economic Development Partnership
 54797 # CITY OF AURORA
@@ -3952,8 +3910,6 @@
 55063 # City of Fairfax
 55087 # Brazos County
 55124 # E-Comm 9-1-1
-55178 # City of Morganton
-55216 # CarverLink
 55277 # Pinal County Arizona
 55284 # Universal Service Administrative Company
 55291 # Harris County
@@ -3962,7 +3918,6 @@
 55325 # Eastern Water Resources Development and Management Company
 55330 # AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK
 55363 # NSWDOH
-55382 # Nagato city office
 55435 # Whangarei District Council
 55446 # CENTRE FOR DEVELOPMENT OF TELEMATICS
 55451 # Office of the National Broadcasting and
@@ -3978,7 +3933,6 @@
 55598 # Korea Environmental Technology   Industry Institute
 55603 # Korea Internet Security Agency
 55604 # KOMSCO
-55609 # Financial Security Institute
 55613 # KOREA APPRAISAL BOARD
 55620 # KNOC
 55628 # Incheon Free Economic Zone
@@ -3995,10 +3949,8 @@
 55804 # Army & Navy Building,
 55815 # Level 32 Governor Macquarie Tower
 55824 # NKN Core Network
-55834 # NBN Co LTD
 55846 # IMED, Ministry of Planning, Government of the People's Republic of Bangladesh
 55870 # Darwin City Council
-55885 # ISP
 55938 # Expressway Authority of Thailand
 55951 # Lembaga Hasil Dalam Negeri Malaysia
 56010 # Development Research Center Of The State Council
@@ -4008,15 +3960,14 @@
 56118 # OCSC
 56128 # Asian Development Bank
 56141 # Da Nang Center for Digital Transformation and Strategic Technology
+56156 # Vietnam Internet Network Information Center
 56177 # The Rural City of Murray Bridge
 56236 # Badan Narkotika Nasional
 56256 # Perpustakaan Nasional RI
 56257 # Balai Penyedia dan Pengelola Pembiayaan Telekomunikasi dan Informatika
 56261 # Balai Telekomunikasi dan Informatika Perdesaan
 56295 # Brisbane City Council
-56366 # VEGA - Parco Scientifico Tecnologico di Venezia S.c.a.r.l.
 56375 # Imam Khomeini Relief Foundation IKRF
-56390 # TFOMS Kemerovskoy oblasti - Kuzbassa
 56436 # Ministry of Information Technologies and Communications of Chelyabinsk Region
 56461 # Information Technology Organization of Isfahan Municipality
 56486 # Qom Municipality
@@ -4035,6 +3986,7 @@
 56620 # National Bank of the Republic of Macedonia
 56625 # SOS Alarm Sverige AB
 56633 # Luchtverkeersleiding Nederland Z.B.O.
+56651 # Uradni list d.o.o.
 56670 # West Sussex County Council
 56700 # Osterakers Kommun
 56725 # JSC Goznak
@@ -4050,6 +4002,7 @@
 56828 # Norsk Helsenett SF
 56855 # Ministry of Internal Affairs
 56929 # WANDSWORTH-BOROUGH-COUNCIL
+56948 # Medizinischer Dienst Berlin-Brandenburg
 56974 # State Revenue Committee of the Republic of Armenia
 56978 # National Security and Defence Council of Ukraine Staff
 56993 # KONTROLA ZRACNEGA PROMETA SLOVENIJE, d.o.o.
@@ -4063,6 +4016,7 @@
 57201 # Estonian Defence Forces
 57275 # DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA
 57284 # Region Hauts-de-France
+57297 # REGIE DES TRANSPORTS METROPOLITAINS
 57350 # European Maritime Safety Agency
 57366 # Islamic Republic of Iran Post PJSC
 57377 # LONDON BOROUGH OF MERTON
@@ -4100,7 +4054,6 @@
 58200 # Islamic Republic of Iran Post PJSC
 58201 # Islamic Republic of Iran Post PJSC
 58248 # Islamic Republic of Iran Post PJSC
-58258 # FGAU "OK "Rublevo-Uspenskiy"
 58263 # Islamic Republic of Iran Post PJSC
 58282 # Statens IT
 58283 # Institute of Applied Technology
@@ -4122,7 +4075,6 @@
 58590 # Assam Electronics Development Corp Ltd
 58677 # DOFAIMPNET
 58681 # New South Wales Police
-58695 # Unicef Bangladesh,
 58716 # Penrith City Council
 58811 # CONAC (China Organizational Name Administration Center)
 59012 # China Grain Reserves Group LTD.Company
@@ -4134,12 +4086,14 @@
 59159 # PDIS - BADAN PENGKAJIAN DAN PENERAPAN TEKNOLOGI
 59160 # Badan Kependudukan dan Keluarga Berencana Nasional
 59189 # Department of Information Technology & Communication, Rajasthan
+59197 # Bharatiya Reserve Bank Note Mudran Pvt. Ltd.
 59219 # Ministry of Information & Communications
 59323 # Punjab Information Technology Board
 59326 # DSO National Laboratories
 59361 # Dhaka Electric Supply Company Limited (DESCO)
 59383 # Office of Finance and Services T/A Department of Finance and Services (NSW)
 59401 # Fondul de Garantare a Depozitelor in Sistemul Bancar
+59420 # Medical Information Analityc Center of Kirov Region, Public Company
 59503 # LEPL Digital Governance Agency
 59581 # Lancashire County Council
 59603 # Regional state independent organization "The information and techonological center of Kamchatka"
@@ -4153,7 +4107,7 @@
 59700 # Nordjyllands Trafikselskab I/S
 59715 # Comune di San Benedetto del Tronto
 59801 # Main Center of Information and Computing Ministry of culture of Russian Federation
-59832 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
+59866 # AKD d.o.o.
 59951 # Falu Kommun
 59961 # Road Maintenance & Transportation Organization
 60046 # Collectivite Territoriale de Martinique
@@ -4181,7 +4135,6 @@
 60562 # Ministry Of Health and Medical Education
 60565 # Wojewodzka Stacja Pogotowia Ratunkowego Szczecin
 60604 # Primaria Municipiului Calarasi
-60615 # COMPANIA NATIONALA POSTA ROMANA S.A.
 60617 # Stadt Zug
 60621 # Authority of Developing Al-Madinah Al-Munawarah
 60628 # FGBU "REA" Minenergo Russia
@@ -4213,7 +4166,6 @@
 61274 # Ministry of Telecommunication & Digital Economy
 61280 # FGUP "GRCHC"
 61291 # Territorial Fund of Obligatory Medical Insurance of the Stavropol region
-61314 # Central Bank of Ireland
 61319 # Wojewodztwo Pomorskie
 61352 # Staatsbetrieb Saechsische Informatik Dienste
 61358 # Ministerstvo Zdravookhraneniya Respubliki Dagestan
@@ -4225,7 +4177,6 @@
 61569 # Tribunal Regional Federal da 1a Regiao
 61572 # CONTROLADORIA-GERAL DA UNIÃO
 61585 # MINISTÉRIO DA SAÚDE - INSTITUTO NACIONAL DE CÂNCER
-61603 # Goias Telecomunicações SA. - GOIAS TELECOM
 61612 # DEPARTAMENTO DE CIÊNCIA E TECNOLOGIA AEROESPACIAL
 61656 # AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL
 61738 # SECRETARIA DE ESTADO DE ECONOMIA DO DF - SEEC/DF
@@ -4246,7 +4197,6 @@
 62186 # Gjovik Kommune
 62220 # State Regional Development Agency
 62279 # Autoritatea Navala Romana
-62351 # Municipal unitary company Novopolotsk city "Novopolotsk cable television "Vector"
 62364 # Plymouth City Council
 62402 # Munitsipalnoe kazennoe uchrezhdenie Tsentr informatsionno-kommunikatsionnykh tekhnologii
 62415 # Agricultural Development Fund (gov)
@@ -4254,13 +4204,14 @@
 62431 # National Cyber Security Centre
 62461 # JSC "Road Service"
 62463 # Sundsvalls kommun
+62474 # Eugene Water and Electric Board
 62476 # Development Authority of the North Country
-62488 # Columbia County, Georgia
 62493 # City of Bryan, Texas
 62507 # City of Hampton, Virginia
 62515 # Alameda County Water District
 62548 # City of Norwich Department of Public Utilities
 62559 # CITY OF PEORIA
+62603 # Four Rivers Software Systems, Inc.
 62616 # California Health Benefit Exchange
 62648 # City of Mont Belvieu
 62658 # City of Wyandotte
@@ -4319,9 +4270,11 @@
 64101 # INSTITUTO DE ACUEDUCTOS Y ALCANTARILLADOS NACIONALES
 64119 # AUTORIDAD DE REGULACIÓN Y FISCALIZACIÓN DE TELECOMUNICACIONES Y TRANSPORTES
 64237 # Massachusetts Convention Center Authority
+64251 # Monona Terrace Community and Convention Center
 64261 # City of Cartersville
 64274 # Oregon Judicial Department
 64306 # PEMERINTAH KABUPATEN TEMANGGUNG
+64310 # PDAM TIRTA RAHARJA
 64312 # Dewan Ketahanan Nasional
 131097 # KEAD
 131098 # Korea Internet Security Agency
@@ -4331,7 +4284,6 @@
 131123 # Vietnam Internet network information center (VNNIC)
 131131 # VNNIC-AS-VN
 131150 # Education Bureau, Kaohsiung City Government, Taiwan
-131176 # REANNZ Customer - Tertiary Education Commission
 131180 # Anti-Money Laundering Council of the Philippines - PLDT
 131187 # Teritary Education Commission
 131191 # Electronic Transactions Development Agency (Public Organization)
@@ -4356,10 +4308,8 @@
 131422 # Center for Digital Transformation of Culture, Sports and Tourism - Ministry of Culture, Sports and Tourism
 131436 # Information Technology and Digital Transformation Center - Vietnam Social Security
 131462 # Western Australian Land Information Authority
-131467 # Unified National Networks
 131693 # Kementerian Agama (KEMENAG)
 131719 # Dinas Perhubungan Kominfo Provinsi Sumatera Selatan
-131720 # Indonesia Network Information Center
 131722 # Kementrian Pekerjaan Umum
 131723 # Kementerian Keuangan Ditjen Bea Cukai
 131724 # DISKOMINFO PROV. JAWA TENGAH
@@ -4387,6 +4337,7 @@
 131854 # Saemangeum Development and Investment Agency
 131870 # KSPO
 131872 # IITP
+131876 # Daejeon Transportation Corporation
 131880 # KOREA FEDERATION OF CREDIT GUARANTEE FOUNDATIONS
 131881 # National Medical Center
 131884 # Korea Internet Security Agency
@@ -4449,7 +4400,6 @@
 132786 # Bank of Papua New Guinea
 132807 # Department of Fire and Emergency Services
 132812 # Central Coast Council
-132854 # Wanganui District Council
 132868 # State Library of NSW
 132885 # CET DEVELOPMENT SDN BHD
 132903 # CDAC
@@ -4474,6 +4424,7 @@
 133336 # Mahkamah Agung RI
 133343 # BADAN PERENCANAAN PEMBANGUNAN NASIONAL
 133345 # KEMENKO POLHUKAM RI
+133381 # STATE TRUSTEES LIMITED
 133383 # Vanuatu Government,
 133387 # GOVERNMENT TECHNOLOGY AGENCY
 133427 # Selwyn District Council
@@ -4495,10 +4446,8 @@
 133826 # Direktorat Jenderal Pendidikan Tinggi
 133839 # Dinas Komunikasi dan Informatika Tangerang Kota
 133857 # Callaghan Innovation
-133884 # Airways Corporation of New Zealand
 133888 # Geo-Informatics and Space Technology Development
 133890 # Bangladesh Army
-133947 # Metropolitan Electricity Authority
 133979 # NATIONAL CENTRE FOR ANTARCTIC AND OCEAN RESEARCH
 133992 # Chhattisgarh Infotech and Biotech Promotion Society
 134029 # Unique Identification Authority of India
@@ -4562,8 +4511,6 @@
 135635 # Tourism authority of Thailand
 135675 # Queensland Local Government Superannuation Board
 135676 # National Institute for Emergency Medicine
-135686 # Navyug Networks Info Private Limited
-135764 # National Dairy Development Board
 135769 # U R Rao Satellite Centre
 135860 # New Delhi Municipal Council
 135934 # Dong Thap Center for Innovation, Entrepreneurship, and Digital Transformation
@@ -4639,7 +4586,6 @@
 136947 # DEPARTMENT OF FISHERIES Kaset-Klang,Ministry of Agriculture and Cooperatives
 136971 # Wyndham City Council
 137024 # Australian Crime Commission
-137058 # Aeronautical Radio of Thailand Ltd.
 137136 # Indian Agricultural Statistics Research Institute
 137148 # Thane Municipal Corporation
 137238 # Department of Immigration
@@ -4720,6 +4666,7 @@
 138424 # Federal Board of Revenue
 138427 # Thailand Institute of Nuclear Technology (Public Organization)
 138430 # AUSTRALIAN FINANCIAL SECURITY AUTHORITY
+138455 # Grampians Health
 138469 # Victorian Gambling and Casino Control Commission
 138488 # Moonee Valley City Council
 138580 # Ministry of Economy and Finance
@@ -4734,7 +4681,6 @@
 138816 # Pemerintah Kabupaten Banjar
 138825 # LPSE Kota Makassar
 138832 # Dinas Komunikasi dan Informatika Kota Tebing Tinggi
-138835 # DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN PACITAN
 138836 # Dinas Komunikasi dan Informatisa Kabupaten OKU
 138848 # Pemerintah Daerah Kabupaten Fakfak
 138850 # Pemerintah Kota Palembang
@@ -4779,7 +4725,6 @@
 139465 # MONASH CITY COUNCIL
 139500 # Directorate General Of Training
 139501 # National Crime Records Bureau
-139546 # Institute For Design Of Electrical Measuring Instruments
 139614 # BANGKO SENTRAL NG PILIPINAS
 139666 # City of Charles Sturt
 139679 # Office of the Electoral Commission
@@ -4911,7 +4856,6 @@
 141503 # National Informatics Centre Services Incorporated
 141504 # National Informatics Centre Services Incorporated
 141505 # National Informatics Centre Services Incorporated
-141549 # KERALA FIBRE OPTIC NETWORK LIMITED
 141568 # Orissa Computer Appliction Centre
 141576 # Ombudsman Republik Indonesia
 141583 # BLDK Mahkamah Agung
@@ -4971,6 +4915,7 @@
 142384 # Dinas Komunikasi Dan Informatika Kabupaten Jember
 142422 # Hobart City Council
 142425 # Department of Foreign Affairs and Trade
+142500 # 1.10.10.10 - Indian Public DNS
 142543 # RAB
 142573 # Government of Tuvalu
 142590 # Ambulance Victoria
@@ -5208,7 +5153,6 @@
 149121 # Department of Science and Technology of Lai Chau province
 149127 # Bac Giang Department of Information and Communications
 149129 # Vietnam Government Portal
-149139 # VGP JOINT STOCK COMPANY
 149153 # Thanh Hoa Information and Communication Technology Center
 149154 # Department of Science and Technology of Lao Cai province
 149156 # Bac Ninh Department of Information and Communications
@@ -5225,7 +5169,7 @@
 149388 # Pemerintah Kota Gorontalo
 149395 # RSUD Tidar Magelang
 149402 # Diskominfo Pemerintah Kabupaten Probolinggo
-149413 # Dinas Komunikasi Informatika dan Persandian Kabupaten Bangli
+149406 # Lembaga Layanan Pendidikan Tinggi Wilayah VI
 149429 # Reserve Bank of Fiji
 149442 # Department of Immigration & Passports
 149624 # MUNICIPAL PIMPRI CHINCHWAD CORPORATION
@@ -5259,7 +5203,6 @@
 150280 # Kantor Otoritas Bandar Udara
 150283 # Dinas Komunikasi Informatika, Statistik dan Persandian Kabupaten Gowa
 150300 # The Permanent Secretary, Ministry of Transport of Thailand
-150301 # WATER CORPORATION
 150304 # Bangladesh Television
 150321 # Secretariat of the Pacific Regional Environment Programme
 150323 # Dak Lak Province Smart City Monitoring and Operation Center
@@ -5267,6 +5210,7 @@
 150333 # GOLD COAST CITY COUNCIL
 150343 # CITY OF VICTOR HARBOR
 150392 # Government Private Network - Papua New Guinea
+150403 # Solomon Islands National Provident Fund Board
 150439 # Banco Central de Timor-Leste
 150442 # Bangladesh Fire Service and Civil Defense
 150456 # Posts and Telecommunications Department
@@ -5302,8 +5246,8 @@
 151334 # Land Transport Authority
 151356 # Balai Besar Pengujian Perangkat Telekomunikasi dan Digital
 151414 # Commonwealth Superannuation Corporation
+151485 # CEYLON ELECTRICITY BOARD
 151496 # Department of Customer Service
-151498 # Bhutan Power Corporation Ltd
 151502 # Dinas Komunikasi dan Informatika Kabupaten Kotawaringin Timur
 151509 # Pemerintah Kota Solok
 151535 # Pemerintah Kabupaten Bangka Tengah
@@ -5313,7 +5257,6 @@
 151626 # INDIAN CYBERCRIME COORDINATION CENTRE
 151645 # Ministry of Justice
 151672 # government agency
-151702 # TAMILNADU FIBRENET CORPORATION LIMITED
 151730 # Joint Director, Survey and Land Records
 151733 # DIRECTORATE OF EDCS
 151789 # Philippine National Computer Emergency Response Team
@@ -5342,6 +5285,7 @@
 152217 # Korea Gas Safety Corporation
 152234 # GYEONGGI TRANSPORT CORPORATION
 152275 # Korea Power Exchange
+152282 # National Fire Hospital
 152283 # Korea Elevator Safety Agency
 152299 # Statebank of Mongolia
 152302 # Public Transport Authority of Western Australia
@@ -5371,6 +5315,7 @@
 152657 # Department of Conservation
 152670 # Triple Zero Victoria
 152691 # Civil Aviation Authority of Nepal
+152808 # PT Jamkrida Jabar
 152834 # Dinas Komunikasi dan Informatika Kabupaten Bener Meriah
 152845 # Signal Royal Thai Army
 152854 # CONSTRUCTION INDUSTRY COUNCIL
@@ -5433,7 +5378,6 @@
 154741 # Sutherland Shire Council
 154795 # Badan Gizi Nasional
 154803 # Office of the Permanent Secretary for Defence
-154867 # Indian Computer Emergency Response Team
 154949 # INDIAN RENEWABLE ENERGY DEVELOPMENT AGENCY LIMITED
 154957 # DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN MAJALENGKA
 154982 # Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung Barat
@@ -5453,6 +5397,7 @@
 196895 # Uprava Republike Slovenije za javna placila
 196902 # Dudley Metropolitan Borough Council
 196971 # BEYKOZ BELEDIYESI
+196991 # System Operator of the United Power System, JSC
 197016 # Provincie Friesland
 197111 # Polska Agencja Zeglugi Powietrznej
 197136 # Ministry of Foreign Affairs
@@ -5471,6 +5416,7 @@
 197497 # OFFICE OF THE PRIME-MINISTER OF THE REPUBLIC OF ARMENIA STATE BODY
 197525 # Etablissement d'assurance contre l'incendie et les elements naturels du Canton de Vaud (ECA)
 197582 # State Institution National Library of Ukraine for children
+197645 # GCI Sp. z o.o.
 197668 # Administration of the Governor and Government of the Kirov region
 197694 # Municipal Office of the City Prague
 197737 # Hannoversche Informationstechnologien AoeR
@@ -5481,6 +5427,7 @@
 197823 # Ministarstvo zdravstva
 197829 # Gobierno de Navarra
 197855 # Bolagsverket
+197869 # Luxembourg House of Cybersecurity
 197874 # Landeshauptstadt Muenchen, it@M
 197925 # European Commission
 197935 # Polska Agencja Rozwoju Przedsiebiorczosci
@@ -5495,7 +5442,6 @@
 198062 # PUBLICLY USEFUL FOUNDATION "CENTER FOR INNOVATION AND INFORMATION TECHNOLOGIES"
 198096 # Junta de Andalucia
 198108 # Ukrainian Hydrometeorological Center
-198142 # Warrington Borough Council
 198169 # Informatics and Telecommunications Public Company (ITPC)
 198176 # Podkarpacki Urzad Wojewodzki w Rzeszowie
 198207 # REGIONAL STATE STATE INSTITUTION "CORPORATION FOR DEVELOPMENT OF INTERNET TECHNOLOGIES - MULTIFUNCTIONAL CENTRE FOR PROVIDING STATE AND MUNICIPAL SERVICES IN THE ULYANOVSK REGION"
@@ -5504,6 +5450,7 @@
 198286 # URSSAF Ile de France
 198314 # Ukrainian Sea Ports Authority
 198319 # ARIA S.p.A.
+198344 # Wodociagi i Kanalizacja "HYDROKOM" Sp. z o.o.
 198395 # Ministry of finance of Ukraine
 198435 # DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH
 198464 # Ministry of Education and Higher Education
@@ -5540,8 +5487,8 @@
 199122 # European Chemicals Agency
 199131 # City of York Council
 199148 # Ministry of Health of Russian Federation
-199150 # Excedo Networks AB
 199155 # Direcao Geral de Estatisticas da Educacao e Ciencia
+199171 # Systems Maintenance Service EUROPA S.A.
 199220 # KrU Stredoceskeho kraje
 199262 # Transport for London
 199300 # The State Agency of Medicines of Latvia
@@ -5580,7 +5527,6 @@
 200018 # Region Jonkopings lan
 200060 # Sjofartsverket
 200061 # Gmina Miasta Jaworzna
-200123 # Kola Geological Information Laboratory Centre OJSC
 200139 # Statens Vegvesen
 200144 # Kungsbacka Kommun
 200145 # Aarhus Kommune
@@ -5600,10 +5546,10 @@
 200544 # Swiss Armed Forces - AFCSO
 200559 # Botkyrka Kommun
 200568 # LEPL Digital Governance Agency
+200570 # Kommunale Informationsdienste Magdeburg GmbH
 200630 # Valtion tieto - Ja viestintatekniikkakeskus Valtori
 200648 # Centrum Personalizacji Dokumentow Ministerstwa Spraw Wewnetrznych i Administracji
 200657 # Landkreis Darmstadt-Dieburg
-200666 # Palestine National Fund
 200670 # GMINA MIASTA TORUN
 200686 # Federal State Budgetary Institution "Federal Center of Testing"
 200745 # Urzad Miasta Boleslawiec
@@ -5617,14 +5563,12 @@
 200874 # Liberecky kraj
 200881 # Norrkopings Kommun
 200883 # LEPL- Levan Samkharauli National Forensics Bureau
-200891 # Suomen Yhteisverkko Oy
 200914 # Agencija za bankarstvo FBiH
 200915 # More og Romsdal fylkeskommune
 200949 # European Public Prosecutor's Office
 200987 # Stadt Chur
 200996 # Suomen Kuntaliitto ry
 201052 # Autonomous nonprofit organisation "Computer Incident Response Center"
-201074 # Helse Nord RHF
 201082 # baten-lastendienst Logius
 201092 # FBU Central base of aviation forest protection " Avialesookhrana "
 201139 # Alavuden Kaupunki
@@ -5633,6 +5577,7 @@
 201244 # Russian Scientific Fund
 201252 # Ayuntamiento de Granada
 201267 # LLC "Information Technology Center"
+201299 # BWI GmbH
 201305 # WOJSKOWY INSTYTUT LACZNOSCI
 201318 # Suedwestfalen-IT
 201319 # Stadt Zuerich, Organisation und Informatik
@@ -5656,11 +5601,11 @@
 201678 # Abu Dhabi Digital Authority
 201680 # Ministry of Communication and Information Technology - Qatar
 201688 # Bilgi Teknolojileri ve iletisim Kurumu
+201753 # Wojewodzkie Pogotowie Ratunkowe w Katowicach
 201762 # Royal Borough of Kingston Council
 201780 # State Enterprise Information Court Systems
 201816 # Region Kalmar Lan
 201835 # "State Institution of the Yamal-Nenets autonomous district Multifunctional Centre of state and municipal services"
-201842 # RCSI
 201859 # Ministeries van de Vlaamse Gemeenschap
 201869 # Statens Fastighetsverk
 201897 # Freeport of Riga Authority
@@ -5681,6 +5626,7 @@
 202253 # METROPOLE DE LYON
 202277 # Secretaria-Geral do Governo
 202283 # Rechenzentrum der Finanzverwaltung NRW
+202308 # PASUBIO TECNOLOGIA SRL
 202342 # Federal State Budgetary Institution "National Medical Research Center for Coloproctology named after A.N. Ryzhykh" of the Ministry of Health of the Russian Federation
 202350 # Commune d'Albi
 202380 # Single Resolution Board
@@ -5698,7 +5644,6 @@
 202655 # Ministry of Education (MOE)
 202735 # Communication Regulatory Authority
 202748 # Ministerstwo Klimatu i Srodowiska
-202763 # INFORMATION TECHNOLOGY CENTER LLC JV
 202783 # NHS National Services Scotland
 202788 # Khuzestan Water and Power Authority Co. PJS
 202834 # Commune de Echirolles
@@ -5780,7 +5725,6 @@
 204635 # Dienst Wegverkeer
 204645 # REGIE MUNICIPALE D'ELECTRICITE DE CREUTZWALD
 204658 # ASSEMBLEE NATIONALE EPA
-204679 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 204701 # Executive Committee of the Kryvyi Rih City Council
 204753 # Ministarstvo Finansija - Uprava Carina Republike Srbije
 204772 # Reditelstvi silnic a dalnic s.p.
@@ -5802,25 +5746,22 @@
 205033 # Stadt Regensburg
 205060 # Departament Smolenskoy oblasti po Informatsionnym tekhnologiyam
 205066 # Ministry of Telecommunication & Digital Economy
-205078 # VA SYD
 205092 # UNICEF
 205101 # STAVANGER KOMMUNE
 205139 # Lepida S.c.p.A.
 205155 # Republican Unitary Enterprise "National Centre of Electronic Services"
 205195 # EFSA - European Food Safety Authority
+205234 # Brnenske komunikace a.s.
 205250 # Turun Kaupunki
-205257 # Wojewodzka Stacja Sanitarno-Epidemiologiczna w Rzeszowie
 205335 # Posta ve Telgraf Teskilati Anonim Sirketi
-205346 # Lennuliiklusteeninduse AS
-205435 # GISA GmbH
 205461 # France Travail EPA
 205558 # Autoridade Nacional de Comunicacoes (Anacom)
 205574 # Boras Kommun
-205578 # Directorate General of General Security
 205580 # European Fisheries Control Agency
 205622 # Iran Health Insurance Organization
 205637 # Gemeente Amsterdam
 205693 # Driver & Vehicle Licensing Agency
+205704 # Amap SPA
 205706 # Legnica Municipal Office
 205760 # Syddjurs Kommune
 205782 # TUBITAK NATIONAL METROLOGY INSTITUTE
@@ -5849,6 +5790,7 @@
 206458 # Het Vlaams Parlement
 206474 # Agency for medicinal products and medical devices of Bosnia and Herzegovina
 206490 # Southend-on-Sea City Council
+206555 # BWI GmbH
 206556 # Izmir Buyuksehir Belediyesi
 206571 # Land Burgenland
 206572 # Administration of Barnaul City
@@ -5875,6 +5817,7 @@
 206997 # Hrvatska narodna banka
 207012 # Gmina Olsztyn
 207037 # Information System Authority
+207039 # Satellite Applications Catapult Limited
 207060 # E.J.I.E. - EUSKO JAURLARITZAREN INFORMATIKA ELKARTEA - SOCIEDAD INFORMATICA DEL GOBIERNO VASCO S.A.
 207068 # Uprava za zajednicke poslove pokrajinskih organa
 207131 # Stadtgemeinde Leoben
@@ -5890,8 +5833,6 @@
 207347 # GKU CIT Kuzbassa
 207352 # Wojewodztwo Swietokrzyskie
 207402 # Government of Gibraltar
-207430 # SOCIETE INFORMATIQUE ET TELEMATIQUE CORSE SEM
-207434 # Generalni reditelstvi cel
 207438 # PETERSBURG METRO
 207514 # Croatian Regulatory Authority for Network Industries
 207644 # Sciensano OI
@@ -5907,11 +5848,11 @@
 208093 # Moravskoslezsky kraj
 208096 # Serviciul de Telecomunicatii Speciale
 208138 # Toprak Mahsulleri Ofisi Genel Mudurlugu
+208151 # ITSG Informationstechnische Servicestelle der Gesetzlichen Krankenversicherung GmbH
 208153 # Nationaal Cyber Security Centrum (NCSC-NL)
 208178 # Federal State Institution "National Library of Russia (NLR)"
 208237 # Naestved Kommune
 208240 # Gemeente Rotterdam
-208263 # Harstad Kommune
 208284 # Valsts sabiedriba ar ierobezotu atbildibu "Latvijas Vides, geologijas un meteorologijas centrs"
 208292 # Skive Kommune
 208293 # AlSalam State Company
@@ -5942,7 +5883,6 @@
 208740 # Bundesministerium fuer europaeische und internationale Angelegenheiten
 208789 # SENAT
 208820 # DEPARTEMENT DE LA SEINE-SAINT-DENIS
-208823 # Servei de Informatica Local de Menorca
 208883 # State Audit Office of Georgia
 208891 # Kozlekedesi es Beruhazasi Miniszterium
 208964 # Anstalt fuer Kommunale Datenverarbeitung in Bayern (AKDB)
@@ -5951,6 +5891,7 @@
 208998 # Sredisnji drzavni ured za razvoj digitalnog drustva
 209036 # Central Bank of Iraq
 209064 # Ministry of Internally Displaced Persons from the Occupied Territories Labor Health and Social Affairs of Georgia
+209079 # Imam Khomeini Airport city company
 209084 # Bank of Russia
 209118 # Helsingoer Kommune
 209125 # Kobenhavn Kommune
@@ -5982,12 +5923,12 @@
 209721 # Gemeente Schiedam
 209761 # North of England Commissioning Support Unit
 209790 # Municipal Enterprise "Center for Electronic Services" of the Krivorizian City Council
-209798 # Eesti Avaliku Sektori Andmeside MTU
 209865 # ASL Roma 2
 209904 # STATES-OF-GUERNSEY
 209972 # Government of Republic of North Macedonia
 210010 # Ringkoebing-Skjern Kommune
 210026 # Ministero della Difesa
+210050 # JSC "Guaranteed Buyer"
 210085 # Rzeszowska Agencja Rozwoju Regionalnego S.A.
 210114 # HungaroControl Pte.Ltd.Co.
 210140 # GAVLEBORGS LANS LANDSTING
@@ -6010,9 +5951,7 @@
 210551 # Wealden District Council
 210573 # Research Network Lukasiewicz - PORT Polish Center for Technology Development
 210588 # Mugla Buyuksehir Belediyesi
-210591 # VAS "Latvijas Valsts radio un televizijas centrs"
 210592 # Fintraffic Tie Oy
-210606 # ARKEP
 210615 # Alta kommune
 210638 # Comune di Sassari
 210665 # Innovation and Digital Development Agency (Public Legal Entity)
@@ -6041,12 +5980,12 @@
 211089 # Republican Unitary Enterprise "National Export Promotion Centre"
 211106 # L'Entreprise Publique des Technologies Numeriques de l'Information et de la Communication de la Communaute Francaise
 211113 # Banque de France
+211116 # Puntozero S.c.a.r.l.
 211127 # SYNDICAT INTERCOMMUNAL POUR LES TELECOMMUNICATIONS ET LES PRESTATIONS INFORMATIQUES
 211136 # CERT-EU
 211197 # Informatikleistungszentrum Obwalden - Nidwalden (ILZ)
 211202 # GAU NO "CIT"
 211290 # Istituto Poligrafico E Zecca Dello Stato - Societa' Per Azioni In Breve "IPZS S.P.A"
-211347 # CPO of Samara region
 211354 # Panstwowe Gospodarstwo Wodne Wody Polskie
 211367 # Israel Police
 211375 # MINISTERSTWO INFRASTRUKTURY
@@ -6065,17 +6004,19 @@
 211546 # Mesto Odry
 211636 # Dienst Uitvoering Onderwijs
 211651 # Landeshauptstadt Stuttgart
+211655 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 211704 # CENTRAL ELECTORAL COMMISION OF THE REPUBLIC OF ARMENIA
-211730 # JSC CENTER OF PROSPECTIVE PROJECTS
 211731 # Ministry of labour and social affairs
 211734 # Vegagerdin
 211764 # King Abdul Aziz City for Science and Technology
 211799 # Taivalkosken kunta
 211835 # Centre D'etudes Et D'expertise Sur Les Risques L'environnement La Mobilite Et L'amenagement
+211856 # De Nederlandsche Bank N.V.
 211875 # Government of Jersey
 211929 # Kuusamon kaupunki
 211957 # Commune De Lyon
 212064 # Tolletaten ORGL
+212102 # Litgrid AB
 212106 # Departementenes Digitaliseringsorganisasjon (DIO)
 212140 # Grenoble-Alpes Metropole EPCI
 212151 # Gemeente Den Helder
@@ -6083,24 +6024,25 @@
 212157 # baten-lastendienst Logius
 212208 # GCS E-SANTE BRETAGNE
 212239 # Bundesministerium des Innern und fuer Heimat
-212287 # Svenska Kraftnat
 212313 # Commune De Bauge-en-Anjou
 212324 # SCE DEPARTEMENTAL INCENDIE ET SECOURS
 212350 # LAZIOcrea S.P.A.
 212377 # Direccion General de la Guardia Civil
 212398 # Ministry of Environmental Protection and Agriculture of Georgia
+212399 # Gigaair Ltd
 212413 # Department for Work and Pensions
 212428 # Vejle Kommune
 212481 # COMMUNE DE GRENOBLE
 212502 # Trondheim kommune
 212507 # Royal Hashemite Court
 212542 # SE Diia
+212562 # SYSTEMES INFORMATION HARMONIE MUTUELLES SIHM
 212563 # Mesta Obcina Celje
 212585 # Gemeente Veenendaal
 212587 # Gemeinsame Kommunale Datenzentrale Recklinghausen Zweckverband
 212668 # European Union Agency for Asylum
 212671 # DEPARTEMENT DU RHONE
-212725 # Ovanakers kommun
+212729 # Everlight Radiology Limited
 212778 # Gemeente Leeuwarden
 212814 # European Commission
 212823 # Fuehrungsunterstuetzungsbasis FUB
@@ -6113,7 +6055,6 @@
 213009 # Department of Information Technology of the Dnipro City Council
 213065 # Uitvoeringsinstituut werknemersverzekeringen
 213099 # Gemeente Hilversum
-213121 # Digital Burgenland GmbH
 213129 # The National Health Service of Ukraine
 213132 # Gemeente Vlissingen
 213152 # Narodni bezpecnostni urad Czech Republic
@@ -6131,9 +6072,9 @@
 213324 # Gemeente Lingewaard
 213331 # Belgian Ministry of Defence
 213345 # service administratif a comptabilite autonome charge de la gestion des cartes d identite et du registre national
-213417 # Trabzon Buyuksehir Belediyesi
 213469 # Asker Kommune
 213490 # IT-Dienstleistungszentrum des Saarlandes
+213566 # Bayerische Versorgungskammer
 213595 # Umea kommun
 213680 # Ministry of Foreign Affairs
 213701 # IT Kommuner i Skane AB
@@ -6157,7 +6098,6 @@
 214217 # Etat du Valais
 214303 # Ministry of Hajj and Umrah
 214445 # The North Atlantic Treaty Organization
-214452 # ORGANISMOS LIMENOS THESSALONIKIS ANONYMI ETAIRIA
 214475 # Iran Tax Affairs Organisation
 214568 # Stadt Augsburg - Amt fur Digitalisierung, Organisation und Informationstechnik
 214589 # SYNDICAT MIXTE OUVERT ESSONNE NUMERIQUE
@@ -6194,7 +6134,6 @@
 215809 # Ministry of Construction, Housing and Utilities of the Russian Federation
 215861 # NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )
 215891 # Kantonspolizei St.Gallen
-215950 # Municipal Enterprise of Kharkiv Regional Council "Kharkiv Oblast Communication Systems"
 215954 # Qatar Central Bank
 215985 # Gmina Poddebice
 216011 # Federal State Budgetary Institution "Department for the Operation of Buildings in the North-Western Federal District"
@@ -6216,6 +6155,7 @@
 218509 # Stadt Biel/Bienne
 218603 # IKT Nordhordland Kommunalt Oppgavefellesskap
 218657 # ADM General - Administracion General de la Comunidad Autonoma de Euskadi
+218719 # FAI Russian Maritime Register of Shipping
 218756 # Kanton Zug
 218784 # Luxembourg House of Cybersecurity
 218916 # Fiscale Inlichtingen en Opsporingsdienst (FIOD)
@@ -6267,9 +6207,7 @@
 263718 # PREFECTURA NAVAL ARGENTINA
 263719 # POLICIA NACIONAL DE COLOMBIA
 263727 # Subsecretaría de Estado de Tributación
-263749 # Junta Administrativa del Servicio Eléctrico Municipal de Cartago(JASEC)
 263773 # CEPAL, Naciones Unidas
-263774 # MARANDU COMUNICACIONES SOCIEDAD DEL ESTADO
 263816 # Camara de Diputados de Chile
 263831 # Contraloria General de la Republica
 263850 # Tribunal Regional do Trabalho 17ª Região
@@ -6308,7 +6246,6 @@
 264694 # EGOVERNMENT UNIT
 264695 # MUNICIPALIDAD DE JUNIN
 264705 # Secretaria Nacional de Tecnologias de la Información y Comunicaciones
-264722 # Centro Nacional de Computacion
 264747 # Agencia Nacional de Hidrocarburos
 264789 # AGENCIA BOLIVIANA ESPACIAL
 264792 # Fuerza Aerea Argentina
@@ -6347,7 +6284,6 @@
 265820 # SERVICIO DE ADMINISTRACIÓN DE RENTAS
 265884 # CONSEJO NACIONAL DE INVESTIGACIONES CIENTÍFICAS Y TÉCNICAS (CONICET)
 265939 # TRIBUNAL REGIONAL DO TRABALHO DA 16A. REGIAO
-265993 # ESTADO DO MARANHAO - PROCURADORIA GERAL DA JUSTICA
 265994 # ESTADO DO MARANHAO - SEGOV
 266031 # PRESIDÊNCIA DA REPÚBLICA
 266068 # Tribunal de Justiça do Estado de Sergipe
@@ -6362,8 +6298,6 @@
 266669 # SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
 266700 # HONORABLE CAMARA DE DIPUTADOS DE LA NACION
 266709 # Oficina Presidencial de la Tecnologías de Información y Comunicación
-266717 # Academia Nacional de Ciencias
-266719 # Academia Nacional de Ciencias
 266770 # CAJA PROMOTORA DE VIVIENDA MILITAR Y DE POLICIA
 266775 # BANCO CENTRAL DE LA REPUBLICA ARGENTINA
 266906 # FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS
@@ -6422,7 +6356,6 @@
 269607 # SERGIPE MINISTERIO PUBLICO
 269613 # Município de Ponta Grossa
 269697 # Organização Pan Americana da Saúde
-269743 # UNIMOS EMPRESA MUNICIPAL DE TELECOMUNICACIONES DE IPIALES S.A. E.S.P.
 269766 # CONSEJO DE LA MAGISTRATURA
 269801 # MINISTERIO DE HACIENDA Y FINANZAS
 269845 # DEPARTAMENTO DE CALDAS
@@ -6506,7 +6439,6 @@
 271901 # Secretaria Distrital del Habitat
 271905 # MUNICIPIO DE SOGAMOSO
 271918 # CONCEJO DE MEDELLÍN
-271946 # EMPRESA GUATEMALTECA DE TELECOMUNICACIONES - GUATEL
 271954 # UNIDAD DE SALUD DE IBAGUE USI - ESE
 271961 # HONORABLE SENADO DE LA NACION
 271963 # INSTITUTO COLOMBIANO AGROPECUARIO
@@ -6601,7 +6533,6 @@
 273823 # EMPRESA DE TRANSPORTE MASIVO DEL VALLE DE ABURRA LTDA
 273852 # ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES
 273873 # ASOCIACION PARA LA CONSTRUCCIÓN DEL AEROPUERTO UBICADO EN PALESTINA (CALDAS)
-273977 # OFICINA DE NORMALIZACION PREVISIONAL
 273999 # INSTITUTO FINANCIERO PARA EL DESARROLLO DEL VALLE - INFIVALLE
 274003 # MUNICIPIO DE MAPIRIPAN
 274030 # MINISTERIO DE TRANSPORTE
@@ -6637,7 +6568,6 @@
 327773 # Guichet Unique du Commerce Extérieur De Côte d'Ivoire
 327778 # Bank of Tanzania
 327795 # e-Government Authority
-327804 # Municipal Network Services
 327806 # CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO
 327836 # Office Tchadien de regulatoin des telecommunications(OTRT-IXP-TCHAD)
 327861 # Department of ICT Government of Seychelles
@@ -6680,7 +6610,6 @@
 328403 # Malawi Revenue Authority
 328420 # Bank of Zambia
 328421 # National Information Center (NIC)
-328432 # NORTH STAR INTERNATIONAL
 328435 # Economic & Strategic Research Center
 328448 # La Direction générale des impôts
 328454 # Bank of Ghana
@@ -6727,7 +6656,6 @@
 329335 # Department of HIV & AIDS and Viral Hepatitis
 329342 # DIRECTION GENERALE DES DOUANES ET ACCISES
 329362 # Ministère du Numérique
-329380 # Cameroon Postal Services (CAMPOST)
 329406 # RWANDA SOCIAL SECURITY BOARD (RSSB)
 329423 # Centre d'informatique et de recherche de l'armée et de la sécurité (CIRAS)
 329428 # Agence des Technologies de lnformation et de la Communication (AGETIC)
@@ -6758,7 +6686,6 @@
 329836 # Autorité Malienne de Regulation des Télécommincations/TIC et Postes (AMRTP)
 393228 # City of Vineland Board of Education
 393273 # Education Service Center, Region 17
-393278 # Electric Plant Board of the city of Franklin Kentucky
 393281 # City of Huntington Beach
 393308 # City of Iowa City
 393313 # THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH, INC.
@@ -6771,7 +6698,6 @@
 393452 # Flandreau Santee Sioux Tribe
 393479 # Army Aviation Center Federal Credit Union
 393481 # CITY OF ALLENTOWN
-393514 # New Hampton Municipal Light Plant
 393535 # Fort Bend County
 393555 # City of Baltimore, Mayor's Office of Information Technology
 393557 # Park City Municipal Corporation
@@ -6846,12 +6772,10 @@
 394534 # City of Chicago
 394547 # San Francisco Bay Area Rapid Transit District
 394567 # Corporation of the County of Simcoe
-394576 # Miami International Airport
 394578 # State of California, Department of State Hospitals
 394580 # County of Franklin Virginia
 394596 # City of Santa Paula
 394613 # City of Griffin
-394642 # City of Montgomery
 394656 # Canaveral Port Authority
 394662 # Unified Fire Authority
 394712 # New York State Office of the State Comptroller
@@ -6880,6 +6804,7 @@
 395005 # City of Easton
 395006 # The City and County of Broomfield
 395011 # City and County of San Francisco
+395031 # State Bar of Arizona
 395036 # City of Sanibel
 395106 # Board of Professional Responsibility of the Supreme Court of Tennessee
 395114 # Town of Orangeville
@@ -6890,6 +6815,7 @@
 395226 # Sacramento County Office of Education
 395272 # City of Montreal
 395290 # Port of Portland
+395296 # MSFA
 395302 # Adams County, Colorado
 395317 # Rhode Island State Police
 395323 # County of San Mateo
@@ -6914,7 +6840,6 @@
 395652 # County of Bergen
 395660 # The City of Edmonton
 395677 # GTAA
-395684 # Sun East
 395700 # Executive Office Of The President
 395708 # City of Pearland
 395733 # San Francisco Municipal Transportation Agency
@@ -6937,7 +6862,6 @@
 396009 # City of Blakely, Georgia
 396012 # City of Scottsdale
 396025 # City of Loveland
-396047 # Colorado Springs Utilities
 396062 # VDOT
 396066 # Pasco County Board of County Commissioners
 396072 # Southern California Association of Governments
@@ -6953,7 +6877,9 @@
 396192 # South Jersey Transportation Authority
 396201 # Contra Costa County
 396215 # Charlotte County Board of County Commissioners
+396220 # Public Utility District No. 1 of Snohomish County
 396235 # Town of Davie
+396238 # FairlawnGig.net
 396248 # E-470 Public Highway Authority
 396262 # Fresno County Sheriff's Office
 396273 # Santa Monica CityNet
@@ -6977,7 +6903,6 @@
 396513 # County of Fresno
 396516 # Surete du Quebec
 396870 # Manitoba Agricultural Services Corporation (MASC)
-396878 # Spencer Municipal Utilities
 396889 # CCAP
 396890 # City of Redmond Washington
 396910 # Lee County Port Authority
@@ -6995,9 +6920,7 @@
 397070 # City of Kamloops
 397116 # Wellesley Municipal Light Plant
 397120 # Chemung County, New York
-397142 # City of Fort Collins
 397188 # Societe de l'Assurance Automobile du Quebec
-397189 # Lawrenceburg Municipal Utilities
 397246 # PC Broadband
 397253 # Washington County Cooperative Library Services
 397264 # City of London
@@ -7018,7 +6941,9 @@
 397421 # Societe de l'Assurance Automobile du Quebec
 397430 # County of Kane
 397432 # City of Fort Worth
+397434 # Conference of State Bank Supervisors, Inc.
 397438 # Village of West Jefferson
+397443 # Lower Colorado River Authority
 397447 # ARANSAS COUNTY
 397450 # City of Fairfield
 397452 # Town of Andover MA
@@ -7026,7 +6951,6 @@
 397480 # State of New Jersey Judiciary
 397486 # City of Commerce City
 397495 # Town of Oro Valley
-397496 # Inmarsat Government
 397506 # Agence Revenu Quebec
 397508 # North Jersey Transportation Planning Authority, Inc.
 397523 # NJSDA
@@ -7040,6 +6964,7 @@
 397632 # Mohave County AZ
 397653 # City of Cedar Rapids
 397711 # Halton Regional Police Service
+397713 # Mt San Rafael Hospital
 397714 # Naval Information Warfare Center Atlantic
 397718 # Richland County
 397733 # New York State Education Department
@@ -7047,7 +6972,6 @@
 397776 # County of Summit, Ohio
 397783 # City of Pensacola
 397788 # Putnam County Sheriff's Office
-397790 # Indianola Municipal Utilities
 397793 # Sewerage and Water Board of New Orleans
 397797 # City of Marshall
 397799 # Seminole County Clerk of Courts and Comptroller
@@ -7070,7 +6994,6 @@
 397961 # Government Information Technology Services Limited
 397965 # Travis County, Texas
 397984 # Johnson County Kansas
-397986 # Pennsylvania Convention Center Authority
 397989 # City of Portsmouth, Virginia
 397995 # City of Edmond
 398026 # Indianapolis Airport Authority
@@ -7095,6 +7018,7 @@
 398222 # City of West Palm Beach
 398275 # Yavapai County Free Library District
 398290 # House of Commons
+398293 # LCUB
 398302 # Y-12 National Security Complex
 398315 # Selective Service System
 398320 # Talbot County Department of Emergency Services
@@ -7160,6 +7084,7 @@
 398897 # Henderson County, NC
 398901 # Government of Saint Vincent and the Grenadines - Information Technology Services Division
 398905 # Ville de Gatineau
+398909 # Tsuut'ina Nation
 398919 # Hillsborough County Board of Commissioners
 398923 # MainePERS
 398929 # Loma Linda Connected Community Program
@@ -7184,7 +7109,6 @@
 399246 # Town of Whitby
 399253 # Flagler County Clerk of the Circuit Court & Comptroller
 399269 # City of Torrance
-399307 # Town of Sterling
 399310 # South Sound 911
 399316 # City of Sunrise
 399372 # Pueblo of Jemez
@@ -7211,6 +7135,7 @@
 399692 # Travis Central Appraisal District
 399695 # Marshall County
 399703 # New York State Bridge Authority
+399748 # NL Health Services
 399751 # County of Rockingham
 399762 # City of Buckeye
 399785 # City of New Smyrna Beach
@@ -7218,7 +7143,6 @@
 399850 # Hamilton County
 399851 # Mapleton City
 399884 # Government Information Technology Services Limited
-399918 # Utilities Board of the City of Sylacauga
 399925 # City of Gainesville
 399931 # Luzerne County
 399957 # Queens County District Attorney's Office
@@ -7230,7 +7154,6 @@
 400052 # Guthrie County
 400076 # State of Washington Legislative Service Center
 400077 # Pueblo City-County Library District
-400080 # Grundy Center Municipal Utilities
 400085 # Regina Police Service
 400096 # Pikes Peak Regional Building Department
 400126 # Copper Mountain Consolidated Metropolitan District
@@ -7251,6 +7174,7 @@
 400287 # City of Pharr TX
 400288 # Kativik Regional Government
 400293 # Pikes Peak Library District
+400306 # PHEAA, AES, FedLoan Servicing
 400335 # Central Council of the Tlingit and Haida Indian Tribes of Alaska
 400371 # PUEBLO OF LAGUNA UTILITY AUTHORITY
 400375 # City of Santa Clara, Ca
@@ -7289,9 +7213,7 @@
 400892 # City of Yellowknife
 400898 # State of Iowa OCIO
 400937 # Douglas County, Nevada
-400948 # Midland County Hospital District
 400959 # Town of Cary
-400979 # CPAC
 400988 # Salt Lake County
 401030 # The Corporation of the City of Markham
 401045 # Knox County Government
@@ -7313,6 +7235,7 @@
 401244 # Medina County
 401253 # City of Gulfport
 401259 # Winnebago Tribe of Nebraska
+401269 # Greenville Water
 401271 # Wisconsin Department of Justice
 401317 # Boulder Public Library District
 401324 # Martin County Texas
@@ -7342,7 +7265,6 @@
 401851 # County of San Diego
 401883 # Department of National Defence
 401923 # Grant County Public Utility District
-401942 # Echo911 PSAP 8753
 401953 # U.S. Small Business Administration
 401959 # City of Morrow
 401971 # City of Johns Creek
@@ -7369,6 +7291,7 @@
 402582 # Caddo Parish sheriff's Office
 402599 # ADCOM911
 402608 # City of Xenia
+402612 # CAUCA
 402649 # City of Laramie
 402661 # LACERA
 402675 # City of Gallatin
