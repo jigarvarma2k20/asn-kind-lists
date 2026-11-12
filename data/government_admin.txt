@@ -3978,6 +3978,7 @@
 56551 # Ayuntamiento Rivas Vaciamadrid
 56557 # Department of Digital Development of the Voronezh region
 56561 # Central Bank of the Republic of Armenia
+56565 # Operator-CRPT LLC
 56581 # GBU "Centre of Information Technologies of Amur Region"
 56588 # Information System Authority
 56589 # NASJONAL SIKKERHETSMYNDIGHET
@@ -4177,6 +4178,7 @@
 61569 # Tribunal Regional Federal da 1a Regiao
 61572 # CONTROLADORIA-GERAL DA UNIÃO
 61585 # MINISTÉRIO DA SAÚDE - INSTITUTO NACIONAL DE CÂNCER
+61603 # Goias Telecomunicações SA. - GOIAS TELECOM
 61612 # DEPARTAMENTO DE CIÊNCIA E TECNOLOGIA AEROESPACIAL
 61656 # AGENCIA NACIONAL DE TELECOMUNICACOES - ANATEL
 61738 # SECRETARIA DE ESTADO DE ECONOMIA DO DF - SEEC/DF
@@ -4298,7 +4300,6 @@
 131363 # Department of Information Technology - General Department of Taxation
 131365 # Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment
 131369 # Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment
-131373 # Information Technology Center - Ministry of Science and Technology
 131375 # Information Technology Center - Ministry of Science and Technology
 131381 # Department of Information Technology and Customs Statistics
 131395 # Van phong Dieu phoi Nong thong moi Trung uong
@@ -4350,6 +4351,7 @@
 132066 # New Plymouth District Council
 132081 # GOVERNMENT TECHNOLOGY AGENCY
 132096 # Land Information New Zealand
+132104 # Fars Route Information Technology Services Company
 132117 # Ministry of Interior
 132124 # Information and Communication Technology Agency of Sri Lanka
 132172 # Fiscal Policy Office
@@ -4411,6 +4413,7 @@
 133079 # Northland Regional Council Redundant ISP
 133081 # State Revenue Office Victoria
 133108 # Wanganui District Council
+133122 # Heritage Bank Ltd.
 133154 # Gisborne District Council
 133191 # Special Security Force (SSF), Bangladesh
 133220 # SERVICE NSW DIVISION
@@ -4565,13 +4568,13 @@
 136638 # Tea Board India
 136656 # Jharkhand Agency For Promotion Of Information Technology
 136659 # Itec Department, Government Of Telangana
-136667 # Space Applications Centre
 136687 # Jharkhand Agency For Promotion Of Information Technology
 136701 # National Highways Authority Of India
 136734 # City of Holdfast Bay
 136738 # Dhaka Power Distribution Company Limited
 136781 # Department of Alternative Energy Development and Efficiency
 136794 # Agricultural Development Bank Ltd
+136813 # NCC Bank, Bangladesh
 136829 # Dinas Kominfo Kota Pekalongan
 136831 # DINAS KOMUNIKASI DAN INFORMATIKA KUTAI KARTANEGARA
 136842 # PEMERINTAH PROVINSI PAPUA
@@ -5152,7 +5155,6 @@
 149096 # INVESTMENT AND DEVELOPMENT OF NATIONAL E-PROCUREMENT SYSTEM COMPANY LIMITED
 149121 # Department of Science and Technology of Lai Chau province
 149127 # Bac Giang Department of Information and Communications
-149129 # Vietnam Government Portal
 149153 # Thanh Hoa Information and Communication Technology Center
 149154 # Department of Science and Technology of Lao Cai province
 149156 # Bac Ninh Department of Information and Communications
@@ -5228,6 +5230,7 @@
 150703 # Ministry of Commerce
 150822 # Department of Science and Technology of Tuyen Quang province
 150841 # Department of Science and Technology of Quang Ngai province
+150869 # National Citizen Commercial Joint stock bank
 150883 # Department of Information and Communication of Gia Lai province
 150888 # CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGY, Thai Nguyen Department of Information and Communications
 150893 # Department of Information and Communications of Nghe An province
@@ -5567,10 +5570,10 @@
 200915 # More og Romsdal fylkeskommune
 200949 # European Public Prosecutor's Office
 200987 # Stadt Chur
-200996 # Suomen Kuntaliitto ry
 201052 # Autonomous nonprofit organisation "Computer Incident Response Center"
 201082 # baten-lastendienst Logius
 201092 # FBU Central base of aviation forest protection " Avialesookhrana "
+201117 # ZeroPlex B.V.
 201139 # Alavuden Kaupunki
 201174 # Tbilisi City Hall
 201209 # Urzad Marszalkowski Wojewodztwa Podlaskiego

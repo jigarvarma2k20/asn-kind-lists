@@ -2276,7 +2276,6 @@
 23811 # University of Nagasaki (AS23811)
 23814 # WIDE Project
 23826 # Daido University
-23854 # NINE ENTERTAINMENT CO. PTY LTD
 23855 # Singapore Advanced Research and Education Network
 23859 # University of New South Wales
 23862 # University of the Philippines Diliman
@@ -3249,7 +3248,6 @@
 40942 # Cape Cod Community College
 40944 # Mass College of Liberal Arts
 40947 # Franklin W. Olin College Of Engineering
-40952 # Mid-continent Research for Education and Learning
 40956 # Northwood University
 40981 # University of Montenegro
 41005 # VISIONCUBE S.A.
@@ -4591,6 +4589,7 @@
 139753 # Valaya Alongkorn Rajabhat University Under The Royal Patronage,
 139774 # CERNET Center
 139815 # Taylor's University Sdn Bhd
+139854 # Digi Net
 139868 # Translational Research Institute
 139917 # Aquinas College
 139939 # Institut Seni Budaya Indonesia Bandung
