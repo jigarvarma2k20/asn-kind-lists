@@ -872,6 +872,7 @@
 2679 # Shared Services Canada
 2680 # Shared Services Canada
 2681 # Shared Services Canada
+2682 # Shared Services Canada
 2684 # California ASSEMBLY
 2714 # General Services Administration
 2741 # United States Department of Defense (DoD)
@@ -1879,6 +1880,7 @@
 8978 # Holy See - Vatican City State
 9011 # The Patent Office
 9014 # Centre for Environment Fisheries and Aquaculture Science (CEFAS)
+9108 # Abraxas Informatik AG
 9134 # Federal goverment entity for Scientific Center on Expertise of Medical Application Products
 9201 # Swedish Armed Forces
 9258 # CITEC
@@ -2361,6 +2363,7 @@
 21111 # Ministerstwo Rozwoju i Technologii
 21112 # Islamic Republic of Iran Post PJSC
 21121 # Islamic Republic of Iran Post PJSC
+21193 # Centre de Telecomunicacions i Tecnologies de la Informacio de la Generalitat de Catalunya
 21282 # KazNIC Organization
 21328 # National Bank of Poland
 21331 # Oslo kommune, Digitaliseringsetaten
@@ -2369,6 +2372,7 @@
 21382 # ARD ZDF Deutschlandradio Beitragsservice
 21449 # Etat de Geneve
 21489 # The North Atlantic Treaty Organization
+21525 # Seattle Public Library
 21545 # Kings County Office of Education
 21556 # National Aeronautics and Space Administration
 21564 # Nova Scotia Provincial Government
@@ -2567,6 +2571,7 @@
 25628 # Collier County Clerk of the Circuit Court
 25640 # Hawaii Department of Education
 25664 # Solano County Office of Education
+25689 # Shared Services Canada
 25729 # City of Irving
 25753 # California Public Employees' Retirement System
 25807 # Arlington County Government
@@ -2776,6 +2781,7 @@
 27574 # North Texas Municipal Water District
 27622 # Retirement Systems of Alabama
 27623 # Edmonton Public Library
+27628 # Innovation Saskatchewan
 27629 # National Oceanic and Atmospheric Administration
 27673 # Instituto Nacional de Estadistica Geografia e Info
 27674 # SERVICIO METEOROLOGICO NACIONAL
@@ -4597,7 +4603,6 @@
 136971 # Wyndham City Council
 137024 # Australian Crime Commission
 137025 # Port of Brisbane Pty Ltd
-137058 # Aeronautical Radio of Thailand Ltd.
 137136 # Indian Agricultural Statistics Research Institute
 137148 # Thane Municipal Corporation
 137238 # Department of Immigration
@@ -6089,6 +6094,7 @@
 213317 # SI D ENERGIE ET DE E-COMMUNICATION DE L AIN SIVU
 213324 # Gemeente Lingewaard
 213331 # Belgian Ministry of Defence
+213342 # Adrian Pistol
 213345 # service administratif a comptabilite autonome charge de la gestion des cartes d identite et du registre national
 213469 # Asker Kommune
 213490 # IT-Dienstleistungszentrum des Saarlandes
@@ -6730,6 +6736,7 @@
 393594 # United States Naval Observatory
 393601 # State of Missouri Office of Administration
 393605 # Brazos Valley Council of Governments
+393607 # Innovation Saskatchewan
 393621 # City of Maryville
 393638 # City of Mesquite Texas
 393661 # County of Nevada
@@ -6959,7 +6966,6 @@
 397344 # Canada Mortgage and Housing Corporation
 397351 # Town of Flower Mound
 397371 # Harris County Department of Education Public Facil
-397377 # Town of Estes Park
 397382 # Eastern Caribbean Central Bank
 397392 # BJWSA
 397397 # Cheyenne Board of Public Utilities
