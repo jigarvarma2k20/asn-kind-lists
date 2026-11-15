@@ -3609,7 +3609,6 @@
 46801 # Regional Income Tax Agency
 46808 # Pueblo of Santa Ana
 46825 # Coldwater Board of Public Utilities
-46838 # Port of Long Beach
 46846 # U.S. Department of Energy
 46877 # Alberta Electric System Operator
 46879 # North Central Texas Council of Governments
@@ -3892,7 +3891,6 @@
 54413 # General Services Administration
 54439 # Montgomery County Government, Maryland
 54451 # Fairfax Water
-54457 # Harris County Emergency Corps
 54469 # City of Vacaville
 54474 # City of Santa Cruz
 54481 # County of Chester
@@ -4146,6 +4144,7 @@
 60562 # Ministry Of Health and Medical Education
 60565 # Wojewodzka Stacja Pogotowia Ratunkowego Szczecin
 60604 # Primaria Municipiului Calarasi
+60615 # COMPANIA NATIONALA POSTA ROMANA S.A.
 60617 # Stadt Zug
 60621 # Authority of Developing Al-Madinah Al-Munawarah
 60628 # FGBU "REA" Minenergo Russia
@@ -4429,6 +4428,7 @@
 133108 # Wanganui District Council
 133154 # Gisborne District Council
 133191 # Special Security Force (SSF), Bangladesh
+133193 # Provincial Electricity Authority (PEA)
 133220 # SERVICE NSW DIVISION
 133231 # Goods And Services Tax Network
 133256 # TANGEDCO
@@ -5215,6 +5215,7 @@
 150280 # Kantor Otoritas Bandar Udara
 150283 # Dinas Komunikasi Informatika, Statistik dan Persandian Kabupaten Gowa
 150300 # The Permanent Secretary, Ministry of Transport of Thailand
+150301 # WATER CORPORATION
 150304 # Bangladesh Television
 150321 # Secretariat of the Pacific Regional Environment Programme
 150323 # Dak Lak Province Smart City Monitoring and Operation Center
@@ -5751,7 +5752,6 @@
 204838 # Serviciul National Unic Pentru Apelurile de Urgenta 112
 204842 # Ministry of Justice Bulgaria
 204847 # Borgholms Kommun
-204850 # Sodertalje Kommun
 204870 # Miasto Bydgoszcz
 204896 # Vaxjo Kommun
 204897 # COMMUNAUTE URBAINE GRAND BESANCON METROPOLE
@@ -6170,6 +6170,8 @@
 216372 # Republika Slovenija Ministrstvo za Infrastrukturo
 216465 # Islamic Military Counter Terrorism Coalition
 216470 # DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA
+218084 # Ministry of Finance of the Republic of Armenia
+218090 # BANQUE DU LIBAN
 218119 # FEDERAL STATE INSTITUTION "MAIN INFORMATION AND ANALYTICAL CENTER OF THE MINISTRY OF INTERNAL AFFAIRS OF THE RUSSIAN FEDERATION"
 218137 # National Assembly of Bulgaria
 218185 # Communaute D'agglo De L'albigeois C2a
@@ -6724,6 +6726,7 @@
 393354 # Town of Holly Springs
 393387 # Port of Tacoma
 393399 # Sandia National Laboratories
+393436 # San Luis Valley Rural Electric Cooperative, Inc.
 393438 # Calleguas Municipal Water District
 393452 # Flandreau Santee Sioux Tribe
 393479 # Army Aviation Center Federal Credit Union
@@ -6916,6 +6919,7 @@
 396248 # E-470 Public Highway Authority
 396262 # Fresno County Sheriff's Office
 396273 # Santa Monica CityNet
+396305 # Clarksville Connected Utilities
 396315 # City of Austin, Texas
 396320 # Metropolitan Airports Commission
 396322 # Peace Corps

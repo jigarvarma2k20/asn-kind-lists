@@ -6035,7 +6035,6 @@
 154301 # THE ASSOCIATION OF INDEPENDENT SCHOOLS OF NEW SOUTH WALES LIMITED
 154354 # Politeknik Negeri Lhokseumawe
 154392 # Singapore Institute of Technology
-154417 # Mahir Dot Net
 154518 # SHREE SWAMINARAYAN GURUKUL
 154519 # University of Computer Studies, Yangon
 154540 # Moriah War Memorial College Association
@@ -6778,7 +6777,7 @@
 329326 # Accra Technical University
 329353 # Université Virtuelle de Côte d'Ivoire (UVCI)
 329376 # Zimbabwe Research & Education Network
-329398 # Ecole Supérieure Multinationale des Télécommunications (ESMT)
+329398
 329407 # Universite Cheikh Anta DIOP de DAKAR
 329410 # Sunyani Technical University
 329418 # International Centre for Research in Agroforestry
