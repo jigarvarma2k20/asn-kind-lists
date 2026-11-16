@@ -1902,7 +1902,6 @@
 18564 # St. John's University, New York
 18572 # Beaver Valley Intermediate Unit #27
 18592 # Corporacion Universitaria para el Desarrollo de Internet, A.C.
-18607 # Gustav Caplan
 18621 # The Conestoga College Institute of Technology and Advanced Learning
 18627 # Calgary Board of Education
 18630 # The Ridley School District
@@ -2071,7 +2070,6 @@
 21976 # NJEDge.Net, Inc.
 21984 # Fairfax County Public Schools
 21995 # Canadian Light Source Inc.
-22000 # ALLIANCE FOR ACADEMIC INTERNAL MEDICINE
 22050 # School District of Lancaster
 22063 # J. Paul Getty Trust
 22068 # Tyler Junior College
@@ -2629,6 +2627,7 @@
 30454 # Copiah-Lincoln Community College
 30460 # Holmes Community College
 30472 # East-West Center
+30480 # OneNet
 30499 # Youngstown State University
 30505 # Thomas Jefferson University
 30543 # Treasure Valley Community College
@@ -3191,6 +3190,7 @@
 44304 # Ternopil Ivan Puluj National Technical University
 44358 # Kauno Technologijos Universitetas
 44399 # FH OOe Studienbetriebs GmbH
+44406 # LLC Beliy Most
 44593 # Fundacion Centro de Supercomputacion de Castilla y Leon
 44639 # Isik University
 44805 # New Bulgarian University
@@ -3247,6 +3247,7 @@
 45906 # LERNET at LAOs
 45953 # CEnet
 45962 # James Cook University
+45971 # Financial Security Institute
 45984 # Dongnam Institute of Radiologycal Sciences
 46012 # Induk University
 46019 # Universitas Brawijaya
@@ -3312,7 +3313,6 @@
 46551 # Michigan State University Federal Credit Union
 46563 # Stonehill College
 46569 # Walsh College of Accountancy and Business Administration
-46599 # McClure Services LLC
 46611 # Clay County Schools
 46621 # Broome - Tioga BOCES
 46628 # UT Medicine SA
@@ -3411,7 +3411,6 @@
 49918 # Institutul pentru Tehnologii Avansate
 49929 # Federal State Autonomous Educational Institution of Higher Education "National Research Technological University "MISIS"
 49976 # Area di Ricerca Scientifica e Tecnologica di Trieste - Area Science Park
-50112 # Fondazione Ugo Bordoni
 50195 # Univerza v Mariboru
 50237 # The College of Management, Academic Studies, Founded by the Union Officials in Tel Aviv, Corporation for Public-Benefit Ltd.
 50276 # Federal State Budgetary Educational Institution of Higher Education "Russian University of Chemical Technology named after D.I. Mendeleev"
@@ -6056,6 +6055,7 @@
 196948 # Ventspils Augstskola
 197005 # Instytut Ekonomiki Rolnictwa i Gospodarki Zywnosciowej Panstwowy Instytut Badawczy
 197119 # KRENA - Kyrgyz research and education network association
+197178 # Jinwei Zhao
 197291 # Ken Marfilla
 197319 # Luca Maximilian Wannemacher
 197438 # Julius Birkhofen
@@ -6219,7 +6219,6 @@
 205415 # Hossein Ashraf Semnani
 205451 # UNITED NATIONS SYSTEM STAFF COLLEGE (UNSSC)
 205551 # Blep.cz, z. s.
-205591 # Alyx Funken
 205656 # User Association of Ukrainian Research and Academic Network URAN
 205667 # JSC Narxoz University
 205669 # Association ResEl
@@ -6467,7 +6466,6 @@
 218985 # YU WANG
 218996 # University of Prishtina
 219011 # Giosue' Casagrande
-219013 # Santiago Fernandez Fernandez
 219034 # Quang Lam Le
 219078 # CHENG JIZHONG
 219166 # Markus Heptner
@@ -6655,7 +6653,6 @@
 270232 # CIATEQ, A.C.
 270233 # Ciatec, A.C.
 270234 # CENTRO DE INVESTIGACION EN MATERIALES AVANZADOS
-270348 # Sidia Instituto de Ciencia e Tecnologia
 270492 # UNIFAI - Centro Universitário de Adamantina
 270693 # UNIVERSIDADE FEDERAL DO PIAUI
 271107 # Instituto Federal do Tocantins - Campus Araguaina
@@ -6777,7 +6774,6 @@
 329326 # Accra Technical University
 329353 # Université Virtuelle de Côte d'Ivoire (UVCI)
 329376 # Zimbabwe Research & Education Network
-329398
 329407 # Universite Cheikh Anta DIOP de DAKAR
 329410 # Sunyani Technical University
 329418 # International Centre for Research in Agroforestry
