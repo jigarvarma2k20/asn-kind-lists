@@ -97,6 +97,7 @@
 513 # CERN - European Organization for Nuclear Research
 520 # Coins Community Online Intelligence System
 542 # Alberta Research Council
+549 # ORION
 553 # Universitaet Stuttgart
 554 # California Internet Federation
 556 # USC/Information Sciences Institute
@@ -665,7 +666,7 @@
 2478 # Renater
 2479 # Renater
 2480 # Renater
-2481 # INRIA
+2481 # AFNIC (Association Francaise pour le Nommage Internet en Cooperation)
 2487 # Institute for Theoretical & Experimental Physicis B.Cheremushkinskaja 25 Moscow, 117259 RU
 2488 # International Institute for Applied Systems Analysis
 2494 # MUWNET Autonomous System
@@ -930,6 +931,7 @@
 4616 # The Hong Kong Polytechnic University
 4621 # UNINET-TH
 4665 # Yonsei University
+4667 # GNS Science New Zealand
 4690 # WIDE Project
 4697 # Nippon Telegraph and Telephone Corporation
 4717 # WIDE Project
@@ -976,7 +978,6 @@
 5550 # Technical University of Gdansk, Academic Computer Center TASK
 5553 # Federal State Budgetary Educational Institution of Higher Education "Tambov State Technical University"
 5567 # National Research Tomsk Polytechnic University
-5568 # Join-stock company "Internet Exchange"MSK-IX"
 5584 # University of Bahrain
 5601 # Kungliga Tekniska Hogskolan
 5627 # Shahrood University of Technology
@@ -1335,6 +1336,7 @@
 10353 # Southwest Tennessee Community College
 10357 # James Madison University
 10364 # University of Alabama in Huntsville
+10395 # Virtual University Enterprises
 10402 # Harrison School District Two
 10417 # Fundação de Desenvolvimento da Pesquisa
 10421 # Texas Tech University
@@ -1960,7 +1962,6 @@
 19473 # Southwestern Adventist University
 19501 # Texas Tech University
 19509 # Our Lady of the Lake University
-19529 # RFPT COMPANY LLC
 19537 # Upper Arlington City School District
 19564 # Louisiana Tech University
 19576 # Eastern University
@@ -2599,7 +2600,6 @@
 30022 # Gemological Institute of America
 30045 # University Health Network
 30054 # The College of Westchester
-30071 # TowardEX Technologies International, Inc.
 30075 # Lake Washington School District #414
 30105 # The Board of Education of the Saskatoon School Division No. 13 of Saskatchewan
 30107 # West Ada School District
@@ -2806,6 +2806,7 @@
 33434 # Hamilton College
 33455 # University of Northwestern
 33460 # Waubonsee Community College
+33466 # Florida Virtual School
 33477 # Knox College
 33485 # Lehigh Carbon Community College
 33503 # Medical College of Wisconsin
@@ -3120,6 +3121,7 @@
 40387 # University of Illinois
 40421 # Providence College
 40469 # Northeastern Educational Intermediate Unit 19
+40486 # Florida Virtual Campus
 40497 # Bethel University
 40498 # New Mexico Lambda Rail, Inc.
 40503 # Hiram College
@@ -3742,6 +3744,7 @@
 58069 # Karlsruhe Institute of Technology
 58071 # PEOPLES FRIENDSHIP UNIVERSITY OF RUSSIA
 58104 # University of Isfahan
+58137 # RASH - Rrjeti Akademik Shqiptar
 58255 # Institute for Nuclear Research of the Russian Academy of Sciences
 58279 # Federal State Budgetary Institution "All Russia Research Geological Petroleum Institute" (FGBU VNIGNI)
 58302 # Studentersamfundet i Trondhjem
@@ -6253,6 +6256,7 @@
 207427 # IBILLY MEDIA GROUP LTD
 207431 # AUB Limited
 207507 # Non-profit joint-stock company "Karaganda technical University"
+207529 # NYANLOLI LTD
 207592 # Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen
 207611 # Rheinische Friedrich-Wilhelms-Universitaet Bonn
 207635 # Matteo Zannini
@@ -6402,6 +6406,7 @@
 214003 # Iranian Research Organization for Science & Technology
 214023 # Institut Mines-telecom trading as Telecom Paris site de Palaiseau
 214070 # SCES COMMUNS IMT BUSINESS SCHOOL TELECOM SUD PARIS
+214145 # Seyed Pouria Mousavizadeh Tehrani
 214201 # Federal State Budgetary Educational Institution of Higher Education "Mirea - Russian Technological University"
 214341 # Stefan Mincu
 214516 # Fundacion Universitaria San Pablo-CEU
@@ -7310,6 +7315,7 @@
 401262 # Tredyffrin/Easttown School District
 401264 # University of Arkansas Community College at Morrilton
 401274 # Alice L. Walton School of Medicine
+401285 # MICHIGAN VIRTUAL
 401290 # Louisiana State University at Alexandria
 401307 # Michigan Statewide Educational Network
 401342 # Stanford University

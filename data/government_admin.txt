@@ -1232,7 +1232,6 @@
 4586 # Texas Natural Resources Information System
 4602 # Navy Network Information Center (NNIC)
 4607 # Air Force Systems Networking
-4667 # GNS Science New Zealand
 4754 # 1016, Electronics Niketan, 6, CGO Complex
 4758 # National Informatics Centre
 4820 # Department of Communities and Justice
@@ -1835,9 +1834,6 @@
 7444 # Systel S.A.R.L.
 7465 # PROCERGS - Cia de Processamento de Dados do RGS
 7471 # City of Darebin
-7547 # The East China regional network of CEInet
-7548 # The hainan regional network of CEInet
-7549 # The North China regional network of CEInet
 7563 # Korea Internet Security Agency
 7576 # ShaoGuan Information Center
 7626 # SCOURTFAMILY
@@ -2180,7 +2176,6 @@
 17297 # CITY OF CARROLLTON - TEXAS
 17343 # South Florida Water Management District
 17365 # City of Fresno
-17425 # Provincial Electricity Authority (PEA)
 17434 # RESERVE BANK OF AUSTRALIA
 17455 # Department of Communities and Justice
 17461 # NSW Department of Commerce
@@ -2361,7 +2356,6 @@
 21556 # National Aeronautics and Space Administration
 21564 # Nova Scotia Provincial Government
 21589 # City of San Jose
-21613 # Quinault Indian Nation
 21617 # National Archives and Records Administration
 21631 # Colorado Housing and Finance Authority
 21633 # U.S. Department of the Interior
@@ -2922,7 +2916,7 @@
 31614 # European Central Bank
 31674 # T.C. Maliye Bakanligi Gelirler Genel Mudurlugu
 31683 # Zarzad Morskiego Portu Gdynia S.A
-31705 # Europaischen Organisation fuer die Nutzung Meteorologischen Satelliten (Eumetsat)
+31705 # EUMETSAT
 31756 # City of Colorado Springs
 31794 # Caribbean Development Bank
 31802 # City of San Rafael
@@ -3314,6 +3308,7 @@
 40863 # Bossier Parish Police Jury
 40876 # City of Largo
 40879 # Incorporated County of Los Alamos
+40884 # TTC
 40959 # City and County of Denver -  Denver International Airport
 40973 # Junta de Comunidades de Castilla-La Mancha
 41072 # Fabrica Nacional de Moneda y Timbre
@@ -3437,6 +3432,7 @@
 43985 # Wojewodztwa Slaskiego - Urzad Marszalkowski Wojewodztwa Slaskiego
 43988 # Agenzia per L'Italia Digitale
 44008 # Royal Borough of Kensington and Chelsea
+44025 # KazNIC Organization
 44085 # DARS d.d.
 44177 # INBW Infrastruktur und Netzwerk Baden-Wuertemberg GmbH
 44201 # Bulgarian National Bank
@@ -3933,6 +3929,7 @@
 56261 # Balai Telekomunikasi dan Informatika Perdesaan
 56295 # Brisbane City Council
 56375 # Imam Khomeini Relief Foundation IKRF
+56390 # TFOMS Kemerovskoy oblasti - Kuzbassa
 56436 # Ministry of Information Technologies and Communications of Chelyabinsk Region
 56461 # Information Technology Organization of Isfahan Municipality
 56486 # Qom Municipality
@@ -4096,7 +4093,6 @@
 60562 # Ministry Of Health and Medical Education
 60565 # Wojewodzka Stacja Pogotowia Ratunkowego Szczecin
 60604 # Primaria Municipiului Calarasi
-60615 # COMPANIA NATIONALA POSTA ROMANA S.A.
 60617 # Stadt Zug
 60621 # Authority of Developing Al-Madinah Al-Munawarah
 60628 # FGBU "REA" Minenergo Russia
@@ -4376,7 +4372,6 @@
 133108 # Wanganui District Council
 133154 # Gisborne District Council
 133191 # Special Security Force (SSF), Bangladesh
-133193 # Provincial Electricity Authority (PEA)
 133220 # SERVICE NSW DIVISION
 133231 # Goods And Services Tax Network
 133256 # TANGEDCO
@@ -4411,7 +4406,6 @@
 133884 # Airways Corporation of New Zealand
 133888 # Geo-Informatics and Space Technology Development
 133890 # Bangladesh Army
-133947 # Metropolitan Electricity Authority
 133979 # NATIONAL CENTRE FOR ANTARCTIC AND OCEAN RESEARCH
 133992 # Chhattisgarh Infotech and Biotech Promotion Society
 134029 # Unique Identification Authority of India
@@ -4550,6 +4544,7 @@
 136971 # Wyndham City Council
 137024 # Australian Crime Commission
 137025 # Port of Brisbane Pty Ltd
+137058 # Aeronautical Radio of Thailand Ltd.
 137136 # Indian Agricultural Statistics Research Institute
 137148 # Thane Municipal Corporation
 137238 # Department of Immigration
@@ -6912,7 +6907,6 @@
 397632 # Mohave County AZ
 397653 # City of Cedar Rapids
 397711 # Halton Regional Police Service
-397713 # Mt San Rafael Hospital
 397718 # Richland County
 397733 # New York State Education Department
 397741 # City Of Dubuque
