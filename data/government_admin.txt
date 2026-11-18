@@ -3712,6 +3712,7 @@
 51085 # BUSINESS FRANCE EPIC
 51096 # Magyar Orszagos Kozjegyzoi Kamara
 51098 # Agentia Spatiala Romana
+51139 # CASA ATC SERVIZI SRL
 51316 # MBU Elektronnyj Ekaterinburg
 51344 # IDM Suedtirol Alto Adige
 51348 # Administration of Orenburg City
@@ -4523,6 +4524,7 @@
 136638 # Tea Board India
 136656 # Jharkhand Agency For Promotion Of Information Technology
 136659 # Itec Department, Government Of Telangana
+136667 # Space Applications Centre
 136687 # Jharkhand Agency For Promotion Of Information Technology
 136701 # National Highways Authority Of India
 136734 # City of Holdfast Bay
@@ -5448,6 +5450,7 @@
 199300 # The State Agency of Medicines of Latvia
 199350 # Ministerstvo financi
 199355 # Landstinget Dalarna
+199401 # APIS IT d.o.o.
 199447 # Agency for Animal Identification and Registration
 199470 # Orebro Lans Landsting
 199499 # Holy See - Vatican City State
@@ -5622,7 +5625,6 @@
 203242 # Gemeente Geldrop-Mierlo
 203250 # Hjoerring Kommune
 203279 # Miasto Wodzislaw Slaski
-203289 # TRT Yeni Medya Kanal Koordinatorlugu
 203310 # Ministry of Internal Affairs
 203311 # NATO Cooperative Cyber Defence Centre of Excellence
 203348 # Hellenic Telecommunications and Post Commision
@@ -7156,7 +7158,6 @@
 401030 # The Corporation of the City of Markham
 401045 # Knox County Government
 401047 # Lyndon Township
-401085 # Lower Colorado River Authority
 401114 # Columbia County
 401121 # Hennepin County
 401151 # Marion County

@@ -2044,7 +2044,6 @@
 21182 # Opole University
 21274 # State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)
 21320 # GEANT Vereniging
-21324 # OSRODEK STUDIoW WSCHODNICH IM. MARKA KARPIA W WARSZAWIE
 21506 # Fundação Universidade de Brasília
 21517 # Kennesaw State University
 21520 # Instituto Tecnologico Autonomo de Mexico(ITAM)
@@ -6224,7 +6223,6 @@
 205551 # Blep.cz, z. s.
 205656 # User Association of Ukrainian Research and Academic Network URAN
 205667 # JSC Narxoz University
-205669 # Association ResEl
 205802 # Zentrum fuer Sonnenenergie- und Wasserstoff-Forschung Baden Wuerttemberg
 205833 # Al-mustafa International University
 205970 # openbgpd
