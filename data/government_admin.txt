@@ -3870,7 +3870,6 @@
 54935 # City of McAllen
 54949 # New York State Senate
 55006 # Volusia Sheriff's Office
-55046 # National Government Services, Inc.
 55057 # Office of the Illinois Attorney General
 55063 # City of Fairfax
 55087 # Brazos County
@@ -5781,7 +5780,6 @@
 207402 # Government of Gibraltar
 207438 # PETERSBURG METRO
 207514 # Croatian Regulatory Authority for Network Industries
-207644 # Sciensano OI
 207653 # Rechnungshof Oesterreich
 207742 # Dabrowa Gornicza - Miasto na Prawach Powiatu
 207800 # Information System Authority
@@ -5891,7 +5889,7 @@
 210287 # GMINA MIEJSKA KRAKOW - URZAD MIASTA KRAKOWA
 210303 # Hamburg Port Authority AoeR
 210317 # Municipality of Borlange
-210340 # Ministry of Economy of Ukraine
+210340 # Ministry of Economy and Environment of Ukraine
 210364 # State Agency for Restore and Development of Infrastructure of Ukraine
 210378 # Kanton Zurich
 210498 # Kraj Vysocina

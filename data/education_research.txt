@@ -1791,7 +1791,7 @@
 17521 # Kochi University of Technology
 17523 # Aoyama Gakuin University
 17532 # Tokyo Polytechnic University
-17542 # The New Zealand Institute for Plant and Food Research
+17542 # New Zealand Institute for Bioeconomy Science Limited
 17553 # Bogor Agricultural University
 17575 # Chung-Ang University
 17578 # CHEJU HALLA UNIVERSITY
@@ -6390,7 +6390,7 @@
 213472 # Dr. Josef Koehr
 213510 # Eric Johnson
 213523 # National Research Center "Kurchatov Institute"
-213605 # Liu HaoRan
+213605 # Haoran Liu
 213625 # Xuluo Chen
 213634 # Universitatea din Craiova
 213675 # King Faisal Specialist Hospital and Research Centre
@@ -6442,6 +6442,8 @@
 216398 # Hasso Plattner Institut fuer Digital Engineering gGmbH
 216414 # UPMC GLOBAL OPERATIONS CENTER LIMITED
 216467 # Universitaet Bern
+218034 # Greggory Lansdale
+218038 # Alexey Lapkis
 218176 # Technische Universitaet Wien
 218177 # Technische Universitaet Wien
 218178 # Technische Universitaet Wien
