@@ -2215,7 +2215,7 @@
 23799 # National Defense Academy
 23803 # The University of Tokyo
 23807 # Ritsumeikan University
-23811 # University of Nagasaki (AS23811)
+23811 # JANOG59 Meeting
 23814 # WIDE Project
 23826 # Daido University
 23855 # Singapore Advanced Research and Education Network
@@ -3478,6 +3478,7 @@
 52636 # CESB-Centro de Educacao Superior de Brasilia LTDA
 52703 # Fundação São Paulo
 52728 # CESBOM-CENTRO DE ENSINO SUPERIOR DE BOM DESPACHO
+52750 # Fundação Centros de Ref. em Tecnologias Inovadoras
 52834 # FERJ - Fundação Educacional Regional Jaraguaense
 52853 # UFLA - UNIVERSIDADE FEDERAL DE LAVRAS
 52888 # UNIVERSIDADE FEDERAL DE SAO CARLOS
@@ -3661,6 +3662,7 @@
 55618 # UNIVERSITY OF ULSAN
 55621 # Jeonju National University Of Education
 55622 # CNUE
+55624 # DAELIM
 55625 # Chungwoon University
 55626 # Kyungin Womens college
 55627 # Dongduk Womens University
@@ -6442,6 +6444,7 @@
 216398 # Hasso Plattner Institut fuer Digital Engineering gGmbH
 216414 # UPMC GLOBAL OPERATIONS CENTER LIMITED
 216467 # Universitaet Bern
+218024 # EEA AS
 218034 # Greggory Lansdale
 218038 # Alexey Lapkis
 218176 # Technische Universitaet Wien

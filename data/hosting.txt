@@ -39,7 +39,6 @@
 987 # WIBX SAS
 989 # ASPnix
 996 # JY Mobile Communications
-997 # Beyotta Services LLP
 999 # CORIX NETWORKS
 1002 # Bytefilter LLC
 1004 # Ambyre LLC
@@ -87,7 +86,6 @@
 2827 # Momtaz ICT
 2851 # ColocationIX GmbH
 2899 # ARK Data Centers LLC
-2901 # Oso Grande Technologies, Inc.
 3064 # HDC/HW Enterprise, LLC
 3164 # Astimp IT Solution SRL
 3170 # VeloxServ Communications Ltd
@@ -439,6 +437,7 @@
 9312 # xTom
 9334 # iManila
 9335 # National Telecom Public Company Limited
+9353 # MEDIAWARS co.,ltd.
 9370 # SAKURA Internet Inc.
 9371 # SAKURA Internet Inc.
 9388 # Chengdu west dimension digital technology Co.,LTD
@@ -639,6 +638,7 @@
 11973 # Secure Independence, Inc
 11987 # INDY WEB INC
 11989 # HostPapa
+11990 # Unlimited Net, LLC
 12025 # Iron Mountain Data Center
 12060 # NAP OF CENTRAL FLORIDA, INC
 12069 # Rev.Net Technologies
@@ -707,7 +707,6 @@
 12859 # BIT BV
 12876 # Scaleway SAS
 12878 # COLT Technology Services Group Limited
-12902 # Ekco B.V.
 12915 # EPAG Domainservices GmbH
 12971 # Internet Viennaweb Service GmbH
 12980 # AT&T Global Network Services Nederland B.V.
@@ -1358,6 +1357,7 @@
 19654 # BroadbandONE, LLC
 19656 # Lehigh Secure Data LLC
 19674 # Navpoint Internet
+19679 # Dropbox, Inc.
 19682 # TeleFlex Networks, LLC
 19683 # Foren Data, Inc.
 19693 # Centrilogic, Inc.
@@ -1703,9 +1703,7 @@
 23749 # HKCOLO ltd. Internet Service Provider
 23753 # Webmetrix Pty Ltd, Transit AS
 23758 # KRS Hosting
-23785 # SUN FIELD INTERNET LIMITED
 23794 # Broadmedia Corporation
-23817 # Fujitsu Limited.
 23824 # Future Spirits Co.,Ltd.
 23844 # Beijing Guanghuan Xinwang Digital
 23852 # NGNNET
@@ -2125,7 +2123,6 @@
 28721 # Allnet Cloud Srl
 28744 # Equinix (EMEA) Acquisition Enterprises B.V.
 28747 # Easyhost BVBA
-28748 # Marc Pauls (AlphaCron Datensysteme)
 28753 # Leaseweb Deutschland GmbH
 28762 # Citytelecom LLC
 28768 # Alpilink Cloud S.A.S.
@@ -2599,7 +2596,6 @@
 33512 # Gateway Processing Services
 33514 # Executive Corporate, Inc.
 33517 # Oracle Corporation
-33522 # cPanel, LLC.
 33529 # PAC Worldwide Corporation
 33538 # Mimecast North America Inc
 33549 # Whipcord Edge Data Centers Inc.
@@ -2993,7 +2989,6 @@
 37775 # Djibouti Data Center SARL
 37790 # ST DIGITAL
 37797 # Open Access Data Centres (Mauritius) Ltd
-37898 # digitiminimi, inc.
 37907 # DigiRock, Inc.
 37916 # A.T.WORKS, Inc.
 37938 # Guangxi XingKong Cloud Big Data co.,Ltd.
@@ -3141,7 +3136,7 @@
 39506 # SYNTIS SARL
 39519 # WIIT AG
 39521 # TNGNET B.V.
-39536 # BO ICT Management, S.L.
+39536 # BOTIC Management, S.L.
 39540 # CommunityRack.org Verein
 39556 # PIN Hosting Europe GmbH
 39561 # "Domain names registrar REG.RU", Ltd
@@ -3404,7 +3399,6 @@
 41993 # Cloud Center Finland Oy
 42007 # Perviy TSOD LLC
 42008 # teuto.net Netzdienste GmbH
-42010 # I.T. PROFESSIONAL SERVICES LIMITED
 42018 # Telenet BV
 42034 # DN-Systems Enterprise Internet Solutions GmbH
 42044 # CentralNic Ltd
@@ -3532,7 +3526,6 @@
 43112 # TSBG Hosting Ltd.
 43128 # Webtasy, d.o.o.
 43134 # Delta HighTech Ltd.
-43142 # ADELI SAS
 43146 # "Domain names registrar REG.RU", Ltd
 43147 # Equinix (Poland) Sp. z o.o.
 43151 # UAB "STARNITA"
@@ -4438,7 +4431,6 @@
 50875 # Ness Telekom Hizmetleri Sanayi ve Ticaret Anonim Sirketi
 50889 # NVIDIA Ltd
 50891 # Moviement srl
-50903 # TRINAPS SAS
 50919 # INTERWORKS Single Member S.A.
 50921 # Hosting Solutions SRL
 50926 # AXARNET COMUNICACIONES, S.L.
@@ -4846,7 +4838,6 @@
 55038 # Internet2
 55045 # TekTonic
 55051 # EBOUNDHOST.com
-55053 # 2267921 ONTARIO LTD
 55066 # eStruxture Data Centers Inc.
 55072 # HOSTRAM LLC
 55081 # 24 SHELLS
@@ -4992,6 +4983,7 @@
 56598 # Netbarista SASU
 56599 # Dennis Doeve trading as I.C. Solutions
 56630 # Melbikomas UAB
+56631 # Onlanta Ltd.
 56643 # Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti
 56645 # Blycka AB
 56655 # Gigahost AS
@@ -5589,7 +5581,6 @@
 60922 # Variti+ LLC
 60937 # Savon ICT-palvelut Oy
 60945 # VeloxServ Communications Ltd
-60949 # 4x Solutions UK LTD
 60950 # CLOUD.nl B.V.
 60955 # Wavecon GmbH
 60969 # GetOnline Limited
@@ -5801,6 +5792,7 @@
 62704 # Dealer's Cloud, Corp
 62707 # Glexia, Inc.
 62710 # Rack911
+62715 # CrashPlan
 62729 # A Small Orange LLC
 62731 # 247RACK.com
 62734 # Cascade Divide Partners, LLC
@@ -6311,6 +6303,7 @@
 132869 # Mohammad Mahabub Alam t/a M.A Network Service
 132870 # Xtreme Networks Limited
 132873 # Zettagrid Pty Ltd
+132883 # TOPWAY GLOBAL LIMITED
 132892 # Cloudflare, Inc.
 132913 # VITRO INC.
 132919 # WebSlice Limited
@@ -7383,6 +7376,7 @@
 147124 # PT Hostingan Awan Indonesia
 147134 # PT IndoWebhost Kreasi
 147158 # PT Cloud Four Cee Services
+147176 # NZ Network Enterprise Co., Ltd.
 147186 # VCCL Cloud Private Limited
 147188 # Rocket Network Pte. Ltd.
 147192 # OUTOFBOX CLOUD PRIVATE LIMITED
@@ -7539,6 +7533,7 @@
 150156 # 99IT
 150172 # Serverfreak Technologies Sdn Bhd
 150173 # PoloCloud Computing (Hong Kong) Limited
+150180 # AFREN IT
 150249 # PT Atharva Telematika Persada
 150293 # Capitalonline Data Service (HK) Co., Limited
 150296 # 1NextNet
@@ -8474,6 +8469,7 @@
 198120 # Smart Host Teknoloji Ithalat Ihracat Limited Sirketi
 198149 # Sebastien Tondelier trading as PLANETEHEBERG
 198153 # ALTYONA TOPCO S.A.
+198154 # Pars Abr Toseeh Ertebatat LTD
 198155 # SyNull Limited
 198160 # NUXOA GmbH
 198167 # Apptc.me s.r.o.
@@ -8789,6 +8785,7 @@
 200195 # Verasel, Inc.
 200201 # Tomasz Kepczynski
 200202 # Fuze III SARL
+200203 # GLOBAL DATA BRIDGE INTERNATIONAL LIMITED
 200207 # FS IT-Systeme GmbH
 200210 # Happy Technologies LLC
 200211 # CLIQ STACK S.R.L
@@ -9490,7 +9487,7 @@
 204140 # Osmoz Ware SAS
 204150 # David Zakoucky
 204154 # FIRST SERVER, SOCIEDAD LIMITADA
-204164 # Consulta Hosting Services AB
+204164 # VIEW.Group IT & Communication Sweden AB
 204167 # Hyve Ltd
 204173 # Kompromiss LLC
 204177 # CVS MOBILE, informacijske resitve, d.o.o.
@@ -9843,7 +9840,6 @@
 206470 # Menzel IT GmbH
 206476 # Neten S.p.A.
 206477 # Christiaan de Die le Clercq trading as Wolfined
-206479 # AceRDP Ltd
 206484 # oriented.net GmbH
 206491 # BANATSYNC SRL
 206501 # LLC Russian clouds
@@ -11359,7 +11355,6 @@
 215228 # NETPOOL TECHNOLOGIES PRIVATE LIMITED
 215238 # IRFAN TUGRA ONEM
 215239 # Show Corporation
-215240 # Microdex UG (haftungsbeschraenkt)
 215246 # Nicolas Paparusso
 215257 # Andrei Listopad
 215261 # ByteFly Kft
@@ -11612,6 +11607,7 @@
 216347 # Bikupa Datacenter AB
 216361 # Next Internet Network Ltd
 216365 # LIMITED LIABILITY COMPANY CLOUD SOLUTIONS
+216368 # Petersburg Internet Network ltd.
 216371 # IPGLOBAL S.L.
 216376 # Pinkfroot Ltd
 216380 # Rayan Dadeh Negar Dena LLC
@@ -11635,6 +11631,8 @@
 216473 # Bashinskii Vadim Ruslanovich
 216474 # Moritz Mantel trading as Nerdscave
 216475 # NKtelecom INC
+218033 # 1ms cloud Networks Inc
+218039 # Serverhelden GmbH
 218071 # Thales Cloud Securise SAS
 218082 # JSC IOT
 218088 # SAFEMONEY SOFTWARE LTD
@@ -11673,6 +11671,7 @@
 218209 # Plato Master Technology Limited
 218210 # Matthias Plassmann
 218212 # Hosting Ltd.
+218216 # Passim IT
 218218 # Florian Voit
 218221 # Minjun Kang
 218230 # AI DATACENTER LIMITED
@@ -11896,7 +11895,7 @@
 219084 # Belce Taylan
 219087 # Hostup AB
 219089 # M-Cloud LLC
-219095 # Paul Sagov
+219095 # ASTRA NETWORKS LTD
 219096 # HOSDEX LLC
 219097 # Fanth sp. z o.o.
 219104 # Clouvider Europe B.V.
@@ -12038,6 +12037,7 @@
 262274 # ORLA TELECOM
 262287 # Latitude.sh LTDA
 262328 # CONSTEL TECNOLOGIA LTDA
+262363 # VITUAX BRASIL LTDA
 262389 # PORTO VELHO TELECOMUNICACOES LTDA
 262415 # OPEN PROCESSAMENTO DE DADOS LTDA
 262446 # Locaweb Serviços de Internet S/A

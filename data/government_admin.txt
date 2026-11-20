@@ -1232,6 +1232,7 @@
 4586 # Texas Natural Resources Information System
 4602 # Navy Network Information Center (NNIC)
 4607 # Air Force Systems Networking
+4611 # CNNIC member
 4754 # 1016, Electronics Niketan, 6, CGO Complex
 4758 # National Informatics Centre
 4820 # Department of Communities and Justice
@@ -2093,7 +2094,6 @@
 14583 # Virginia Information Technologies Agency (VITA)
 14596 # DC-Net
 14621 # National Park Service
-14628 # Sacramento Municipal Utility District
 14644 # City of High Point
 14645 # CJIS-Consortium-20th-Court Administration
 14648 # COUNTY OF BUTTE
@@ -2138,7 +2138,6 @@
 15675 # Direction generale du numerique et des systemes d'information (DGNSI) Etat de Vaud
 15679 # Ministry of Transport, Communication, and Information Technology
 15719 # CENTAR ZA VOZILA HRVATSKE D.D.
-15770 # Durham County Council
 15806 # Irish Government
 15822 # AGENCIJA ZA ENERGIJO
 15892 # Malta Information Technology Agency (MITA)
@@ -2581,6 +2580,7 @@
 26208 # County of Essex NJ
 26218 # EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV
 26229 # U.S. Securities & Exchange Commission
+26231 # San Francisco International Airport
 26257 # County Of Washington
 26263 # City of Las Vegas
 26297 # Howard County, Maryland
@@ -3708,7 +3708,6 @@
 51051 # Administration department of the Government of Saratov region
 51053 # Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BG Verkehr)
 51064 # Glowny Inspektorat Transportu Drogowego
-51066 # Austro Control Oesterreichische Gesellschaft fuer Zivilluftfahrt mit beschraenkter Haftung
 51085 # BUSINESS FRANCE EPIC
 51096 # Magyar Orszagos Kozjegyzoi Kamara
 51098 # Agentia Spatiala Romana
