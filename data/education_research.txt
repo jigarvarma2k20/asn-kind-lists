@@ -3819,6 +3819,7 @@
 60744 # A.V. Luikov Heat and Mass Transfer Institute of the National Academy of Sciences of Belarus
 60824 # Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.
 60918 # Kharkiv National Automobile and Highway University
+60925 # BPP Services Limited
 61129 # Islamic Azad University
 61137 # Khalifa University
 61201 # Hohere technische Bundeslehranstalt Klagenfurt
@@ -7406,3 +7407,5 @@
 403057 # Anderson School District Five
 403121 # University of Dayton Research Institute
 403163 # Carnegie Mellon University
+403259 # Fisk University
+403264 # University of California College of the Law, San Francisco

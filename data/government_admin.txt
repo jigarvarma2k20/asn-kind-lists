@@ -2358,6 +2358,7 @@
 21617 # National Archives and Records Administration
 21631 # Colorado Housing and Finance Authority
 21633 # U.S. Department of the Interior
+21668 # ElbertonNet
 21669 # New Jersey State Library
 21692 # SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO
 21694 # Fresno County Office of Education
@@ -2759,6 +2760,7 @@
 27629 # National Oceanic and Atmospheric Administration
 27673 # Instituto Nacional de Estadistica Geografia e Info
 27674 # SERVICIO METEOROLOGICO NACIONAL
+27678 # NIC Chile
 27780 # Aeropuertos y Servicios Auxiliares
 27782 # Electricidad de Caracas
 27807 # Fundación Centro Nacional de Innovación Tecnológica (CENIT)
@@ -3021,7 +3023,6 @@
 34663 # Belastingdienst
 34670 # Skatteforvaltningen
 34699 # Ministero degli affari esteri e della cooperazione internazionale
-34759 # BANCA D'ITALIA
 34851 # PENSION AND SOCIAL INSURANCE FUND OF THE RUSSIAN FEDERATION
 34873 # ACSS - Administracao Central do Sistema de Saude, I.P.
 34887 # Information Technology Center of the Republic of Tatarstan GUP

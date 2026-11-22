@@ -2985,7 +2985,6 @@
 11746 # Waggener Edstrom Worldwide, Inc.
 11747 # MK Systems USA Inc.
 11752 # Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
-11753 # Elevated MSP, LLC
 11754 # GLOBAL IT
 11755 # Andrews Distributing Company of North Texas, LLC
 11756 # Children's Hospital Los Angeles
@@ -4352,6 +4351,7 @@
 15362 # Risk Engineering Ltd.
 15363 # arvato infoscore GmbH
 15370 # Citadel LLC
+15372 # IBH connect GmbH
 15375 # Commerzbank Aktiengesellschaft
 15392 # Elvim SIA
 15398 # Werft22 AG
@@ -5500,6 +5500,7 @@
 18661 # Dunn Carney Allen Higgins & Tongue, LLP
 18662 # Aflac
 18666 # Nokia of America Corporation
+18667 # Web2mil S.A
 18669 # Bal Seal Engineering Co. Inc.
 18670 # Arrowstreet Capital, L.P.
 18673 # Casey Family Programs
@@ -6385,7 +6386,6 @@
 20465 # Bill.com, LLC.
 20466 # WGBH Educational Foundation
 20467 # Baylor Health Care System
-20472 # Synergy Networks
 20478 # General Mills, Inc.
 20486 # PayPro Spolka Akcyjna
 20487 # Allitude S.p.A.
@@ -6850,7 +6850,6 @@
 21969 # Firstsource Advantage LLC
 21970 # PCE Systems
 21971 # TRIMBLE MOBILE SOLUTIONS
-21973 # Xponet
 21974 # Frankenmuth Mutual Insurance Company
 21975 # LOOMIS SAYLES & CO., LP
 21978 # LANAIR Group, LLC
@@ -8707,6 +8706,7 @@
 26614 # ING Afore, S.A. de C.V.
 26618 # Banco Mercantil del Norte S.A., Institucion de Banca Multiple, Grupo Financiero Banorte
 26620 # BANCA AFIRME, S.A.
+26621 # FEROGLIO JULIA ELENA
 26629 # Jewish Federation of Metropolitan Chicago
 26630 # Black Knight IP Holding Company, LLC
 26631 # Gunnison Valley Hospital
@@ -8798,7 +8798,6 @@
 26796 # Mitsubishi Electric US, Inc.
 26799
 26800 # Totally Legit, Co
-26804 # CBTS Technology Solutions LLC
 26805 # Federal Home Loan Bank of San Francisco
 26807 # Oak Point Partners
 26811 # AC Pro
@@ -9198,7 +9197,6 @@
 27662 # Trafico Mundial SA
 27663 # BRINKS DE COLOMBIA S.A.
 27677 # AMDOCS CHILE SPA
-27678 # NIC Chile
 27679 # Copa Airlines
 27681 # Grupo Roche Syntex de Mexico S.A. de C.V.
 27687 # Banco General, S.A.
@@ -9931,6 +9929,7 @@
 30304 # LTD COMMODITIES LLC
 30305 # Black Knight IP Holding Company, LLC
 30308 # Mid-Atlantic Corporate Federal Credit Union
+30309 # Internet Exposure, Inc.
 30310 # Mutual of America Life Insurance Company
 30311 # Disney Worldwide Services, Inc.
 30312 # Netgate
@@ -11033,6 +11032,7 @@
 33065 # Nuveum Inc.
 33066 # Leviathan Security Group, Inc.
 33068 # LIQUIDNET HOLDINGS INC.
+33069 # BCI
 33071 # Internet Systems Consortium, Inc.
 33072 # Internet Systems Consortium, Inc.
 33073 # Internet Systems Consortium, Inc.
@@ -11409,6 +11409,7 @@
 33917 # Sozialdemokratische Partei Oesterreichs
 33918 # PRIMORSKE NOVICE, d.o.o. Koper,s.r.l. Capodistria
 33925 # Global Internet Solutions SRL
+33932 # everyWAN
 33933 # M2Soft GmbH
 33936 # Joint stock company "Severstal-infocom"
 33942 # IREN ENERGIA S.P.A
@@ -11612,6 +11613,7 @@
 34752 # Hachette Filipacchi Presse SA
 34755 # Turkiye Odalar ve Borsalar Birligi
 34756 # NEP Media Solutions B.V.
+34759 # BANCA D'ITALIA
 34765 # BCD Travel Poland Spolka z Ograniczona Odpowiedzialnoscia
 34774 # Honeywell Europe Services SAS
 34777 # JSC "AGROKOMPLEKS" IM.N.I. TKACHEVA
@@ -12046,7 +12048,6 @@
 36134 # Pool Corporation
 36135 # IAC Search & Media Inc
 36136 # ALARMNET
-36137 # PEG TECH INC
 36138 # The Bank of New York Mellon Corporation
 36141 # Playa Pointe, LLC
 36142 # Netrix LLC
@@ -12201,7 +12202,6 @@
 36456 # Velocity Credit Union
 36457 # District Photo, Inc.
 36458 # Bausch & Lomb
-36459 # GitHub, Inc.
 36460 # Watts Water Technologies, Inc.
 36461 # S&P Global Inc.
 36462 # TEGNA Inc.
@@ -13109,6 +13109,7 @@
 39669 # Computer Wired SRL
 39671 # Corient SA
 39672 # DSV A/S
+39678 # OOO ALL UP NET
 39680 # "TOV Karpatnaftokhim"
 39682 # Kuwait and Middle-East Financial Investment Co.
 39683 # Netpoint Services Ltd.
@@ -13567,6 +13568,7 @@
 40659 # BMW of North America, LLC (Group Data Centers America)
 40664 # PNC Bank, National Association
 40666 # SABIC INNOVATIVE PLASTICS US, LLC
+40667 # Optiquest Internet Services, Inc.
 40668 # Fenwal, Inc.
 40669 # ekit
 40670 # Volusion
@@ -14292,7 +14294,6 @@
 42879 # Hannover Rueck SE
 42880 # EntServ UK Limited
 42881 # Contrust Solutions S.R.L.
-42882 # SysUP IT GmbH & Co KG
 42888 # COWI A/S
 42890 # DR.MAX SRL
 42901 # Sirena Travel AO
@@ -14396,7 +14397,7 @@
 43251 # Forcepoint Overseas Limited
 43255 # Assured Guaranty UK Limited
 43259 # Leidos Innovations UK LTD
-43277 # Victory media d.o.o
+43265 # RN Telecom Ltd.
 43279 # Telespazio S.p.A.
 43281 # Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo, Beograd
 43283 # IBM Romania S.R.L.
@@ -14435,7 +14436,6 @@
 43407 # INFOnline GmbH
 43408 # Orange Cyberdefense UK Limited
 43410 # Credit Union ASIAPAY LLC
-43415 # Secure Infrastructure of Transactional Services Company PJSC
 43416 # Private Joint Stock Company "Sunset Trade"
 43417 # Borusan Holding A.S.
 43424 # SQUARK SARL
@@ -14632,6 +14632,7 @@
 44071 # Advanced Communications Solutions LLC
 44073 # Zdravstveni Dom Ljubljana
 44074 # Cooperatie Royal FloraHolland U.A.
+44081 # YUL PRO SRL
 44091 # SISTEMI SPA
 44093 # JSC ESTEIT INVEST
 44102 # Insurance Company of Gaz Industry Sogaz, Joint-Stock Company
@@ -16099,7 +16100,6 @@
 48135 # Leonardo S.p.A.
 48138 # Patek Philippe SA Geneve
 48139 # Boyens Medienholding GmbH & Co. KG
-48143 # "M-Tekhnologii" Ltd
 48145 # Securitas GmbH Administration
 48151 # Red Bull GmbH
 48156 # Sanoma Oyj
@@ -16264,7 +16264,6 @@
 48671 # FIRE CREDIT SRL
 48672 # OKCI BANK JSC
 48679 # Consultant Ltd.
-48680 # Netpower IT Solutions AS
 48685 # Opin Kerfi hf
 48688 # Thales UK Ltd
 48690 # General Logistics Systems Poland Sp. z o.o.
@@ -16394,7 +16393,7 @@
 49094 # Omer GOLGELI
 49099 # Tadbir Pardaz IT Group LTD
 49104 # Boursa Kuwait Stock Exchange
-49108 # Mir-Bet LLP
+49108 # RCIT LLC
 49111 # iNet Ltd
 49114 # APPLIC8 SA
 49118 # GYD IBERICA SA
@@ -16436,7 +16435,6 @@
 49240 # Alinma Bank JSC
 49241 # PJSC Sovkombank
 49246 # JSC TRADING HOUSE GUM
-49253 # Bringo Ltd
 49256 # INDUSTRIA MUNDUM S.R.L.
 49257 # American Express Company (Saudi Arabia) PJS
 49262 # Ataccama Software, s.r.o.
@@ -16489,7 +16487,6 @@
 49419 # Iver Sverige AB
 49420 # Aplitt Sp. z o.o.
 49421 # Linux Ltd.
-49426 # LInTeCS ltd (Laboratory of Information Technologies and Computer Systems)
 49430 # Pihlajalinna Terveys Oy
 49433 # Bank Refah Kargaran
 49438 # Chillishot Ltd
@@ -16781,6 +16778,7 @@
 50364 # Sipato ApS
 50365 # Ormat Systems Ltd
 50370 # Nicolas DEFFAYET
+50374 # Siberian Internet Company LLC
 50375 # SOVINFORMTECH LTD
 50377 # Dustin Finland Oy
 50402 # SC Autonet Import SRL
@@ -16843,6 +16841,7 @@
 50587 # LLC "M ADVICE"
 50592 # Javni Zavod Lekrana Ljubljana
 50598 # SFS Group Schweiz AG
+50605 # Radius Communications Ltd
 50609 # Mercuria Energy Trading SA
 50610 # AB "Lietuvos gelezinkeliai"
 50614 # SOFTWARE SI ECHIPAMENTE ELECTRONICE PENTRU DEZVOLTARE (SEED) SRL
@@ -16859,6 +16858,7 @@
 50659 # Honeywell Romania S.R.L.
 50660 # SSIF BRK FINANCIAL GROUP SA
 50664 # Re:Sources France SAS
+50671 # OOO SET
 50674 # JSC Stock Exchange "Saint Petersburg"
 50680 # Fortech SRL
 50681 # Dominik Schubert
@@ -17312,6 +17312,7 @@
 52096 # ROSATOM MINERALS JSC
 52097 # OTP Bank S.A.
 52098 # Agence d'Ingenierie Informatique Groupware et Reseaux SARL
+52103 # FOP Molodnyak Ruslan Petrovich
 52107 # Perviy TSOD LLC
 52109 # RHIAG S.R.L.
 52111 # WPP Media Services GmbH
@@ -17364,6 +17365,7 @@
 52249 # Global Cash N.V.
 52256 # Coop. de Ahorro y Crédito de Santander Ltda. Financ. Comultrasan
 52258 # Digiware S.A.
+52259 # SERVICIOS DE TECNOLOGIA APLICADA SRL
 52265 # NIC Chile
 52266 # OWNER PARA PRUEBAS DE LACNIC
 52267 # BanChile Seguros de Vida S.A.
@@ -17464,6 +17466,7 @@
 52825 # ALSARAIVA COM EMPREENDIMENTOS IMOB E PARTICIPACOES
 52826 # Protege Proteção e Transporte de Valores LTDA
 52837 # Leucotron Tecnologia da Informação Ltda.
+52839 # RSS SOCIEDADE CIVIL LTDA
 52848 # IAGENTE SISTEMAS PARA COMUNICAÇÃO
 52857 # FEDERACAO DAS INDUSTRIAS DO ESTADO DO RIO DE
 52858 # A & G Serviços em TI
@@ -19181,6 +19184,7 @@
 57056 # Join-stock company "Internet Exchange"MSK-IX"
 57057 # AVALON Computersystem Ges.m.b.H.
 57066 # Yleisradio Oy
+57067 # KEYANA Information Technology Co. Ltd.
 57068 # Dailymotion S.A.
 57069 # Dempsey and Clark s.r.o.
 57071 # AGRII ROMANIA SRL
@@ -19424,7 +19428,6 @@
 57834 # Petrol Ofisi A.S.
 57838 # AXSOS AG
 57843 # GK INTERLOGICA LLC
-57846 # Satortech S.R.L.
 57848 # Sky
 57850 # Northumbrian Water Ltd
 57851 # Kria Elinarbur
@@ -19498,7 +19501,6 @@
 58074 # Internet Resources Management SRL
 58077 # ESBANK Bank Spoldzielczy
 58078 # Mairon Galati SA
-58080 # Honar Rayaneh Pooya Andisheh PJSC
 58090 # JSC Dimitrovgrad Automobile Units Plant
 58092 # PAREXEL International GmbH
 58094 # Vnukovo International Airport, JSC
@@ -20338,7 +20340,6 @@
 60912 # VPLAB LTD
 60913 # JSC TD ERA
 60921 # LLC Farpost DV
-60925 # BPP Services Limited
 60927 # Marlin Cremers
 60933 # QUALCOMM (UK) LIMITED
 60941 # Fujitsu Technology Solutions BV
@@ -21444,6 +21445,7 @@
 64135 # Ni Co
 64136 # Ni Co
 64138 # KORTEN SOCIEDAD ANONIMA GANADERA AGRICOLA FINANCIERA
+64150 # PIT HONDURAS S. DE R.L. DE C.V.
 64153 # ADOTIC ASOCIACIÓN DOMINICANA DE EMPRESAS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN (STIX)
 64163 # ONIX NETWORK E.I.R.L.
 64166 # PATAGONIAIX SPA
@@ -22696,7 +22698,6 @@
 134426 # Mahataa Information India Private Limited
 134427 # Managed IT Pty Ltd
 134430 # Quikr India Pvt. Ltd
-134431 # News and Entertainment Network Corp
 134433 # REDSHIELD SECURITY LIMITED
 134435 # Hong Kong Reayi Network Co.,Limited
 134438 # Aira & Aiful Public Company Limited
@@ -22988,7 +22989,7 @@
 135399 # Blackmores Ltd
 135400 # Contact Energy Limited
 135404 # THE WATCH TOWER BIBLE AND TRACT SOCIETY OF INDIA
-135411
+135411 # Red Grapes Pte Ltd
 135412 # Singapore Network Information Centre
 135415 # RACQ Operations Pty Ltd
 135416 # Confidence Electric Ltd.
@@ -24145,6 +24146,7 @@
 139301 # Cloudcall Ltd
 139303 # IPDC FINANCE PLC
 139306 # Blamac Pty Ltd
+139307 # Mega Net
 139310 # Mackenzie Agricultural Technologies
 139313 # AYUDHYA CAPITAL SERVICES COMPANY LIMITED
 139314 # National Stock Exchange of Australia Limited
@@ -29147,6 +29149,7 @@
 146926 # LOTUS WIRELESS TECHNOLOGIES INDIA PRIVATE LIMITED
 146928
 146929 # PENTA SOLUTIONS
+146931 # Shrisai Shavenk Technotronics Private Limited
 146934 # SNIGA CONSULTANCY SERVICES
 146937 # KHUSHI IT SERVICES PRIVATE LIMITED
 146938 # Systools Software Private Limited
@@ -30002,6 +30005,7 @@
 151644 # GLOBALTOO TECHNOLOGY PTE. LTD.
 151646 # 1LINK (Private) Limited
 151649 # Mercy Aged and Community Care Ltd
+151658 # PT Raxa Abadi Bersama
 151661 # Goldman Sachs Services Private Limited
 151662 # Sangfor
 151665 # GREYWOLF NETWORKS PTE. LTD.
@@ -30942,6 +30946,8 @@
 155125 # PT Mustika Media Jaya
 155126 # CODZEN PTE. LTD.
 155127 # PT Meidia Fast Network
+155128 # HOSTROG
+155129 # PT Netlink Mega Persada
 196615
 196618 # Claudio Jeker
 196621 # Matthias Cramer
@@ -31221,6 +31227,7 @@
 197534 # ICAP CRIF A.E.
 197536 # Kovintrade d.d. Celje
 197538 # Egged Transportation Company Ltd.
+197542 # Jan Saulich
 197544 # Atos Poland Sp.z.o.o
 197546 # HC Nalozbe d.o.o.
 197548 # Heliaq Solutions SAS
@@ -31538,6 +31545,7 @@
 198352 # Espresso Gridpoint BV
 198359 # PJSCCB PRAVEX-BANK
 198364 # BANATSYNC SRL
+198368 # EPROVIDER AS
 198370 # Meridian Tech d.o.o.
 198377 # Zylabs Tech Limited
 198379 # AS Atea
@@ -32249,7 +32257,6 @@
 200057 # Bogdan ION
 200058 # AbbVie, Inc.
 200063 # Tanguy DELMER
-200067 # TOO Freedom Cloud
 200068 # Stepan Pechman
 200069 # MAILJET SAS
 200070 # CZ.NIC, z.s.p.o.
@@ -32469,6 +32476,7 @@
 200589 # Fortinet SARL
 200591 # Workorder Solutions Sverige AB
 200593 # PROSPERO OOO
+200594 # Soft Partner Szczypiorski Spolka Jawna
 200595 # Gestioniza Infraestructuras S.L.
 200596 # Adyen N.V.
 200598 # Lunarnaut, LLC
@@ -33883,6 +33891,7 @@
 204157 # RENTROP & STRATON SRL
 204159 # Autodoc Ltd.
 204162 # CTS GMBH
+204164 # VIEW.Group IT & Communication Sweden AB
 204166 # 7P SERVICIOS INTEGRADOS SLU
 204171 # TD-K A/S
 204172 # TTC TELEKOMUNIKACE s.r.o.
@@ -36034,7 +36043,6 @@
 209558 # PREMIUM KEA GRUP LLC
 209559 # Evann DREUMONT
 209560 # Capital Bank of Jordan (Limited public shareholding)
-209561 # D&V Global B.V.
 209563 # Marat Sp. z o.o.
 209564 # CONVOTIS Deutschland GmbH
 209567 # W UNIFIED
@@ -36471,7 +36479,6 @@
 210650 # Sarmayeh & Danesh Brokerage Co.
 210652 # Nexedi SA
 210653 # Bistum Mainz Bischoefliches Ordinariat
-210654 # Des Capital B.V.
 210655 # Brian LaCrette
 210659 # Rogers and Lynch LLC
 210663 # Nomapay LLP
@@ -37382,7 +37389,6 @@
 212844 # Matis Gagneux
 212846 # ADMINS UA LLC
 212848 # STC Bank CJSC
-212849 # J.C. TECNICS, S.L.
 212855 # Jelle Luteijn
 212862 # Invermae Solutions SL
 212869 # Joint stock Company commercial bank Lanta-Bank
@@ -37434,6 +37440,7 @@
 213000 # Alliance Medical Limited
 213003 # Janis Streib
 213004 # Elettropiccoli 73-51 SRL
+213006 # Invermae Solutions SL
 213008 # APOTEKARSKA USTANOVA LILLY DROGERIE BEOGRAD
 213011 # FHVi (federation des hopitaux vaudois informatique)
 213013 # SICURSATSYSTEM SRLS
@@ -37610,7 +37617,6 @@
 213464 # Salten Kraftsamband AS
 213466 # BPCE S.A.
 213471 # YAMAMOTO Hiroshi
-213474
 213475 # TRANSPORTS DE BARCELONA, S.A.
 213478 # IntellectMoney LLC
 213483 # ASTRIVE X LTD
@@ -38023,7 +38029,6 @@
 214619 # TBF + Partner AG
 214620 # La Sportiva S.p.A.
 214621 # CLOUDOE B.V.
-214623 # 2644819 Ontario Inc
 214628 # WestfalenWIND IT GmbH & Co KG
 214629 # Skypuzzler Aps
 214630 # KLab OU
@@ -38749,10 +38754,14 @@
 216466 # TSS Network GmbH
 216469 # Ismail Fayaz trading as OAKLABS
 216471 # Devout BV
+218016 # MONSSON S.R.L.
+218017 # Chandra Gupta
+218018 # Jaewook Lee
+218019 # STARVIO LLC
+218020 # KT Abrechnungsdienste e.K.
 218021 # ELITE-KLNET DOO
 218022 # InfiniteCloud LLC
 218023 # NETAURA DIGITAL LTD
-218025 # Sandro Kvekveskiri
 218026 # Aleksandrs Jelisejevs
 218027 # JULIS-NET-LTD
 218028 # Spase Gjorgiev
@@ -38766,7 +38775,6 @@
 218040 # MOVARAI LTD
 218041 # Aleksei Pautov
 218042 # JOYSOL TECHNOLOGY LIMITED
-218043 # TroiHost UG (haftungsbeschraenkt)
 218044 # Kimberly-Clark Europe Limited
 218045 # LLC Smart Ape
 218046 # IVPLUS LTD
@@ -38785,7 +38793,6 @@
 218059 # CISPAY TECH LTD
 218060 # Sam Burrows
 218061 # ORE SOLUTIONS LTD
-218062 # SPASKRUG LTD
 218063 # Raihan Fauzan Hakim
 218064 # DASABO SRL
 218065 # Jan Prunk
@@ -39223,7 +39230,6 @@
 218925 # INFOMAAS D. O. O.
 218933 # LIPINSKI TELEKOM GmbH
 218937 # Nasonov Mikhail Mikhailovich
-218938 # Vasili Rytvinski
 218939 # ahmad abuhatab
 218943 # PrimeEdge Technology Innovations Limited
 218947 # Priente Software Yazilim Anonim Sirketi
@@ -39232,7 +39238,6 @@
 218952 # Innovatsii v upravlenii kadrami LLC
 218958 # R.M.A Systems Ltd
 218959 # My Wings Technology LLC
-218960 # EXPRESS TECHNOLOGIES LTD
 218961 # /dev/null GmbH
 218962 # "INTELEROS" LLC
 218963 # Umut Kupeli trading as KuepeliEDV e.K.
@@ -39905,6 +39910,7 @@
 267625 # LD PRODUTOS DE INFORMATICA EIRELI - ME
 267658 # Dalvenisa Elisa de Sousa ME
 267664
+267677 # COMERCIALIZADORA E IMPORTADORA PRESTOM CHILE LTDA
 267683 # COMPENSADORA ELECTRONICA S.A.
 267723 # SOLAR BANCO S.A.E.
 267737 # BANCO DE OCCIDENTE S.A.
@@ -40457,6 +40463,8 @@
 275110
 275111
 275112
+275113
+275114
 275304 # Davi Martins Gomes
 275305 # Umbutech Informática e Serviços LTDA
 275306 # BEL CORPORATION LTDA
@@ -40478,6 +40486,7 @@
 275662 # HOW BE TECNOLOGIA E SOLUCOES LTDA
 275667 # L & K TECNOLOGIA LTDA
 275673 # L8 Group SA
+275675 # MEGA INFRA SOLUCOES EM INFRAESTRUTURA LTDA
 275682 # VONO TECNOLOGIA LTDA
 275689 # Internet Systems Consortium
 275690 # Internet Systems Consortium
@@ -40575,7 +40584,6 @@
 327898 # CBC EMEA LTD
 327919 # CANAL+ (Maurice) Ltd
 327923 # South African Bankers Services Company Limited
-327926 # Technolutions Pty Ltd
 327927 # LABOREX KENYA LTD
 327928 # Consolidated Bank Ghana Limited
 327933
@@ -41730,7 +41738,6 @@
 394427 # Zoic Studios
 394428 # Connecture, Inc.
 394431 # Jacobs Engineering Group Inc.
-394432 # PEG TECH INC
 394434 # Twilio Inc
 394436 # Icebrg
 394439 # BMC Software, Inc.
@@ -42242,7 +42249,6 @@
 395344 # Ivanti, Inc.
 395345 # SEOmoz, Inc.
 395348 # DataSpindle
-395350
 395351 # Advisor Group, Inc.
 395352 # Credit Acceptance Corporation
 395353 # Red River Computer Co., Inc.
@@ -42359,7 +42365,6 @@
 395542 # Clearent LLC
 395543 # General Dynamics Mission Systems - Canada
 395544 # Lanworks Inc.
-395547 # WABC-TV/EABC-TV
 395548 # Hughes Federal Credit Union
 395550 # PARTNERSHIP HEALTHPLAN OF CALIFORNIA
 395551 # CARHARTT Inc.
@@ -44189,7 +44194,6 @@
 398988 # Northwest Iowa Power Cooperative
 398989 # DeepIntent, Inc.
 398992 # Share and Make Aware LLC
-398993 # PEG TECH INC
 398994 # KHS USA, Inc.
 398996 # California Casualty Management Company
 398997 # Aperia
@@ -44303,7 +44307,6 @@
 399186 # Satinos LLC
 399191 # Hims, Inc.
 399192 # Beauregard Electric Cooperative, Inc
-399195 # PEG TECH INC
 399196 # REDRAY STUDIOS LLC
 399198 # Oklahoma City Convention Center
 399199 # Christie Innomed Inc.
@@ -44887,7 +44890,6 @@
 400466 # County Commissioners Association of Pennsylvania
 400467 # Iron Bow Technologies, LLC
 400468 # Axiogic LLC
-400471 # WHEATLAND ELECTRIC COOPERATIVE, INC
 400472 # Companion Corporation
 400476 # Tailscale Inc.
 400478 # Stephen M Boyd Development Limited Liability Company
@@ -46133,3 +46135,9 @@
 403256 # Vireo Strategy LLC
 403257 # Veltrix Labs LLC
 403258 # Stark II, LLC
+403260 # U.S. Eagle Federal Credit Union
+403261 # 324 Networks, Inc.
+403262 # CN Ventures, Inc.
+403263 # Minaduki Technologies LLC
+403265 # Ocelus Ltd.
+403266 # Honeywell Aerospace
