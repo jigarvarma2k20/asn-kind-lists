@@ -4167,6 +4167,7 @@
 62463 # Sundsvalls kommun
 62474 # Eugene Water and Electric Board
 62476 # Development Authority of the North Country
+62488 # Columbia County, Georgia
 62493 # City of Bryan, Texas
 62507 # City of Hampton, Virginia
 62515 # Alameda County Water District
@@ -5330,7 +5331,6 @@
 154535 # Powerhouse Museum
 154551 # DIRECTORATE OF ICT AND EGOVERNANCE
 154570 # Albury City Council
-154675 # Hospital Authority
 154702 # Rumah Sakit Umum DR Sardjito Yogyakarta
 154741 # Sutherland Shire Council
 154795 # Badan Gizi Nasional
@@ -5466,6 +5466,7 @@
 199663 # Valsts Kase
 199703 # Landkreis Kassel
 199711 # National Cyber and Information Security Agency
+199731 # The Educational Center for Internet and New Technologies of the Nakhchivan Autonomous Republic
 199768 # Karlstads Kommun
 199810 # Miasto Bielsko-Biala
 199815 # Biuro Urzadzania Lasu i Geodezji Lesnej Przedsiebiorstwo Panstwowe
@@ -5634,6 +5635,7 @@
 203426 # Statens Skolverk
 203469 # Puntozero S.c.a.r.l.
 203474 # Gemeente De Fryske Marren
+203481 # AstanaMegatel Ltd.
 203482 # Policia Judiciaria
 203484 # ROAD INFRASTRUCTURE AGENCY
 203506 # MINISTRY OF DEFENCE OF MONTENEGRO (MINISTARSTVO ODBRANE CRNE GORE)
@@ -5685,6 +5687,7 @@
 204838 # Serviciul National Unic Pentru Apelurile de Urgenta 112
 204842 # Ministry of Justice Bulgaria
 204847 # Borgholms Kommun
+204850 # Sodertalje Kommun
 204870 # Miasto Bydgoszcz
 204897 # COMMUNAUTE URBAINE GRAND BESANCON METROPOLE
 204925 # Center for Information and Communication Technologies of the Republic of Bashkortostan, State Unitary Enterprise
@@ -6747,7 +6750,6 @@
 394916 # Philadelphia International Airport
 394942 # City of Fontana
 394958 # County of Wellington
-394985 # City of Hudson, Ohio
 394993 # Santa Clara Valley Transportation Authority
 395001 # State of Maine
 395005 # City of Easton
@@ -7017,7 +7019,6 @@
 398821 # Government of Montserrat
 398846 # Local Government Information Systems Association
 398875 # The City of New York
-398876 # Round Valley Indian Tribes
 398893 # City of Tucson
 398897 # Henderson County, NC
 398901 # Government of Saint Vincent and the Grenadines - Information Technology Services Division
