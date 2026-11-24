@@ -666,7 +666,6 @@
 2478 # Renater
 2479 # Renater
 2480 # Renater
-2481 # AFNIC (Association Francaise pour le Nommage Internet en Cooperation)
 2487 # Institute for Theoretical & Experimental Physicis B.Cheremushkinskaja 25 Moscow, 117259 RU
 2488 # International Institute for Applied Systems Analysis
 2494 # MUWNET Autonomous System
@@ -960,7 +959,6 @@
 5379 # Univerzitet "Sv. Kiril i Metodij"
 5386 # Federal State Budgetary Institution of Science "Space Research Institute of the Russian Academy of Sciences".
 5397 # CINECA CONSORZIO INTERUNIVERSITARIO
-5406 # BELNET
 5408 # National Infrastructures for Research and Technology S.A.
 5421 # Sofia University "St. Kliment Ohridski"
 5468 # Yeltsin UrFU, Ural Federal University
@@ -1613,6 +1611,7 @@
 14468 # Rider University
 14478 # Recurse Center
 14486 # Occidental College
+14490 # Nexavo Ltd.
 14512 # Bentley University
 14513 # Des Moines Area Community College
 14529 # Saint Joseph's University
@@ -2044,6 +2043,7 @@
 21182 # Opole University
 21274 # State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)
 21320 # GEANT Vereniging
+21324 # OSRODEK STUDIoW WSCHODNICH IM. MARKA KARPIA W WARSZAWIE
 21506 # Fundação Universidade de Brasília
 21517 # Kennesaw State University
 21520 # Instituto Tecnologico Autonomo de Mexico(ITAM)
@@ -2062,6 +2062,7 @@
 21810 # Tempe School District #3
 21815 # Weatherford College
 21846 # Region One Education Service Center
+21868 # A10H LLC
 21895 # New York Law School
 21924 # Kern High School District
 21939 # Phillips Community College of the University of Arkansas
@@ -2106,6 +2107,7 @@
 22594 # University of Northern Iowa
 22607 # Des Moines University
 22615 # Monroe County Community School Corporation
+22643 # WestEd
 22644 # Thomas Jefferson University Hospitals, Inc.
 22645 # LEARN
 22666 # Glenbrook High School District
@@ -2298,6 +2300,7 @@
 24514 # MINISTRY OF HIGHER EDUCATION MALAYSIA
 24526 # Bina Nusantara University
 24575 # FIT Center, Tsinghua University
+24597 # Instytut Lacznosci - Panstwowy Instytut Badawczy
 24614 # Sakarya University
 24620 # Rigas Tehniska Universitate
 24683 # Federal State Budgetary Educational Institution Of Higher Education "Orenburg State University Named After V. A. Bondarenko"
@@ -2678,7 +2681,6 @@
 31848 # Deer Valley Unified School District #97
 31861 # West Texas A&M University
 31871 # Graceland University
-31878 # J. Craig Venter Institute, Inc.
 31886 # University of Guelph
 31921 # Malone University
 31930 # Ecole de technologie superieure
@@ -2817,6 +2819,7 @@
 33600 # Tennessee Technological University
 33602 # Tele-Universite
 33608 # Hood College
+33622 # NEXET, LLC
 33629 # Northern Kentucky University
 33632 # Morehead State University
 33636 # Wofford College
@@ -2834,7 +2837,6 @@
 34079 # Jisc Services Limited
 34278 # V. LASHKARYOV INSTITUTE OF SEMICONDUCTOR PHYSICS of The National Academy of Sciences of Ukraine
 34288 # Kantonsschule Zug
-34478 # TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma Enstitusu
 34511 # Fundacion Integra
 34520 # Deutsche Forschungsgemeinschaft e.V.
 34604 # Institute of Soil Science and Plant Cultivation - State Research Institute
@@ -3061,7 +3063,6 @@
 38906 # Otago Polytechnic.
 39031 # Khalifa University
 39131 # State Educational Institution of higher professional Education "Dagestan State University"
-39186 # SPb Scientific Center RAS
 39192 # JackNet
 39200 # Institute for Research in Fundamental Sciences
 39214 # Kyrgys Russian Slavic University named after First President of Russia B.N. Yeltsin
@@ -3195,7 +3196,6 @@
 44593 # Fundacion Centro de Supercomputacion de Castilla y Leon
 44639 # Isik University
 44805 # New Bulgarian University
-44817 # M Alhuda
 44850 # EPA Institut de Recherche pour le Developpement
 44868 # Ural Federal University
 44959 # Uniwersytet Kardynala Stefana Wyszynskiego
@@ -3412,6 +3412,7 @@
 49918 # Institutul pentru Tehnologii Avansate
 49929 # Federal State Autonomous Educational Institution of Higher Education "National Research Technological University "MISIS"
 49976 # Area di Ricerca Scientifica e Tecnologica di Trieste - Area Science Park
+50112 # Fondazione Ugo Bordoni
 50195 # Univerza v Mariboru
 50237 # The College of Management, Academic Studies, Founded by the Union Officials in Tel Aviv, Corporation for Public-Benefit Ltd.
 50276 # Federal State Budgetary Educational Institution of Higher Education "Russian University of Chemical Technology named after D.I. Mendeleev"
@@ -3527,6 +3528,7 @@
 53648 # The School Board of Alachua County, Florida
 53695 # Southern Illinois University at Edwardsville
 53701 # Trinity Washington University
+53727 # Penguin Networks
 53748 # University Medical Center of Southern Nevada
 53750 # Neumann University
 53772 # Tempe Union High School District #213
@@ -3726,7 +3728,6 @@
 57163 # Zayed University
 57171 # American University of Sharjah
 57292 # ICT Research Institute (Iran Telecommunications Research Center "ITRC")
-57330 # Sichuan Giraffe Technology Co., Ltd.
 57373 # Groupe ESIEA Association declaree
 57401 # TSAI, PANG-WEI
 57438 # Federal State Budgetary Educational Institution of Higher Education "Krasnoyarsk State Medical University named after Professor V.F. Voino-Yasenetsky" of the Ministry of Health of the Russian Federation
@@ -4261,6 +4262,7 @@
 137005 # Universiti Malaysia Kelantan
 137009 # Loreto Normanhurst Limited
 137073 # THE TRUSTEES OF THE SYDNEY GRAMMAR SCHOOL
+137077 # St Vincent's College Limited
 137188 # Australian Catholic University Limited
 137198 # Phranakorn Rajabhat University
 137201 # Nepal College of Information Technology
@@ -4372,6 +4374,7 @@
 138920 # Royal University of Bhutan
 138923 # Sonargaon University (SU) Trust
 138945 # BALLARAT AND QUEEN'S ANGLICAN GRAMMAR SCHOOL
+138946 # Kunagisa Laboratory Teishin (Telecommunication) department
 138956 # Miriam College
 139024 # Iqra University
 139137 # Chinese Academy of Telecommunication Research
@@ -5960,7 +5963,6 @@
 151305 # Songshan Laboratory
 151306 # Songshan Laboratory
 151350 # NIPPON COMMUNICATIONS INC.
-151418 # Zhang Junkai
 151463 # Mount Lilydale Mercy College
 151518 # SMK Negeri 22 Jakarta
 151532 # Institut Agama Islam Negeri Bone
@@ -6071,7 +6073,6 @@
 197552 # Wyzsza Szkola Przedsiebiorczosci i Administracji w Lublinie
 197553 # Federal State Budgetary Institution "State Research Institute of Aviation Systems"
 197652 # Universitaet Bremen
-197658 # Konstantin Beug
 197768 # FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION "NOVOSIBIRSK STATE ARCHITECTURAL AND CONSTRUCTION UNIVERSITY (SIBSTRIN)"
 197841 # Michael Newcomb, Sole Proprietorship
 197847 # Classic Private University
@@ -6082,13 +6083,11 @@
 198077 # Need, L.L.C.-FZ
 198079 # Giorgio Maria Brullo
 198135 # YONG LI
-198209 # MIKHAIL YUDIN
 198219 # Charlie Camilleri
 198222 # West Herts College
 198280 # Varna Free University Chernorizets Hrabar
 198336 # Cyprus University of Technology
 198345 # Viesoji istaiga "Vilniaus universiteto bustas"
-198358 # Katherine Levi
 198384 # Omsk State Technical University
 198391 # Danmarks Tekniske Universitet
 198499 # Qatar University
@@ -6120,10 +6119,8 @@
 199674 # Philip Brown
 199676 # John Leo Navarro
 199677 # CRIANN Association declaree
-199691 # Zhile Gong
 199729 # Ministry of Education
 199776 # Noah Steiniger trading as Noahprojects
-199890 # Nguyen Quang Minh
 199895 # Arab American University
 199906 # Non-State Educational Institution "Moscow Center for Continuous Mathematical Education"
 199936 # Uniwersytet Przyrodniczy w Lublinie
@@ -6182,6 +6179,7 @@
 203276 # James Cook
 203405 # Lin Kai-Lun
 203415 # Jorgen Sovik
+203422 # Biblioteka Narodowa
 203457 # Fundacio Institut de Ciencies Fotoniques (ICFO)
 203479 # Al-Aqsa University
 203509 # ANO VO Universitet Innopolis
@@ -6195,7 +6193,6 @@
 203757 # Gregor Czubayko
 203769 # Cooperatie KIEN u.a.
 203798 # Mashhad University of Medical Sciences
-203801 # Jason Miller
 203870 # Limited Liability Company "AASM"
 203931 # Applied Science University (ASU)
 203958 # Katolicki Uniwersytet Lubelski Jana Pawla II
@@ -6215,7 +6212,6 @@
 204680 # Karlsruhe Institute of Technology
 204813 # Shahrekord University
 204879 # Academy of Education and Business Development Ltd.
-204882 # DENIS NOLAN
 204884 # Fundacion Universidad de Valladolid
 204904 # University Of Art
 204930 # Panstwowa Akademia Nauk Stosowanych w Nysie
@@ -6234,7 +6230,6 @@
 206006 # Panstwowa Wyzsza Szkola Techniczno - Ekonomiczna im. ks. Bronislawa Markiewicza w Jaroslawiu
 206042 # Suhail Haris
 206095 # CERN - European Organization for Nuclear Research
-206098 # Minh Duc Vo
 206130 # Stichting Carmel College
 206203 # Ashley Statuto
 206239 # Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center
@@ -6327,7 +6322,6 @@
 211008 # Arturs Lihners
 211013 # Reseau scientifique valaisan (VSnet)
 211072 # MFI INVESTMENTS LIMITED
-211155 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 211218 # KYIV NATIONAL UNIVERSITY OF CONSTRUCTION AND ARCHITECTURE
 211249 # Yildiz Teknik Universitesi
 211258 # Federal state autonomous institution of higher education "Moscow State Institute of International Relations (University)"
@@ -6337,7 +6331,6 @@
 211470 # Kolegji Nderkombetar per Biznes dhe Teknologji - UBT SH.P.K
 211491 # Shahid Chamran University of Ahvaz
 211532 # Moscow Technical University of Telecommunications and Informatics
-211626 # Andrea Adapa
 211638 # David Freyne
 211670 # Fasa University
 211685 # Kim-Eirik Karlsen
@@ -6378,10 +6371,8 @@
 212856 # Valentin D'Emmanuele
 212864 # Lukas Michaels
 212899 # Federal State Budgetary Educational Institution of Higher Education "Mirea - Russian Technological University"
-212925 # Miguel Landaeta
 212971 # ALAIN BITSCHINE
 213007 # Puget Sound Networks, LLC
-213045 # Alex Delporte
 213068 # Karlsruhe Institute of Technology
 213088 # Centrum Medyczne Ksztalcenia Podyplomowego
 213133 # Corporate Networking Academy ANO
@@ -6448,9 +6439,6 @@
 216414 # UPMC GLOBAL OPERATIONS CENTER LIMITED
 216467 # Universitaet Bern
 218024 # EEA AS
-218034 # Greggory Lansdale
-218038 # Alexey Lapkis
-218078 # Hyeokjun Yang
 218176 # Technische Universitaet Wien
 218177 # Technische Universitaet Wien
 218178 # Technische Universitaet Wien
@@ -6460,6 +6448,7 @@
 218182 # Technische Universitaet Wien
 218183 # Technische Universitaet Wien
 218264 # Universitaet Kassel
+218294 # Meridian Backbone
 218338 # Dominic Grimm
 218349 # Benjamin Turquet de Beauregard
 218353 # Politechnika Lubelska
@@ -6474,16 +6463,16 @@
 218744 # Aydan Abrahams
 218750 # Egor Belanov
 218804 # Mahmood Althawadi
+218820 # WEI JEN CHANG
+218871 # Kazuto Nishio
 218928 # Carl Fischer
 218985 # YU WANG
 218996 # University of Prishtina
 219011 # Giosue' Casagrande
-219034 # Quang Lam Le
+219013 # Santiago Fernandez Fernandez
 219078 # CHENG JIZHONG
 219166 # Markus Heptner
 219210 # ZiMo Wang
-219213 # Thomas Ferguson
-219237 # Ali Mohammadpourfard
 219265 # Tjerk Jan Vonk
 219360 # Brain-Shot Academy AG
 219421 # Jonatan Miarecki
@@ -6564,7 +6553,6 @@
 264029 # Universidade para o Desenv. do Alto Vale do Itajai
 264087 # FUNDACAO PAULISTA DE TECNOLOGIA E EDUCACAO
 264185 # FUNDACAO REGIONAL INTEGRADA - CAMPUS DE ERECHIM
-264304 # Serviço Nacional de Aprendizagem Industrial-SENAI
 264427 # FUNDAÇÃO INSTITUTO NACIONAL DE TELECOMUNICAÇÕES
 264454 # Sociedade Educacional Leonardo da Vinci S/S Ltda
 264466 # ASSOCIACAO CULTURAL E EDUCACIONAL DO ESTADO DO PAR
@@ -6612,6 +6600,8 @@
 266511 # INSTITUTO FEDERAL DE EDUC, CIENCIA E TEC DO PIAUI
 266512 # FUNDACAO UNIVERSIDADE ESTADUAL DO PIAUI - FUESPI
 266659 # UNIVERSIDAD NACIONAL DE RÍO NEGRO
+266717 # Academia Nacional de Ciencias
+266718 # Academia Nacional de Ciencias
 266736 # Universidad Tecnologica de Pereira
 266737 # UNIVERSIDAD DEL CAUCA
 266848 # UNIVERSIDAD MILITAR NUEVA GRANADA
@@ -6802,6 +6792,7 @@
 329791 # REDE NACIONAL DE ENSINO E PESQUISA DA GUINE-BISSAU
 329809 # Réseau National d'Education et de Recherche du Niger (Niger REN)
 329814 # Université Djibo Hamani de Tahoua
+329817 # Internet Society South Sudan Chapter
 329823 # UNIVERSITE D'AGADEZ
 329840 # Zimbabwe Centre for High Performance Computing
 393216 # UCNJ Union College of Union County, NJ
@@ -6819,6 +6810,7 @@
 393332 # McAllen Independent School District
 393334 # Camden City School District
 393337 # The University of Hartford
+393373 # MoranTeleco LLC
 393383 # Spring Independent School District
 393392 # Pacific Northwest University of Health Sciences
 393393 # Amarillo ISD
@@ -6987,7 +6979,6 @@
 395464 # Berea College
 395468 # University of Nevada, Las Vegas
 395501 # The Reed Institute
-395511 # NY CREATES
 395534 # Syracuse City School District
 395537 # The Exploratorium
 395549 # Albert Einstein College Of Medicine Inc.
@@ -7119,6 +7110,7 @@
 397643 # Widefield School District 3
 397644 # University of Mary Washington
 397646 # Mars Hill University
+397649 # Philadelphia Internet Exchange
 397657 # Burbank Unified School District
 397667 # Hamilton-Wentworth District School Board
 397675 # Armstrong School District
@@ -7295,7 +7287,6 @@
 400644 # BGPKIT LLC
 400653 # University of Pennsylvania
 400718 # Fort Wayne Community Schools
-400719 # RJN Services
 400776 # Sarasota County Schools
 400815 # Centre de services scolaire des Bois-Francs
 400838 # Greensboro College
@@ -7313,6 +7304,7 @@
 401062 # Hagerstown Community College
 401092 # El Segundo Unified School District
 401097 # Dickinson College
+401112 # Nexavo Ltd.
 401124 # State University of New York College of Technology at Delhi
 401164 # Elizabeth Board of Education
 401193 # SALINA UNIFIED SCHOOL DISTRICT
@@ -7326,6 +7318,7 @@
 401285 # MICHIGAN VIRTUAL
 401290 # Louisiana State University at Alexandria
 401307 # Michigan Statewide Educational Network
+401315 # Integrity Logic Corporation
 401342 # Stanford University
 401411 # Haywood Community College
 401445 # USA HealthCare Management, LLC
