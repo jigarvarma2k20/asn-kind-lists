@@ -3679,7 +3679,7 @@
 55695 # Universitas Islam Negeri Sunan Kalijaga Yogyakarta
 55697 # Universitas Sumatera Utara
 55700 # Universitas Negeri Yogyakarta
-55702 # EASTERN INSTITUTE OF TECHNOLOGY LIMITED
+55702 # EASTERN INSTITUTE OF TECHNOLOGY
 55746 # Western Institute of Technology at Taranaki,
 55747 # Southern Institute of Technology,
 55760 # Mahanakorn University Of Technology
@@ -4167,7 +4167,7 @@
 135322 # Ivy Institute Pty Ltd
 135350 # Immanuel College
 135396 # TAFE Queensland
-135431 # EASTERN INSTITUTE OF TECHNOLOGY LIMITED
+135431 # EASTERN INSTITUTE OF TECHNOLOGY
 135481 # Universitas Negeri Makassar
 135487 # UNTAR - YAYASAN TARUMANAGARA
 135496 # UNIVERSITI KEBANGSAAN MALAYSIA
@@ -4392,7 +4392,7 @@
 139247 # pppwaw
 139251 # Jahangirnagar University
 139263 # Universite de la Polynesie Francaise
-139272 # EASTERN INSTITUTE OF TECHNOLOGY LIMITED
+139272 # EASTERN INSTITUTE OF TECHNOLOGY
 139317 # Ningbo Dahuamao Information Technology Co Ltd
 139372 # Institut Agama Islam Negeri Pekalongan
 139377 # Universitas Sultan Ageng Tirtayasa

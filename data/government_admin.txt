@@ -2315,7 +2315,6 @@
 20097 # City of Tulsa
 20116 # CAIXA ECONOMICA FEDERAL
 20137 # USAGM
-20144 # ICANN
 20244 # Division de Impuestos y Aduanas de Colombia
 20301 # National Aeronautics and Space Administration
 20302 # City of Palm Coast
@@ -2843,7 +2842,6 @@
 29626 # Staffordshire County Council
 29627 # Saechsische Aufbaubank - Foerderbank
 29673 # Imprensa Nacional-Casa da Moeda, S.A.
-29682 # Landeskreditbank Baden-Wuerttemberg - Foerderbank
 29734 # Tuttle Development Authority
 29751 # SAINT CLAIR COUNTY
 29860 # Florida House of Representatives
@@ -4037,7 +4035,6 @@
 58476 # DIREKTORAT JENDERAL PAJAK
 58488 # PUSDATIN KKP
 58536 # CONAC (China Organizational Name Administration Center)
-58545 # DUBBO REGIONAL COUNCIL
 58590 # Assam Electronics Development Corp Ltd
 58677 # DOFAIMPNET
 58681 # New South Wales Police
@@ -5503,6 +5500,7 @@
 200559 # Botkyrka Kommun
 200568 # LEPL Digital Governance Agency
 200570 # Kommunale Informationsdienste Magdeburg GmbH
+200594 # Soft Partner Szczypiorski Spolka Jawna
 200630 # Valtion tieto - Ja viestintatekniikkakeskus Valtori
 200648 # Centrum Personalizacji Dokumentow Ministerstwa Spraw Wewnetrznych i Administracji
 200657 # Landkreis Darmstadt-Dieburg
@@ -6067,6 +6065,7 @@
 215040 # National Bank of the Republic of Kazakhstan
 215048 # International Atomic Energy Agency
 215053 # Diwan of H.H. the Crown Prince
+215063 # Kungalv Energi AB
 215064 # Xecuro GmbH
 215138 # Kristianstads Kommun
 215215 # Bergen kommune
