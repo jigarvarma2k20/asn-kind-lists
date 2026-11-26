@@ -1868,6 +1868,7 @@
 8174 # Maui High Performance Computing Center
 8240 # Information System Authority
 8291 # The Federal Guard Service of the Russian Federation
+8308 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 8414 # International Telecommunication Union
 8519 # European Space Agency (ESA)
 8639 # Bilgi Teknolojileri ve Haberlesme Kurumu
@@ -2248,6 +2249,7 @@
 18532 # Secretaria de Hacienda y Credito Publico
 18545 # Office of Surface Mining Reclamation and Enforcement
 18558 # Riverside County Office of Education
+18576 # EDUC.AR SOCIEDAD DEL ESTADO
 18586 # Department of Energy, National Nuclear Security Administration
 18614 # Yakima County
 18620 # B.C. Transit

@@ -6475,7 +6475,6 @@
 219210 # ZiMo Wang
 219265 # Tjerk Jan Vonk
 219360 # Brain-Shot Academy AG
-219421 # Jonatan Miarecki
 219458 # Volodymyr Puzanov
 219489 # Zhengda Li
 219505 # Michael Gernoth
