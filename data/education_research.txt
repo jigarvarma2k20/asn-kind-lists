@@ -1737,7 +1737,6 @@
 16826 # Johnson County Community College
 16855 # Dougherty County School System
 16862 # Odessa College
-16888 # Alaska Distance Education Consortium
 16889 # Stevens Institute of Technology
 16891 # Sociedade Mineira de Cultura
 16903 # Texas Southern University
@@ -2829,6 +2828,7 @@
 33692 # Macalester College
 33703 # Hofstra University
 33726 # GENEVA COLLEGE
+33733 # CASTRO TELECOM LLC
 33782 # Bibliotheca Alexandrina
 33819 # Federal State Budgetary Educational Institution of Higher Education "Vladivostok State University"
 33847 # Khalifa University
@@ -4113,6 +4113,7 @@
 133827 # UNIVERSITAS ISLAM INDONESIA
 133832 # Universitas Mercu Buana Yogyakarta
 133844 # Universitas Islam Negeri Suska Riau
+133868 # Our School Ltd
 133919 # University campus network, Rajamangala University of Technology Phra Nakhon
 133928 # Manukau Institute of Technology and Unitec
 133990 # Sarla Holdings Pvt.Ltd
@@ -7209,7 +7210,7 @@
 399099 # petersburg city public schools
 399102 # Washington State School for the Blind
 399144 # Sequoia Union High School District
-399190 # Frontier Science and Technology Research Foundation, Inc.
+399190 # Frontier Science & Technology Research Foundation, Inc.
 399193 # Navajotech
 399232 # Seton Home Study School
 399256 # Fontana Unified School District
