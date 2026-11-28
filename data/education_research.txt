@@ -1137,6 +1137,7 @@
 8267 # Academic Computer Centre CYFRONET AGH
 8278 # Technical University of Crete
 8286 # Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Akademickie Centrum Informatyki
+8308 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 8323 # Academic Computer Centre CYFRONET AGH
 8324 # South Ural State University
 8326 # Politechnika Bydgoska im. Jana i Jedrzeja Sniadeckich
@@ -2828,7 +2829,6 @@
 33692 # Macalester College
 33703 # Hofstra University
 33726 # GENEVA COLLEGE
-33733 # CASTRO TELECOM LLC
 33782 # Bibliotheca Alexandrina
 33819 # Federal State Budgetary Educational Institution of Higher Education "Vladivostok State University"
 33847 # Khalifa University
@@ -6439,6 +6439,7 @@
 216398 # Hasso Plattner Institut fuer Digital Engineering gGmbH
 216414 # UPMC GLOBAL OPERATIONS CENTER LIMITED
 216467 # Universitaet Bern
+217956 # Federal State Budgetary Institution of Culture "Polytechnic Museum"
 218024 # EEA AS
 218176 # Technische Universitaet Wien
 218177 # Technische Universitaet Wien

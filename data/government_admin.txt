@@ -1868,7 +1868,6 @@
 8174 # Maui High Performance Computing Center
 8240 # Information System Authority
 8291 # The Federal Guard Service of the Russian Federation
-8308 # NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY
 8414 # International Telecommunication Union
 8519 # European Space Agency (ESA)
 8639 # Bilgi Teknolojileri ve Haberlesme Kurumu
@@ -3157,7 +3156,7 @@
 37654 # Rwanda Ministry of Education
 37657 # Lagos State Government
 37679 # Uganda Revenue Authority
-37729 # National Communication Authority (NCA)
+37729 # National Communication Authority South Sudan
 37773 # Agence De l'Informatique de l'Etat
 37776 # Autorité Malienne de Regulation des Télécommincations/TIC et Postes (AMRTP)
 37782 # ARPCE
@@ -6553,6 +6552,7 @@
 328245 # Autorite de Regulation des Communications Electroniques et des Postes
 328277 # Autorité Malienne de Regulation des Télécommincations/TIC et Postes (AMRTP)
 328280 # L'Agence Nationale de Réglementation des Télécommunications (ANRT)
+328284 # Société Malienne de Transmission et de Diffusion
 328329 # ARPCE
 328330 # Agence Nationale de Sécurité des Systèmes d'Information (ANSSI)
 328352 # United Nations Economic Commission for Africa
@@ -6599,7 +6599,7 @@
 328996 # Botswana Postal Services Limited
 329072 # MNDPT
 329133 # East London Industrial Development Zone SOC LTD
-329162 # National Communication Authority (NCA)
+329162
 329189 # Rwanda Development Board(RDB)
 329190 # The Kenya Trade Network Agency
 329220 # Department of E-Government
